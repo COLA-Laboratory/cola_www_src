@@ -2,12 +2,17 @@
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
 
+
+{{< hint danger >}}
+**Now PhD studentships for 2021 entry are available for application!!!**
+{{< /hint >}}
+
 {{< tabs "uniqueid" >}}
 {{< tab "PhD" >}}
 
 There are multiple opportunities available at the University of Exeter to fund your PhD study.
-- <ins>China Scholarship Council</ins> (_Chinese Students_): The University of Exeter is proud to offer up to 15 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC). The application deadline is usually around the beginning of January. More detailed information can be found from [here](https://www.exeter.ac.uk/pg-research/money/phdfunding/chinascholarship/).
-- <ins>Doctor Training Partnerships</ins> (_UK/EU Students_): As a research intensive university in the UK, Exeter has strong commitments to work in partnerships with several research councils to fund talented students for a PhD. More detailed information can be found from [here](http://www.exeter.ac.uk/pg-research/money/phdfunding/fundedcentres/).
+- <ins>China Scholarship Council</ins> (_Chinese Students_): The University of Exeter is proud to offer up to 15 full-time PhD scholarships in collaboration with the China Scholarship Council (CSC). The application deadline is usually around the beginning of January. More detailed information can be found from [here](https://www.exeter.ac.uk/pg-research/csc-scholarships/).
+- <ins>Doctor Training Partnerships</ins> (_UK/EU Students_): As a research intensive university in the UK, Exeter has strong commitments to work in partnerships with several research councils to fund talented students for a PhD. More detailed information can be found from [here](http://www.exeter.ac.uk/studying/funding/award/index.php?id=4071).
 
 {{< /tab >}}
 

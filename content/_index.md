@@ -8,13 +8,16 @@ type: docs
 We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning. Applications focus on search-based software engineering, water engineering, material science and medicine.
 
 {{< hint info >}}
-We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities. 
+We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
+<ins>**Now PhD studentships for 2021 entry are available for application!!!**<ins>
 {{< /hint >}}
 
 ## Recent News (Year 2020)
 
 {{< tabs "uniqueid" >}}
 {{< tab "Nov" >}}
+
+* There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at [vacancies](/docs/home/vacancies) and feel free to contact with me for more details.
 
 * Our special issue on _Advances in Decomposition-based Evolutionary Multi-objective Optimization_ ([ADEMO](https://sites.google.com/view/ademo-sessions/ademo2021 )) has been approved by CEC 2021! Please submit your latest work on all decomposition-based approaches to ADEMO. `Nov 19`
 
