@@ -15,6 +15,18 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 ## Recent News (Year 2020)
 
 {{< tabs "uniqueid" >}}
+
+{{< tab "Dec" >}}
+
+* There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at [vacancies](/docs/home/vacancies) and feel free to contact with me for more details.
+
+* Our workshop on _Decomposition Techniques in Evolutionary Optimization_ ([DTEO](https://sites.google.com/view/dteo/)) has been approved by GECCO 2021! Please submit your latest work on all decomposition-based approaches to DTEO. `Dec 3`
+
+* Our tutorial on _Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities_ has been approved by GECCO 2021! This is the 4th time we have this tutorial in GECCO. See you next year in Lille, hopefully the pandemic is over then. `Dec 3`
+
+{{< /tab >}}
+
+
 {{< tab "Nov" >}}
 
 * There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at [vacancies](/docs/home/vacancies) and feel free to contact with me for more details.
