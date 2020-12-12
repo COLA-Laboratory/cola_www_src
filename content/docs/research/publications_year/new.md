@@ -6,16 +6,15 @@
 
 ### Journal
 
-- Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points<br>
-**<ins>Ke Li</ins>**, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2020.2987559](https://ieeexplore.ieee.org/document/9066927)<br> 
-[[PDF](/publications/LiLDMY20.pdf)] [[Project](https://github.com/COLA-Laboratory/empirical_preference)] [BiB]
+- Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain<br>
+Ran Wang, Suhe Ye, **<ins>Ke Li</ins>**, Sam Kwong<br>
+Information Sciences<br>
+[PDF] [BiB]
 
 ### Conference
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
-Xinyu Shan+, **<ins>Ke Li</ins>**
+Xinyu Shan+, **<ins>Ke Li</ins>**<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), March, 2021<br>
 [PDF] [BiB]
 
