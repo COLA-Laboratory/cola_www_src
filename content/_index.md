@@ -18,9 +18,11 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Dec" >}}
 
+* Our paper on _Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain_ has been accepted for publication in Information Sciences. Congratulations to my collaborators! `Dec 8`
+
 * There are multiple openings in our lab for PhD students 2021 entry. The studentships are available for both UK/EU and international students. Please have a look at [vacancies](/docs/home/vacancies) and feel free to contact with me for more details.
 
-* Our workshop on _Decomposition Techniques in Evolutionary Optimization_ ([DTEO](https://sites.google.com/view/dteo/)) has been approved by GECCO 2021! Please submit your latest work on all decomposition-based approaches to DTEO. `Dec 3`
+* Our workshop on _Decomposition Techniques in Evolutionary Optimization_ ([DTEO](https://sites.google.com/view/dteo/)) has been approved by GECCO 2021! Please submit your latest work to DTEO. `Dec 3`
 
 * Our tutorial on _Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities_ has been approved by GECCO 2021! This is the 4th time we have this tutorial in GECCO. See you next year in Lille, hopefully the pandemic is over then. `Dec 3`
 
