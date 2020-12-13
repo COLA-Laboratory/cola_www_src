@@ -17,13 +17,18 @@ The goals of the reading group are:
 
 The discussion is limited to one hour. The discussion is lead by a moderator, who may also set a focus for the discussion. The moderator will kick off the meeting by giving a short summary of the paper and raising a few points for discussion. The moderator should try to incorporate all participants into the discussion. The moderator role rotates through all participants. The moderator is encouraged to help with the selection of a paper that week.
 
-
 {{< /expand >}}
-
 
 ## Agenda (Year 2020)
 
 {{< tabs "uniqueid" >}}
+
+{{< tab "Dec" >}}
+
+- Optimization, fast and slow: optimally switching between local and Bayesian optimization, _ICML 2018_. `Guozhao Wei` `Dec 13`<br>
+[[paper](http://proceedings.mlr.press/v80/mcleod18a/mcleod18a.pdf)] [slides]
+
+{{< /tab >}}
 
 {{< tab "Nov" >}}
 
@@ -38,4 +43,3 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 {{< /tabs >}}
 
 Previous reading group information can be found from our [archive](/docs/research/archive_reading).
-
