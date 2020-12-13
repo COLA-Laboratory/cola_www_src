@@ -28,10 +28,10 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 {{< tab "Nov" >}}
 
 - Ordinal Regression with Multiple Output CNN for Age Estimation, _CVPR 2016_. `Guiyu Lai` `Nov 29`<br>
-[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf)] [slides] 
+[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_29.11.2020_LAI.pptx)]
 
 - Towards Fast Adaptation of Neural Architectures with Meta Learning, _ICLR 2020_. `Shasha Zhou` `Nov 22`<br>
-[[paper](https://openreview.net/pdf?id=r1eowANFvr)] [slides] 
+[[paper](https://openreview.net/pdf?id=r1eowANFvr)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_22.11.2020_ZHOU.ppt)]
 
 {{< /tab >}}
 
