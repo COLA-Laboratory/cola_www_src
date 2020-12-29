@@ -25,7 +25,13 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tab "Dec" >}}
 
-- Optimization, fast and slow: optimally switching between local and Bayesian optimization, _ICML 2018_. `Guozhao Wei` `Dec 13`<br>
+- Surrogate Assisted Evolutionary Algorithms, `Fan Li` `Dec 27`<br>
+[slides]
+
+- RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design, _ACM Trans. Graphics_. `Jiahao Zhou` `Dec 20`<br>
+[[paper](https://cdfg.mit.edu/assets/files/robogrammar.pdf)] [slides]
+
+- Optimization, Fast and Slow: Optimally Switching Between Local and Bayesian Optimization, _ICML 2018_. `Guozhao Wei` `Dec 13`<br>
 [[paper](http://proceedings.mlr.press/v80/mcleod18a/mcleod18a.pdf)] [slides]
 
 {{< /tab >}}
