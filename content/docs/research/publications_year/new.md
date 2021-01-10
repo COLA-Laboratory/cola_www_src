@@ -32,13 +32,3 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 2020 IEEE Global Communications Conference [(GLOBECOM'20)](https://globecom2020.ieee-globecom.org/), December, 2020<br>
 [PDF] [BiB]
-
-- Knee Point Identification Based on Voronoi Diagram<br>
-Haifeng Nie+, Huiru Gao+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2020 IEEE Conference on Systems, Man and Cybernetics [(SMC'20)](http://smc2020.org/), December, 2020<br>
-[PDF] [BiB]
-
-- Bilevel Programming for Automated Model Discovery in Cross-Project Defect Prediction<br>
-**<ins>Ke Li</ins>**, Zilin Xiang+, Tao Chen, Kay Chen Tan<br>
-Proc. of the 35th IEEE/ACM International Conference on Automated Software Engineering [(ASE'20)](https://conf.researchr.org/home/ase-2020), September, 2020<br>
-[PDF] [Project] [BiB]
