@@ -18,7 +18,7 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jan" >}}
 
-* I have been invited to renew my role as an Associate Editor for the prestigious IEEE Trans. Evolutionary Computation, the flagship journal in artificial/computational Intelligence. `Jan 3`
+* I have been invited to renew my role as an Associate Editor for the prestigious _IEEE Trans. Evolutionary Computation_, the flagship journal in artificial/computational Intelligence. `Jan 3`
 
 {{< /tab >}}
 
