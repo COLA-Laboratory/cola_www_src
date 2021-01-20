@@ -9,7 +9,6 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
-<ins>**Now PhD studentships for 2021 entry are available for application!!!**<ins>
 {{< /hint >}}
 
 ## Recent News (Year 2020)
