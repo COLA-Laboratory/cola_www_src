@@ -19,30 +19,24 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< /expand >}}
 
-## Agenda (Year 2020)
+
+## Agenda (Year 2021)
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "Dec" >}}
+{{< tab "Jan" >}}
 
-- Surrogate Assisted Evolutionary Algorithms, `Fan Li` `Dec 27`<br>
+- OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification, _NIPS 2020_, `Jiangjiao Xu` `Jan 31`<br>
+[[paper](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)] [slides]
+
+- Domination Measure: A New Metric for Solving Multiobjective Optimization, _INFORMS J. Comput._, `Xinyu Shan` `Jan 24`<br>
+[[paper](https://pubsonline.informs.org/doi/10.1287/ijoc.2019.0920)] [slides]
+
+- Recent Advances in Real-World Constrained Multi-Objective Optimization Problems, `Xinyu Shan` `Jan 10`<br>
 [slides]
 
-- RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design, _ACM Trans. Graphics_. `Jiahao Zhou` `Dec 20`<br>
-[[paper](https://cdfg.mit.edu/assets/files/robogrammar.pdf)] [slides]
-
-- Optimization, Fast and Slow: Optimally Switching Between Local and Bayesian Optimization, _ICML 2018_. `Guozhao Wei` `Dec 13`<br>
-[[paper](http://proceedings.mlr.press/v80/mcleod18a/mcleod18a.pdf)] [slides]
-
-{{< /tab >}}
-
-{{< tab "Nov" >}}
-
-- Ordinal Regression with Multiple Output CNN for Age Estimation, _CVPR 2016_. `Guiyu Lai` `Nov 29`<br>
-[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_29.11.2020_LAI.pptx)]
-
-- Towards Fast Adaptation of Neural Architectures with Meta Learning, _ICLR 2020_. `Shasha Zhou` `Nov 22`<br>
-[[paper](https://openreview.net/pdf?id=r1eowANFvr)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_22.11.2020_ZHOU.ppt)]
+- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, `Shasha Zhou` `Jan 3`<br>
+[[paper](https://openreview.net/pdf?id=r1xMH1BtvB)] [slides]
 
 {{< /tab >}}
 
