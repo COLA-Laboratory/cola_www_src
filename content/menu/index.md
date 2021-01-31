@@ -13,4 +13,5 @@ headless: true
   - [Reading Group]({{< relref "/docs/research/readinggroup" >}})
 - **Misc**
   - [ECTC TF]({{< relref "/docs/misc/dtec" >}})
+  - [Deadlines]({{< relref "/docs/misc/ddl" >}})
 <br />
