@@ -35,7 +35,7 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 - Recent Advances in Real-World Constrained Multi-Objective Optimization Problems, `Xinyu Shan` `Jan 10`<br>
 [slides]
 
-- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, `Shasha Zhou` `Jan 3`<br>
+- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, _ICLR 2020_, `Shasha Zhou` `Jan 3`<br>
 [[paper](https://openreview.net/pdf?id=r1xMH1BtvB)] [slides]
 
 {{< /tab >}}
