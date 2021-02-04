@@ -13,6 +13,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - [AAAI 2022](https://www.aaai.org/): TBD
 - [ICLR 2022](https://iclr.cc/): TBD
 - [AISTAS 2022](https://aistats.org/): TBD
+- [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm21): TBD
 
 {{< /tab >}}
 
@@ -24,7 +25,6 @@ Here are some important deadlines for the major conferences in artificial intell
 - [ICSE 2021](https://conf.researchr.org/home/icse-2022): TBD
 
 {{< /tab >}}
-
 
 {{< tab "EC" >}}
 
