@@ -40,6 +40,20 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< /tab >}}
 
+{{< tab "Feb" >}}
+
+- Understanding and Improving Information Transfer in Multi-Task Learning, _ICLR 2020_, `Renzhi Chen` `Feb 7`<br>
+[[paper](https://openreview.net/forum?id=SylzhkBtDB)] [slides]
+
+{{< /tab >}}
+
+{{< tab "Mar" >}}
+
+- OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification, `Jiancheng Qian` `Mar 7`<br>
+[slides]
+
+{{< /tab >}}
+
 {{< /tabs >}}
 
 Previous reading group information can be found from our [archive](/docs/research/archive_reading).
