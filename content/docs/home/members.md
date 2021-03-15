@@ -60,7 +60,7 @@
         <img src="/media/PW.jpeg" width="150px", height="110px">
     </div>
     <div class="item4">
-        Phoenix Williams<br>
+        <a href="https://phoenixwilliams.github.io/PersonalWebsite/">Phoenix Williams</a><br>
         PhD Student<br>
         2020 - present<br>
         <em>Interests</em>: BO, TL, EMO
