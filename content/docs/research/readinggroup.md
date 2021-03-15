@@ -49,7 +49,10 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tab "Mar" >}}
 
-- OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification, `Jiancheng Qian` `Mar 7`<br>
+- Generalized Homotopy Approach to Multiobjective Optimization, `Yongqi Feng` `Mar 15`<br>
+[[paper](https://link.springer.com/article/10.1023/A:1017536311488)] [slides]
+
+- Machine Learning Approaches in Programming Language Type Inference, `Jiancheng Qian` `Mar 7`<br>
 [slides]
 
 {{< /tab >}}
