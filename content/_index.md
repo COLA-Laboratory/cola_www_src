@@ -15,11 +15,21 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Mar" >}}
+
+* It is grateful to receive an unrestricted gift from **Amazon Research Awards** for multi-task learning semantic feature from various injections to test Web application firewalls. Thanks for Amazon's generous support! `Mar 24`
+
+* After a wonderful three-year journey of founding and serving as the Chair of the [IEEE Task Force 12 on Decomposition-based Techniques in Evolutionary Computation](/docs/misc/dtec), I have stepped down as a Vice Chair since this year. It is my pleasure to witness the growing up of our community and a wider range of engagements worldwide. My colleague Prof. Bilel Derbel kindly takes up the new Chair position and will promote the activities further. `Mar 1`
+
+{{< /tab >}}
+
 {{< tab "Jan" >}}
 
 * I have been invited to renew my role as an Associate Editor for the prestigious _IEEE Trans. Evolutionary Computation_, the flagship journal in artificial/computational Intelligence. `Jan 3`
 
 {{< /tab >}}
+
+
 
 {{< /tabs >}}
 
