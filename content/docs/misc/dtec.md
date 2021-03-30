@@ -79,16 +79,15 @@ This task force will focus on all aspects, including theory, practice and applic
 
 ## Chairs
 
-- [Ke Li](https://cola-laboratory.github.io/) (Chair), Department of Computer Science, University of Exeter, Exeter, UK.
+- [Bilel Derbel](https://sites.google.com/site/bilelderbelpro/) (Chair), University of Lille, France.
+- [Ke Li](https://cola-laboratory.github.io/) (Vice Chair, Founding Chair), Department of Computer Science, University of Exeter, Exeter, UK.
 - [Qingfu Zhang](http://www.cs.cityu.edu.hk/~qzhan7/index.html) (Vice Chair), Department of Computer Science, City University of Hong Kong, Hong Kong SAR, China.
-- [Anupam Trivedi](https://scholar.google.com.sg/citations?user=WFpIByoAAAAJ&hl=en) (Vice Chair), Department of Electrical & Computer Engineering, National University of Singapore, Singapore.
 
 ## Members
 
 - [Slim Bechikh](https://sites.google.com/site/slimbechikh/), University of Tunis, Tunisia.
 - [Ran Cheng](http://emi.sustc.edu.cn/), Southern University of Science and Technology, China.
 - [Kalyanmoy Deb](https://www.egr.msu.edu/~kdeb/), Michigan State University, USA.
-- [Bilel Derbel](https://sites.google.com/site/bilelderbelpro/), University of Lille, France.
 - [Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/), Osaka Prefecture University, Japan.
 - [Yaochu Jin](http://www.soft-computing.de/jin.html), University of Surrey, UK.
 - [Sam Kwong](http://www.cs.cityu.edu.hk/~cssamk/research_group/), City University of Hong Kong, Hong Kong SAR, China.
