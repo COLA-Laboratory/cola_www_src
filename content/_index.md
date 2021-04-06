@@ -17,7 +17,7 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
-* Our paper on empirical study of interactive mechanism in interactive evolutionary multi-objective optimization is accepted to IEEE CEC 2021. Congratulations to Guiyu! `Apr 6`
+* Our paper on empirical study of various control mechanisms in interactive evolutionary multi-objective optimization is accepted to IEEE CEC 2021. Congratulations to Guiyu! `Apr 6`
 
 {{< /tab >}}
 
