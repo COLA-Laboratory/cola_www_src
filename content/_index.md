@@ -15,6 +15,13 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Apr" >}}
+
+* Our paper on empirical study of interactive mechanism in interactive evolutionary multi-objective optimization is accepted to IEEE CEC 2021. Congratulations to Guiyu! `Apr 6`
+
+{{< /tab >}}
+
+
 {{< tab "Mar" >}}
 
 * It is grateful to receive an unrestricted gift from **Amazon Research Awards** for multi-task learning semantic feature from various injections to test Web application firewalls. Thanks for Amazon's generous support! `Mar 24`
