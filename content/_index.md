@@ -17,6 +17,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+* Our paper "Vertical Distance Based Clonal Selection Mechanism for Multi-objective Immune Algorithm" is accepted to Swarm and Evolutionary Computation. Congratulations to Lingjie! `Apr 14`
+
 * Our paper on empirical study of various control mechanisms in interactive evolutionary multi-objective optimization is accepted to IEEE CEC 2021. Congratulations to Guiyu! `Apr 6`
 
 {{< /tab >}}
