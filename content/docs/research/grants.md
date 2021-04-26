@@ -10,7 +10,7 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
-- Amazon Research Award: AWS AI Call, _Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems_, PI, &pound;74,000, 2020-2024.
+- Amazon Research Award: AWS AI Call, _Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls_, PI, $10,000, 2021-2022.
 - EPSRC DTP Doctoral Prize: #2404317, _Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems_, PI, &pound;74,000, 2020-2024.
 - UKRI Future Leaders Fellowship: #MR/S017062/1, _Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation_, PI, &pound;1,370,803 (UKRI Contribution: &pound;1,096,643), 2019--2023.
 - EPSRC/British Telecommunications Industrial CASE Studentship: #EP/P51049X/1, _Dynamic Resource Management and Optimization for SLA Guarantees in Hyperconverged Communication Infrastructures_, Co-I (with PI: Prof. Geyong Min), &pound;81,430, 2017--2021.
