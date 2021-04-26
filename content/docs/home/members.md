@@ -44,6 +44,19 @@
     </div>
 </div>
 
+
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/FL.jpeg" width="150px", height="110px">
+    </div>
+    <div class="item2">
+        Dr Fan Li<br>
+        Research Fellow<br>
+        04/2021 – present<br>
+        <em>Interests</em>: TL, BO, EMO
+    </div>
+</div>
+
 ## PhD Student(s)
 
 <div class="grid-container">
