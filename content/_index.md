@@ -17,6 +17,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+* Proud to be one of three awardees in the UK to win an Amazon Research Awards 2020. Really appreciate the generous support from Amazon! Please see press news from [[Amazon Science 1](https://www.amazon.science/research-awards/recipients?f0=2020&s=0&p=6)], [[Amazon Science 2](https://www.amazon.science/research-awards/program-updates/2020-amazon-research-awards-recipients-announced)], [[Linkedin](https://www.linkedin.com/posts/ke-li-29423226_2020-amazon-research-awards-recipients-announced-activity-6793534729615503360-TcSw)], [[机器之心](https://mp.weixin.qq.com/s/YVPddE6WN2PcozUnOjyboA)], [[新智元](https://mp.weixin.qq.com/s/DyzEjrcuQ9oa-nQ_7j2fbA)], [[AI科技评论](https://mp.weixin.qq.com/s/pAVRbZxEy_-wpRBGTXaPLw)] `Apr 29`
+
 * Our paper "A Vector Angles-based Many-objective Particle Swarm Optimization Algorithm Using Archive" is accepted to Applied Soft Computing. Congratulations to Lei! `Apr 27`
 
 * Our paper "Vertical Distance Based Clonal Selection Mechanism for Multi-objective Immune Algorithm" is accepted to Swarm and Evolutionary Computation. Congratulations to Lingjie! `Apr 14`
