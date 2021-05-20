@@ -15,6 +15,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+* We are glad to announce that [Maja Kaczmarek](https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk), a second year undergraduate student from the University of Manchester, has been awarded a REP studentship from [SWBio DTP](https://www.swbio.ac.uk/) (only two in Exeter). We will work with [Dr Yiliang Ding](https://www.jic.ac.uk/people/yilliang-ding/)'s group from [John Innes Centre](https://www.jic.ac.uk/) on some exciting topics about RNA structure prediction. `May 17`
+
+{{< /tab >}}
+
 {{< tab "Apr" >}}
 
 * Proud to be one of three awardees in the UK to win an Amazon Research Awards 2020. Really appreciate the generous support from Amazon to carry on our interesting work on multi-task learning! Please see press news from [[Amazon Science 1](https://www.amazon.science/research-awards/recipients?f0=2020&s=0&p=6)], [[Amazon Science 2](https://www.amazon.science/research-awards/program-updates/2020-amazon-research-awards-recipients-announced)], [[Exeter News](https://www.exeter.ac.uk/news/homepage/title_856639_en.html)], [[Linkedin](https://www.linkedin.com/posts/ke-li-29423226_2020-amazon-research-awards-recipients-announced-activity-6793534729615503360-TcSw)], [[机器之心](https://mp.weixin.qq.com/s/YVPddE6WN2PcozUnOjyboA)], [[新智元](https://mp.weixin.qq.com/s/DyzEjrcuQ9oa-nQ_7j2fbA)], [[AI科技评论](https://mp.weixin.qq.com/s/pAVRbZxEy_-wpRBGTXaPLw)] `Apr 29`
