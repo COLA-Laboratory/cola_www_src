@@ -4,6 +4,14 @@ type: docs
 bookToc: false
 ---
 
+<link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<head>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 # Welcome to Ke Li's Homepage
 
 We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning. Applications focus on search-based software engineering, water engineering, material science and medicine.
@@ -12,7 +20,7 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-## Recent News (Year 2020)
+## <i class='fab fa-twitter' style='font-size:20px'></i> Recent News (Year 2020)
 
 {{< tabs "uniqueid" >}}
 
@@ -57,17 +65,17 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 Previous news can be found from our [news archive](/docs/home/news).
 
-## Contact
+## <i class='fa fa-address-card' style='font-size:20px'></i> Contact
 {{< columns >}}
 
 Dr. Ke Li<br>
 Department of Computer Science<br>
 Innovation Centre A1-D<br>
 University of Exeter<br>
-Streatham Campus, North Park Road,
+Streatham Campus, North Park Road<br>
 Exeter, UK, EX4 4QF<br>
-E-mail: _k.li_ AT _exeter.ac.uk_<br>
-Tel: +(44) 0139-272-4557
+<i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _k.li_ AT _exeter.ac.uk_<br>
+<i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0139-272-4557
 
 <--->
 
