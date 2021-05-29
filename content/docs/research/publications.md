@@ -1,6 +1,7 @@
 ---
 title: Publications
 type: docs
+bookToc: false
 ---
 
 # Publications
@@ -40,55 +41,55 @@ hr.dashed {
 Lingjie Li, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
 Swarm and Evolutionary Computation (SWEVO)<br>
 <i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2021.100886](https://doi.org/10.1016/j.swevo.2021.100886)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - A Vector Angles-Based Many-Objective Particle Swarm Optimization Algorithm Using Archive<br>
 Lei Yang+, Xin Hu, **<ins>Ke Li</ins>**<br>
 Applied Soft Computing (ASOC)<br>
 <i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.asoc.2021.107299](https://doi.org/10.1016/j.asoc.2021.107299)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
 Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://cec2021.mini.pw.edu.pl/), June, 2021<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
 Longfei Zhang, **<ins>Ke Li</ins>**, Shi Gu<br>
 Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), July, 2020.<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
 
 ## 2021
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### Journal
 
 - Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain<br>
 Ran Wang, Suhe Ye, **<ins>Ke Li</ins>**, Sam Kwong<br>
 Information Sciences (INS), 554: 256--275, 2021<br>
 <i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2020.12.010](https://doi.org/10.1016/j.ins.2020.12.010)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### Conference
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
 Xinyu Shan+, **<ins>Ke Li</ins>**<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 235--247, March, 2021<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-72062-9_19](https://doi.org/10.1007/978-3-030-72062-9_19)<br> 
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Multi-Objective Reinforcement Learning based Multi-Microgrid System Optimisation Problem<br>
 Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 684--696, March, 2021<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-72062-9_54](https://doi.org/10.1007/978-3-030-72062-9_54)<br> 
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Parallel Algorithms for Multiobjective Virtual Network Function Placement Problem<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 708--720, March, 2021<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-72062-9_56](https://doi.org/10.1007/978-3-030-72062-9_56)<br> 
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
 
@@ -100,19 +101,19 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 **<ins>Ke Li</ins>**, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 24(6): 1078-1096, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2020.2987559](https://ieeexplore.ieee.org/document/9066927)<br> 
-[[PDF](/publications/LiLDMY20.pdf)] [[Project](https://github.com/COLA-Laboratory/empirical_preference)] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/LiLDMY20.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/empirical_preference) | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms<br>
 Rong Tang, **<ins>Ke Li</ins>**, Wei Ding, Yuntao Wang, Huicheng Zhou, Guangtao Fu<br>
 Water Resources Management, 34: 1005–1020, 2020.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s11269-020-02485-9](http://link.springer.com/article/10.1007/s11269-020-02485-9)<br> 
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Many-Objective Optimization Based on Adversarial Decomposition<br>
 Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang<br>
 IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2018.2872803](https://ieeexplore.ieee.org/document/8500750)<br>
-[PDF] [[Supplementary](/supplementary/ad-supp.pdf)] [Code] [[BiB](/bib/WuLKZ18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/ad-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuLKZ18.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -120,61 +121,61 @@ IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 2020 IEEE Global Communications Conference [(GLOBECOM'20)](https://globecom2020.ieee-globecom.org/), IEEE Press: p. 1--6, December, 2020<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/GLOBECOM42002.2020.9322530](https://ieeexplore.ieee.org/abstract/document/9322530)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Knee Point Identification Based on Voronoi Diagram<br>
 Haifeng Nie+, Huiru Gao+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2020 IEEE Conference on Systems, Man and Cybernetics [(SMC'20)](http://smc2020.org/), IEEE Press: p. 1--6, December, 2020<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC42975.2020.9283262](https://ieeexplore.ieee.org/document/9283262)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - BiLO-CPDP: Bi-Level Programming for Automated Model Discovery in Cross-Project Defect Prediction<br>
 **<ins>Ke Li</ins>**, Zilin Xiang+, Tao Chen, Kay Chen Tan<br>
 Proc. of the 35th IEEE/ACM International Conference on Automated Software Engineering [(ASE'20)](https://conf.researchr.org/home/ase-2020), IEEE Press: September, 2020<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3324884.3416617](https://ieeexplore.ieee.org/document/9285660)<br>
-[PDF] [Project] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Adaptive Operator Selection Based on Dynamic Thompson Sampling for MOEA/D<br>
 Lei Sun+, **<ins>Ke Li</ins>**<br>
 Proc. of the 16th International Conference on Parallel Problem Solving from Nature [(PPSN XVI)](https://ppsn2020.liacs.leidenuniv.nl/), Springer LNCS, volume 12270, p. 271--284, Septermber, 2020.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-58115-2\_19](https://link.springer.com/chapter/10.1007%2F978-3-030-58115-2_19)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Surrogate Assisted Evolutionary Algorithm for Medium Scale Multi-Objective Optimisation Problems<br>
 Xiaoran Ruan+, **<ins>Ke Li</ins>**, Bilel Derbel, Arnaud Liefooghe<br>
 Proc. of the 22th Annual Conference on Genetic and Evolutionary Computation [(GECCO’20)](https://gecco-2020.sigevo.org/index.html/HomePage), ACM Press: p. 560--568, July, 2020.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3377930.3390191](https://dl.acm.org/doi/10.1145/3377930.3390191)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Routing-Led Placement of VNFs in Arbitrary Networks<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https://wcci2020.org/), IEEE Press: p. 1--8, July, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC48606.2020.9185531](https://ieeexplore.ieee.org/document/9185531)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Surrogate Assisted Evolutionary Algorithm Based on Transfer Learning for Dynamic Expensive Multi-Objective Optimisation Problems<br>
 Xuezhou Fan, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
 Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https://wcci2020.org/), IEEE Press: p. 1--8, July, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC48606.2020.9185522](https://ieeexplore.ieee.org/document/9185522)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - DeepSQLi: Deep Semantic Learning for Testing SQL Injection<br>
 Muyang Liu+, **<ins>Ke Li</ins>**, Tao Chen<br>
 Proc. of the ACM SIGSOFT 2020 International Symposium on Software Testing and Analysis [(ISSTA'20)](https://conf.researchr.org/home/issta-2020), ACM Press: p. 286--297, July, 2020.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3395363.3397375](https://dl.acm.org/doi/10.1145/3395363.3397375)<br>
-[[PDF](/publications/LiuLC20.pdf)] [[Project](https://github.com/COLA-Laboratory/issta2020)] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/LiuLC20.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/issta2020) | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Understanding the Automated Parameter Optimization on Transfer Learning for Cross-Project Defect Prediction: An Empirical Study<br>
 **<ins>Ke Li</ins>**\*, Zilin Xiang+\*, Tao Chen\*, Shuo Wang, Kay Chen Tan<br>
 Proc. of the 42nd International Conference on Software Engineering [(ICSE'20)](https://conf.researchr.org/home/icse-2020), ACM Press: p. 566--577, June, 2020.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3377811.3380360](https://dl.acm.org/doi/abs/10.1145/3377811.3380360)<br>
-[[PDF](/publications/LiXCWT20.pdf)] [[Project](https://github.com/COLA-Laboratory/icse2020)] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/LiXCWT20.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/icse2020) | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - On the Combined Impact of Population Size and Sub-problem Selection in MOEA/D<br>
 Geoffrey Pruvost, Bilel Derbel, Arnaud Liefooghe, **<ins>Ke Li</ins>**, Qingfu Zhang<br>
 Proc. of the 20th European Conference on Evolutionary Computation in Combinatorial Optimisation [(EvoCOP'20)](http://www.evostar.org/2020/evocop/), Springer LNCS, volume 12102, p. 131–147, April, 2020.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-43680-3_9](https://link.springer.com/chapter/10.1007%2F978-3-030-43680-3_9)<br> 
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
 
@@ -186,25 +187,25 @@ Proc. of the 20th European Conference on Evolutionary Computation in Combinatori
 Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Jun Zhang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 23(3): 376–390, 2019.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2018.2865931](https://ieeexplore.ieee.org/document/8439014)<br>
-[PDF] [Supplementary] [Code] [[BiB](/bib/WuLKZZ18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-folder-open' style='font-size:16px'></i> `Supp` | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Interactive Decomposition Multi-Objective Optimization via Progressively Learned Value Functions<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Dragan Savic, Xin Yao<br>
 IEEE Trans. Fuzzy Systems (TFS), 27(5): 845–860, 2019.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TFUZZ.2018.2880700](https://ieeexplore.ieee.org/document/8531708)<br>
-[[PDF](/publications/plvf.pdf)] [[Supplementary](/supplementary/plvf-supp.pdf)] [Code] [[BiB](/bib/LiCSY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/plvf.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/plvf-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiCSY18.bib)
 
 - Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Guangtao Fu, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 23(2): 303–315, 2019.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2018.2855411](https://ieeexplore.ieee.org/document/8413136)<br>
-[[PDF](/publications/ctaea.pdf)] [[Supplementary](/supplementary/ctaea-supp.pdf)] [[Code](/codes/CTAEA.zip)] [[BiB](/bib/LiCFY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/ctaea.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/ctaea-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/CTAEA.zip) | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - A Knee-Point-Based Evolutionary Algorithm Using Weighted Subpopulation for Many-Objective Optimization<br>
 Juan Zou, Chunhui Ji, Shengxiang Yang, Yuping Zhang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
 Swarm and Evolutionary Computation, 47: 33--43, 2019.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2019.02.001](https://www.sciencedirect.com/science/article/pii/S2210650218300191)<br>
-[PDF] [[BiB](/bib/ZouJYZZL19.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ZouJYZZL19.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -212,37 +213,37 @@ Swarm and Evolutionary Computation, 47: 33--43, 2019.<br>
 **<ins>Ke Li</ins>**, Zilin Xiang+, Kay Chen Tan<br>
 Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press: p. 1988--1995, June, 2019.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC.2019.8789984](https://ieeexplore.ieee.org/document/8789984)<br>
-[PDF] [Supplementary] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-folder-open' style='font-size:16px'></i> `Supp` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons<br>
 Huiru Gao+, Haifeng Nie+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press: p. 1750--1757, June, 2019.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC.2019.8790298](https://ieeexplore.ieee.org/abstract/document/8790298)<br>
-[PDF] [Supplementary] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-folder-open' style='font-size:16px'></i> `Supp` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Decomposition Multi-Objective Optimisation: Current Developments and Future Opportunities<br>
 **<ins>Ke Li</ins>**, Qingfu Zhang<br>
 Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GECCO’19): ACM Press: p. 1002--1031, July 2019.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3319619.3323369](https://dl.acm.org/citation.cfm?doid=3319619.3323369)<br>
-[PDF] [BiB]
+<i class='fas fa-bullhorn' style='font-size:16px'></i> `Slides` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Security Testing of Web Applications: A Search-Based Approach for Detecting SQL Injection Vulnerabilities<br>
 Muyang Liu+, **<ins>Ke Li</ins>**, Tao Chen<br>
 Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GECCO’19), ACM Press: p. 417--418, July 2019.<br> 
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3319619.3322026](https://dl.acm.org/citation.cfm?doid=3319619.3322026)<br>
-[PDF] [BiB]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> `PDF` | <i class='fas fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Progressive Preference Learning: Proof-of-Principle Results in MOEA/D<br>
 **<ins>Ke Li</ins>** <br> 
 Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optimization (EMO’19), Springer LNCS, volume 11411, p. 631--643, March 2019.<br> 
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-12598-1_50](https://link.springer.com/chapter/10.1007%2F978-3-030-12598-1_50)<br>
-[[PDF](/publications/Li19.pdf)] [[Supplementary](/supplementary/emo19-supp.pdf)] [Code] [[BiB](/bib/Li19.bib)]<br>
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/Li19.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/emo19-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/Li19.bib)
 
 - A Formal Model for Multi-objective Optimisation of NFV Placement<br> 
 Joseph Billingsley, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, N. Georgalas<br> 
 Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optimization (EMO’19), Springer LNCS, volume 11411, p. 529--540, March 2019.<br> 
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-12598-1_42](https://link.springer.com/chapter/10.1007%2F978-3-030-12598-1_42)<br>
-[[PDF](/publications/BillingsleyLMMG19.pdf)] [[BiB](/bib/BillingsleyLMMG19.bib)]<br> 
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/BillingsleyLMMG19.pdf) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/BillingsleyLMMG19.bib)
 
 ---
 
@@ -254,31 +255,31 @@ Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optim
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Xin Yao<br> 
 IEEE Trans. Evolutionary Computation (TEVC), 22(6): 821--835, 2018.<br> 
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2017.2737781](https://ieeexplore.ieee.org/document/8049301)<br> 
-[[PDF](/publications/rmetric.pdf)] [[Supplementary](suppRMETRIC.pdf)] [[Code](/codes/rmetric.zip)] [[BiB](/bib/bibLiDY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/rmetric.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/suppRMETRIC.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/rmetric.zip) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/bibLiDY18.bib)
 
 - Integration of Preferences in Decomposition Multiobjective Optimization<br> 
 **<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Geyong Min, Xin Yao<br> 
 IEEE Trans. Cybernetics (TCYB), 48(12): 3359--3370, 2018.<br> 
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2018.2859363](https://ieeexplore.ieee.org/document/8440670)<br> 
-[[PDF](/publications/nums.pdf)] [[Supplementary](/supplementary/nums-supp.pdf)] [[Code](/codes/NUMS.zip)] [[BiB](/bib/LiCMY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/nums.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/nums-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/NUMS.zip) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiCFY18.bib)
 
 - Evolutionary Multiobjective Optimization-Based Multimodal Optimization: Fitness Landscape Approximation and Peak Detection<br>
 Ran Cheng, Miqing Li, **<ins>Ke Li</ins>**, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 22(5): 692--706, 2018.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2017.2744328](https://ieeexplore.ieee.org/document/8038800)<br> 
-[[PDF](/publications/ChengLLY18.pdf)] [[BiB](/bib/ChengLLY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/ChengLLY18.pdf) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChengLLY18.bib)
 
 - FEMOSAA: Feature Guided and Knee Driven Multi-Objective Optimization for Self-Adaptive Software at Runtime<br>
 Tao Chen, **<ins>Ke Li</ins>**, Rami Bahsoon, Xin Yao<br>
 ACM Trans. Software Engineering and Methodology (TOSEM), 27(2): 1--50, 2018.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3204459](https://dl.acm.org/citation.cfm?doid=3234930.3204459)<br> 
-[[PDF](/publications/ChenLBY18.pdf)] [[Code](https://github.com/JerryI00/Software-Adaptive-System)] [[BiB](/bib/ChenLBY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/ChenLBY18) |  <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/Software-Adaptive-System) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChenLBY18.bib)
 
 - Dynamic Multi-Objectives Optimization with a Changing Number of Objectives<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Xin Yao,<br>
 IEEE Trans. Evolutionary Computation (TEVC), 21(1): 157--171, 2018.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2017.2669638](https://ieeexplore.ieee.org/document/7886303)<br> 
-[[PDF](/publications/dtaea.pdf)] [[Supplementary](/supplementary/dtaea-supp.pdf)] [[Code](/codes/DTAEA.zip)] [[BiB](/bib/ChenLY18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/dtaea.pdf) | <i class='fas fa-folder-open' style='font-size:16px'></i> [`Supp`](/supplementary/dtaea-supp.pdf) | <i class='fas fa-code-branch' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/DTAEA.zip) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChenLY18.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -287,13 +288,13 @@ Satish Kumar, Rami Bahsoon, Tao Chen, **<ins>Ke Li</ins>**, R. Buyya,<br>
 Proc. of the 24th International Conference on Parallel and Distributed Systems 
 (ICPADS’18), IEEE Press: p. 972--979, December 2018.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/PADSW.2018.8644640](https://ieeexplore.ieee.org/document/8644640)<br> 
-[[PDF](/publications/KumarBCLB18.pdf)] [[BiB](/bib/KumarBCLB18.bib)]
+<i class='fas fa-file-pdf' style='font-size:16px'></i> [`PDF`](/publications/KumarBCLB18.pdf) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/KumarBCLB18.bib)
 
 - Decomposition Multi-Objective Optimisation: Current Developments and Future Opportunities<br>
 **<ins>Ke Li</ins>**, Qingfu Zhang<br>
 Proc. of the 20th Annual Conference on Genetic and Evolutionary Computation (GECCO’18), ACM Press: p. 903--936, July 2018.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3205651.3207856](https://dl.acm.org/citation.cfm?doid=3205651.3207856)<br> 
-[[PDF](/publications/LiZ18.pdf)] [[BiB](bib/LiZ18.bib)]
+<i class='fas fa-bullhorn' style='font-size:16px'></i> [`Slides`](/publications/LiZ18.pdf) | <i class='fas fa-quote-right' style='font-size:15px'></i> [`BiB`](bib/LiZ18.bib)
 
 ---
 
