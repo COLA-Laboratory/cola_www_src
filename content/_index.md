@@ -10,6 +10,7 @@ bookToc: false
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 </head>
 
 # Welcome to Ke Li's Homepage
@@ -20,7 +21,7 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-## <i class='fab fa-twitter' style='font-size:20px'></i> Recent News (Year 2020)
+## <i class='fas fa-broadcast-tower' style='font-size:19px'></i> Recent News (Year 2020)
 
 {{< tabs "uniqueid" >}}
 
