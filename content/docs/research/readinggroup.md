@@ -1,3 +1,9 @@
+---
+title: Reading Group
+type: docs
+bookToc: false
+---
+
 # Reading Group
 
 {{< hint info >}}
