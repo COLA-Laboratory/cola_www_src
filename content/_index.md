@@ -4,14 +4,16 @@ type: docs
 bookToc: false
 ---
 
+# Welcome to Ke Li's Homepage
+
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
 
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
-# Welcome to Ke Li's Homepage
 
 We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning. Applications focus on search-based software engineering, water engineering, material science and medicine.
 
@@ -19,7 +21,7 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-## <i class='fas fa-broadcast-tower' style='font-size:19px'></i> Recent News (Year 2020)
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2020)
 
 {{< tabs "uniqueid" >}}
 
