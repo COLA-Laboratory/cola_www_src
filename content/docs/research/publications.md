@@ -65,8 +65,8 @@ Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://c
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
-Longfei Zhang, **<ins>Ke Li</ins>**, Shi Gu<br>
-Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), July, 2020.<br>
+Longfei Zhang+, **<ins>Ke Li</ins>**, Shi Gu<br>
+Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), July, 2021.<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
