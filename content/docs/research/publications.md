@@ -64,15 +64,15 @@ Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GE
 
 ## 2021
 
-### Journal
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain<br>
 Ran Wang, Suhe Ye, **<ins>Ke Li</ins>**, Sam Kwong<br>
 Information Sciences (INS), 554: 256--275, 2021<br>
-<i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2020.12.010](https://doi.org/10.1016/j.ins.2020.12.010)<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2020.12.010](https://doi.org/10.1016/j.ins.2020.12.010)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-### Conference
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
 Xinyu Shan+, **<ins>Ke Li</ins>**<br>
@@ -96,7 +96,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 
 ## 2020
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points<br>
 **<ins>Ke Li</ins>**, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
@@ -116,7 +116,7 @@ IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2018.2872803](https://ieeexplore.ieee.org/document/8500750)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](/supplementary/ad-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuLKZ18.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Performance Analysis of SDN and NFV enabled Mobile Cloud Computing<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
@@ -182,7 +182,7 @@ Proc. of the 20th European Conference on Evolutionary Computation in Combinatori
 
 ## 2019
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Learning to Decompose: A Paradigm for Decomposition-Based Multi-Objective Optimization<br>
 Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Jun Zhang<br>
@@ -208,7 +208,7 @@ Swarm and Evolutionary Computation, 47: 33--43, 2019.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2019.02.001](https://www.sciencedirect.com/science/article/pii/S2210650218300191)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ZouJYZZL19.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Which Surrogate Works for Empirical Performance Modelling? A Case Study with Differential Evolution<br>
 **<ins>Ke Li</ins>**, Zilin Xiang+, Kay Chen Tan<br>
@@ -250,7 +250,7 @@ Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optim
 
 ## 2018
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - R-Metric: Evaluating the Performance of Preference-Based Evolutionary Multi-Objective Optimization Using Reference Points<br> 
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Xin Yao<br> 
@@ -282,7 +282,7 @@ IEEE Trans. Evolutionary Computation (TEVC), 21(1): 157--171, 2018.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2017.2669638](https://ieeexplore.ieee.org/document/7886303)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/dtaea.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](/supplementary/dtaea-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/DTAEA.zip) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChenLY18.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Multi-Tenant Cloud Service Composition using Evolutionary Optimization<br> 
 Satish Kumar, Rami Bahsoon, Tao Chen, **<ins>Ke Li</ins>**, R. Buyya,<br> 
@@ -301,7 +301,7 @@ Proc. of the 20th Annual Conference on Genetic and Evolutionary Computation (GEC
 
 ## 2017
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Efficient Non-domination Level Update Method for Steady-State Evolutionary Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Qingfu Zhang, Qiang Zhang<br>
@@ -321,7 +321,7 @@ Neurocomputing (NEUCOM). 254: 1--2, 2017.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2017.02.073](https://www.sciencedirect.com/science/article/pii/S0925231217304058?via%3Dihub)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/XieWMLLW17.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/XieWMLLW17.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Empirical Investigations of Reference Point Based Methods When Facing a Massively Large Number of Objectives: First Results<br>
 **<ins>Ke Li</ins>**, Kalyamoy Deb, Tolga Altinoz, Xin Yao<br>
@@ -339,17 +339,17 @@ Proc. of the 19th Annual Conference on Genetic and Evolutionary Computation (GEC
 
 ## 2016
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
-Personalized Search for Social Media via Dominating Verbal Context<br>
+- Personalized Search for Social Media via Dominating Verbal Context<br>
 Haoran Xie, Xiaodong Li, Tao Wang, Li Chen, **<ins>Ke Li</ins>**, Fu Lee Wang, Yi Cai, Qing Li, Huaqing Min<br>
 Neurocomputing (NEUCOM). 172: 27--37, 2016.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2014.12.109](https://www.sciencedirect.com/science/article/pii/S0925231215006104?via%3Dihub)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/XieLWCLWCLM16.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/XieLWCLWCLM16.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
-Variable Interactions in Multi-Objective Optimization Problems<br>
+- Variable Interactions in Multi-Objective Optimization Problems<br>
 **<ins>Ke Li</ins>**, Mohammad Nabi Omidvar, Kalyanmoy Deb, Xin Yao<br>
 Proc. of the 14th International Conference on Parallel Problem Solving from Nature (PPSN’16), Springer LNCS, volume 9921, p. 399--409, September 2016.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-319-45823-6\_37](https://link.springer.com/chapter/10.1007%2F978-3-319-45823-6_37)<br> 
@@ -359,7 +359,7 @@ Proc. of the 14th International Conference on Parallel Problem Solving from Natu
 
 ## 2015
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - An Evolutionary Many-Objective Optimization Algorithm Based on Dominance and Decomposition<br>
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Qingfu Zhang, Sam Kwong<br>
@@ -385,7 +385,7 @@ Neurocomputing (NEUCOM). 149: 275--284, 2015.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2014.02.072](https://www.sciencedirect.com/science/article/pii/S0925231214011345?via%3Dihub)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoKWLLK15.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/CaoKWLLK15.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Two-Level Stable Matching-Based Selection in MOEA/D<br>
 Mengyuan Wu, Sam Kwong, Qingfu Zhang, **<ins>Ke Li</ins>**, Ran Wang, Bo Liu<br>
@@ -403,7 +403,7 @@ Proc. of 2015 IEEE Congress on Evolutionary Computation (CEC’15), IEEE Press: 
 
 ## 2014
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Stable Matching Based Selection in Evolutionary Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Qingfu Zhang, Sam Kwong, Miqing Li, Ran Wang<br>
@@ -429,7 +429,7 @@ IEEE Trans. Cybernetics (TCYB). 44(8): 1295--1313, 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2013.2282503](https://ieeexplore.ieee.org/document/6627937)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYLL14.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiYLL14.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - An Indicator-based Selection Multi-Objective Evolutionary Algorithm with Preference for Multi-Class Ensemble<br>
 Jingjing Cao, Sam Kwong, Ran Wang, **<ins>Ke Li</ins>**<br>
@@ -441,7 +441,7 @@ Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICML
 
 ## 2013
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Learning Paradigm Based on Jumping Genes: A General Framework for Enhancing Exploration in Evolutionary Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Ran Wang, Kit-Sang Tang, Kim-Fung Man<br>
@@ -449,7 +449,7 @@ Information Sciences (INS), 226: 1--22, 2013.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2012.11.002](https://www.sciencedirect.com/science/article/pii/S0020025512007463?via%3Dihub)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKWTM13.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/JGBL.zip) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKWTM13.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Evolving Extreme Learning Machine Paradigm with Adaptive Operator Selection and Parameter Control<br>
 **<ins>Ke Li</ins>**, Ran Wang, Sam Kwong, Jingjing Cao<br>
@@ -461,7 +461,7 @@ International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems (IJU
 
 ## 2012
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Achieving Balance Between Proximity and Diversity in Multi-objective Evolutionary Algorithm<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Jingjing Cao, Miqing Li, Jinhua Zheng, Ruimin Shen<br>
@@ -469,7 +469,7 @@ Information Sciences (INS), 182(1): 220--242, 2012.<br>
 <i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2011.08.027](https://www.sciencedirect.com/science/article/pii/S0020025511004464?via%3Dihub)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKCLZS12.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKCLZS12.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Multi-Objective Differential Evolution with Self-Navigation<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Ran Wang, Jingjing Cao, Imre J. Rudas<br>
@@ -487,7 +487,7 @@ Proc. of 2012 International Conference on Machine Learning and Cybernetics (ICML
 
 ## 2011
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Combining Interpretable Fuzzy Rule-based Classifiers via Multi-Objective Hierarchical Evolutionary Algorithm<br>
 Jingjing Cao, Hanli Wang, Sam Kwong, **<ins>Ke Li</ins>**<br>
@@ -511,14 +511,14 @@ Proc. of the 5th International Conference on Learning and Intelligent Optimizati
 
 ## 2010
 
-<ins><span style="font-size:1.2em;">Journal</span></ins>
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - A Novel Slicing Based Algorithm to Calculate Hypervolume for Multi-Objective Optimization Problems<br>
 **<ins>Ke Li</ins>**, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv<br>
 ICIC Express Letters: An International Journal of Research and Surveys, 4(4): 1113--1120, 2010.<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZLZL10.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZLZL10.bib)
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Enhancing Diversity for Average Ranking Method in Evolutionary Many-Objective Optimization<br>
 Miqing Li, Jinhua Zheng, **<ins>Ke Li</ins>**, Qizhao Yuan, Ruimin Shen<br>
@@ -536,7 +536,7 @@ Proc. of the 12th Annual Conference on Genetic and Evolutionary Computation (GEC
 
 ## 2009
 
-<ins><span style="font-size:1.2em;">Conference</span></ins>
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - A Novel Algorithm for Non-dominated Hypervolume-based Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv<br>
