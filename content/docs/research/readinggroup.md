@@ -6,6 +6,14 @@ bookToc: false
 
 # Reading Group
 
+<link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<head>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
 {{< hint info >}}
 The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.
 
@@ -30,13 +38,25 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+- Global Optimization via Inverse Distance Weighting and Radial Basis Functions, *Comput. Optim. Appl.*, 77: 571--595, 2020.<br>
+<i class='fa fa-link' style='font-size:16px'></i> [`paper`](https://link.springer.com/article/10.1007/s10589-020-00215-w) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiahao Zhou | <i class='fa fa-calendar' style='font-size:16px'></i> May 30
+
+- Sequential Monte Carlo: Theory and Applications, *Foundations and Trends in Machine Learning*, 12(3): 307--392, 2019.<br>
+<i class='fa fa-link' style='font-size:16px'></i> [`paper`](https://www.nowpublishers.com/article/Details/MAL-074) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Peili Mao | <i class='fa fa-calendar' style='font-size:16px'></i> May 23
+
+{{< /tab >}}
+
 {{< tab "Mar" >}}
 
-- Generalized Homotopy Approach to Multiobjective Optimization, `Yongqi Feng` `Mar 15`<br>
-[[paper](https://link.springer.com/article/10.1023/A:1017536311488)] [slides]
+- Generalized Homotopy Approach to Multiobjective Optimization, *J. Optimiz. Theory App.*, 110: 557--583, 2001.<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://link.springer.com/article/10.1023/A:1017536311488) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Yongqi Feng | <i class='fa fa-calendar' style='font-size:16px'></i> Mar 15
 
-- Machine Learning Approaches in Programming Language Type Inference, `Jiancheng Qian` `Mar 7`<br>
-[slides]
+
+- Machine Learning Approaches in Programming Language Type Inference<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiancheng Qian | <i class='fa fa-calendar' style='font-size:16px'></i> Mar 7
+
 
 {{< /tab >}}
 
