@@ -274,7 +274,7 @@ IEEE Trans. Evolutionary Computation (TEVC), 22(5): 692--706, 2018.<br>
 Tao Chen, **<ins>Ke Li</ins>**, Rami Bahsoon, Xin Yao<br>
 ACM Trans. Software Engineering and Methodology (TOSEM), 27(2): 1--50, 2018.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3204459](https://dl.acm.org/citation.cfm?doid=3234930.3204459)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/ChenLBY18) |  <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/Software-Adaptive-System) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChenLBY18.bib)
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/ChenLBY18.pdf) |  <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/Software-Adaptive-System) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ChenLBY18.bib)
 
 - Dynamic Multi-Objectives Optimization with a Changing Number of Objectives<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Xin Yao,<br>
@@ -307,19 +307,19 @@ Proc. of the 20th Annual Conference on Genetic and Evolutionary Computation (GEC
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Qingfu Zhang, Qiang Zhang<br>
 IEEE Trans. Cybernetics (TCYB), 47(9): 2838--2849, 2017.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2016.2621008](https://ieeexplore.ieee.org/document/7738460)<br> 
-[[PDF](/publications/enlu.pdf)] [[Supplementary](/supplementary/enlu-supp.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiDZZ17.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/enlu.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](/publications/enlu-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiDZZ17.bib)
 
 - Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization<br>
 Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Yu Zhou, Qingfu Zhang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 21(4): 554--568, 2017.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2017.2656922](https://ieeexplore.ieee.org/document/7837621)<br> 
-[PDF] [Supplementary] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/WuLKZZ17.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuLKZZ17.bib)
 
 - Recent advances in semantic computing and personalization<br>
 Haoran Xie, Fu Lee Wang, Xudong Mao, **<ins>Ke Li</ins>**, Qing Li, Handing Wang<br>
 Neurocomputing (NEUCOM). 254: 1--2, 2017.<br> 
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2017.02.073](https://www.sciencedirect.com/science/article/pii/S0925231217304058?via%3Dihub)<br> 
-[[PDF](/publications/XieWMLLW17.pdf)] [[BiB](/bib/XieWMLLW17.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/XieWMLLW17.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/XieWMLLW17.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -327,13 +327,13 @@ Neurocomputing (NEUCOM). 254: 1--2, 2017.<br>
 **<ins>Ke Li</ins>**, Kalyamoy Deb, Tolga Altinoz, Xin Yao<br>
 Proc. of the 9th International Conference on Evolutionary Multi-Criterion Optimization (EMO’17), Springer LNCS, volume 10173, p. 390--405, March 2017.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-319-54157-0\_27](https://link.springer.com/chapter/10.1007%2F978-3-319-54157-0_27)<br> 
-[[PDF](/publications/LiDAY17.pdf)] [[BiB](/bib/LiDAY17.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiDAY17.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiDAY17.bib)
 
 - Adaptive weights generation for decomposition-based multi-objective optimization using Gaussian process regression<br>
 Mengyuan Wu, Sam Kwong, Yuheng Jia, **<ins>Ke Li</ins>**, Qingfu Zhang<br>
 Proc. of the 19th Annual Conference on Genetic and Evolutionary Computation (GECCO’17), ACM Press: p. 641--648, July 2017.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3071178.3071339](https://doi.org/10.1145/3071178.3071339)<br> 
-[[PDF](/publications/WuKJLZ17.pdf)] [[BiB](/bib/WuKJLZ17.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WuKJLZ17.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuKJLZ17.bib)
 
 ---
 
@@ -345,7 +345,7 @@ Personalized Search for Social Media via Dominating Verbal Context<br>
 Haoran Xie, Xiaodong Li, Tao Wang, Li Chen, **<ins>Ke Li</ins>**, Fu Lee Wang, Yi Cai, Qing Li, Huaqing Min<br>
 Neurocomputing (NEUCOM). 172: 27--37, 2016.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2014.12.109](https://www.sciencedirect.com/science/article/pii/S0925231215006104?via%3Dihub)<br> 
-[[PDF](/publications/XieLWCLWCLM16.pdf)] [[BiB](/bib/XieLWCLWCLM16.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/XieLWCLWCLM16.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/XieLWCLWCLM16.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -353,7 +353,7 @@ Variable Interactions in Multi-Objective Optimization Problems<br>
 **<ins>Ke Li</ins>**, Mohammad Nabi Omidvar, Kalyanmoy Deb, Xin Yao<br>
 Proc. of the 14th International Conference on Parallel Problem Solving from Nature (PPSN’16), Springer LNCS, volume 9921, p. 399--409, September 2016.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-319-45823-6\_37](https://link.springer.com/chapter/10.1007%2F978-3-319-45823-6_37)<br> 
-[[PDF](/publications/LiODY16.pdf)] [[BiB](/bib/LiODY16.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiODY16.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiODY16.bib)
 
 ---
 
@@ -365,25 +365,25 @@ Proc. of the 14th International Conference on Parallel Problem Solving from Natu
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Qingfu Zhang, Sam Kwong<br>
 IEEE Trans. Evolutionary Computation (TEVC), 19(5): 694--716, 2015.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2014.2373386](https://ieeexplore.ieee.org/document/6964796)<br> 
-[[PDF](/publications/LiDZK15.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiDZK15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiDZK15.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiDZK15.bib)
 
 - Interrelationship-Based Selection for Decomposition Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Kalyanmoy Deb<br>
 IEEE Trans. Cybernetics (TCYB), 45(10): 2076--2088, 2015<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2014.2365354](https://ieeexplore.ieee.org/document/6975090)<br> 
-[[PDF](/publications/LiKZD15.pdf)] [[Supplementary](/supplementary/ir-supp.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiKZD15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiDZK15.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/ir-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKZD15.bib)
 
 - A Dual-Population Paradigm for Evolutionary Multiobjective Optimization<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Kalyanmoy Deb<br>
 Information Sciences (INS), 309: 50--72, 2015.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2015.03.002](https://www.sciencedirect.com/science/article/pii/S0020025515001498?via%3Dihub)<br> 
-[[PDF](/publications/LiKD15.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiKD15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKD15.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKD15.bib)
 
 - Class-Specific Soft Voting based Multiple Extreme Learning Machines Ensemble<br>
 Jingjing Cao, Sam Kwong, Ran Wang, Xiaodong Li, **<ins>Ke Li</ins>**, Xiangfei Kong<br>
 Neurocomputing (NEUCOM). 149: 275--284, 2015.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2014.02.072](https://www.sciencedirect.com/science/article/pii/S0925231214011345?via%3Dihub)<br> 
-[[PDF](/publications/CaoKWLLK15.pdf)] [[BiB](/bib/CaoKWLLK15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoKWLLK15.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/CaoKWLLK15.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -391,13 +391,13 @@ Neurocomputing (NEUCOM). 149: 275--284, 2015.<br>
 Mengyuan Wu, Sam Kwong, Qingfu Zhang, **<ins>Ke Li</ins>**, Ran Wang, Bo Liu<br>
 Proc. of 2015 IEEE Conference on Systems, Mans and Cybernetics (SMC’15), IEEE Press: p. 1720--1725, October 2015.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC.2015.302](https://ieeexplore.ieee.org/document/7379434)<br> 
-[[PDF](/publications/WuKZLWL15.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/WuKZLWL15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WuKZLWL15.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuKZLWL15.bib)
 
 - Evolutionary Multiobjective Optimization with Hybrid Selection Principles<br>
 **<ins>Ke Li</ins>**, Kalyanmoy Deb, Qingfu Zhang<br>
 Proc. of 2015 IEEE Congress on Evolutionary Computation (CEC’15), IEEE Press: p. 900--907, May 2015.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC.2015.7256986](https://ieeexplore.ieee.org/document/7256986)<br> 
-[[PDF](/publications/LiDZ15.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiDZ15.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiDZ15.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiDZ15.bib)
 
 ---
 
