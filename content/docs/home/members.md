@@ -31,7 +31,7 @@ hr.dashed {
 
 </style>
 
-{{< expand "Lookup table of acronyms in this page." "..." >}}
+{{< expand "Lookup table of acronyms in this page." "+" >}}
 
 {{< columns >}}
 - **<ins>EMO</ins>**: evolutionary multi-objective optimization
