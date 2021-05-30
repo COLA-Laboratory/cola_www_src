@@ -31,7 +31,7 @@ hr.dashed {
 
 </style>
 
-## <i class='fa fa-free-code-camp' style='font-size:21px'></i> Faculty
+## <i class='fa fa-optin-monster' style='font-size:21px'></i> Faculty
 
 <div class="grid-container">
     <div class="item1">
@@ -48,7 +48,7 @@ hr.dashed {
 
 ---
 
-## <i class='fa fa-optin-monster' style='font-size:21px'></i> Research Staff(s)
+## <i class='fa fa-reddit-alien' style='font-size:21px'></i> Research Staff(s)
 
 <div class="grid-container">
     <div class="item1">
@@ -61,12 +61,13 @@ hr.dashed {
         <em>Interests</em>: smart grid, TL, EMO, meta learning
     </div>
     <div class="item1">
+        <img src="/media/default.png" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Fan Li<br>
         Research Fellow<br>
         04/2021 – present<br>
-        <em>Interests</em>: TL, BO, EMO
+        <em>Interests</em>: multi-fidelity, TL, MTL, EMO
     </div>
 </div>
 
@@ -139,6 +140,7 @@ hr.dashed {
     <div class="item2">
         <a href="https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk">Maja Kaczmarek</a><br>
         REP Student<br>
+        University of Manchester<br>
         2021 – present<br>
         <em>Interests</em>: DL, Bioinformatics
     </div>
@@ -147,6 +149,28 @@ hr.dashed {
 ---
 
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/default.png" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Jiaxin Chen<br>
+        Visiting PhD Student<br>
+        Northeastern University<br>
+        06/2021 – present<br>
+        <em>Interests</em>: bilevel optimization, EMO, MTL
+    </div>
+    <div class="item1">
+        <img src="/media/default.png" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Huan Zhang<br>
+        Visiting PhD Student<br>
+        Northeastern University<br>
+        06/2021 – present<br>
+        <em>Interests</em>: dynamic optimization, TL, EMO
+    </div>
+</div>
 
 ---
 
