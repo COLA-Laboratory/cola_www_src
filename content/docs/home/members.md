@@ -1,8 +1,24 @@
+---
+title: Publications
+type: docs
+bookToc: false
+---
+
 # Members
 
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<head>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 <style>
+
+hr.dashed {
+  border-top: 1px dashed #bbb;
+}
 
 .grid-container {
     display: grid;
@@ -15,11 +31,11 @@
 
 </style>
 
-## Faculty
+## <i class='fa fa-free-code-camp' style='font-size:21px'></i> Faculty
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/KL2.jpeg" width="150px", height="110px">
+        <img src="/media/KL2.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Ke Li<br>
@@ -30,11 +46,13 @@
     </div>
 </div>
 
-## Research Staff(s)
+---
+
+## <i class='fa fa-optin-monster' style='font-size:21px'></i> Research Staff(s)
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JX.jpeg" width="150px", height="110px">
+        <img src="/media/JX.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Jiangjiao Xu<br>
@@ -42,12 +60,7 @@
         07/2020 – present<br>
         <em>Interests</em>: smart grid, TL, EMO, meta learning
     </div>
-</div>
-
-
-<div class="grid-container">
     <div class="item1">
-        <img src="/media/FL.jpeg" width="150px", height="110px">
     </div>
     <div class="item2">
         Dr Fan Li<br>
@@ -57,11 +70,13 @@
     </div>
 </div>
 
-## PhD Student(s)
+---
+
+## <i class='fa fa-linux' style='font-size:21px'></i> PhD Student(s)
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JB.jpeg" width="150px", height="110px">
+        <img src="/media/JB.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Joseph Billingsly<br>
@@ -70,7 +85,7 @@
         <em>Interests</em>: VNF, SDN, EMO
     </div>
     <div class="item3">
-        <img src="/media/PW.jpeg" width="150px", height="110px">
+        <img src="/media/PW.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
         <a href="https://phoenixwilliams.github.io/PersonalWebsite/">Phoenix Williams</a><br>
@@ -82,7 +97,7 @@
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JQ.jpeg" width="150px", height="110px">
+        <img src="/media/JQ.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Jiancheng Qian<br>
@@ -91,7 +106,7 @@
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
     <div class="item3">
-        <img src="/media/SY.jpeg" width="150px", height="110px">
+        <img src="/media/SY.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
         Savas Yuec<br>
@@ -103,7 +118,7 @@
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/DW.png" width="150px", height="110px">
+        <img src="/media/DW.png" width="120px", height="130px">
     </div>
     <div class="item2">
         Dongya Wang<br>
@@ -113,9 +128,29 @@
     </div>
 </div>
 
-## Visitor(s)
+---
 
-## Alumni
+## <i class='fa fa-leaf' style='font-size:21px'></i> Research Assistant(s)
+
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/MK.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        <a href="https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk">Maja Kaczmarek</a><br>
+        REP Student<br>
+        2021 – present<br>
+        <em>Interests</em>: DL, Bioinformatics
+    </div>
+</div>
+
+---
+
+## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
+
+---
+
+## <i class='fa fa-map-signs' style='font-size:21px'></i> Alumni
 
 {{< tabs "uniqueid" >}}
 
