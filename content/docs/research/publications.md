@@ -409,43 +409,25 @@ Proc. of 2015 IEEE Congress on Evolutionary Computation (CEC’15), IEEE Press: 
 **<ins>Ke Li</ins>**, Qingfu Zhang, Sam Kwong, Miqing Li, Ran Wang<br>
 IEEE Trans. Evolutionary Computation (TEVC). 18(6): 909--923, 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2013.2293776](https://ieeexplore.ieee.org/document/6678563)<br> 
-[[PDF](/publications/LiZKLW14.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiZKLW14.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZKLW14.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZKLW14.bib)
 
 - Adaptive Operator Selection with Bandits for Multiobjective Evolutionary Algorithm Based on Decomposition<br>
 **<ins>Ke Li</ins>**, Álvaro Fialho, Sam Kwong, Qingfu Zhang<br>
 IEEE Trans. Evolutionary Computation (TEVC). 18(1): 114--130, 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2013.2239648](https://ieeexplore.ieee.org/document/6410018)<br>
-[[PDF](/publications/LiFKZ14.pdf)] [[Supplementary](/supplementary/frrmab-supp.pdf)] [[Code](https://github.com/JerryI00/releasing-codes-java)] [[BiB](/bib/LiFKZ14.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiFKZ14.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](/publications/frrmab-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/releasing-codes-java) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiFKZ14.bib)
 
 - A General Framework for Evolutionary Multiobjective Optimization via Manifold Learning<br>
 **<ins>Ke Li</ins>**, Sam Kwong<br>
 Neurocomputing (NEUCOM). 146: 65--74, 2014.<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.neucom.2014.03.070](https://www.sciencedirect.com/science/article/pii/S0925231214008686?via%3Dihub)<br>
-[[PDF](/publications/LiK14.pdf)] [[BiB](/bib/LiK14.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiK14.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiK14.bib)
 
 - Evolutionary Algorithms with Segment-based Search for Multiobjective Optimization Problems<br>
 Miqing Li, Shengxiang Yang, **<ins>Ke Li</ins>**, Xiaohui Liu<br>
 IEEE Trans. Cybernetics (TCYB). 44(8): 1295--1313, 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2013.2282503](https://ieeexplore.ieee.org/document/6627937)<br>
-[[PDF](/publications/LiYLL14.pdf)] [[BiB](/bib/LiYLL14.bib)]
-
-- Learning to Decompose: A Paradigm for Decomposition-Based Multi-Objective Optimization<br>
-Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Jun Zhang<br>
-IEEE Trans. Evolutionary Computation (TEVC), 23(3): 376--390, 2019.<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2018.2865931](https://ieeexplore.ieee.org/document/8439014)<br>
-[PDF] [Supplementary] [Code] [[BiB](/bib/WuLKZZ18.bib)]
-
-- Interactive Decomposition Multi-Objective Optimization via Progressively Learned Value Functions<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Dragan Savic, Xin Yao<br>
-IEEE Trans. Fuzzy Systems (TFS), 27(5): 845--860, 2019.<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TFUZZ.2018.2880700](https://ieeexplore.ieee.org/document/8531708)<br>
-[[PDF](/publications/plvf.pdf)] [[Supplementary](/supplementary/plvf-supp.pdf)] [Code] [[BiB](/bib/LiCSY18.bib)]
-
-- Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Guangtao Fu, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC), 23(2): 303--315, 2019.<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2018.2855411](https://ieeexplore.ieee.org/document/8413136)<br>
-[[PDF](/publications/ctaea.pdf)] [[Supplementary](/supplementary/ctaea-supp.pdf)] [[Code](/codes/CTAEA.zip)] [[BiB](/bib/LiCFY18.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYLL14.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiYLL14.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -453,7 +435,7 @@ IEEE Trans. Evolutionary Computation (TEVC), 23(2): 303--315, 2019.<br>
 Jingjing Cao, Sam Kwong, Ran Wang, **<ins>Ke Li</ins>**<br>
 Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICMLC’12), IEEE Press: p. 147--152, July 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICMLC.2014.7009108](https://doi.org/10.1109/ICMLC.2014.7009108)<br>
-[[PDF](/publications/CaoKWL14.pdf)] [[BiB](/bib/CaoKWL14.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoKWL14.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/CaoKWL14.bib)
 
 ---
 
@@ -465,7 +447,7 @@ Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICML
 **<ins>Ke Li</ins>**, Sam Kwong, Ran Wang, Kit-Sang Tang, Kim-Fung Man<br>
 Information Sciences (INS), 226: 1--22, 2013.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2012.11.002](https://www.sciencedirect.com/science/article/pii/S0020025512007463?via%3Dihub)<br>
-[[PDF](/publications/LiKWTM13.pdf)] [[Code](/codes/JGBL.zip)] [[BiB](/bib/LiKWTM13.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKWTM13.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/JGBL.zip) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKWTM13.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -473,7 +455,7 @@ Information Sciences (INS), 226: 1--22, 2013.<br>
 **<ins>Ke Li</ins>**, Ran Wang, Sam Kwong, Jingjing Cao<br>
 International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems (IJUFKS). 21(supp02): 143--154, 2013.<br>
 <i class="ai ai-doi ai-lg"></i> [10.1142/S0218488513400229](https://www.worldscientific.com/doi/abs/10.1142/S0218488513400229)<br>
-[[PDF](/publications/LiWKC13.pdf)] [[Code](/codes/Evo-ELM.zip)] [[BiB](/bib/LiWKC13.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiWKC13.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/Evo-ELM.zip) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiWKC13.bib)
 
 ---
 
@@ -485,7 +467,7 @@ International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems (IJU
 **<ins>Ke Li</ins>**, Sam Kwong, Jingjing Cao, Miqing Li, Jinhua Zheng, Ruimin Shen<br>
 Information Sciences (INS), 182(1): 220--242, 2012.<br>
 <i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2011.08.027](https://www.sciencedirect.com/science/article/pii/S0020025511004464?via%3Dihub)<br>
-[[PDF](/publications/LiKCLZS12.pdf)] [[BiB](/bib/LiKCLZS12.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKCLZS12.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKCLZS12.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -493,13 +475,13 @@ Information Sciences (INS), 182(1): 220--242, 2012.<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Ran Wang, Jingjing Cao, Imre J. Rudas<br>
 Proc. of 2012 IEEE International Conference on Systems, Mans and Cybernetics (SMC’12), IEEE Press: p. 508--513, October 2012.<br>
 <i class="ai ai-ieee ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1109/ICSMC.2012.6377775](https://ieeexplore.ieee.org/document/6377775)<br>
-[[PDF](/publications/LiKWCR12.pdf)] [[BiB](/bib/LiKWCR12.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKWCR12.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKWCR12.bib)
 
 - A Weighted Voting Method Using Minimum Square Error based on Extreme Learning Machine<br>
 Jingjing Cao, Sam Kwong, Ran Wang, **<ins>Ke Li</ins>**<br>
 Proc. of 2012 International Conference on Machine Learning and Cybernetics (ICMLC’12), IEEE Press: p. 411--414, July 2012.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICMLC.2012.6358949](https://ieeexplore.ieee.org/document/6358949)<br>
-[[PDF](/publications/CaoKWL12.pdf)] [[BiB](/bib/CaoKWL12.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoKWL12.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/CaoKWL12.bib)
 
 ---
 
@@ -511,19 +493,19 @@ Proc. of 2012 International Conference on Machine Learning and Cybernetics (ICML
 Jingjing Cao, Hanli Wang, Sam Kwong, **<ins>Ke Li</ins>**<br>
 Proc. of 2011 IEEE International Conference on Systems, Mans and Cybernetics (SMC’11), IEEE Press: p. 1771--1776, October 2011.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICSMC.2011.6083928](https://ieeexplore.ieee.org/document/6083928)<br>
-[[PDF](/publications/CaoWKL11.pdf)] [[BiB](/bib/CaoWKL11.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoWKL11.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/CaoWKL11.bib)
 
 - JGBL paradigm: A Novel Strategy to Enhance the Exploration Ability of NSGA-II<br>
 **<ins>Ke Li</ins>**, Sam Kwong, Kim-Fung Man<br>
 Proc. of the 13th Annual Conference on Genetic and Evolutionary Computation (GECCO’11), ACM Press: p. 99--100, July 2011.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/2001858.2001915](https://doi.org/10.1145/2001858.2001915)<br>
-[[PDF](/publications/LiKM11.pdf)] [[BiB](/bib/LiKM11.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKM11.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiKM11.bib)
 
 - Multi-Objective Differential Evolution with Adaptive Control of Parameters and Operators<br>
 **<ins>Ke Li</ins>**, Álvaro Fialho, Sam Kwong<br>
 Proc. of the 5th International Conference on Learning and Intelligent OptimizatioN (LION’11), Springer Verlag, LNCS, p. 473--487, January 2011.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-642-25566-3\_37](https://link.springer.com/chapter/10.1007%2F978-3-642-25566-3_37)<br>
-[[PDF](/publications/LiFK11.pdf)] [[BiB](/bib/LiFK11.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiFK11.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiFK11.bib)
 
 ---
 
@@ -534,7 +516,7 @@ Proc. of the 5th International Conference on Learning and Intelligent Optimizati
 - A Novel Slicing Based Algorithm to Calculate Hypervolume for Multi-Objective Optimization Problems<br>
 **<ins>Ke Li</ins>**, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv<br>
 ICIC Express Letters: An International Journal of Research and Surveys, 4(4): 1113--1120, 2010.<br>
-[[PDF](/publications/LiZLZL10.pdf)] [[BiB](/bib/LiZLZL10.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZLZL10.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZLZL10.bib)
 
 <ins><span style="font-size:1.2em;">Conference</span></ins>
 
@@ -542,13 +524,13 @@ ICIC Express Letters: An International Journal of Research and Surveys, 4(4): 11
 Miqing Li, Jinhua Zheng, **<ins>Ke Li</ins>**, Qizhao Yuan, Ruimin Shen<br>
 Proc. of the 11th International Conference on Parallel Problem Solving from Nature (PPSN’10), Springer Verlag, LNCS, volume 6238: p. 647--656, September 2010.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-642-15844-5\_65](https://link.springer.com/chapter/10.1007%2F978-3-642-15844-5_65)<br>
-[[PDF](/publications/LiZLYS10.pdf)] [[BiB](/bib/LiZLYS10.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZLYS10.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZLYS10.bib)
 
 - A Grid-based Fitness Strategy for Evolutionary Many-Objective Optimization<br>
 Miqing Li, Jinhua Zheng, Ruimin Shen, **<ins>Ke Li</ins>**, Qizhao Yuan<br>
 Proc. of the 12th Annual Conference on Genetic and Evolutionary Computation (GECCO’10), ACM Press: p. 463--470, July 2010.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/1830483.1830570](https://dl.acm.org/citation.cfm?doid=1830483.1830570)<br>
-[[PDF](/publications/LiZSLY10.pdf)] [[BiB](/bib/LiZSLY10.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZSLY10.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZSLY10.bib)
 
 ---
 
@@ -560,28 +542,28 @@ Proc. of the 12th Annual Conference on Genetic and Evolutionary Computation (GEC
 **<ins>Ke Li</ins>**, Jinhua Zheng, Miqing Li, Cong Zhou, Hui Lv<br>
 Proc. of 2009 IEEE International Conference on Systems, Mans and Cybernetics (SMC’09), IEEE Press: p. 5220--5226, December 2009.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICSMC.2009.5345983](https://ieeexplore.ieee.org/document/5345983)<br>
-[[PDF](/publications/LiZLZL09.pdf)] [[BiB](/bib/LiZLZL09.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZLZL09.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZLZL09.bib)
 
 - An Spanning Tree Based Method For Pruning Non-Dominated Solutions in Multi- Objective Optimization Problems<br>
 Miqing Li, Jinhua Zheng, **<ins>Ke Li</ins>**, Jun Wu, Guixia Xiao<br>
 Proc. of 2009 IEEE International Conference on Systems, Mans and Cybernetics (SMC’09), IEEE Press: p. 4882--4887, December 2009.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICSMC.2009.5346322](https://ieeexplore.ieee.org/document/5346322/)<br>
-[[PDF](/publications/LiZLWX09.pdf)] [[BiB](/bib/LiZLWX09.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZLWX09.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZLWX09.bib)
 
 - Objective Reduction based on the Least Square Method for Large-dimensional Multiobjective Optimization Problem<br>
 Cong Zhou, Jinhua Zheng, **<ins>Ke Li</ins>**, Hui Lv<br>
 Proc. of the 5th International Conference on Natural Computation (ICNC’09), IEEE Press: p. 350--354, August 2009.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICNC.2009.40](https://ieeexplore.ieee.org/document/5366350)<br>
-[[PDF](/publications/ZhouZLL09.pdf)] [[BiB](/bib/ZhouZLL09.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/ZhouZLL09.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/ZhouZLL09.bib)
 
 - The Convergence Analysis of Genetic Algorithm based on Space Mating<br>
 Hui Lv, Jinhua Zheng, Jun Wu, Cong Zhou, **<ins>Ke Li</ins>**<br>
 Proc. of the 5th International Conference on Natural Computation (ICNC’09), IEEE Press: p. 557--562, August 2009.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICNC.2009.39](https://ieeexplore.ieee.org/document/5366015)<br>
-[[PDF](/publications/LvZWZL09.pdf)] [[BiB](/bib/LvZWZL09.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LvZWZL09.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LvZWZL09.bib)
 
 - An Improved Multi-objective Evolutionary Algorithm based on Differential Evolution<br>
 **<ins>Ke Li</ins>**, Jinhua Zheng<br>
 Proc. of 2009 WRI World Congress on Computer Science and Information Engineering (CSIE’09), IEEE Press: p. 825--830, March 2009.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CSIE.2009.181](https://ieeexplore.ieee.org/document/5171111)<br>
-[[PDF](/publications/LiZZL09.pdf)] [[BiB](/bib/LiZZL09.bib)]
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiZZL09.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/LiZZL09.bib)
