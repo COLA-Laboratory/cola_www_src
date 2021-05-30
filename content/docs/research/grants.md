@@ -1,11 +1,38 @@
+---
+title: Grants
+type: docs
+bookToc: false
+---
+
 # Grants
+
+<link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<head>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<style>
+hr.dashed {
+  border-top: 1px dashed #bbb;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  grid-gap: 5px;
+  background-color: transparent;
+  padding: 5px;
+}
+</style>
 
 We are grateful to have been generously supported by or closely working with the following funding bodies and industrial partners.
 
- <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/rs2.gif" width="160">&nbsp; <img src="/media/epsrc.png" width="260"><br>
- <img src="/media/rgc.jpg" width="210">&nbsp;  <img src="/media/nsfc.jpeg" width="100">&nbsp; <img src="/media/inria.png" width="195"></br>
- <img src="/media/uoe.gif" width="195">&nbsp;  <img src="/media/sww.png" width="160">&nbsp; <img src="/media/wpa.jpeg" width="140"><br>
- <img src="/media/dashboard.png" width="205">&nbsp; <img src="/media/bt.png" width="150"> 
+ <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/aws.png" width="210">&nbsp; <img src="/media/epsrc.png" width="260">&nbsp; <img src="/media/rs2.gif" width="160"><br>
+ <img src="/media/uoe.gif" width="195">&nbsp; <img src="/media/rgc.jpg" width="210">&nbsp; <img src="/media/inria.png" width="195">&nbsp; <img src="/media/nsfc.jpeg" width="100"></br>
+   <img src="/media/sww.png" width="160">&nbsp; <img src="/media/wpa.jpeg" width="140"> <img src="/media/dashboard.png" width="205">&nbsp; <img src="/media/bt.png" width="150"> 
 
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
