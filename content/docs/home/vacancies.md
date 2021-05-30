@@ -4,14 +4,14 @@ type: docs
 bookToc: false
 ---
 
+# Vacancies
+
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <head>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
-
-# Vacancies
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
 

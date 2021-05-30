@@ -31,16 +31,44 @@ hr.dashed {
 
 </style>
 
-## <i class='fa fa-optin-monster' style='font-size:21px'></i> Faculty
+{{< expand "Lookup table of acronyms in this page." "..." >}}
+
+{{< columns >}}
+- **<ins>EMO</ins>**: evolutionary multi-objective optimization
+- **<ins>BO</ins>**: Bayesian optimization
+- **<ins>BLO</ins>**: bi-level optimization
+- **<ins>MFO</ins>**: multi-fidelity optimization
+- **<ins>CO</ins>**: constrained optimization
+- **<ins>DO</ins>**: dynamic optimization
+- **<ins>MCM</ins>**: Monte Carlo method
+
+<--->
+
+- **<ins>LA</ins>**: landscape analysis
+- **<ins>TL</ins>**: transfer learning
+- **<ins>MTL</ins>**: multi-task learning
+- **<ins>LL</ins>**: life-long learning
+- **<ins>GP</ins>**: Gaussian processes
+- **<ins>NLP</ins>**: natural language processing
+- **<ins>SE</ins>**: software engineering
+- **<ins>VNF</ins>**: virtual network functions
+
+{{< /columns >}}
+
+{{< /expand >}}
+
+---
+
+## <i class='fa fa-grav' style='font-size:21px'></i> Faculty
 
 <div class="grid-container">
     <div class="item1">
         <img src="/media/KL2.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Ke Li<br>
-        UKRI FLF<br>
-        Principal Investigator<br>
+        Dr Ke Li (UKRI FLF)<br>
+        Senior Lecturer<br>
+        Department of Computer Science<br>
         University of Exeter<br>
         <a href="/CV-KL.pdf"><i class="ai ai-cv ai-lg"></i></a> <a href="https://scholar.google.co.uk/citations?user=lUFU8KsAAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i></a> <a href="https://dblp.uni-trier.de/pers/hd/l/Li_0001:Ke"><i class="ai ai-dblp ai-lg"></i></a> <a href="https://orcid.org/0000-0001-7200-4244"><i class="ai ai-orcid ai-lg"></i></a> <a href="https://www.researchgate.net/profile/Ke_Li18"><i class="ai ai-researchgate ai-lg"></i> <a href="https://arxiv.org/a/li_k_3.html"><i class="ai ai-arxiv ai-lg"></i></a>
     </div>
@@ -48,7 +76,7 @@ hr.dashed {
 
 ---
 
-## <i class='fa fa-reddit-alien' style='font-size:21px'></i> Research Staff(s)
+## <i class='fa fa-themeisle' style='font-size:21px'></i> Research Staff(s)
 
 <div class="grid-container">
     <div class="item1">
@@ -58,16 +86,16 @@ hr.dashed {
         Dr Jiangjiao Xu<br>
         Research Fellow<br>
         07/2020 – present<br>
-        <em>Interests</em>: smart grid, TL, EMO, meta learning
+        <em>Interests</em>: SG, TL, GP, EMO, meta-learning
     </div>
     <div class="item1">
-        <img src="/media/default.png" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Fan Li<br>
         Research Fellow<br>
         04/2021 – present<br>
-        <em>Interests</em>: multi-fidelity, TL, MTL, EMO
+        <em>Interests</em>: MFO, TL, MTL, EMO
     </div>
 </div>
 
@@ -106,14 +134,14 @@ hr.dashed {
         2020 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
-    <div class="item3">
-        <img src="/media/SY.jpeg" width="120px", height="130px">
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
-    <div class="item4">
-        Savas Yuec<br>
+    <div class="item2">
+        Peili Mao<br>
         PhD Student<br>
-        2018 - present<br>
-        <em>Interests</em>: EMO, BO, reliability
+        2021 – present<br>
+        <em>Interests</em>: SE, BO, MCM, LA
     </div>
 </div>
 
@@ -127,11 +155,20 @@ hr.dashed {
         2018 – present<br>
         <em>Interests</em>: EMO, CO
     </div>
+    <div class="item3">
+        <img src="/media/SY.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Savas Yuec<br>
+        PhD Student<br>
+        2018 - present<br>
+        <em>Interests</em>: EMO, BO, reliability
+    </div>
 </div>
 
 ---
 
-## <i class='fa fa-leaf' style='font-size:21px'></i> Research Assistant(s)
+## <i class='fa fa-pagelines' style='font-size:21px'></i> Research Assistant(s)
 
 <div class="grid-container">
     <div class="item1">
@@ -141,7 +178,7 @@ hr.dashed {
         <a href="https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk">Maja Kaczmarek</a><br>
         REP Student<br>
         University of Manchester<br>
-        2021 – present<br>
+        08/2021 – present<br>
         <em>Interests</em>: DL, Bioinformatics
     </div>
 </div>
@@ -151,24 +188,24 @@ hr.dashed {
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/default.png" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Jiaxin Chen<br>
         Visiting PhD Student<br>
         Northeastern University<br>
         06/2021 – present<br>
-        <em>Interests</em>: bilevel optimization, EMO, MTL
+        <em>Interests</em>: BLO, EMO, MTL
     </div>
     <div class="item1">
-        <img src="/media/default.png" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Huan Zhang<br>
         Visiting PhD Student<br>
         Northeastern University<br>
         06/2021 – present<br>
-        <em>Interests</em>: dynamic optimization, TL, EMO
+        <em>Interests</em>: DO, TL, EMO
     </div>
 </div>
 
