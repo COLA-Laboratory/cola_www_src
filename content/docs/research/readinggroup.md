@@ -30,6 +30,23 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Mar" >}}
+
+- Generalized Homotopy Approach to Multiobjective Optimization, `Yongqi Feng` `Mar 15`<br>
+[[paper](https://link.springer.com/article/10.1023/A:1017536311488)] [slides]
+
+- Machine Learning Approaches in Programming Language Type Inference, `Jiancheng Qian` `Mar 7`<br>
+[slides]
+
+{{< /tab >}}
+
+{{< tab "Feb" >}}
+
+- Understanding and Improving Information Transfer in Multi-Task Learning, _ICLR 2020_, `Renzhi Chen` `Feb 7`<br>
+[[paper](https://openreview.net/forum?id=SylzhkBtDB)] [slides]
+
+{{< /tab >}}
+
 {{< tab "Jan" >}}
 
 - OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification, _NIPS 2020_, `Jiangjiao Xu` `Jan 31`<br>
@@ -43,23 +60,6 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, _ICLR 2020_, `Shasha Zhou` `Jan 3`<br>
 [[paper](https://openreview.net/pdf?id=r1xMH1BtvB)] [slides]
-
-{{< /tab >}}
-
-{{< tab "Feb" >}}
-
-- Understanding and Improving Information Transfer in Multi-Task Learning, _ICLR 2020_, `Renzhi Chen` `Feb 7`<br>
-[[paper](https://openreview.net/forum?id=SylzhkBtDB)] [slides]
-
-{{< /tab >}}
-
-{{< tab "Mar" >}}
-
-- Generalized Homotopy Approach to Multiobjective Optimization, `Yongqi Feng` `Mar 15`<br>
-[[paper](https://link.springer.com/article/10.1023/A:1017536311488)] [slides]
-
-- Machine Learning Approaches in Programming Language Type Inference, `Jiancheng Qian` `Mar 7`<br>
-[slides]
 
 {{< /tab >}}
 
