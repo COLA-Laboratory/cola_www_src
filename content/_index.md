@@ -14,8 +14,7 @@ bookToc: false
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
-
-We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning. Applications focus on search-based software engineering, water engineering, material science and medicine.
+We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning and statistical modeling of complex systems. Applications focus on search-based software engineering, water engineering, biological science and medicine.
 
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
