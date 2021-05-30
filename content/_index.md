@@ -21,13 +21,13 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2020)
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2021)
 
 {{< tabs "uniqueid" >}}
 
 {{< tab "May" >}}
 
-* We are pleased to announce that Peili has successfully secured his studentship and will start his PhD journal since this autumn `May 28`
+* We are pleased to announce that Peili has successfully secured his studentship and will start his PhD journal since this autumn `May 28` 
 
 * We are glad to announce that [Maja Kaczmarek](https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk), a second year undergraduate student from the University of Manchester, has been awarded a REP studentship from [SWBio DTP](https://www.swbio.ac.uk/) (only two in Exeter). We will work with [Dr Yiliang Ding](https://www.jic.ac.uk/people/yilliang-ding/)'s group from [John Innes Centre](https://www.jic.ac.uk/) on some exciting topics about RNA structure prediction. `May 17`
 
