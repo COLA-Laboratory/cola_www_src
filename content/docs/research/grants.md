@@ -37,23 +37,34 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
-- Amazon Research Award: AWS AI Call, _Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls_, PI, $10,000, 2021-2022.
-- EPSRC DTP Doctoral Prize: #2404317, _Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems_, PI, &pound;74,000, 2020-2024.
-- UKRI Future Leaders Fellowship: #MR/S017062/1, _Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation_, PI, &pound;1,370,803 (UKRI Contribution: &pound;1,096,643), 2019--2023.
-- EPSRC/British Telecommunications Industrial CASE Studentship: #EP/P51049X/1, _Dynamic Resource Management and Optimization for SLA Guarantees in Hyperconverged Communication Infrastructures_, Co-I (with PI: Prof. Geyong Min), &pound;81,430, 2017--2021.
-- NSFC: #61876162, _Multi-Task Semi-Supervised Deep Learning based on Evolutionary Algorithms and Its Applications_, Co-I (with PI: Prof. Kay Chen Tan) &yen;640,000, 2019--2022.
-- University of Exeter Start-up Grant: PI, &pound;10,000, 2017 -- present.
+- Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+- Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC DTP Doctoral Prize | <i class='fa fa-qrcode' style='font-size:18px'></i> [#2404317](https://gtr.ukri.org/projects?ref=studentship-2404317) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;74,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2020--2024.
+- Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> UKRI Future Leaders Fellowship | <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](https://gtr.ukri.org/projects?ref=MR%2FS017062%2F1) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;1,370,803 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2019--2023.
+- Dynamic Resource Management and Optimization for SLA Guarantees in Hyperconverged Communication Infrastructures<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC Industrial CASE Studentship | <i class='fa fa-qrcode' style='font-size:18px'></i> [#EP/P51049X/1](https://gtr.ukri.org/projects?ref=studentship-2006920) | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Geyong Min) | <i class='fa fa-money' style='font-size:18px'></i> &pound;81,430 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2017--2021.
+- Multi-Task Semi-Supervised Deep Learning based on Evolutionary Algorithms and Its Applications<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> NSFC | <i class='fa fa-qrcode' style='font-size:18px'></i> #61876162 | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Kay Chen Tan) | <i class='fa fa-money' style='font-size:18px'></i> &yen;640,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2019--2022.
+- <i class='fa fa-balance-scale' style='font-size:18px'></i> University of Exeter Start-up Grant | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2017--present.
 
 {{< /tab >}}
 
 {{< tab "Finished" >}}
 
-- North-European Associated Team Project between INRIA Lille Nord Europe and University of Exeter, _Three-Fold Decomposition in Multi-objective Optimization_, PI, &euro;10,000, 2018--2020.
-- Royal Society International Exchange Program: #IEC/NSFC/170243, _Key Questions in Multi-Label Active Learning: Multi-objective Optimisation_, Uncertainty Modelling, and Multi-Criteria Decision-Making, PI, &pound;11,863, 2018--2020.
-- NSFC: #61502408, _Research on Key Problems in Dynamic Environment Multi-objective Evolutionary Optimization_, Co-I (with PI: Dr. Juan Zou) &yen;250,000, 2015--2018.
-- EPSRC Program Grant: #EP/J017515/1, _DAASE: Dynamic Adaptive Automated Software Engineering_, Research Fellow, &pound;6,834,903, 2012--2019.
-- EPSRC: #EP/K001523/1, _Evolutionary Computation for Dynamic Optimisation in Network Environments_, Research Fellow, &pound;512,325, 2013--2017.
-- Hong Kong GRF: #11205314, _Stable Matching Theory in Multiobjective Evolutionary Algorithm based on Decomposition (MOEA/D)_, proposal drafting and activity scheduling, HK$692,894, 2014--2017.
+- Three-Fold Decomposition in Multi-objective Optimization<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> North-European Associated Team Project between INRIA Lille Nord Europe and University of Exeter | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &euro;10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2018--2020.
+- Key Questions in Multi-Label Active Learning: Multi-objective Optimisation<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society International Exchange Program (Cost Share with NSFC) | <i class='fa fa-qrcode' style='font-size:18px'></i> #IEC/NSFC/170243 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,863 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2018--2020.
+- Research on Key Problems in Dynamic Environment Multi-objective Evolutionary Optimization<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> NSFC | <i class='fa fa-qrcode' style='font-size:18px'></i> #61502408 | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Juan Zou) | <i class='fa fa-money' style='font-size:18px'></i> &yen;250,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2015--2018.
+- DAASE: Dynamic Adaptive Automated Software Engineering<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC Program Grant | <i class='fa fa-qrcode' style='font-size:18px'></i> #EP/J017515/1 | <i class='fa fa-street-view' style='font-size:18px'></i> Research Fellow | <i class='fa fa-money' style='font-size:18px'></i> &yen;6,834,903 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2012--2019.
+- Evolutionary Computation for Dynamic Optimisation in Network Environments<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC | <i class='fa fa-qrcode' style='font-size:18px'></i> #EP/K001523/1 | <i class='fa fa-street-view' style='font-size:18px'></i> Research Fellow | <i class='fa fa-money' style='font-size:18px'></i> &yen;512,325 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2013--2017.
+- Stable Matching Theory in Multiobjective Evolutionary Algorithm based on Decomposition<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Hong Kong GRF | <i class='fa fa-qrcode' style='font-size:18px'></i> #11205314 | <i class='fa fa-street-view' style='font-size:18px'></i> proposal drafting and activity scheduling | <i class='fa fa-money' style='font-size:18px'></i> HK$692,894 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2014--2017.
 
 {{< /tab >}}
 {{< /tabs >}}
