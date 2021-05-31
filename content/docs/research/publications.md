@@ -42,7 +42,7 @@ hr.dashed {
 
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
 **<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2005.11600 | Last update: 01/06/2021<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2005.11600 | <i class='fa fa-calendar' style='font-size:16px'></i> 01/06/2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
