@@ -40,49 +40,51 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tab "May" >}}
 
-- Global Optimization via Inverse Distance Weighting and Radial Basis Functions, *Comput. Optim. Appl.*, 77: 571--595, 2020.<br>
+- Global Optimization via Inverse Distance Weighting and Radial Basis Functions<br>
+*Comput. Optim. Appl.*, 77: 571--595, 2020<br>
 <i class='fa fa-link' style='font-size:16px'></i> [`paper`](https://link.springer.com/article/10.1007/s10589-020-00215-w) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiahao Zhou | <i class='fa fa-calendar' style='font-size:16px'></i> May 30
 
-- Sequential Monte Carlo: Theory and Applications, *Foundations and Trends in Machine Learning*, 12(3): 307--392, 2019.<br>
+- Sequential Monte Carlo: Theory and Applications<br>
+*Foundations and Trends in Machine Learning*, 12(3): 307--392, 2019<br>
 <i class='fa fa-link' style='font-size:16px'></i> [`paper`](https://www.nowpublishers.com/article/Details/MAL-074) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Peili Mao | <i class='fa fa-calendar' style='font-size:16px'></i> May 23
 
 {{< /tab >}}
 
 {{< tab "Mar" >}}
 
-- Generalized Homotopy Approach to Multiobjective Optimization, *J. Optimiz. Theory App.*, 110: 557--583, 2001.<br>
+- Generalized Homotopy Approach to Multiobjective Optimization<br>
+*J. Optimiz. Theory App.*, 110: 557--583, 2001<br>
 <i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://link.springer.com/article/10.1023/A:1017536311488) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Yongqi Feng | <i class='fa fa-calendar' style='font-size:16px'></i> Mar 15
-
 
 - Machine Learning Approaches in Programming Language Type Inference<br>
 <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiancheng Qian | <i class='fa fa-calendar' style='font-size:16px'></i> Mar 7
-
 
 {{< /tab >}}
 
 {{< tab "Feb" >}}
 
-- Understanding and Improving Information Transfer in Multi-Task Learning, _ICLR 2020_, `Renzhi Chen` `Feb 7`<br>
-[[paper](https://openreview.net/forum?id=SylzhkBtDB)] [slides]
+- Understanding and Improving Information Transfer in Multi-Task Learning<br>
+_ICLR 2020_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://openreview.net/forum?id=SylzhkBtDB) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Renzhi Chen | <i class='fa fa-calendar' style='font-size:16px'></i> Feb 7
 
 {{< /tab >}}
 
 {{< tab "Jan" >}}
 
-- OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification, _NIPS 2020_, `Jiangjiao Xu` `Jan 31`<br>
-[[paper](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf)] [slides]
+- OOD-MAML: Meta-Learning for Few-ShotOut-of-Distribution Detection and Classification<br>
+_NIPS 2020_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiangjiao Xu | <i class='fa fa-calendar' style='font-size:16px'></i> Jan 31
 
-- Domination Measure: A New Metric for Solving Multiobjective Optimization, _INFORMS J. Comput._, `Xinyu Shan` `Jan 24`<br>
-[[paper](https://pubsonline.informs.org/doi/10.1287/ijoc.2019.0920)] [slides]
+- Domination Measure: A New Metric for Solving Multiobjective Optimization<br>
+_INFORMS J. Comput._, 32(3): 565--581, 2020<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://pubsonline.informs.org/doi/10.1287/ijoc.2019.0920) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Xinyu Shan | <i class='fa fa-calendar' style='font-size:16px'></i> Jan 24
 
-- Recent Advances in Real-World Constrained Multi-Objective Optimization Problems, `Xinyu Shan` `Jan 10`<br>
-[slides]
-
-- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, _ICLR 2020_, `Shasha Zhou` `Jan 3`<br>
-[[paper](https://openreview.net/pdf?id=r1xMH1BtvB)] [slides]
+- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators<br>
+_ICLR 2020_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://openreview.net/pdf?id=r1xMH1BtvB) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Shasha Zhou | <i class='fa fa-calendar' style='font-size:16px'></i> Jan 3
 
 {{< /tab >}}
 
 {{< /tabs >}}
 
-Previous reading group information can be found from our [archive](/docs/research/archive_reading).
+<i class='fa fa-archive' style='font-size:19px'></i> Previous reading group information can be found from our [archive](/docs/research/archive_reading).
