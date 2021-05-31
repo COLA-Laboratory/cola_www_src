@@ -30,7 +30,6 @@ hr.dashed {
 
 {{< hint warning >}}
 - The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism.
-- means equal contribution.
 - \+ means my current/previous student or visitor.
 - \* means equal contribution
 
@@ -48,7 +47,7 @@ hr.dashed {
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
 - Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm<br>
-Lingjie Li, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
+Lingjie Li+, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
 Swarm and Evolutionary Computation (SWEVO)<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2021.100886](https://doi.org/10.1016/j.swevo.2021.100886)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
