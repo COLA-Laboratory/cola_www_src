@@ -108,19 +108,19 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 
 - Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points<br>
 **<ins>Ke Li</ins>**, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC), 24(6): 1078-1096, 2020.<br>
+IEEE Trans. Evolutionary Computation (TEVC), 24(6): 1078--1096, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2020.2987559](https://ieeexplore.ieee.org/document/9066927)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiLDMY20.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/empirical_preference) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Reference Point Based Multi-Objective Optimization of Reservoir Operation: a Comparison of Three Algorithms<br>
 Rong Tang, **<ins>Ke Li</ins>**, Wei Ding, Yuntao Wang, Huicheng Zhou, Guangtao Fu<br>
-Water Resources Management, 34: 1005–1020, 2020.<br>
+Water Resources Management, 34: 1005--1020, 2020.<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s11269-020-02485-9](http://link.springer.com/article/10.1007/s11269-020-02485-9)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Many-Objective Optimization Based on Adversarial Decomposition<br>
 Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang<br>
-IEEE Trans. Cybernetics (TCYB), 50(2): 753-764, 2020.<br>
+IEEE Trans. Cybernetics (TCYB), 50(2): 753--764, 2020.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2018.2872803](https://ieeexplore.ieee.org/document/8500750)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](/supplementary/ad-supp.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> [`BiB`](/bib/WuLKZ18.bib)
 
