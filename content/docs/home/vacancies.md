@@ -7,13 +7,18 @@ bookToc: false
 # Vacancies
 
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
+
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-</head>
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
+
+{{< hint danger >}}
+<i class='fa fa-free-code-camp' style='font-size:19px'></i> There is a new <ins>**Research Fellow**</ins> post opening in my lab. Please submit your application according to the protocol <i class='fa fa-wpforms' style='font-size:19px'></i> [here](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=837453WDDW&WVID=3817591jNg&LANG=USA). Strong background in mathematics, statistics and machine learning are highly welcome to this post. The deadline is <i class='fa fa-calendar' style='font-size:19px'></i> Jul 13 2021.
+{{< /hint >}}
 
 {{< tabs "uniqueid" >}}
 {{< tab "PhD" >}}
