@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Members
 type: docs
 bookToc: false
 ---
