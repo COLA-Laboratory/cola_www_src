@@ -28,6 +28,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Jun" >}}
+
+* We are pleased to announce that Heng has successfully secured his PhD studentship from both CSC and Exeter. He will start his PhD journal in our lab since this autumn. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 3 
+
+{{< /tab >}}
+
 {{< tab "May" >}}
 
 * We are pleased to announce that Peili has successfully secured his studentship and will start his PhD journal since this autumn. <i class='fa fa-calendar' style='font-size:19px'></i> May 28 

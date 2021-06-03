@@ -89,7 +89,7 @@ hr.dashed {
         <em>Interests</em>: SG, TL, GP, EMO, meta-learning
     </div>
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/default_w.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Fan Li<br>
@@ -126,12 +126,12 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JQ.jpeg" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Jiancheng Qian<br>
+        Heng Yang<br>
         PhD Student<br>
-        2020 – present<br>
+        2021 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
     <div class="item1">
@@ -147,13 +147,13 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/DW.png" width="120px", height="130px">
+        <img src="/media/JQ.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dongya Wang<br>
+        Jiancheng Qian<br>
         PhD Student<br>
-        2018 – present<br>
-        <em>Interests</em>: EMO, CO
+        2020 – present<br>
+        <em>Interests</em>: NLP, SE, Code naturalness
     </div>
     <div class="item3">
         <img src="/media/SY.jpeg" width="120px", height="130px">
@@ -165,6 +165,19 @@ hr.dashed {
         <em>Interests</em>: EMO, BO, reliability
     </div>
 </div>
+
+<div class="grid-container">
+    <div class="item3">
+        <img src="/media/SY.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Savas Yuec<br>
+        PhD Student<br>
+        2018 - present<br>
+        <em>Interests</em>: EMO, BO, reliability
+    </div>
+</div>
+
 
 ---
 
@@ -188,7 +201,7 @@ hr.dashed {
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/default_w.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Jiaxin Chen<br>
@@ -198,7 +211,7 @@ hr.dashed {
         <em>Interests</em>: BLO, EMO, MTL
     </div>
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/default_w.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Huan Zhang<br>
