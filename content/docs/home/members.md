@@ -156,13 +156,13 @@ hr.dashed {
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
     <div class="item3">
-        <img src="/media/SY.jpeg" width="120px", height="130px">
+        <img src="/media/DW.png" width="120px", height="130px">
     </div>
     <div class="item4">
-        Savas Yuec<br>
+        Dongya Wang<br>
         PhD Student<br>
         2018 - present<br>
-        <em>Interests</em>: EMO, BO, reliability
+        <em>Interests</em>: EMO, CO
     </div>
 </div>
 
