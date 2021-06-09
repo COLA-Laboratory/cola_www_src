@@ -38,6 +38,14 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "June" >}}
+
+- Discrete Fourier Transform and Random Fourier Features<br>
+*Data-Driven Science and Engineering*, Chapter 2: 47--83, 2019<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Phoenix Williams | <i class='fa fa-calendar' style='font-size:16px'></i> June 9
+
+{{< /tab >}}
+
 {{< tab "May" >}}
 
 - Global Optimization via Inverse Distance Weighting and Radial Basis Functions<br>
