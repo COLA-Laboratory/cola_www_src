@@ -89,7 +89,7 @@ hr.dashed {
         <em>Interests</em>: SG, TL, GP, EMO, meta-learning
     </div>
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/FL.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Fan Li<br>
@@ -201,7 +201,7 @@ hr.dashed {
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/JC.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Jiaxin Chen<br>
@@ -211,7 +211,7 @@ hr.dashed {
         <em>Interests</em>: BLO, EMO, MTL
     </div>
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/HZ.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Huan Zhang<br>
