@@ -52,6 +52,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
+Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm<br>
 Lingjie Li+, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
 Swarm and Evolutionary Computation (SWEVO)<br>

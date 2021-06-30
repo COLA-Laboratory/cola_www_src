@@ -40,6 +40,15 @@ The discussion is limited to one hour. The discussion is lead by a moderator, wh
 
 {{< tab "June" >}}
 
+- Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction<br>
+_WWW 2019_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313577) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiangjiao Xu | <i class='fa fa-calendar' style='font-size:16px'></i> June 20
+
+- Bayesian temporal factorization for multidimensional time series prediction<br>
+_IEEE PAMI 2021_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://ieeexplore.ieee.org/document/9380704) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Jiangjiao Xu | <i class='fa fa-calendar' style='font-size:16px'></i> June 13
+
+
 - Discrete Fourier Transform and Random Fourier Features<br>
 *Data-Driven Science and Engineering*, Chapter 2: 47--83, 2019<br>
 <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Phoenix Williams | <i class='fa fa-calendar' style='font-size:16px'></i> June 9
