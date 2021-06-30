@@ -30,6 +30,13 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jun" >}}
 
+
+* Our paper on "Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization" is accepted to IEEE Trans. Evolutionary Computation. Congratulations to Lei and collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Jun 30 
+
+* I have been identified as 2% top scientists in the world across all disciplines from a [report](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) published by Stanford University. At the moment, I am ranked around #3200 in the AI subfield worldwide. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 20 
+
+* We are pleased to announce that we will host a summer school on **Data-Driven Artificial/Computational Intelligence: Theory and Applications** this August. This summer school is kindly supported by IEEE Computational Intelligence Society. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 17 
+
 * We are pleased to announce that Heng has successfully secured his PhD studentship from both CSC and Exeter. He will start his PhD journal in our lab since this autumn. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 3 
 
 {{< /tab >}}
