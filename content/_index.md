@@ -88,7 +88,7 @@ Department of Computer Science<br>
 Innovation Centre A1-D<br>
 University of Exeter<br>
 Streatham Campus, North Park Road<br>
-Exeter, UK, EX4 4QF<br>
+Exeter, EX4 4QF, UK<br>
 <i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _k.li_ AT _exeter.ac.uk_<br>
 <i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0139-272-4557
 

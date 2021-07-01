@@ -46,7 +46,7 @@ hr.dashed {
 
 - Evolutionary Multi-Objective Virtual Network Function Placement: A Formal Model and Effective Algorithms<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/ix0256tvn25vsfx/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/0fqi36on0g9zh4g/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 
