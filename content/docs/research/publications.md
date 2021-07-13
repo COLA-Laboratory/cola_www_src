@@ -52,6 +52,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
+Savas Yuec+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](https://ukci2021.dcs.aber.ac.uk/), September, 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>

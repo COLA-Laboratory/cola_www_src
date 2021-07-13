@@ -63,7 +63,7 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/KL2.jpeg" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Dr Ke Li (UKRI FLF)<br>
