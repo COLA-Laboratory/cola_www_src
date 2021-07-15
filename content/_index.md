@@ -20,10 +20,6 @@ We are a research laboratory based in Exeter. Our research expertise is in compu
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-{{< hint danger >}}
-<i class='fa fa-free-code-camp' style='font-size:19px'></i> There is a new <ins>**Research Fellow**</ins> post opening in my lab. Please submit your application according to the protocol <i class='fa fa-wpforms' style='font-size:19px'></i> [here](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=837453WDDW&WVID=3817591jNg&LANG=USA). Strong background in mathematics, statistics and machine learning are highly welcome to this post. The <ins>**deadline**</ins> is <i class='fa fa-calendar' style='font-size:19px'></i> Jul 13 2021.
-{{< /hint >}}
-
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2021)
 
 {{< tabs "uniqueid" >}}
