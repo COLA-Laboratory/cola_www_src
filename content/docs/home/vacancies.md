@@ -16,10 +16,6 @@ bookToc: false
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
 
-{{< hint danger >}}
-<i class='fa fa-free-code-camp' style='font-size:19px'></i> There is a new <ins>**Research Fellow**</ins> post opening in my lab. Please submit your application according to the protocol <i class='fa fa-wpforms' style='font-size:19px'></i> [here](https://jobs.exeter.ac.uk/hrpr_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=837453WDDW&WVID=3817591jNg&LANG=USA). Strong background in mathematics, statistics and machine learning are highly welcome to this post. The deadline is <i class='fa fa-calendar' style='font-size:19px'></i> Jul 13 2021.
-{{< /hint >}}
-
 {{< tabs "uniqueid" >}}
 {{< tab "PhD" >}}
 
