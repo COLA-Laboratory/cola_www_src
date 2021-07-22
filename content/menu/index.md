@@ -11,6 +11,7 @@ headless: true
   - [Grants]({{< relref "/docs/research/grants" >}})
   - [Reading Group]({{< relref "/docs/research/readinggroup" >}})
 - **Misc**
+  - [CIS SS]({{< relref "/docs/misc/cisss" >}})
   - [ECTC TF]({{< relref "/docs/misc/dtec" >}})
   - [Deadlines]({{< relref "/docs/misc/ddl" >}})
 <br />
