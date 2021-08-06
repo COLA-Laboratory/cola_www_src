@@ -49,8 +49,28 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/ix0256tvn25vsfx/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/0fqi36on0g9zh4g/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Large-Scale Evolutionary Optimization via Multi-Task RandomGrouping
+Phoenix Williams, **<ins>Ke Li</ins>**
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment
+Renzhi Chen+, **<ins>Ke Li</ins>**
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- ADMM-based OPF Problem Against Cyber Attacks in Smart Grid
+Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Knee Point Identification Based on the Geometric Characteristic
+Renzhi Chen+, **<ins>Ke Li</ins>**
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
 Savas Yuec+, **<ins>Ke Li</ins>**<br>

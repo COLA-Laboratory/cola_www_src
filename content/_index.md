@@ -4,7 +4,7 @@ type: docs
 bookToc: false
 ---
 
-# Welcome to Ke Li's Homepage
+# Welcome to COLA Laboratory
 
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
@@ -14,7 +14,7 @@ bookToc: false
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 
-We are a research laboratory based in Exeter. Our research expertise is in computational/artificial intelligence, multi-objective optimisation and decision-making, operational research, machine learning and statistical modeling of complex systems. Applications focus on search-based software engineering, water engineering, biological science and medicine.
+Computational Optimization for Learning and Adaptive Systems (COLA) laboratory is working in computational/artificial intelligence, multi-objective optimization and decision-making, operational research, machine learning and statistical modeling of complex systems. Applications focus on search-based software engineering, energy, biological science and medicine.
 
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
@@ -24,8 +24,15 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "Jun" >}}
+{{< tab "Aug" >}}
 
+* We have four papers accepted by [IEEE SMC 2021](http://ieeesmc2021.org/). Congratulations to Renzhi, Phoenix and Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 4
+
+* One proposal get funded by Hong Kong GRF. Congratulations to KC and looking forward to working with you soon. <i class='fa fa-calendar' style='font-size:19px'></i> Aug 1
+
+{{< /tab >}}
+
+{{< tab "Jun" >}}
 
 * Our paper on "Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization" is accepted to IEEE Trans. Evolutionary Computation. Congratulations to Lei and collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Jun 30 
 
