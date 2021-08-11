@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Aug" >}}
 
+* Our paper "Neural Architecture Search for Portrait Parsing" is accepted to IEEE Trans. Neural Networks and Learning Systems. Congratulations to our fantastic collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 11
+
 * We have four papers accepted by [IEEE SMC 2021](http://ieeesmc2021.org/). Congratulations to Renzhi, Phoenix and Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 4
 
 * One proposal get funded by Hong Kong GRF. Congratulations to KC and looking forward to working with you soon. <i class='fa fa-calendar' style='font-size:19px'></i> Aug 1

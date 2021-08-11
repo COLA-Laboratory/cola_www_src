@@ -51,23 +51,28 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
-- Large-Scale Evolutionary Optimization via Multi-Task RandomGrouping
-Phoenix Williams, **<ins>Ke Li</ins>**
+- Neural Architecture Search for Portrait Parsing<br>
+Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Large-Scale Evolutionary Optimization via Multi-Task Random Grouping<br>
+Phoenix Williams, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment
-Renzhi Chen+, **<ins>Ke Li</ins>**
+- Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- ADMM-based OPF Problem Against Cyber Attacks in Smart Grid
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang
+- ADMM-based OPF Problem Against Cyber Attacks in Smart Grid<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Knee Point Identification Based on the Geometric Characteristic
-Renzhi Chen+, **<ins>Ke Li</ins>**
+- Knee Point Identification Based on the Geometric Characteristic<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
@@ -80,28 +85,12 @@ Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](htt
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3095313](https://ieeexplore.ieee.org/abstract/document/9476019)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm<br>
-Lingjie Li+, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
-Swarm and Evolutionary Computation (SWEVO)<br>
-<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2021.100886](https://doi.org/10.1016/j.swevo.2021.100886)<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- A Vector Angles-Based Many-Objective Particle Swarm Optimization Algorithm Using Archive<br>
-Lei Yang+, Xin Hu, **<ins>Ke Li</ins>**<br>
-Applied Soft Computing (ASOC)<br>
-<i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.asoc.2021.107299](https://doi.org/10.1016/j.asoc.2021.107299)<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
 Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://cec2021.mini.pw.edu.pl/), June, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
-Longfei Zhang+, **<ins>Ke Li</ins>**, Shi Gu<br>
-Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), July, 2021.<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
@@ -110,6 +99,18 @@ Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GE
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
+- Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm<br>
+Lingjie Li+, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
+Swarm and Evolutionary Computation (SWEVO), 106: 107299, 2021<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.swevo.2021.100886](https://doi.org/10.1016/j.swevo.2021.100886)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Vector Angles-Based Many-Objective Particle Swarm Optimization Algorithm Using Archive<br>
+Lei Yang+, Xin Hu, **<ins>Ke Li</ins>**<br>
+Applied Soft Computing (ASOC), 63: 100886, 2021<br>
+<i class="ai ai-elsevier ai-lg"></i>  <i class="ai ai-doi ai-lg"></i> [10.1016/j.asoc.2021.107299](https://doi.org/10.1016/j.asoc.2021.107299)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Bayesian Network Based Label Correlation Analysis For Multi-label Classifier Chain<br>
 Ran Wang, Suhe Ye, **<ins>Ke Li</ins>**, Sam Kwong<br>
 Information Sciences (INS), 554: 256--275, 2021<br>
@@ -117,6 +118,11 @@ Information Sciences (INS), 554: 256--275, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
+Longfei Zhang+, **<ins>Ke Li</ins>**, Shi Gu<br>
+Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), ACM, p. 247--248, July, 2021.<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
 Xinyu Shan+, **<ins>Ke Li</ins>**<br>
