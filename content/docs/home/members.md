@@ -97,6 +97,15 @@ hr.dashed {
         04/2021 – present<br>
         <em>Interests</em>: MFO, TL, MTL, EMO
     </div>
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Dr Xinqi Li<br>
+        Research Fellow<br>
+        11/2021 – present<br>
+        <em>Interests</em>: MFO, TL, MTL, EMO
+    </div>
 </div>
 
 ---
