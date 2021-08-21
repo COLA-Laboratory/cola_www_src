@@ -39,6 +39,11 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Decomposition Multi-Objective Evolutionary Optimization: From State-of-the-Art to Future Opportunities<br>
+**<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx | <i class='fa fa-calendar' style='font-size:16px'></i> August 2021<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/k6xom2n0smsmzr9/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
 **<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2005.11600 | <i class='fa fa-calendar' style='font-size:16px'></i> June 2021<br>
@@ -54,10 +59,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Large-Scale Evolutionary Optimization via Multi-Task Random Grouping<br>
-Phoenix Williams, **<ins>Ke Li</ins>**<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
@@ -88,11 +94,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3095313](https://ieeexplore.ieee.org/abstract/document/9476019)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
-Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
-Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://cec2021.mini.pw.edu.pl/), June, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 ---
 
 ## 2021
@@ -119,9 +120,16 @@ Information Sciences (INS), 554: 256--275, 2021<br>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
+- Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
+Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://cec2021.mini.pw.edu.pl/), IEEE, p. 1--8, June, 2021<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CEC45853.2021.9504980](https://ieeexplore.ieee.org/document/9504980)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
 Longfei Zhang+, **<ins>Ke Li</ins>**, Shi Gu<br>
 Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), ACM, p. 247--248, July, 2021.<br>
+<i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3449726.3459528](https://dl.acm.org/doi/10.1145/3449726.3459528)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
