@@ -30,7 +30,7 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 * We have four papers accepted by [IEEE SMC 2021](http://ieeesmc2021.org/). Congratulations to Renzhi, Phoenix and Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 4
 
-* One proposal get funded by Hong Kong GRF. Congratulations to KC and looking forward to working with you soon. <i class='fa fa-calendar' style='font-size:19px'></i> Aug 1
+* One proposal get funded by Hong Kong GRF. Congratulations to Prof. Kay Chen Tan and looking forward to working with you soon. <i class='fa fa-calendar' style='font-size:19px'></i> Aug 1
 
 {{< /tab >}}
 
