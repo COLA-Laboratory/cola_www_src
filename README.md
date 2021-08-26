@@ -1,9 +1,7 @@
 # cola_www_src
 This is the HUGO source file of the website of COLA Laboratory.
 
-If you want to edit the website:
-
-Use:
+If you want to edit the website, use this command to clone it to your local computer:
 
 ```git clone --recurse-submodules https://github.com/COLA-Laboratory/cola_www_src.git```
 
