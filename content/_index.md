@@ -24,6 +24,16 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Sep" >}}
+
+* It is honored to join [Alan Turing Institute](https://www.turing.ac.uk/) as a Alan Turing Fellow. I am looking forward new exciting opportunities in this UK's national institute for data science and artificial intelligence. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 3 
+
+* Collaborating with some colleagues, we have established a new theme focused on Trustworthy AI in [Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/idsai/) at Exeter. We are exciting to promote many follow-up activates associated with this theme in due course. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 1 
+
+* After four days intensive talks from our prestigious speakers, we are pleased to announce that our first [IEEE CIS Summer School on Data-Driven Artificial/Computational Intelligence](https://sites.google.com/view/ss-ddaci/home) is successfully finished. Related materials will be released in due course after the permission from our speakers and IEEE. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 1 
+
+{{< /tab >}}
+
 {{< tab "Aug" >}}
 
 * Our paper "Neural Architecture Search for Portrait Parsing" is accepted to IEEE Trans. Neural Networks and Learning Systems. Congratulations to our fantastic collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 11

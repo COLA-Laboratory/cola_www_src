@@ -37,6 +37,12 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Human-Centric Computing<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Alan Turing Fellowship | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+---
+- Towards Scalable Multi-Objective Bilevel Optimization: Foundations, Methodologies and Applications<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Hong Kong GRF | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Kay Chen Tan from The Hong Kong Polytechnic University) | <i class='fa fa-money' style='font-size:18px'></i> HK$1,150,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2024.
+---
 - Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
 ---

@@ -42,7 +42,7 @@ hr.dashed {
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**, Renzhi Chen+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> September 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://sites.google.com/view/suppmaterials/home?authuser=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Decomposition Multi-Objective Evolutionary Optimization: From State-of-the-Art to Future Opportunities<br>
 **<ins>Ke Li</ins>**<br>
