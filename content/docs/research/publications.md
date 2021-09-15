@@ -49,17 +49,18 @@ hr.dashed {
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2108.09588 | <i class='fa fa-calendar' style='font-size:16px'></i> August 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/k6xom2n0smsmzr9/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
-**<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2005.11600 | <i class='fa fa-calendar' style='font-size:16px'></i> June 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Evolutionary Multi-Objective Virtual Network Function Placement: A Formal Model and Effective Algorithms<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/ix0256tvn25vsfx/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/0fqi36on0g9zh4g/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
+**<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i><br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>

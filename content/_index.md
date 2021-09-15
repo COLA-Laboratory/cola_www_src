@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Sep" >}}
 
+* Our paper "Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification" is accepted to IEEE Trans. Evolutionary Computation. Congratulations to Haifeng! <i class='fa fa-calendar' style='font-size:19px'></i> Sep 15
+
 * It is honored to join [Alan Turing Institute](https://www.turing.ac.uk/) as a Alan Turing Fellow. I am looking forward new exciting opportunities in this UK's national institute for data science and artificial intelligence. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 3 
 
 * Collaborating with some colleagues, we have established a new theme focused on Trustworthy AI in [Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/idsai/) at Exeter. We are exciting to promote many follow-up activates associated with this theme in due course. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 1 
