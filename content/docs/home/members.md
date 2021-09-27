@@ -66,7 +66,7 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Ke Li (UKRI FLF)<br>
+        Dr Ke Li (UKRI FLF | Turing Fellow)<br>
         Senior Lecturer<br>
         Department of Computer Science<br>
         University of Exeter<br>
