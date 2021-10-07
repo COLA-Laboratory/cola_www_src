@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Oct" >}}
+
+* We are pleased to announce that our collaborative bid with UTS in Australia has been funded by Royal Society under the International Exchange scheme. Looking forward to have many exciting collaboration therein! <i class='fa fa-calendar' style='font-size:19px'></i> Oct 7
+
+{{< /tab >}}
+
 {{< tab "Sep" >}}
 
 * Our paper "Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification" is accepted to IEEE Trans. Evolutionary Computation. Congratulations to Haifeng! <i class='fa fa-calendar' style='font-size:19px'></i> Sep 15
