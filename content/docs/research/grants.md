@@ -37,6 +37,9 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Evolutionary Multi-Objective Search for Automating CNN Architecture Design<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,815 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2023.
+---
 - Human-Centric Computing<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> Alan Turing Fellowship | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
 ---
