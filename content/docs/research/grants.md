@@ -30,7 +30,7 @@ hr.dashed {
 
 We are grateful to have been generously supported by or closely working with the following funding bodies and industrial partners.
 
- <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/epsrc.png" width="270">&nbsp; <img src="/media/ara.png" width="130">&nbsp; <img src="/media/rs3.jpeg" width="155"><br>
+ <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/epsrc.png" width="270">&nbsp; <img src="/media/ara" width="130">&nbsp; <img src="/media/rs2.gif" width="165"><br>
  <img src="/media/uoe.gif" width="195">&nbsp; <img src="/media/rgc.jpg" width="210">&nbsp; <img src="/media/inria.png" width="195">&nbsp; <img src="/media/nsfc.jpeg" width="100"></br>
    <img src="/media/sww.png" width="160">&nbsp; <img src="/media/wpa.jpeg" width="140"> <img src="/media/dashboard.png" width="205">&nbsp; <img src="/media/bt.png" width="150"> 
 
