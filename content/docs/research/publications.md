@@ -86,7 +86,6 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 - Knee Point Identification Based on the Geometric Characteristic<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
-Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
