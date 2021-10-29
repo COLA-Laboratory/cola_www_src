@@ -26,6 +26,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Oct" >}}
 
+* I am proud to be recognized in the [Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3) in a latest study from Stanford University. <i class='fa fa-calendar' style='font-size:19px'></i> Oct 28
+
+* We are pleased to announce that our collaborative bid with Dr Hao Wang at Leiden University has been funded by Europe Network Fund 2021-22. Looking forward to have many exciting collaboration therein! <i class='fa fa-calendar' style='font-size:19px'></i> Oct 20
+
 * We are pleased to announce that our collaborative bid with UTS in Australia has been funded by Royal Society under the International Exchange scheme. Looking forward to have many exciting collaboration therein! <i class='fa fa-calendar' style='font-size:19px'></i> Oct 7
 
 {{< /tab >}}

@@ -37,6 +37,9 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Transfer Bayesian Optimization for Multi-Fidelity Data in Uncertain Environments<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> European Network Fund | <i class='fa fa-qrcode' style='font-size:18px'></i> #GP ENF5.10 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;7,440 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+---
 - Evolutionary Multi-Objective Search for Automating CNN Architecture Design<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society | <i class='fa fa-qrcode' style='font-size:18px'></i> #IES\R2\212077 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,815 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2023.
 ---
