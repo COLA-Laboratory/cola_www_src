@@ -59,13 +59,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
 Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i><br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
 **<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i><br> 
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3116121](https://ieeexplore.ieee.org/document/9551284)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
