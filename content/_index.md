@@ -24,6 +24,13 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Nov" >}}
+
+* Our paper "Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies" is accepted to IEEE Trans. Cybernetics. Congratulations to Jia! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 24
+
+{{< /tab >}}
+
+
 {{< tab "Oct" >}}
 
 * I am proud to be recognized in the [Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3) in a latest study from Stanford University. <i class='fa fa-calendar' style='font-size:19px'></i> Oct 28
