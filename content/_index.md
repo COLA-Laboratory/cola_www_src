@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Dec" >}}
+
+* I have been invited to renew my term as an Associate Editor of IEEE Trans. Evolutionary Computation in 2022. Be humbled to serve our best journal in the evolutionary computation community. <i class='fa fa-calendar' style='font-size:19px'></i> Dec 27
+
+{{< /tab >}}
+
 {{< tab "Nov" >}}
 
 * Our paper "Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies" is accepted to IEEE Trans. Cybernetics. Congratulations to Jia! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 24
