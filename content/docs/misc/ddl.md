@@ -6,7 +6,7 @@ bookToc: false
 
 # Deadlines
 
-Here are some important deadlines for the major conferences in artificial intelligence and machine learning (AI & ML), software engineering (SE) and evolutionary computation (EC) domains.
+Here are some important deadlines for the major conferences in artificial intelligence and machine learning (AI & ML), data mining (DM), natural language processing (NLP), software engineering (SE) and evolutionary computation (EC) domains.
 
 {{< tabs "uniqueid" >}}
 
@@ -29,7 +29,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< /tab >}}
 
-{{< tab "SE" >}}
+{{< tab "NLP" >}}
 
 - ~~[ACL 2022](https://www.2022.aclweb.org/): November 15, 2021~~
 - [NAACL 2022](https://2022.naacl.org/): Jan 15, 2022
