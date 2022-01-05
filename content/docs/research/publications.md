@@ -64,6 +64,7 @@ Memetic Computing (TCYB)<br>
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
 Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2021.3132587](https://ieeexplore.ieee.org/document/9663025)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
