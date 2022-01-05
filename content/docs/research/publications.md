@@ -56,6 +56,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- <br>
+Jiangjiao Xu, **<ins>Ke Li</ins>**<br>
+Memetic Computing (TCYB)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
 Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
