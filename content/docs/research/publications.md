@@ -84,31 +84,6 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Large-Scale Evolutionary Optimization via Multi-Task Random Grouping<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- ADMM-based OPF Problem Against Cyber Attacks in Smart Grid<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang<br>
-Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Knee Point Identification Based on the Geometric Characteristic<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), October, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
-Savas Yuec+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](https://ukci2021.dcs.aber.ac.uk/), September, 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -140,6 +115,37 @@ Information Sciences (INS), 554: 256--275, 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Knee Point Identification Based on the Geometric Characteristic<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 764--769, October, 2021<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC52423.2021.9658848](https://ieeexplore.ieee.org/abstract/document/9658848)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Large-Scale Evolutionary Optimization via Multi-Task Random Grouping<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 778--783, October, 2021<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC52423.2021.9659276](https://ieeexplore.ieee.org/abstract/document/9659276)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 1374--1379, October, 2021<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC52423.2021.9659200](https://ieeexplore.ieee.org/abstract/document/9659200)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- ADMM-based OPF Problem Against Cyber Attacks in Smart Grid<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang<br>
+Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 1418--1423, October, 2021<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/SMC52423.2021.9658699](https://ieeexplore.ieee.org/abstract/document/9658699)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
+Savas Yuec+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](https://ukci2021.dcs.aber.ac.uk/), Springer, p. 121--128, September, 2021<br>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-030-87094-2_11](https://link.springer.com/chapter/10.1007/978-3-030-87094-2_11)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 
 - Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
 Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
