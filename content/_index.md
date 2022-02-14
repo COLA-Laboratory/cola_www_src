@@ -22,7 +22,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2022)
 
+
 {{< tabs "uniqueid" >}}
+
+{{< tab "Feb" >}}
+
+* Our tutorial proposal on decomposition evolutionary multi-objective optimization has been accepted in [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/)! Congratulations and see you guys all in Dortmund!  <i class='fa fa-calendar' style='font-size:19px'></i> Feb 14
+
+{{< /tab >}}
 
 {{< tab "Jan" >}}
 

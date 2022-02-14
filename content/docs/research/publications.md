@@ -59,6 +59,8 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/ix0256tvn25vsfx/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/0fqi36on0g9zh4g/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
+---
+
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
@@ -84,9 +86,15 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
+---
+
+## 2022
+
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
+IEEE Trans. Evolutionary Computation (TEVC), 26(1): 115-129, 2022<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3095313](https://ieeexplore.ieee.org/abstract/document/9476019)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
