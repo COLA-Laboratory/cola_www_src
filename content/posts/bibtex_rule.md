@@ -52,6 +52,20 @@ Most components can be directly obtained from the paper itself. We only explicit
 - `pages`: Please use double hyphens to connect the page numbers.
 - `doi`, `timestamp`, `biburl` and `bibsource` are not always necessary. But you can find more information from the [DBLP](https://dblp.org/) of the corresponding author(s).
 
+If the paper is not published yet, the bibtex will be simplified as follows.
+```
+@article{LiNGY21,
+    author    = {Ke Li and
+                 Haifeng Nie and
+                 Huiru Gao and
+                 Xin Yao},
+    title     = {Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification},
+    journal   = {{IEEE} Trans. Evol. Comput.},
+    year      = {2021},
+    note      = {accepted for publication}
+}
+```
+
 ---
 __Conference article__
 
@@ -90,5 +104,35 @@ Book is a bit different from the journal and conference papers. Most components 
     publisher = {John Wiley \& Sons, Inc.},
     address   = {New York, NY, USA},
     year      = {2001}
+}
+```
+
+---
+__Technical report__
+```
+@techreport{ABC,
+    author      = {xx and
+                   xx},
+    title       = {xx},
+    institution = {xx},
+    year        = {xxxx}
+}
+```
+
+---
+__ArXiv paper__
+```
+@article{Frazier18,
+    author    = {Peter I. Frazier},
+    title     = {A Tutorial on {Bayesian} Optimization},
+    journal   = {CoRR},
+    volume    = {abs/1807.02811},
+    year      = {2018},
+    url       = {http://arxiv.org/abs/1807.02811},
+    archivePrefix = {arXiv},
+    eprint    = {1807.02811},
+    timestamp = {Mon, 13 Aug 2018 16:48:03 +0200},
+    biburl    = {https://dblp.org/rec/journals/corr/abs-1807-02811.bib},
+    bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
