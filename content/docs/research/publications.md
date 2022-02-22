@@ -64,8 +64,9 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
-Jiangjiao Xu, **<ins>Ke Li</ins>**<br>
+Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
 Memetic Computing (MC)<br>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s12293-022-00357-w](https://link.springer.com/article/10.1007/s12293-022-00357-w)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
