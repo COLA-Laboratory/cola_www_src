@@ -12,9 +12,9 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "AI & ML" >}}
 
-- [IJCAI 2022](https://ijcai-22.org/): January 14, 2022
-- [ICML 2022](https://icml.cc/Conferences/2022): January 27, 2022
-- [UAI 2022](https://auai.org/uai2022/): February 25, 2022
+- ~~[IJCAI 2022](https://ijcai-22.org/): January 14, 2022~~
+- ~~[ICML 2022](https://icml.cc/Conferences/2022): January 27, 2022~~
+- ~~[UAI 2022](https://auai.org/uai2022/): February 25, 2022~~
 - [NeurIPS 2022](https://nips.cc/): TBD
 - [AAAI 2023](https://www.aaai.org/): TBD
 - [ICLR 2023](https://iclr.cc/): TBD
@@ -32,7 +32,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "NLP" >}}
 
 - ~~[ACL 2022](https://www.2022.aclweb.org/): November 15, 2021~~
-- [NAACL 2022](https://2022.naacl.org/): Jan 15, 2022
+- ~~[NAACL 2022](https://2022.naacl.org/): Jan 15, 2022~~
 - [COLING 2022](https://coling2022.org/): May 15, 2022
 - [EMNLP 2022](): TBD
 
@@ -40,7 +40,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "SE" >}}
 
-- [ISSTA 2022](https://conf.researchr.org/home/issta-2022): Jan 28, 2022
+- ~~[ISSTA 2022](https://conf.researchr.org/home/issta-2022): Jan 28, 2022~~
 - [FSE 2022](https://2022.esec-fse.org/): March 17, 2022
 - [ASE 2022](https://conf.researchr.org/home/ase-2022): May 6, 2022
 - [ICSE 2022](https://conf.researchr.org/home/icse-2023): September 1, 2022
@@ -49,8 +49,8 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "EC" >}}
 
-- [GECCO 2022](https://gecco-2022.sigevo.org/HomePage): February 3, 2022
-- [WCCI 2022](https://wcci2022.org/): January 31, 2022
+- ~~[GECCO 2022](https://gecco-2022.sigevo.org/HomePage): February 3, 2022~~
+- ~~[WCCI 2022](https://wcci2022.org/): January 31, 2022~~
 - [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 1, 2022
 - ~~[IJCNN 2022](https://www.ijcnn.org/): February 10, 2022~~
 - ~~[CEC 2022](https://cec2021.mini.pw.edu.pl/en/important-dates): February 21, 2022~~
