@@ -39,10 +39,20 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Art-Attack: Black-Box Adversarial Attack via Evolutionary Art<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.04405 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2203.04405) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Automated Few-Shot Time Series Forecasting based on Bi-level Programming<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.03328 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2203.03328) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - LONViZ: Unboxing the black-box of Configurable Software Systems from a Complex Networks Perspective<br>
 **<ins>Ke Li</ins>**, Peili Mao+, Tao Chen<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2201.01429 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`]() | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2201.01429) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**, Renzhi Chen+<br>
