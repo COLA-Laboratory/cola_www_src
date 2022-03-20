@@ -27,6 +27,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Mar" >}}
 
+* Our paper on "Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Renzhi! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 20
+
 * It is my great honor to join the Organization Committee of EMO 2023 as a Program Chair. We are looking forward to seeing you to join the biggest party in our EMO community in Leiden, the Netherlands! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 12
 
 * It is my great honor to participate the GREAT Talent campaign organized by the Cabinet Office. The story telling video is currently available online from [here](https://greattalent.campaign.gov.uk/work-in-the-uk/). <i class='fa fa-calendar' style='font-size:19px'></i> Mar 1
