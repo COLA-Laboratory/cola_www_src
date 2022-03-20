@@ -54,11 +54,6 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2201.01429 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2022<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2201.01429) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
-**<ins>Ke Li</ins>**, Renzhi Chen+<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2109.05639 | <i class='fa fa-calendar' style='font-size:16px'></i> September 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://sites.google.com/view/suppmaterials/home?authuser=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Decomposition Multi-Objective Evolutionary Optimization: From State-of-the-Art to Future Opportunities<br>
 **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2108.09588 | <i class='fa fa-calendar' style='font-size:16px'></i> August 2021<br>
@@ -72,6 +67,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
+**<ins>Ke Li</ins>**, Renzhi Chen+<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://sites.google.com/view/suppmaterials/home?authuser=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
 Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
