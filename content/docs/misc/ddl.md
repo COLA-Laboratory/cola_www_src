@@ -41,7 +41,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "SE" >}}
 
 - ~~[ISSTA 2022](https://conf.researchr.org/home/issta-2022): Jan 28, 2022~~
-- [FSE 2022](https://2022.esec-fse.org/): March 17, 2022
+- ~~[FSE 2022](https://2022.esec-fse.org/): March 17, 2022~~
 - [ASE 2022](https://conf.researchr.org/home/ase-2022): May 6, 2022
 - [ICSE 2022](https://conf.researchr.org/home/icse-2023): September 1, 2022
 
