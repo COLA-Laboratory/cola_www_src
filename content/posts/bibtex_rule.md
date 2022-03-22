@@ -15,7 +15,7 @@ bookToc: false
 ---
 
 <div class="item1" style="text-align:center">
-    <img src="/media/bibtex.jpeg" width="300px", height="100px", class="center">
+    <img src="/media/bibtex.jpeg" width="225px", height="60px", class="center">
 </div>
 
 Bibtex is a powerful tool to manage your references in scientific writing by using LaTeX. However, the bibtex sources can be messy in the wild. Here are some useful tips to prepare a beautiful and clean bibtex file.
