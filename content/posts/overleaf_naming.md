@@ -9,6 +9,11 @@ weight: 10
 bookToc: false
 ---
 
+<div class="item1" style="text-align:center">
+    <img src="/media/overleaf.jpeg" width="300px", height="100px", class="center">
+</div>
+
+
 [Overleaf](https://overleaf.com/) is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. In COLA laboratory, we use the Overleaf as the centralized place to manage our manuscripts. In order to make the projects be managed in an organized manner, a project is usually named as ``A_B_C``.
 - ``A``: journal/conference name, e.g., TEVC/PPSN22
 - ``B``: acronym of the algorithm, e.g., TBO2
