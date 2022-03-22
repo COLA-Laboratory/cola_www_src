@@ -14,6 +14,10 @@ weight: 10
 bookToc: false
 ---
 
+<div class="item1" style="text-align:center">
+    <img src="/media/bibtex.jpeg" width="300px", height="100px", class="center">
+</div>
+
 Bibtex is a powerful tool to manage your references in scientific writing by using LaTeX. However, the bibtex sources can be messy in the wild. Here are some useful tips to prepare a beautiful and clean bibtex file.
 1. Instead of searching from Google, it might be more convenient to search the corresponding paper or author in [DBLP](https://dblp.org/). There is an option to choose the `export record` as the `BibTeX`.
 2. It will be more efficient to use some text editor like `Vim` to facilitate your editing. However, there is a steep learning curve to manage the `Vim`.
