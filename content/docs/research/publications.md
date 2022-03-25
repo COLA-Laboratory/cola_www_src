@@ -68,10 +68,20 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Black-Box Adversarial Attack via Overlapped Shapes<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Adversarial Attack Example Generation via Genetic Algorithm: A Preliminary Result<br>
+Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**, Renzhi Chen+<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://sites.google.com/view/suppmaterials/home?authuser=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
 Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
