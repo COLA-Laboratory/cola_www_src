@@ -34,7 +34,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - ~~[ACL 2022](https://www.2022.aclweb.org/): November 15, 2021~~
 - ~~[NAACL 2022](https://2022.naacl.org/): Jan 15, 2022~~
 - [COLING 2022](https://coling2022.org/): May 15, 2022
-- [EMNLP 2022](): TBD
+- [EMNLP 2022](https://2022.emnlp.org/): May 24, 2022
 
 {{< /tab >}}
 
@@ -51,7 +51,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 - ~~[GECCO 2022](https://gecco-2022.sigevo.org/HomePage): February 3, 2022~~
 - ~~[WCCI 2022](https://wcci2022.org/): January 31, 2022~~
-- [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 1, 2022
+- [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 13, 2022
 - ~~[IJCNN 2022](https://www.ijcnn.org/): February 10, 2022~~
 - ~~[CEC 2022](https://cec2021.mini.pw.edu.pl/en/important-dates): February 21, 2022~~
 - [SMC 2022](http://ieeesmc2022.org/): April 15, 2022
