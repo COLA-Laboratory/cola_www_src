@@ -39,6 +39,11 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
+**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2204.02604 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2022<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2204.02604) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Art-Attack: Black-Box Adversarial Attack via Evolutionary Art<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.04405 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
