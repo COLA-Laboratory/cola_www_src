@@ -18,7 +18,8 @@ It consists of the following parts:
 - Figures of population distributions related to DTLZ1 to DTLZ4.
 - Figures of population distributions related to ZDT3, ZDT31, and ZDT32.
 - Figures of population distributions related to DTLZ7, DTLZ71, DTLZ72, inverted DTLZ2.
-- Figures of population distributions related to WFG2, WFG21 to WFG23, and WFG41 to WFG48.
+- Figures of population distributions related to WFG2, WFG21 to WFG23.
+- Figures of population distributions related to WFG41 to WFG48.
 
 Appendix document of this paper can be found from this [Dropbox link](https://www.dropbox.com/s/d3hpfgc06vzf3hz/main.pdf?dl=0).
 
