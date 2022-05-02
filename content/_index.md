@@ -25,6 +25,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+* It is my great honor to be promoted as an IEEE Senior Member, which is an honor bestowed only to those who have made significant contributions to the profession. <i class='fa fa-calendar' style='font-size:19px'></i> May 2
+
+* We are pleased to announce that we will host a summer school on Data-Driven Artificial/Computational Intelligence: Theory and Applications this August/September. This summer school is kindly supported by IEEE Computational Intelligence Society. We had a very successful one last year and hope to continue to prosperity this time and beyond <i class='fa fa-calendar' style='font-size:19px'></i> May 1
+
+{{< /tab >}}
+
 {{< tab "Mar" >}}
 
 * We have two papers get accepted to [GECCO 2022](https://gecco-2022.sigevo.org/). Both of them are about adversarial attack for neural networks. Congratulations to Shasha and Phoenix! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 25
