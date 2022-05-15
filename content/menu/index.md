@@ -10,6 +10,7 @@ headless: true
   - [Projects]({{< relref "/docs/research/projects" >}}) 
   - [Grants]({{< relref "/docs/research/grants" >}})
   - [Reading Group]({{< relref "/docs/research/readinggroup" >}})
+  - [EMOC]({{< relref "/docs/research/emoc" >}})
 - **Misc**
   - [ECTC TF]({{< relref "/docs/misc/dtec" >}})
   - [Deadlines]({{< relref "/docs/misc/ddl" >}})
