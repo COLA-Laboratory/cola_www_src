@@ -39,7 +39,7 @@ For more information about installation and usage, please refer to the [document
 
 ---
 
-## 3rd Party Libraries
+## Third Party Libraries
 
 - [GLFW](https://www.glfw.org/)
 - [ALGLIB](https://www.alglib.net/)
