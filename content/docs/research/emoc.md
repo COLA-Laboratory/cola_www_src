@@ -1,4 +1,8 @@
-# EMOC: Evolutionary Multi-objective Optimization in C++
+---
+title: EMOC
+type: docs
+bookToc: false
+---
 
 <div align="center">
 <img src="/media/emoc_big.png" width = "300px" align=center />
@@ -9,6 +13,7 @@ EMOC stands for **E**volutionary **M**ulti-objective **O**ptimization in **C**++
 
 For more information about installation and usage, please refer to the [document site](https://cola-laboratory.github.io/EMOCDoc/).
 
+---
 
 ## Features
 
@@ -32,7 +37,8 @@ For more information about installation and usage, please refer to the [document
 
   Users can save the experiment results of EMOC in the format of Excel or Latex.
 
-  
+---
+
 ## 3rd Party Libraries
 
 - [GLFW](https://www.glfw.org/)
@@ -44,4 +50,3 @@ For more information about installation and usage, please refer to the [document
 - [Gnuplot](http://www.gnuplot.info/)
 - [CMake](https://cmake.org/)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-
