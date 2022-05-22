@@ -4,6 +4,7 @@ type: docs
 bookToc: false
 ---
 
+
 <div align="center">
 <img src="/media/emoc_big.png" width = "300px" align=center />
 
@@ -35,7 +36,7 @@ For more information about installation and usage, please refer to the [document
 
 - **Save into Excel or Latex**
 
-  Users can save the experiment results of EMOC in the format of Excel or Latex.
+  Users can save the experiment results of EMOC in the format of Latex.
 
 ---
 
@@ -49,4 +50,4 @@ For more information about installation and usage, please refer to the [document
 - [stb_image](https://github.com/nothings/stb)
 - [Gnuplot](http://www.gnuplot.info/)
 - [CMake](https://cmake.org/)
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+- [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
