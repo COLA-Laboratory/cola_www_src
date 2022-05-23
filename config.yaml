@@ -101,3 +101,6 @@ params:
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker: true
+
+  
+  BookLogo: 'colalab.png'
