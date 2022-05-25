@@ -27,6 +27,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "May" >}}
 
+* We are glad to announce a fully funded opportunity for undergraduate student(s) in the UK who are interested in experiencing a research placement at Exeter. The project is outlined in [here](https://static1.squarespace.com/static/5ca5c73677b90374d82b97aa/t/628b9cd60c455f5b09571f63/1653316822782/LI.pdf) and the proposed start date is 1st July, 2022. <i class='fa fa-calendar' style='font-size:19px'></i> May 25
+
 * It is my great honor to be promoted as an IEEE Senior Member, which is an honor bestowed only to those who have made significant contributions to the profession. <i class='fa fa-calendar' style='font-size:19px'></i> May 2
 
 * We are pleased to announce that we will host a summer school on Data-Driven Artificial/Computational Intelligence: Theory and Applications this August/September. This summer school is kindly supported by IEEE Computational Intelligence Society. We had a very successful one last year and hope to continue to prosperity this time and beyond <i class='fa fa-calendar' style='font-size:19px'></i> May 1
