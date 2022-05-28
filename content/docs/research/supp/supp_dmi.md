@@ -13,15 +13,9 @@ This website maintains the supplementary materials related to the following pape
 {{< /hint >}}
 
 It consists of the following parts:
-- Tables related to the results.
-- Figures of population distributions related to ZDT1, ZDT2, ZDT4 and ZDT6.
-- Figures of population distributions related to DTLZ1 to DTLZ4.
-- Figures of population distributions related to ZDT3, ZDT31, and ZDT32.
-- Figures of population distributions related to DTLZ7, DTLZ71, DTLZ72, inverted DTLZ2.
-- Figures of population distributions related to WFG2, WFG21 to WFG23.
-- Figures of population distributions related to WFG41 to WFG48.
-
-Appendix document of this paper can be found from this [Dropbox link](https://www.dropbox.com/s/d3hpfgc06vzf3hz/main.pdf?dl=0).
+- Appendix document of this paper can be found from this [Dropbox link](https://www.dropbox.com/s/d3hpfgc06vzf3hz/main.pdf?dl=0).
+- Tables of all comparison results can be found in this [Dropbox link](https://www.dropbox.com/s/jhiitzrr6aczroi/tables.pdf?dl=0).
+- Figures of all comparison results of the population distributions of on different benchmark test problems can be found in this [Dropbox link](https://www.dropbox.com/s/xqhexkxyqkowbmx/pop_plots.pdf?dl=0).
 
 Please cite the paper by using the following bibtex.
 ```
