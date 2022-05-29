@@ -27,6 +27,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "May" >}}
 
+* We are going to organize a Exeter-Leiden Symposium on Data Driven Modeling and Optimization on June 6. Relevant information can be found [here](docs/research/activities/exeter_leiden_symposium). It is running fully online and we are looking forward seeing you there. <i class='fa fa-calendar' style='font-size:19px'></i> May 28
+
 * We are glad to announce a fully funded opportunity for undergraduate student(s) in the UK who are interested in experiencing a research placement at Exeter. The project is outlined in [here](https://static1.squarespace.com/static/5ca5c73677b90374d82b97aa/t/628b9cd60c455f5b09571f63/1653316822782/LI.pdf) and the proposed start date is 1st July, 2022. <i class='fa fa-calendar' style='font-size:19px'></i> May 25
 
 * It is my great honor to be promoted as an IEEE Senior Member, which is an honor bestowed only to those who have made significant contributions to the profession. <i class='fa fa-calendar' style='font-size:19px'></i> May 2
