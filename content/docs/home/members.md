@@ -66,7 +66,8 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Ke Li (UKRI FLF)<br>
+        Dr Ke Li<br>
+        UKRI FLF | Turing Fellow<br>
         Senior Lecturer<br>
         Department of Computer Science<br>
         University of Exeter<br>
@@ -113,15 +114,6 @@ hr.dashed {
 ## <i class='fa fa-linux' style='font-size:21px'></i> PhD Student(s)
 
 <div class="grid-container">
-    <div class="item1">
-        <img src="/media/JB.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Joseph Billingsly<br>
-        PhD Student<br>
-        2017 – present<br>
-        <em>Interests</em>: VNF, SDN, EMO
-    </div>
     <div class="item3">
         <img src="/media/PW.jpeg" width="120px", height="130px">
     </div>
@@ -131,9 +123,6 @@ hr.dashed {
         2020 - present<br>
         <em>Interests</em>: BO, TL, EMO
     </div>
-</div>
-
-<div class="grid-container">
     <div class="item1">
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
@@ -143,8 +132,11 @@ hr.dashed {
         2021 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
+</div>
+
+<div class="grid-container">
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/PM.jpeg" width="120px", height="150px">
     </div>
     <div class="item2">
         Peili Mao<br>
@@ -152,9 +144,27 @@ hr.dashed {
         2021 – present<br>
         <em>Interests</em>: SE, BO, MCM, LA
     </div>
+    <div class="item1">
+        <img src="/media/SW.jpeg" width="120px", height="150px">
+    </div>
+    <div class="item2">
+        Shengbo Wang<br>
+        PhD Student<br>
+        2021 – present<br>
+        <em>Interests</em>: BO, SO
+    </div>
 </div>
 
 <div class="grid-container">
+    <div class="item1">
+        <img src="/media/SZ.jpeg" width="120px", height="150px">
+    </div>
+    <div class="item2">
+        Shasha Zhou<br>
+        PhD Student<br>
+        2022 – present<br>
+        <em>Interests</em>: SE, AA, Code naturalness
+    </div>
     <div class="item1">
         <img src="/media/JQ.jpeg" width="120px", height="130px">
     </div>
@@ -164,6 +174,9 @@ hr.dashed {
         2020 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
+</div>
+
+<div class="grid-container">
     <div class="item3">
         <img src="/media/DW.png" width="120px", height="130px">
     </div>
@@ -173,9 +186,6 @@ hr.dashed {
         2018 - present<br>
         <em>Interests</em>: EMO, CO
     </div>
-</div>
-
-<div class="grid-container">
     <div class="item3">
         <img src="/media/SY.jpeg" width="120px", height="130px">
     </div>
@@ -186,7 +196,6 @@ hr.dashed {
         <em>Interests</em>: EMO, BO, reliability
     </div>
 </div>
-
 
 ---
 
@@ -238,6 +247,12 @@ hr.dashed {
 {{< tabs "uniqueid" >}}
 
 {{< tab "PhD student" >}}
+
+- Dr Joseph Billingsly
+    - 01/09/2017 -- 01/05/2022, University of Exeter
+    - PhD student, co-supervised with Prof. Geyong Min
+    - Job: -> G-Research London
+    - Outputs: 2 EMO papers, 1 GLOBECOM paper, 1 WCCI paper
 
 - Dr Mengyuan Wu
     - 01/09/2014 -- 01/07/2018, City University of Hong Kong

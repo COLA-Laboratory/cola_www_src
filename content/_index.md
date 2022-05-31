@@ -20,64 +20,44 @@ Computational Optimization for Learning and Adaptive Systems (COLA) laboratory i
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
 {{< /hint >}}
 
-## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2021)
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2022)
+
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "Aug" >}}
-
-* Our paper "Neural Architecture Search for Portrait Parsing" is accepted to IEEE Trans. Neural Networks and Learning Systems. Congratulations to our fantastic collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 11
-
-* We have four papers accepted by [IEEE SMC 2021](http://ieeesmc2021.org/). Congratulations to Renzhi, Phoenix and Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Aug 4
-
-* One proposal get funded by Hong Kong GRF. Congratulations to Prof. Kay Chen Tan and looking forward to working with you soon. <i class='fa fa-calendar' style='font-size:19px'></i> Aug 1
-
-{{< /tab >}}
-
-{{< tab "Jun" >}}
-
-* Our paper on "Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization" is accepted to IEEE Trans. Evolutionary Computation. Congratulations to Lei and collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Jun 30 
-
-* I have been identified as 2% top scientists in the world across all disciplines from a [report](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000918) published by Stanford University. At the moment, I am ranked around #3200 in the AI subfield worldwide. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 20 
-
-* We are pleased to announce that we will host a summer school on **Data-Driven Artificial/Computational Intelligence: Theory and Applications** this August. This summer school is kindly supported by IEEE Computational Intelligence Society. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 17 
-
-* We are pleased to announce that Heng has successfully secured his PhD studentship from both CSC and Exeter. He will start his PhD journal in our lab since this autumn. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 3 
-
-{{< /tab >}}
-
 {{< tab "May" >}}
 
-* We are pleased to announce that Peili has successfully secured his studentship and will start his PhD journal since this autumn. <i class='fa fa-calendar' style='font-size:19px'></i> May 28 
+* We are going to organize a Exeter-Leiden Symposium on Data Driven Modeling and Optimization on June 6. Relevant information can be found [here](docs/research/activities/exeter_leiden_symposium). It is running fully online and we are looking forward seeing you there. <i class='fa fa-calendar' style='font-size:19px'></i> May 28
 
-* We are glad to announce that [Maja Kaczmarek](https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk), a second year undergraduate student from the University of Manchester, has been awarded a REP studentship from [SWBio DTP](https://www.swbio.ac.uk/) (only two in Exeter). We will work with [Dr Yiliang Ding](https://www.jic.ac.uk/people/yilliang-ding/)'s group from [John Innes Centre](https://www.jic.ac.uk/) on some exciting topics about RNA structure prediction. <i class='fa fa-calendar' style='font-size:19px'></i> May 17 
+* We are glad to announce a fully funded opportunity for undergraduate student(s) in the UK who are interested in experiencing a research placement at Exeter. The project is outlined in [here](https://static1.squarespace.com/static/5ca5c73677b90374d82b97aa/t/628b9cd60c455f5b09571f63/1653316822782/LI.pdf) and the proposed start date is 1st July, 2022. <i class='fa fa-calendar' style='font-size:19px'></i> May 25
 
-{{< /tab >}}
+* It is my great honor to be promoted as an IEEE Senior Member, which is an honor bestowed only to those who have made significant contributions to the profession. <i class='fa fa-calendar' style='font-size:19px'></i> May 2
 
-{{< tab "Apr" >}}
-
-* Proud to be one of three awardees in the UK to win an Amazon Research Awards 2020. Really appreciate the generous support from Amazon to carry on our interesting work on multi-task learning! Please see press news from [[Amazon Science 1](https://www.amazon.science/research-awards/recipients?f0=2020&s=0&p=6)], [[Amazon Science 2](https://www.amazon.science/research-awards/program-updates/2020-amazon-research-awards-recipients-announced)], [[Exeter News](https://www.exeter.ac.uk/news/homepage/title_856639_en.html)], [[Linkedin](https://www.linkedin.com/posts/ke-li-29423226_2020-amazon-research-awards-recipients-announced-activity-6793534729615503360-TcSw)], [[机器之心](https://mp.weixin.qq.com/s/YVPddE6WN2PcozUnOjyboA)], [[新智元](https://mp.weixin.qq.com/s/DyzEjrcuQ9oa-nQ_7j2fbA)], [[AI科技评论](https://mp.weixin.qq.com/s/pAVRbZxEy_-wpRBGTXaPLw)] <i class='fa fa-calendar' style='font-size:19px'></i> Apr 29
-
-* Our paper "A Vector Angles-based Many-objective Particle Swarm Optimization Algorithm Using Archive" is accepted to Applied Soft Computing. Congratulations to Lei! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 27
-
-* Our paper "Vertical Distance Based Clonal Selection Mechanism for Multi-objective Immune Algorithm" is accepted to Swarm and Evolutionary Computation. Congratulations to Lingjie! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 14
-
-* Our paper on empirical study of various control mechanisms in interactive evolutionary multi-objective optimization is accepted to IEEE CEC 2021. Congratulations to Guiyu! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 6
+* We are pleased to announce that we will host a summer school on Data-Driven Artificial/Computational Intelligence: Theory and Applications this August/September. This summer school is kindly supported by IEEE Computational Intelligence Society. We had a very successful one last year and hope to continue to prosperity this time and beyond <i class='fa fa-calendar' style='font-size:19px'></i> May 1
 
 {{< /tab >}}
 
 {{< tab "Mar" >}}
 
-* It is grateful to receive an unrestricted gift from **Amazon Research Awards** for multi-task learning semantic feature from various injections to test Web application firewalls. Thanks for Amazon's generous support! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 24
+* We have two papers get accepted to [GECCO 2022](https://gecco-2022.sigevo.org/). Both of them are about adversarial attack for neural networks. Congratulations to Shasha and Phoenix! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 25
 
+* Our paper on "Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Renzhi! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 20
 
-* After a wonderful three-year journey of founding and serving as the Chair of the [IEEE Task Force 12 on Decomposition-based Techniques in Evolutionary Computation](/docs/misc/dtec), I have stepped down as a Vice Chair since this year. It is my pleasure to witness the growing up of our community and a wider range of engagements worldwide. My colleague Prof. Bilel Derbel kindly takes up the new Chair position and will promote the activities further. <i class='fa fa-calendar' style='font-size:19px'></i> Mar 4
+* It is my great honor to join the Organization Committee of EMO 2023 as a Program Chair. We are looking forward to seeing you to join the biggest party in our EMO community in Leiden, the Netherlands! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 12
+
+* It is my great honor to participate the GREAT Talent campaign organized by the Cabinet Office. The story telling video is currently available online from [here](https://greattalent.campaign.gov.uk/work-in-the-uk/). <i class='fa fa-calendar' style='font-size:19px'></i> Mar 1
+
+{{< /tab >}}
+
+{{< tab "Feb" >}}
+
+* Our tutorial proposal on decomposition evolutionary multi-objective optimization has been accepted in [PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/)! Congratulations and see you guys all in Dortmund!  <i class='fa fa-calendar' style='font-size:19px'></i> Feb 14
 
 {{< /tab >}}
 
 {{< tab "Jan" >}}
 
-* I have been invited to renew my role as an Associate Editor for the prestigious _IEEE Trans. Evol. Comput._, the flagship journal in artificial/computational Intelligence. <i class='fa fa-calendar' style='font-size:19px'></i> Jan 3
+* Our paper on "Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid" has been accepted to Memetic Computing. Congratulations to Jiangjiao!  <i class='fa fa-calendar' style='font-size:19px'></i> Jan 4
 
 {{< /tab >}}
 

@@ -30,13 +30,25 @@ hr.dashed {
 
 We are grateful to have been generously supported by or closely working with the following funding bodies and industrial partners.
 
- <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/epsrc.png" width="270">&nbsp; <img src="/media/ara.png" width="130">&nbsp; <img src="/media/rs3.jpeg" width="155"><br>
+ <img src="/media/ukri.png" width="230">&nbsp; <img src="/media/epsrc.png" width="270">&nbsp; <img src="/media/ara" width="130">&nbsp; <img src="/media/rs2.gif" width="165"><br>
  <img src="/media/uoe.gif" width="195">&nbsp; <img src="/media/rgc.jpg" width="210">&nbsp; <img src="/media/inria.png" width="195">&nbsp; <img src="/media/nsfc.jpeg" width="100"></br>
    <img src="/media/sww.png" width="160">&nbsp; <img src="/media/wpa.jpeg" width="140"> <img src="/media/dashboard.png" width="205">&nbsp; <img src="/media/bt.png" width="150"> 
 
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Transfer Bayesian Optimization for Multi-Fidelity Data in Uncertain Environments<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> European Network Fund | <i class='fa fa-qrcode' style='font-size:18px'></i> #GP ENF5.10 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;7,440 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+---
+- Evolutionary Multi-Objective Search for Automating CNN Architecture Design<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society | <i class='fa fa-qrcode' style='font-size:18px'></i> #IES\R2\212077 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,815 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2023.
+---
+- Human-Centric Computing<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Alan Turing Fellowship | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+---
+- Towards Scalable Multi-Objective Bilevel Optimization: Foundations, Methodologies and Applications<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Hong Kong GRF | <i class='fa fa-qrcode' style='font-size:18px'></i> #[11211521](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11211521&old_proj_id=null&proj_title=&isname=Tan&ioname=&institution=PolyU&subject=E2&pages=1&year=2021&theSubmit=11211521) | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Kay Chen Tan from The Hong Kong Polytechnic University) | <i class='fa fa-money' style='font-size:18px'></i> HK$1,150,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2024.
+---
 - Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
 ---
