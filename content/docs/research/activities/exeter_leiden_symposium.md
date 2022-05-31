@@ -64,8 +64,9 @@ The symposium will be organized in one day with the following agenda:
 
 ---
 - 9:10 – 10:00: TBD<br>
-<i class='fa fa-graduation-cap' style='font-size:16px'></i> Michael Emmerich | <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`Abstract`</a>
-{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
+<i class='fa fa-graduation-cap' style='font-size:16px'></i> Michael Emmerich | <i class='fa fa-wpforms' style='font-size:16px'></i> 
+<a href="#/" onclick="toggle_visibility('to_appear_1');">`Abstract`</a>
+{{< ShowBibtex file="/content/test.txt" id="to_appear_1" >}}
 
 ---
 - 10:00 – 10:50: TBD<br>
