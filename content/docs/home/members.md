@@ -157,15 +157,6 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/SZ.jpeg" width="120px", height="150px">
-    </div>
-    <div class="item2">
-        Shasha Zhou<br>
-        PhD Student<br>
-        2022 – present<br>
-        <em>Interests</em>: SE, AA, Code naturalness
-    </div>
-    <div class="item1">
         <img src="/media/JQ.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
@@ -173,6 +164,15 @@ hr.dashed {
         PhD Student<br>
         2020 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
+    </div>
+    <div class="item3">
+        <img src="/media/SY.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Savas Yuec<br>
+        PhD Student<br>
+        2018 - present<br>
+        <em>Interests</em>: EMO, BO, reliability
     </div>
 </div>
 
@@ -185,15 +185,6 @@ hr.dashed {
         PhD Student<br>
         2018 - present<br>
         <em>Interests</em>: EMO, CO
-    </div>
-    <div class="item3">
-        <img src="/media/SY.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item4">
-        Savas Yuec<br>
-        PhD Student<br>
-        2018 - present<br>
-        <em>Interests</em>: EMO, BO, reliability
     </div>
 </div>
 
