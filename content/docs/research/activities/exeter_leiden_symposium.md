@@ -60,9 +60,9 @@ It will take place as part of the outreach activities of the Alan Turing Institu
 
 ## Venue and Date
 
-This symposium will be running fully online via [Zoom](https://zoom.us/).<br>
+This symposium will be running fully online via [Zoom](https://Universityofexeter.zoom.us/j/93155519825?pwd=ejBKZEZSc2lrc1dHaUVvV2t4SUc2QT09).<br>
 
-<i class='fa fa-whatsapp' style='font-size:16px'></i> Zoom ID: 756 088 8715 | PWD: 720867
+<i class='fa fa-whatsapp' style='font-size:16px'></i> Zoom ID: 931 5551 9825 | PWD: 959476
 
 <i class='fa fa-calendar' style='font-size:16px'></i> June 6, 2022<br>
 
@@ -88,8 +88,8 @@ The symposium will be organized in one day with the following agenda.
 ---
 - 10:00 – 10:50 | [Prof. Yaochu Jin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=3FD713274DEE8417BCA9E9D6902DDB8E?personId=308725127)<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **TBD**<br>
-<i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('tb');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/tb.txt" id="tb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+<i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj');">`Abstract`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/tb.txt" id="yj" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
 ---
 - 10:50 – 11:40 | [Prof. Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back)<br>
