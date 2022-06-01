@@ -41,7 +41,12 @@ hr.dashed {
 	background-color:#F8F8FA;
   border-radius:5px;
   border: 2px solid #D8D8DA;
-  margin:10px;
+  margin:10px; 
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
+  white-space: -moz-pre-wrap; 
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
 }
 </style>
 
