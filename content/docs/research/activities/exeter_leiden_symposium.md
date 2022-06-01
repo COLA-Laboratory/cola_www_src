@@ -122,6 +122,6 @@ The symposium will be organized in one day with the following agenda.
 
 ## Sponsors
 
-We are grateful to the support from UKRI Future Leaders Fellowship (MR/S017062/1 ), European Network Fund@Exeter (No. GP ENF5.10) and Turing Fellowship.
+We are grateful to the support from UKRI Future Leaders Fellowship (MR/S017062/1), European Network Fund@Exeter (No. GP ENF5.10) and Turing Fellowship.
 
  <img src="/media/symposium22_logo.jpeg" width="900"><br>
