@@ -1,3 +1,13 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+.book-brand > a > span {
+    display: none;
+}
+
+.book-brand img {
+    height: 2.58em;
+    width: auto;
+    vertical-align: middle;
+    margin-inline-end: 0.5rem;
+}
