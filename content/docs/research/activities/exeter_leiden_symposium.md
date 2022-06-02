@@ -114,7 +114,7 @@ The symposium will be organized in one day with the following agenda.
 {{< ShowBibtex file="/content/docs/misc/symposium22/jb.txt" id="jb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
 ---
-- 14:50 – 15:40 | [Prof. Kaisa Mittenen](http://users.jyu.fi/~miettine/) | University of Jyväskylä, Finland<br>
+- 14:50 – 15:40 | [Prof. Kaisa Miettinen](http://users.jyu.fi/~miettine/) | University of Jyväskylä, Finland<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Perspectives to Data-driven Multiobjective Optimization with Interactive Methods**<br>
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('km_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/km_bio.txt" id="km_bio" >}} |
