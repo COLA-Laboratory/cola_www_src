@@ -64,7 +64,7 @@ This symposium will be running fully online via [Zoom](https://Universityofexete
 
 <i class='fa fa-whatsapp' style='font-size:16px'></i> Zoom ID: 931 5551 9825 | PWD: 959476
 
-<i class='fa fa-calendar' style='font-size:16px'></i> June 6, 2022<br>
+<i class='fa fa-calendar-check-o' style='font-size:16px'></i> June 6, 2022<br>
 
 ---
 
@@ -82,18 +82,24 @@ The symposium will be organized in one day with the following agenda.
 ---
 - 9:10 – 10:00 | [Prof. Michael Emmerich](https://www.universiteitleiden.nl/en/staffmembers/michael-emmerich#tab-1) |  Leiden University, Netherlands<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Lipschitz Models versus Gaussian Process Models in Data-Driven Multi-objective Optimization**<br>
+<i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('me_bio');">`Bio`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/me_bio.txt" id="me_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('me');">`Abstract`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/me.txt" id="me" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
 ---
 - 10:00 – 10:50 | [Prof. Yaochu Jin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=3FD713274DEE8417BCA9E9D6902DDB8E?personId=308725127) | University of Bielefeld, Germany<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Privacy-Preserving Data-driven Evolutionary Optimization**<br>
+<i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj_bio');">`Bio`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/yj_bio.txt" id="yj_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj');">`Abstract`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/yj.txt" id="yj" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
 ---
 - 10:50 – 11:40 | [Prof. Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back) | Leiden University, Netherlands<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Evolutionary Computation meets Algorithm Configuration (and Applications)**<br>
+<i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('tb_bio');">`Bio`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/tb_bio.txt" id="tb_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('tb');">`Abstract`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/tb.txt" id="tb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
@@ -102,12 +108,16 @@ The symposium will be organized in one day with the following agenda.
 ---
 - 14:00 – 14:50 | [Prof. Juergen Branke](https://www.wbs.ac.uk/about/person/juergen-branke/) | University of Warwick, UK<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Bayesian Optimisation and Input Uncertainty Reduction**<br>
+<i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('jb_bio');">`Bio`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/jb_bio.txt" id="jb_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('jb');">`Abstract`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/jb.txt" id="jb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
 ---
 - 14:50 – 15:40 | [Prof. Kaisa Mittenen](http://users.jyu.fi/~miettine/) | University of Jyväskylä, Finland<br>
 <i class='fa fa-bullhorn' style='font-size:16px'></i> **Perspectives to Data-driven Multiobjective Optimization with Interactive Methods**<br>
+<i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('km_bio');">`Bio`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/km_bio.txt" id="km_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('km');">`Abstract`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/km.txt" id="km" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
 
