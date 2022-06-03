@@ -38,7 +38,7 @@ hr.dashed {
 }
 
 .bibtexpre{
-	background-color:#F8F8FA;
+  background-color:#F8F8FA;
   border-radius:5px;
   border: 2px solid #D8D8DA;
   margin:10px; 

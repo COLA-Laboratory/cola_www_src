@@ -42,6 +42,8 @@ hr.dashed {
   border-radius:5px;
   border: 2px solid #D8D8DA;
   margin:10px;
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
 }
 </style>
 
@@ -118,6 +120,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj');">`Abstract`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/misc/symposium22/yj.txt" id="yj" >}}
 {{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
