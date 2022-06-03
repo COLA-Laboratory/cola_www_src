@@ -118,37 +118,36 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
 **<ins>Ke Li</ins>**, Renzhi Chen+<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
-<i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj');">`Abstract`</a> |
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_dmi');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/yj.txt" id="yj" >}}
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
 {{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
-
-- Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
-Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
-Memetic Computing (MC)<br>
-<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s12293-022-00357-w](https://link.springer.com/article/10.1007/s12293-022-00357-w)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_4');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/XuLA22.bib" id="in_press_4" >}}
 
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
 Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2021.3132587](https://ieeexplore.ieee.org/document/9663025)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WuLLL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_5');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_WuLLL22.txt" id="abstract_WuLLL22" >}}
 {{< ShowBibtex file="/content/bib/WuLLL22.bib" id="in_press_5" >}}
 
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
 **<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3116121](https://ieeexplore.ieee.org/document/9551284)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiNGY22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_6');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiNGY22.txt" id="abstract_LiNGY22" >}}
 {{< ShowBibtex file="/content/bib/LiNGY22.bib" id="in_press_6" >}}
 
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuYWHL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_7');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LyuYWHL22.txt" id="abstract_LyuYWHL22" >}}
 {{< ShowBibtex file="/content/bib/LyuYWHL22.bib" id="in_press_7" >}}
 
 ---
@@ -161,8 +160,19 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC), 26(1): 115-129, 2022<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3095313](https://ieeexplore.ieee.org/abstract/document/9476019)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenLTL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_1');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLTL22.txt" id="abstract_ChenLTL22" >}}
 {{< ShowBibtex file="/content/bib/ChenLTL22.bib" id="pub_2022_1" >}}
+
+- Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
+Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
+Memetic Computing (MC), 14(2): 225-235, 2022<br>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s12293-022-00357-w](https://link.springer.com/article/10.1007/s12293-022-00357-w)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_XuLA22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_4');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_XuLA22.txt" id="abstract_XuLA22" >}}
+{{< ShowBibtex file="/content/bib/XuLA22.bib" id="in_press_4" >}}
 
 ---
 
