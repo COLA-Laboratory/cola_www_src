@@ -139,6 +139,20 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
+Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
+Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_1');">`BiB`</a>
+
+</pre>
+
+- Attention-Based Genetic Algorithm for Adversarial Attack in Natural Language Processing<br>
+Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_1');">`BiB`</a>
+
+</pre>
+
 - Black-Box Adversarial Attack via Overlapped Shapes<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage)<br>
