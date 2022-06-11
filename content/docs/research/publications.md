@@ -22,6 +22,47 @@ bookToc: false
       else
         e.style.display = 'block';
   }
+  
+  //Params:
+  // id_prefix: the prefix of the id for the showing blocks
+  // current_order: the order of the current block, start from 0
+  // total_num: the total number of showing blocks
+  //Usage:
+  // All the showing blocks should have id with the form 'id_prefix_#', e.g.,
+  // for id_prefix = 'test', total_num = 4, the id for showing blocks should be
+  // 'test_0', 'test_1', 'test_2', 'test_3'.
+  //Example:
+  // <a href="#/" onclick="toggle_visibility_extend('test',0,4);">`test1`</a>
+  // <a href="#/" onclick="toggle_visibility_extend('test',1,4);">`test2`</a>
+  // <a href="#/" onclick="toggle_visibility_extend('test',2,4);">`test3`</a>
+  // <a href="#/" onclick="toggle_visibility_extend('test',3,4);">`test4`</a>
+  // ShowBibtex_ file="/content/xxx.txt" id="test_0"
+  // ShowBibtex_ file="/content/xxx.txt" id="test_1"
+  // ShowBibtex_ file="/content/xxx.txt" id="test_2"
+  // ShowBibtex_ file="/content/xxx.txt" id="test_3" 
+  // (Note: add the brackets for shortcode when using, because it cannot be dircetly added here for interpreter errors)
+  function toggle_visibility_extend(id_prefix, current_order, total_num) {
+      // get all ids for different blocks
+      var id_array = [];
+      for(var i = 0;i < total_num;i++)
+        id_array.push(id_prefix + "_" + i);
+
+      // toggle the visibility for current click block
+      var current_id = id_prefix+"_"+current_order;
+      var e = document.getElementById(current_id);
+      if(e.style.display == 'block')
+        e.style.display = 'none';
+      else
+        e.style.display = 'block';
+
+      // set the visibility to none for all the other blocks
+      for(var i = 0;i < total_num;i++)
+      {
+        if(id_array[i] == current_id) continue;
+        var t = document.getElementById(id_array[i]);
+        t.style.display = 'none';
+      }
+  }
 </script>
 
 <style>
