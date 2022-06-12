@@ -99,6 +99,12 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
+**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> June 2022<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
+
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
 **<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2204.02604 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2022<br>
