@@ -97,7 +97,7 @@ The symposium will be organized in one day with the following agenda.
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('me_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/me_bio.txt" id="me_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('me');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/me.txt" id="me" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+{{< ShowBibtex file="/content/docs/misc/symposium22/me.txt" id="me" >}} | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/gfu5aww6m9g82f0/ME.mp4?dl=0) 
 
 ---
 - 10:00 – 10:50 | [Prof. Yaochu Jin](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=3FD713274DEE8417BCA9E9D6902DDB8E?personId=308725127) | University of Bielefeld, Germany<br>
@@ -105,7 +105,7 @@ The symposium will be organized in one day with the following agenda.
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/yj_bio.txt" id="yj_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('yj');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/yj.txt" id="yj" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+{{< ShowBibtex file="/content/docs/misc/symposium22/yj.txt" id="yj" >}} | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/pyerywu05n3wz2q/YJ.mp4?dl=0)
 
 ---
 - 10:50 – 11:40 | [Prof. Thomas Bäck](https://www.universiteitleiden.nl/en/staffmembers/thomas-back) | Leiden University, Netherlands<br>
@@ -113,7 +113,7 @@ The symposium will be organized in one day with the following agenda.
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('tb_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/tb_bio.txt" id="tb_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('tb');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/tb.txt" id="tb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+{{< ShowBibtex file="/content/docs/misc/symposium22/tb.txt" id="tb" >}} | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/lc0tevitmq5x51h/TB.mp4?dl=0)
 
 ---
 - 11:40 – 14:00: Lunch break
@@ -123,7 +123,7 @@ The symposium will be organized in one day with the following agenda.
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('jb_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/jb_bio.txt" id="jb_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('jb');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/jb.txt" id="jb" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+{{< ShowBibtex file="/content/docs/misc/symposium22/jb.txt" id="jb" >}} | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/obionkkko08v8z2/JB.mp4?dl=0)
 
 ---
 - 14:50 – 15:40 | [Prof. Kaisa Miettinen](http://users.jyu.fi/~miettine/) | University of Jyväskylä, Finland<br>
@@ -131,11 +131,11 @@ The symposium will be organized in one day with the following agenda.
 <i class='fa fa-vcard-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('km_bio');">`Bio`</a>
 {{< ShowBibtex file="/content/docs/misc/symposium22/km_bio.txt" id="km_bio" >}} |
 <i class='fa fa-wpforms' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('km');">`Abstract`</a>
-{{< ShowBibtex file="/content/docs/misc/symposium22/km.txt" id="km" >}} | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-file-video-o' style='font-size:16px'></i> `video` 
+{{< ShowBibtex file="/content/docs/misc/symposium22/km.txt" id="km" >}} | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/1r4wgh5a5graeya/KM.mp4?dl=0)
 
 ---
 - 15:40 – 16:55<br> 
-<i class='fa fa-comments' style='font-size:16px'></i> Panel discussion
+<i class='fa fa-comments' style='font-size:16px'></i> Panel discussion | <i class='fa fa-file-video-o' style='font-size:16px'></i> [`video`](https://www.dropbox.com/s/9al9p2x2th0mgcf/Panel.mp4?dl=0)
 
 ---
 - 16:55 – 17:00: Closing remark
