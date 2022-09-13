@@ -27,6 +27,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Sep" >}}
 
+* The 12th International Conference Series on Evolutionary Multi-Criterion Optimization ([EMO 2023](https://emo2023.liacs.leidenuniv.nl/)) is calling for papers. The deadline is November 30, 2022. This is biannual event for all EMO researchers and this time it will be on March 2023 in Leiden, the Netherlands. <i class='fa fa-calendar' style='font-size:19px'></i> September 12
+
 * Our lab has been a bit slient for the last three months since I have been busy with a preparation of my project interview. Finger crossed and hope it will be secured at the end! <i class='fa fa-calendar' style='font-size:19px'></i> September 5
 
 {{< /tab >}}
