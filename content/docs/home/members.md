@@ -213,6 +213,17 @@ hr.dashed {
         <img src="/media/JC.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
+        Shuang Li<br>
+        Visiting PhD Student<br>
+        Harbin Institute of Technology>
+        08/2022 – present<br>
+        <em>Interests</em>: EMO, BO
+    </div>
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/JC.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
         Jiaxin Chen<br>
         Visiting PhD Student<br>
         Northeastern University<br>
@@ -258,6 +269,14 @@ hr.dashed {
 
 {{< /tab >}}
 
+{{< tab "Postdocs" >}}
+
+- Dr Xinqi Li
+    - 01/11/2021 -- 01/08/2022, University of Exeter
+    - Job: -> G-Research London
+
+{{< /tab >}}
+
 {{< tab "Visiting student" >}}
 
 - Mr Jiadi Liu
@@ -276,7 +295,6 @@ hr.dashed {
     - 01/06/2018 -- 31/12/2018, Wuhan University of Technology
     - Visiting PhD student
     - Job: -> Sichuan Normal University
-
 
 {{< /tab >}}
 
