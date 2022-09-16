@@ -98,15 +98,6 @@ hr.dashed {
         04/2021 – present<br>
         <em>Interests</em>: MFO, TL, MTL, EMO
     </div>
-    <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Dr Xinqi Li<br>
-        Research Fellow<br>
-        11/2021 – present<br>
-        <em>Interests</em>: MFO, TL, MTL, EMO
-    </div>
 </div>
 
 ---
@@ -190,36 +181,18 @@ hr.dashed {
 
 ---
 
-## <i class='fa fa-pagelines' style='font-size:21px'></i> Research Assistant(s)
-
-<div class="grid-container">
-    <div class="item1">
-        <img src="/media/MK.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        <a href="https://www.linkedin.com/in/maja-kaczmarek-7417b9162/?originalSubdomain=uk">Maja Kaczmarek</a><br>
-        REP Student<br>
-        University of Manchester<br>
-        08/2021 – present<br>
-        <em>Interests</em>: DL, Bioinformatics
-    </div>
-</div>
-
----
-
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JC.jpeg" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
         Shuang Li<br>
         Visiting PhD Student<br>
-        Harbin Institute of Technology>
+        Harbin Institute of Technology
         08/2022 – present<br>
         <em>Interests</em>: EMO, BO
     </div>
-<div class="grid-container">
     <div class="item1">
         <img src="/media/JC.jpeg" width="120px", height="130px">
     </div>
@@ -230,6 +203,9 @@ hr.dashed {
         06/2021 – present<br>
         <em>Interests</em>: BLO, EMO, MTL
     </div>
+</div>
+
+<div class="grid-container">
     <div class="item1">
         <img src="/media/HZ.jpeg" width="120px", height="130px">
     </div>
