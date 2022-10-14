@@ -150,6 +150,24 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Surrogate-Assisted Evolutionary Multi-Objective Optimization for Hardware Design Space Exploration<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+- Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
+Peili Mao+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+- Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
 Bo Lyu+, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
 IEEE Trans. Emerging Topics in Computing (TETC)<br>

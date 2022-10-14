@@ -25,6 +25,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Oct" >}}
+
+* We have three papers accepted to the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems. Congratulations to Renzhi, Peili and Jiangjiao, very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 14
+
+* I am proud to be recognized in the [Top 2% Scientists Worldwide](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw) in a latest study from Stanford University. This is my third consecutive year to be recognized in this list. <i class='fa fa-calendar' style='font-size:19px'></i> October 13
+
+{{< /tab >}}
+
 {{< tab "Sep" >}}
 
 * Our paper on "Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars" has been accepted to IEEE Trans. Emerg. Topics Comput. Congratulations to Bo and collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> September 29
