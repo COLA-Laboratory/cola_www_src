@@ -169,10 +169,14 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
-Bo Lyu+, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
-IEEE Trans. Emerging Topics in Computing (TETC)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+Bo Lyu+, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
+IEEE Trans. Emerging Topics in Computational Intelligence (TETCI)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TETCI.2022.3210998](https://ieeexplore.ieee.org/document/9918532/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuHYCYLWH22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_4');">`BiB`</a>
+
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_LyuHYCYLWH22" >}}
+{{< ShowBibtex file="/content/bib/LyuHYCYLWH22.bib" id="in_press_4" >}}
 
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**, Renzhi Chen+<br>
@@ -212,35 +216,37 @@ Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB), 52(10): 10969-10979, 2022<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2021.3132587](https://ieeexplore.ieee.org/document/9663025)<br> 
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WuLLL22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_5');">`BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_8');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WuLLL22.txt" id="abstract_WuLLL22" >}}
-{{< ShowBibtex file="/content/bib/WuLLL22.bib" id="in_press_5" >}}
+{{< ShowBibtex file="/content/bib/WuLLL22.bib" id="pub_2022_8" >}}
 
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
 Lei Chen, Hai-Lin Liu, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC), 26(1): 115-129, 2022<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3095313](https://ieeexplore.ieee.org/abstract/document/9476019)<br> 
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenLTL22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_1');">`BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_7');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLTL22.txt" id="abstract_ChenLTL22" >}}
-{{< ShowBibtex file="/content/bib/ChenLTL22.bib" id="pub_2022_1" >}}
+{{< ShowBibtex file="/content/bib/ChenLTL22.bib" id="pub_2022_7" >}}
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
 Jiangjiao Xu, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
 Memetic Computing (MC), 14(2): 225-235, 2022<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/s12293-022-00357-w](https://link.springer.com/article/10.1007/s12293-022-00357-w)<br> 
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_XuLA22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_4');">`BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_6');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_XuLA22.txt" id="abstract_XuLA22" >}}
-{{< ShowBibtex file="/content/bib/XuLA22.bib" id="in_press_4" >}}
+{{< ShowBibtex file="/content/bib/XuLA22.bib" id="pub_2022_6" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
-<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-14721-0\_9](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_9)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_1');">`BiB`</a>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-14721-0\_9](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_9)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_5');">`BiB`</a>
+
+{{< ShowBibtex file="/content/bib/LiLL22.bib" id="pub_2022_5" >}}
 
 </pre>
 
@@ -248,7 +254,9 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
 Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-14714-2\_24](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_24)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_1');">`BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_4');">`BiB`</a>
+
+{{< ShowBibtex file="/content/bib/ZhouLM22_b.bib" id="pub_2022_4" >}}
 
 </pre>
 
@@ -256,26 +264,29 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
 Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage), ACM, p. 467-468, July, 2022<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3520304.3528934](https://dl.acm.org/doi/10.1145/3520304.3528934)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_1');">`BiB`</a>
-<pre class="bibtexpre" id="in_press_1" style="display: none;">
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_3');">`BiB`</a>
+
+{{< ShowBibtex file="/content/bib/WilliamsLM22.bib" id="pub_2022_3" >}}
 
 </pre>
 
 - Adversarial Attack Example Generation via Genetic Algorithm: A Preliminary Result<br>
 Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage), ACM, p. 469-470, July, 2022<br>
-<i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3520304.3528934](https://dl.acm.org/doi/10.1145/3520304.3528981)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_2');">`BiB`</a>
-<pre class="bibtexpre" id="in_press_2" style="display: none;">
+<i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3520304.3528981](https://dl.acm.org/doi/10.1145/3520304.3528981)<br> 
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_2');">`BiB`</a>
+
+{{< ShowBibtex file="/content/bib/ZhouLM22.bib" id="pub_2022_2" >}}
 
 </pre>
 
-- Decomposition multi-objective optimisation: current developments and future opportunities<br>
+- Decomposition Multi-Objective Optimisation: Current Developments and Future Opportunities<br>
 **<ins>Ke Li</ins>**, Qingfu Zhang<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage), ACM, p. 469-470, July, 2022<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3520304.3533629](https://dl.acm.org/doi/10.1145/3520304.3533629)<br> 
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_2');">`BiB`</a>
-<pre class="bibtexpre" id="in_press_2" style="display: none;">
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_1');">`BiB`</a>
+
+{{< ShowBibtex file="/content/bib/LiZ22.bib" id="pub_2022_1" >}}
 
 </pre>
 
