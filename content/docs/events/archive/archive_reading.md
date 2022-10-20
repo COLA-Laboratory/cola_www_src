@@ -1,38 +1,10 @@
 ---
-title: Reading Group
+title: Archive of Reading Group
 type: docs
 bookToc: false
 ---
 
-# Reading Group
-
-<link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<head>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-
-{{< hint info >}}
-The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in receiving invitations contact the organizer.
-
-{{< /hint >}}
-
-{{< expand "More about our reading group culture" "+" >}}
-
-Each week we will discuss a different paper. The paper to discuss is announced about one week in advance by the organizer. All participants are expected to read the paper before the meeting. It is recommended to take notes about insights, questions, and other points potentially worth discussing.
-
-The goals of the reading group are:
-- Critical reflection on scientific work
-- Practice of reading and argumentation strategies
-- Exposure to a broad range of research topics
-- Practice of leading group discussions
-
-The discussion is limited to one hour. The discussion is lead by a moderator, who may also set a focus for the discussion. The moderator will kick off the meeting by giving a short summary of the paper and raising a few points for discussion. The moderator should try to incorporate all participants into the discussion. The moderator role rotates through all participants. The moderator is encouraged to help with the selection of a paper that week.
-
-{{< /expand >}}
-
+# Archive of Reading Group
 
 ## Agenda (Year 2021)
 
@@ -104,4 +76,32 @@ _ICLR 2020_<br>
 
 {{< /tabs >}}
 
-<i class='fa fa-archive' style='font-size:19px'></i> Previous reading group information can be found from our [archive](/docs/research/archive_reading).
+## Agenda (Year 2020)
+
+{{< tabs "uniqueid" >}}
+
+{{< tab "Dec" >}}
+
+- Surrogate Assisted Evolutionary Algorithms, `Fan Li` `Dec 27`<br>
+[slides]
+
+- RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design, _ACM Trans. Graphics_. `Jiahao Zhou` `Dec 20`<br>
+[[paper](https://cdfg.mit.edu/assets/files/robogrammar.pdf)] [slides]
+
+- Optimization, Fast and Slow: Optimally Switching Between Local and Bayesian Optimization, _ICML 2018_. `Guozhao Wei` `Dec 13`<br>
+[[paper](http://proceedings.mlr.press/v80/mcleod18a/mcleod18a.pdf)] [slides]
+
+{{< /tab >}}
+
+{{< tab "Nov" >}}
+
+- Ordinal Regression with Multiple Output CNN for Age Estimation, _CVPR 2016_. `Guiyu Lai` `Nov 29`<br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_29.11.2020_LAI.pptx)]
+
+- Towards Fast Adaptation of Neural Architectures with Meta Learning, _ICLR 2020_. `Shasha Zhou` `Nov 22`<br>
+[[paper](https://openreview.net/pdf?id=r1eowANFvr)] [[slides](https://github.com/COLA-Laboratory/reading_group/blob/main/2020/Nov/slides_22.11.2020_ZHOU.ppt)]
+
+{{< /tab >}}
+
+{{< /tabs >}}
+

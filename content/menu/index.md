@@ -9,8 +9,11 @@ headless: true
   - [Publications]({{< relref "/docs/research/publications" >}}) 
   - [Projects]({{< relref "/docs/research/projects" >}}) 
   - [Grants]({{< relref "/docs/research/grants" >}})
-  - [Reading Group]({{< relref "/docs/research/readinggroup" >}})
   - [EMOC]({{< relref "/docs/research/emoc" >}})
+- **Events**
+  -  [Study Group]({{< relref "/docs/events/studygroup" >}})
+  -  [Reading Group]({{< relref "/docs/events/readinggroup" >}})
+  -  [COLA Seminar Series]({{< relref "/docs/events/seminars" >}})
 - **Misc**
   - [ECTC TF]({{< relref "/docs/misc/dtec" >}})
   - [Deadlines]({{< relref "/docs/misc/ddl" >}})
