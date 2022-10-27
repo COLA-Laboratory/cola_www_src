@@ -12,20 +12,22 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "AI & ML" >}}
 
-- ~~[IJCAI 2022](https://ijcai-22.org/): January 14, 2022~~
-- ~~[ICML 2022](https://icml.cc/Conferences/2022): January 27, 2022~~
+- [IJCAI 2023](https://ijcai-23.org/): TBD
+- [ICML 2023](https://icml.cc/Conferences/2023): TBD
+- [ECML/PKDD 2023](https://2023.ecmlpkdd.org/): TBD
 - ~~[UAI 2022](https://auai.org/uai2022/): February 25, 2022~~
 - ~~[NeurIPS 2022](https://nips.cc/): May 17, 2022~~
-- [AAAI 2023](https://www.aaai.org/): August 15, 2022
-- [ICLR 2023](https://iclr.cc/): TBD
-- [AISTAS 2023](https://aistats.org/): TBD
+- ~~[AAAI 2023](https://www.aaai.org/): August 15, 2022~~
+- ~~[ICLR 2023](https://iclr.cc/): September 28, 2022~~
+- ~~[AISTAS 2023](https://aistats.org/): October 13, 2022~~
 
 {{< /tab >}}
 
 {{< tab "DM" >}}
 
-- ~~[ICDM 2022](https://icdm22.cse.usf.edu/index.html): June 2022~~
-- [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm21): TBD
+- [KDD 2023](https://kdd.org/): TBD
+- [ICDM 2023](http://www.cloud-conf.net/icdm2023/index.html): July 1, 2023
+- ~~[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23): October 14, 2022~~
 
 {{< /tab >}}
 
@@ -49,14 +51,14 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "EC" >}}
 
-- ~~[GECCO 2022](https://gecco-2022.sigevo.org/HomePage): February 3, 2022~~
+- [GECCO 2023](https://gecco-2023.sigevo.org/HomePage): TBD
 - ~~[WCCI 2022](https://wcci2022.org/): January 31, 2022~~
 - ~~[PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 13, 2022~~
 - ~~[IJCNN 2022](https://www.ijcnn.org/): February 10, 2022~~
-- ~~[CEC 2022](https://cec2021.mini.pw.edu.pl/en/important-dates): February 21, 2022~~
-- ~~[SMC 2022](http://ieeesmc2022.org/): April 15, 2022~~
+- [CEC 2023](https://2023.ieee-cec.org/): January 13, 2023
+- [SMC 2022](https://ieeesmc2023.org/): March 30, 2023
 - ~~[FOGA 2022](https://www.fhv.at/foga2021/): May 7, 2022~~
-- [SSCI 2022](https://attend.ieee.org/ssci-2022/): July 1, 2022
+- [SSCI 2023](https://attend.ieee.org/ssci-2023/): TBD
 
 {{< /tab >}}
 
