@@ -57,7 +57,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - ~~[PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 13, 2022~~
 - ~~[IJCNN 2022](https://www.ijcnn.org/): February 10, 2022~~
 - [CEC 2023](https://2023.ieee-cec.org/): January 13, 2023
-- [SMC 2022](https://ieeesmc2023.org/): March 30, 2023
+- [SMC 2023](https://ieeesmc2023.org/): March 30, 2023
 - ~~[FOGA 2022](https://www.fhv.at/foga2021/): May 7, 2022~~
 - [SSCI 2023](https://attend.ieee.org/ssci-2023/): TBD
 
