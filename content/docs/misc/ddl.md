@@ -28,6 +28,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - [KDD 2023](https://kdd.org/): TBD
 - [ICDM 2023](http://www.cloud-conf.net/icdm2023/index.html): July 1, 2023
 - ~~[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23): October 14, 2022~~
+- [CIKM 2023](https://cikm2023.github.io/): TBD
 
 {{< /tab >}}
 
