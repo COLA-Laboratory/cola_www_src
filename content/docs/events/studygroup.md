@@ -27,11 +27,15 @@ The core purpose of this study group, which runs every Sunday afternoon, is to l
 
 - Nouns: plurals, countable versus uncountable<br>
 _Academic Writing Series_ #1<br>
-<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-youtube-play' style='font-size:16px'></i> `video` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 4
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/l3s996aar66ftgj/1.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 4
 
-- 第一章: 基础知识<br>
+- Nouns: plurals, countable versus uncountable<br>
+_Academic Writing Series_ #2<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/l3s996aar66ftgj/1.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 13
+
+- 第一、二章: 基础知识<br>
 _《最优化计算方法》_<br>
-<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Fan Li, Heng Yang | <i class='fa fa-calendar' style='font-size:16px'></i> November 6
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Fan Li, Heng Yang | <i class='fa fa-calendar' style='font-size:16px'></i> November 13
 
 {{< /tab >}}
 
