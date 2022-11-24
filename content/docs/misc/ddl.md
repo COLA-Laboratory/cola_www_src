@@ -63,7 +63,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "EC" >}}
 
-- [GECCO 2023](https://gecco-2023.sigevo.org/HomePage): TBD
+- [GECCO 2023](https://gecco-2023.sigevo.org/HomePage): February 10, 2022
 - ~~[WCCI 2022](https://wcci2022.org/): January 31, 2022~~
 - ~~[PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 13, 2022~~
 - ~~[IJCNN 2022](https://www.ijcnn.org/): February 10, 2022~~
