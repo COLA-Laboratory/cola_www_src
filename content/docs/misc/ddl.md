@@ -21,6 +21,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "ML" >}}
 
 - [ICML 2023](https://icml.cc/Conferences/2023): January 26, 2022
+- [AutoML 2023](https://2023.automl.cc/): TBD
 - [ECML/PKDD 2023](https://2023.ecmlpkdd.org/): TBD
 - ~~[UAI 2022](https://auai.org/uai2022/): February 25, 2022~~
 - ~~[NeurIPS 2022](https://nips.cc/): May 17, 2022~~
