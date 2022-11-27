@@ -25,9 +25,13 @@ The core purpose of this study group, which runs every Sunday afternoon, is to l
 
 {{< tab "Nov" >}}
 
-- Nouns: plurals, countable versus uncountable<br>
-_Academic Writing Series_ #1<br>
-<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/l3s996aar66ftgj/1.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 4
+- Indefinite article: a / an<br>
+_Academic Writing Series_ #4<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/y6zwcidz60d109a/3.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 27
+
+- Genitive: the possessive form of nouns<br>
+_Academic Writing Series_ #3<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/cycexihzojwdytk/2.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 20
 
 - Nouns: plurals, countable versus uncountable<br>
 _Academic Writing Series_ #2<br>
@@ -36,6 +40,10 @@ _Academic Writing Series_ #2<br>
 - 第一、二章: 基础知识<br>
 _《最优化计算方法》_<br>
 <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Fan Li, Heng Yang | <i class='fa fa-calendar' style='font-size:16px'></i> November 13
+
+- Nouns: plurals, countable versus uncountable<br>
+_Academic Writing Series_ #1<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/l3s996aar66ftgj/1.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> November 4
 
 {{< /tab >}}
 
