@@ -31,6 +31,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 * My UKRI Future Leaders Fellowship renewal has been approved as a **prima facie case**, i.e., without any further interview justification. There will be an additional three-year funding started from May 2023. Really appreciated the generous support from UKRI in the past nearly four years. Look forward to create a new research programme and fight for its future in the coming years.  <i class='fa fa-calendar' style='font-size:19px'></i> December 1
 
+* Our paper on "MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search" has been accepted to Computers \& Electrical Engineering. Congratulations to Bo and collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> December 1
+
 {{< /tab >}}
 
 {{< tab "Oct" >}}

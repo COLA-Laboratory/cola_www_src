@@ -151,21 +151,10 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
-- Surrogate-Assisted Evolutionary Multi-Objective Optimization for Hardware Design Space Exploration<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
-
-- Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
-Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
-
-- Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
-Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+- MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
+Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
+Computers & Electrical Engineering<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.compeleceng.2022.108474](https://www.sciencedirect.com/science/article/pii/S0045790622006899?dgcid=coauthor)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
@@ -188,15 +177,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
 {{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
 
-- Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
-**<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3116121](https://ieeexplore.ieee.org/document/9551284)<br> 
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiNGY22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_6');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiNGY22.txt" id="abstract_LiNGY22" >}}
-{{< ShowBibtex file="/content/bib/LiNGY22.bib" id="in_press_6" >}}
-
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
@@ -211,6 +191,15 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 ## 2022
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
+**<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
+IEEE Trans. Evolutionary Computation (TEVC), 26(6): 1409-1423, 2022<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2021.3116121](https://ieeexplore.ieee.org/document/9551284)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiNGY22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/JerryI00/KPI) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_6');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiNGY22.txt" id="abstract_LiNGY22" >}}
+{{< ShowBibtex file="/content/bib/LiNGY22.bib" id="in_press_6" >}}
 
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
 Jia Wu, Chunbo Luo, Yang Luo, **<ins>Ke Li</ins>**<br>
@@ -240,6 +229,25 @@ Memetic Computing (MC), 14(2): 225-235, 2022<br>
 {{< ShowBibtex file="/content/bib/XuLA22.bib" id="pub_2022_6" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Surrogate-Assisted Evolutionary Multi-Objective Optimization for Hardware Design Space Exploration<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+- Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
+Peili Mao+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+- Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
 
 - Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
