@@ -25,6 +25,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Dec" >}}
+
+* COLA-Lab is hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies). <i class='fa fa-calendar' style='font-size:19px'></i> December 1
+
+* My UKRI Future Leaders Fellowship renewal has been approved as a **prima facie case**, i.e., without any further interview justification. There will be an additional three-year funding started from May 2023. Really appreciated the generous support from UKRI in the past nearly four years. Look forward to create a new research programme and fight for its future in the coming years.  <i class='fa fa-calendar' style='font-size:19px'></i> December 1
+
+{{< /tab >}}
+
 {{< tab "Oct" >}}
 
 * We have three papers accepted to the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems. Congratulations to Renzhi, Peili and Jiangjiao, very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 14

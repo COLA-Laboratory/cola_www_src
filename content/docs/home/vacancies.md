@@ -16,6 +16,13 @@ bookToc: false
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
 
+{{< hint warning >}}
+We have multiple fully funded PhD studentships available for September 2023 entry.
+- **<ins>UKRI and CEMPS co-funded PhD studentship</ins>** to commence on 25th September 2023 or as soon as possible thereafter. For eligible students the studentship will cover Home tuition fees plus an annual tax-free stipend of at least £17,668 for 3.5 years full-time, or pro rata for part-time study. More detailed information can be found from [here](https://www.exeter.ac.uk/study/funding/award/?id=4653).
+- **<ins>Exeter-CSC PhD studentship</ins>** is open for application. The application deadline for this entry is **4th January 2023**. Please contact me as soon as possible about this opportunity and I can support your application materials. More detailed information can be found from [here](https://www.exeter.ac.uk/pg-research/csc-scholarships/).
+
+{{< /hint >}}
+
 {{< tabs "uniqueid" >}}
 {{< tab "PhD" >}}
 
