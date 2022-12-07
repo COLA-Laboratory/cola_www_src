@@ -151,6 +151,18 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**
+Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+- Sparse Adversarial Attack via Bi-Objective Optimization<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**
+Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
 - MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
 Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
 Computers & Electrical Engineering<br>

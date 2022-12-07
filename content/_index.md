@@ -27,7 +27,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Dec" >}}
 
-* COLA-Lab is hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies). <i class='fa fa-calendar' style='font-size:19px'></i> December 1
+
+* **COLA-Lab is hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).** <i class='fa fa-calendar' style='font-size:19px'></i> December 1
+
+* We have two papers accepted to EMO 2023. Congratulations to Renzhi and Phoenix! See you in Leiden! <i class='fa fa-calendar' style='font-size:19px'></i> December 7
 
 * My UKRI Future Leaders Fellowship renewal has been approved as a **prima facie case**, i.e., without any further interview justification. There will be an additional three-year funding started from May 2023. Really appreciated the generous support from UKRI in the past nearly four years. Look forward to create a new research programme and fight for its future in the coming years.  <i class='fa fa-calendar' style='font-size:19px'></i> December 1
 
