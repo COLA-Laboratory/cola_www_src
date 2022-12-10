@@ -13,7 +13,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "AI" >}}
 
 - [IJCAI 2023](https://ijcai-23.org/): January 18, 2023
-- [ECAI 2023](https://ecai2023.eu/): TBD
+- [ECAI 2023](https://ecai2023.eu/): late April, 2023
 - ~~[AAAI 2023](https://www.aaai.org/): August 15, 2022~~
 - ~~[ICLR 2023](https://iclr.cc/): September 28, 2022~~
 {{< /tab >}}
