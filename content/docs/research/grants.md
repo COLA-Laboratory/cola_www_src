@@ -51,9 +51,6 @@ Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](htt
 - Towards Scalable Multi-Objective Bilevel Optimization: Foundations, Methodologies and Applications<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> Hong Kong GRF | <i class='fa fa-qrcode' style='font-size:18px'></i> #[11211521](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11211521&old_proj_id=null&proj_title=&isname=Tan&ioname=&institution=PolyU&subject=E2&pages=1&year=2021&theSubmit=11211521) | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I (with PI: Prof. Kay Chen Tan from The Hong Kong Polytechnic University) | <i class='fa fa-money' style='font-size:18px'></i> HK$1,150,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2024.
 ---
-- Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
-<i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
----
 - Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC DTP Doctoral Prize | <i class='fa fa-qrcode' style='font-size:18px'></i> [#2404317](https://gtr.ukri.org/projects?ref=studentship-2404317) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;74,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2020--2024.
 
@@ -61,6 +58,9 @@ Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](htt
 
 {{< tab "Finished" >}}
 
+- Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
+---
 - Transfer Bayesian Optimization for Multi-Fidelity Data in Uncertain Environments<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> European Network Fund | <i class='fa fa-qrcode' style='font-size:18px'></i> #GP ENF5.10 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;7,440 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
 ---
