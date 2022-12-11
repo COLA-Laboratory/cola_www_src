@@ -39,7 +39,7 @@ We are grateful to have been generously supported by or closely working with the
 
 - Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> UKRI Future Leaders Fellowship <br>
-Phase 2: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/X011135/1]() | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;580,000 (prima facie case) | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2026.<br>
+Phase 2: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/X011135/1]() | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;580,000 (**<ins>prima facie case</ins>**) | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2026.<br>
 Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](https://gtr.ukri.org/projects?ref=MR%2FS017062%2F1) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;1,370,803 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2019--2023.
 ---
 - Evolutionary Multi-Objective Search for Automating CNN Architecture Design<br>

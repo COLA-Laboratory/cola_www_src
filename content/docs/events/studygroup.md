@@ -23,6 +23,14 @@ The core purpose of this study group, which runs every Sunday afternoon, is to l
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Dec" >}}
+
+- Definite article: the<br>
+_Academic Writing Series_ #5<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/96fde7h5rts57q8/4.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> December 11
+
+{{< /tab >}}
+
 {{< tab "Nov" >}}
 
 - Indefinite article: a / an<br>
