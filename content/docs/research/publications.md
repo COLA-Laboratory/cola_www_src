@@ -245,14 +245,16 @@ Memetic Computing (MC), 14(2): 225-235, 2022<br>
 - Surrogate-Assisted Evolutionary Multi-Objective Optimization for Hardware Design Space Exploration<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/do1f1q9tkkmxgfw/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenL22.txt" id="abstract_ChenL22" >}}
 
 - Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
 Peili Mao+, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_MaoL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/sfa37snhfl6wjtt/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_MaoL22.txt" id="abstract_MaoL22" >}}
 
 - Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
 Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
