@@ -246,20 +246,19 @@ Memetic Computing (MC), 14(2): 225-235, 2022<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/do1f1q9tkkmxgfw/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 - Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
 Peili Mao+, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/sfa37snhfl6wjtt/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 - Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
 Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
-
 
 - Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
