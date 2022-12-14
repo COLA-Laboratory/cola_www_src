@@ -59,9 +59,14 @@ Here are some important deadlines for the major conferences in artificial intell
 - [FSE 2023](https://conf.researchr.org/home/fse-2023): February 2, 2023
 - [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers): May 5, 2023
 - [ICSE 2024](https://conf.researchr.org/home/icse-2024): March 29, 2023 (1st round) | August 1, 2023 (2nd round)
-- [ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): TBD
+- [ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023
+- ~~[ICPC 2023](https://conf.researchr.org/home/icpc-2023): December 19, 2022~~
 - [ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023
+- [ISSRE 2023](https://issre2022.github.io/): TBD
 - ~~[SANER 2023](https://saner2023.must.edu.mo/): October 21, 2022~~
+- [ICST 2023](https://conf.researchr.org/home/icst-2023): January 27, 2023
+- ~~[QRS 2022](https://qrs22.techconf.org/): September 10, 2022~~
+- [MSR](https://conf.researchr.org/home/msr-2023): January 16, 2023
 
 {{< /tab >}}
 
