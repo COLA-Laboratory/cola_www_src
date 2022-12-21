@@ -111,12 +111,6 @@ hr.dashed {
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
 
-- Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
-**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2204.02604 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
-
 - Art-Attack: Black-Box Adversarial Attack via Evolutionary Art<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.04405 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
@@ -150,6 +144,13 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
+**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
