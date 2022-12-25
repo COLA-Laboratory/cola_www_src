@@ -26,6 +26,10 @@ The core purpose of this study group, which runs every Sunday afternoon, is to l
 {{< tab "Dec" >}}
 
 - Zero article: no article<br>
+_Academic Writing Series_ #7<br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/mst9aab0tva2h31/6.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> December 25
+
+- Zero article: no article<br>
 _Academic Writing Series_ #6<br>
 <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](https://www.dropbox.com/s/gfmmo6022j9qlvx/5.pdf?dl=0) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> December 18
 
