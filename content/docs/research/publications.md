@@ -157,7 +157,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenL23');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../../../supplementary/supp_mgd.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/5c8k6slk13wsrnf/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenL23.txt" id="abstract_ChenL23" >}}
 
 - Sparse Adversarial Attack via Bi-Objective Optimization<br>

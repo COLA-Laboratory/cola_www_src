@@ -22,7 +22,7 @@ This website maintains the supplementary materials related to the following pape
 
 It consists of the following parts:
 - The source code of this paper can be found from our <i class='fa fa-github-square' style='font-size:16px'></i> [Github repo](https://github.com/COLA-Laboratory/ranknet).
-- Appendix document of this paper can be found from this <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [pdf](../../../../supplementary/supp_ranknet.pdf).
+- Appendix document of this paper can be found from this <i class='fa fa-dropbox' style='font-size:16px'></i> [Dropbox link](https://www.dropbox.com/s/77bq1zooeebuyp8/supp.pdf?dl=0).
 - Video clips of the best policy obtained by different algorithms. In particular, {{< katex >}}f_1{{< /katex >}} is the x-axis speed, {{< katex >}}f_2{{< /katex >}} is the y-axis speed, {{< katex >}}f_3 \text{ is the energy consumption} {{< /katex >}}
     - <ins>BC-EMO</ins>: {{< katex >}} (f_1=68.45730, f_2=111.72400, f_3=95.55980)^\top {{< /katex >}}
     - <ins>NEMO-0</ins>: {{< katex >}} (f_1=68.45730, f_2=111.72400, f_3=95.55980)^\top {{< /katex >}}
@@ -41,3 +41,17 @@ It consists of the following parts:
 <img src="/media/gifs/ranknet/i_nsga2_ltr.gif" width = "300px" align=center title="Moving peak benchmark with Gaussian peaks" /><br>
 <img src="/media/gifs/ranknet/i_ibea_ltr.gif" width = "300px" align=center title="Moving peak benchmark with Gaussian peaks" />
 </div>
+
+Please cite the paper by using the following bibtex.
+```
+@article{LiLY22,
+    author    = {Ke Li and
+                 Guiyu Lai and
+                 Xin Yao},
+    title     = {Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank},
+    journal   = {{IEEE} Trans. Evol. Comput.},
+    pages     = {1--15},
+    year      = {2022},
+    note      = {accepted for publication}
+}
+```
