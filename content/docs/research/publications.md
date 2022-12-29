@@ -148,15 +148,17 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
 **<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLY22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY22.txt" id="abstract_LiLY22" >}}
 {{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenL23');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../../../supplementary/supp_mgd.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenL23.txt" id="abstract_ChenL23" >}}
 
 - Sparse Adversarial Attack via Bi-Objective Optimization<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
