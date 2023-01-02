@@ -145,6 +145,12 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Geor
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
+Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
 **<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
