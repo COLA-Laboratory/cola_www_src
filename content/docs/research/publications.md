@@ -97,7 +97,7 @@ hr.dashed {
 {{< /hint >}}
 
 <div id="div">
-<svg width="900" height="300"></svg>
+<svg width="1000" height="300"></svg>
 <script src="/bar_chart.js"></script>
 </div>
 
