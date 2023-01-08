@@ -12,6 +12,7 @@ bookToc: false
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
 <script>
@@ -94,6 +95,13 @@ hr.dashed {
 - \* means equal contribution
 
 {{< /hint >}}
+
+<div id="div">
+<svg width="900" height="300"></svg>
+<script src="/bar_chart.js"></script>
+</div>
+
+---
 
 ## To appear
 
