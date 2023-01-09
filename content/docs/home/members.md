@@ -81,15 +81,6 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/JX.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Dr Jiangjiao Xu<br>
-        Research Fellow<br>
-        07/2020 – present<br>
-        <em>Interests</em>: SG, TL, GP, EMO, meta-learning
-    </div>
-    <div class="item1">
         <img src="/media/FL.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
@@ -97,6 +88,15 @@ hr.dashed {
         Research Fellow<br>
         04/2021 – present<br>
         <em>Interests</em>: MFO, TL, MTL, EMO
+    </div>
+    <div class="item1">
+        <img src="/media/JC.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Miss Jiaxin Chen<br>
+        Research Associate<br>
+        12/2022 – present<br>
+        <em>Interests</em>: BLO, EMO, MTL
     </div>
 </div>
 
@@ -193,29 +193,6 @@ hr.dashed {
         08/2022 – present<br>
         <em>Interests</em>: EMO, BO
     </div>
-    <div class="item1">
-        <img src="/media/JC.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Jiaxin Chen<br>
-        Visiting PhD Student<br>
-        Northeastern University<br>
-        06/2021 – present<br>
-        <em>Interests</em>: BLO, EMO, MTL
-    </div>
-</div>
-
-<div class="grid-container">
-    <div class="item1">
-        <img src="/media/HZ.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Huan Zhang<br>
-        Visiting PhD Student<br>
-        Northeastern University<br>
-        06/2021 – present<br>
-        <em>Interests</em>: DO, TL, EMO
-    </div>
 </div>
 
 ---
@@ -247,6 +224,10 @@ hr.dashed {
 
 {{< tab "Postdocs" >}}
 
+- Dr Jiangjiao Xu
+    - 01/07/2020 - 01/11/2022, University of Exeter
+    - Job: Industry
+
 - Dr Xinqi Li
     - 01/11/2021 -- 01/08/2022, University of Exeter
     - Job: -> G-Research London
@@ -255,13 +236,16 @@ hr.dashed {
 
 {{< tab "Visiting student" >}}
 
+- Miss Huan Zhang
+    - 06/2021 -- 01/12/2022, Northeastern University
+    - Visiting PhD student
 - Mr Jiadi Liu
     - 01/11/2019 -- 05/11/2020, Southwest University
     - Visiting PhD student
 - Mr Ruxin Zhao
     - 01/11/2019 -- 05/11/2020, Nanjing University of Science and Technology
     - Visiting PhD student
-- Mr Yingying Guan
+- Miss Yingying Guan
     - 01/11/2019 -- 05/11/2020, Northeastern University
     - Visiting PhD student
 - Mr Lingjie Li
