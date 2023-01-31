@@ -107,6 +107,13 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
+Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2301.12148 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2023<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
+
+
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2211.02879 | <i class='fa fa-calendar' style='font-size:16px'></i> November 2022<br>
@@ -197,15 +204,6 @@ IEEE Trans. Emerging Topics in Computational Intelligence (TETCI)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_LyuHYCYLWH22" >}}
 {{< ShowBibtex file="/content/bib/LyuHYCYLWH22.bib" id="in_press_4" >}}
 
-- Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen+\*<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_dmi');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
-{{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
-
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
@@ -216,6 +214,19 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
 {{< ShowBibtex file="/content/bib/LyuYWHL22.bib" id="in_press_7" >}}
 
 ---
+
+## 2023
+
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen+\*<br>
+IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126-140, 2023<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_dmi');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
+{{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
 
 ## 2022
 
