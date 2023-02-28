@@ -24,6 +24,16 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Feb" >}}
+
+* **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
+
+* Our papers on "Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation" has been accepted to [CVPR 2023](https://cvpr2023.thecvf.com/). Congratulations to Phoenix! Very well done!<i class='fa fa-calendar' style='font-size:19px'></i> February 27
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
 {{< tab "Jan" >}}
 
 * **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
