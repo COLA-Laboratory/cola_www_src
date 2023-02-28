@@ -24,7 +24,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - [AutoML 2023](https://2023.automl.cc/): March 23, 2023
 - [ECML/PKDD 2023](https://2023.ecmlpkdd.org/): TBD
 - ~~[UAI 2022](https://www.auai.org/uai2023/): February 17, 2023~~
-- ~~[NeurIPS 2022](https://nips.cc/): May 17, 2022~~
+- [NeurIPS 2023](https://nips.cc/): May 17, 2023
 - ~~[AISTAS 2023](https://aistats.org/): October 13, 2022~~
 
 {{< /tab >}}
@@ -32,7 +32,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "CV" >}}
 - ~~[CVPR 2023](https://cvpr2023.thecvf.com/): November 11, 2022~~
 - [ICCV 2023](https://iccv2023.thecvf.com/): March 8, 2023
-- [ECCV 2023](): TBD
+- ~~[ECCV 2022](https://eccv2022.ecva.net/): March 7, 2022~~
 {{< /tab >}}
 
 {{< tab "DM" >}}
