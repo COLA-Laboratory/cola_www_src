@@ -189,9 +189,19 @@ hr.dashed {
     <div class="item2">
         Shuang Li<br>
         Visiting PhD Student<br>
-        Harbin Institute of Technology
+        Harbin Institute of Technology<br>
         08/2022 – present<br>
         <em>Interests</em>: EMO, BO
+    </div>
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Kailai Gao<br>
+        Visiting PhD Student<br>
+        Northeastern University<br>
+        02/2023 – present<br>
+        <em>Interests</em>: BO, MTL
     </div>
 </div>
 
