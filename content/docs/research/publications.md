@@ -209,20 +209,20 @@ IEEE Trans. Emerging Topics in Computational Intelligence (TETCI)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_LyuHYCYLWH22" >}}
 {{< ShowBibtex file="/content/bib/LyuHYCYLWH22.bib" id="in_press_4" >}}
 
-- Neural Architecture Search for Portrait Parsing<br>
-Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Neural Networks and Learning Systems (TNNLS)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuYWHL22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_7');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LyuYWHL22.txt" id="abstract_LyuYWHL22" >}}
-{{< ShowBibtex file="/content/bib/LyuYWHL22.bib" id="in_press_7" >}}
-
 ---
 
 ## 2023
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- Neural Architecture Search for Portrait Parsing<br>
+Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112-1121, 2023<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuYWHL22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_7');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LyuYWHL22.txt" id="abstract_LyuYWHL22" >}}
+{{< ShowBibtex file="/content/bib/LyuYWHL22.bib" id="in_press_7" >}}
 
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*<br>
