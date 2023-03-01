@@ -236,7 +236,7 @@ hr.dashed {
 
 - Dr Jiangjiao Xu
     - 01/07/2020 - 01/11/2022, University of Exeter
-    - Job: Industry
+    - Job: Zhongneng Integrated Smart Energy Technology Co. Ltd. Beijing, China 
 
 - Dr Xinqi Li
     - 01/11/2021 -- 01/08/2022, University of Exeter
