@@ -216,7 +216,7 @@ IEEE Trans. Emerging Topics in Computational Intelligence (TETCI)<br>
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Neural Architecture Search for Portrait Parsing<br>
-Bo Lyu, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
+Bo Lyu+, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112-1121, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuYWHL22');">`Abs`</a> |
