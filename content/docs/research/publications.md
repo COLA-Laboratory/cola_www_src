@@ -168,6 +168,7 @@ Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(C
 - Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
 Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3236455](https://ieeexplore.ieee.org/document/10016238)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
@@ -178,26 +179,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY22.txt" id="abstract_LiLY22" >}}
 {{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
-
-- Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenL23');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/5c8k6slk13wsrnf/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenL23.txt" id="abstract_ChenL23" >}}
-
-- Sparse Adversarial Attack via Bi-Objective Optimization<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
-Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
-
-- MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
-Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
-Computers & Electrical Engineering<br>
-<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.compeleceng.2022.108474](https://www.sciencedirect.com/science/article/pii/S0045790622006899?dgcid=coauthor)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
 Bo Lyu+, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
@@ -232,6 +213,30 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126-140, 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
 {{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
+
+- MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
+Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
+Computers & Electrical Engineering, 105: 108474, 2023<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.compeleceng.2022.108474](https://www.sciencedirect.com/science/article/pii/S0045790622006899?dgcid=coauthor)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/), Springer, p. 56-70, March, 2023<br>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-27250-9_5](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_5)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenL23');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/5c8k6slk13wsrnf/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenL23.txt" id="abstract_ChenL23" >}}
+
+- Sparse Adversarial Attack via Bi-Objective Optimization<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/), Springer, p. 118-133, March, 2023<br>
+<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-27250-9_9](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_9)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 ## 2022
 
@@ -297,7 +302,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 
 - Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
-Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
+Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/), Springer, p. 124-137, September, 2022<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-14721-0\_9](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_9)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_5');">`BiB`</a>
 
@@ -307,7 +312,7 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
 
 - Attention-Based Genetic Algorithm for Adversarial Attack in Natural Language Processing<br>
 Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
-Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/)<br>
+Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/), Springer, p. 341-355, September, 2022<br>
 <i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-14714-2\_24](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_24)<br> 
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2022_4');">`BiB`</a>
 
