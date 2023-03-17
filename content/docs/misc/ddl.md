@@ -31,7 +31,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "CV" >}}
 - ~~[CVPR 2023](https://cvpr2023.thecvf.com/): November 11, 2022~~
-- [ICCV 2023](https://iccv2023.thecvf.com/): March 8, 2023
+- ~~[ICCV 2023](https://iccv2023.thecvf.com/): March 8, 2023~~
 - ~~[ECCV 2022](https://eccv2022.ecva.net/): March 7, 2022~~
 {{< /tab >}}
 
@@ -62,11 +62,11 @@ Here are some important deadlines for the major conferences in artificial intell
 - [ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023
 - ~~[ICPC 2023](https://conf.researchr.org/home/icpc-2023): December 19, 2022~~
 - [ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023
-- [ISSRE 2023](https://issre2022.github.io/): TBD
+- [ISSRE 2023](https://issre2022.github.io/): May 22, 2023
 - ~~[SANER 2023](https://saner2023.must.edu.mo/): October 21, 2022~~
-- [ICST 2023](https://conf.researchr.org/home/icst-2023): January 27, 2023
+- ~~[ICST 2023](https://conf.researchr.org/home/icst-2023): January 27, 2023~~
 - ~~[QRS 2022](https://qrs22.techconf.org/): September 10, 2022~~
-- [MSR](https://conf.researchr.org/home/msr-2023): January 16, 2023
+- ~~[MSR](https://conf.researchr.org/home/msr-2023): January 16, 2023~~
 
 {{< /tab >}}
 
