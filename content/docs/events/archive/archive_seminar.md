@@ -15,3 +15,16 @@ bookToc: false
 # Archive of COLA Seminar Series
 
 # 2022
+
+## Agenda (Year 2021)
+
+{{< tabs "uniqueid" >}}
+
+{{< tab "June" >}}
+
+- Exeter-Leiden Symposium on Data-Driven Modeling and Optimization<br>
+<i class='fa fa-desktop' style='font-size:16px'></i> [`Website`](../activities/exeter_leiden_symposium) | <i class='fa fa-user-circle' style='font-size:16px'></i> Ke Li, Hao Wang | <i class='fa fa-calendar' style='font-size:16px'></i> June 6
+
+{{< /tab >}}
+
+{{< /tabs >}}
