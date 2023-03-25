@@ -28,7 +28,7 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 * **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
 
-* Our papers on "A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint" has been accepted to IEEE Trans. Evol. Comput. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> March 25
+* Our paper on "A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint" has been accepted to IEEE Trans. Evol. Comput. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> March 25
 
 * I'm glad to be invited to join the Editorial Board for the Brain-Computer Intersection section of [Frontiers in Human Neuroscience](https://www.frontiersin.org/journals/human-neuroscience) journal (Impact Factor=3.473). <i class='fa fa-calendar' style='font-size:19px'></i> March 20
 
