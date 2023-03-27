@@ -2,6 +2,7 @@
 title: Symposium
 type: docs
 bookToc: false
+menuToc: false
 ---
 
 # Turing Workshop on Human-Centric Artificial and Computational Intelligence and Applications

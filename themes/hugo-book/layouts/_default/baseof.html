@@ -11,9 +11,11 @@
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
+    {{ if default true (default .Site.Params.MenuToC .Params.MenuToC) }}
     <aside class="book-menu">
       {{ template "menu" . }} <!-- Left menu Content -->
     </aside>
+    {{ end }}
 
     <div class="book-page">
       <header class="book-header">

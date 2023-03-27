@@ -35,7 +35,7 @@ languages:
     weight: 3
 
 #menu:
-#  before: [] 
+#  before: []
 #  after:
 #    - name: "Github"
 #      url: "https://github.com/alex-shpak/hugo-book"
@@ -53,6 +53,7 @@ params:
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
   BookToC: true
+  MenuToC: true
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -102,5 +103,4 @@ params:
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker: true
 
-  
-  BookLogo: 'colalab.png'
+  BookLogo: "colalab.png"
