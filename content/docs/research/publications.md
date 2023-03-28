@@ -107,6 +107,18 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Evolutionary Multi-Objective Optimization for Virtual Network Function Placement<br>
+Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> March 2023<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
+
+- Multidimensional Resource Fragmentation-Aware Virtual Network Embedding in MEC Systems Interconnected by Metro Optical Networks<br>
+Yingying Guan+, Qingyang Song, Weijing Qi, **<ins>Ke Li</ins>**, Lei Guo, Abbas Jamalipour<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> February 2023<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/u3xs7ksz0bfvgjl/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('GuanSQLGJ23');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/GuanSQLGJ23.bib" id="GuanSQLGJ23" >}}
+
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2301.12148 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2023<br>
@@ -148,12 +160,6 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2108.09588 | <i class='fa fa-calendar' style='font-size:16px'></i> August 2021<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/k6xom2n0smsmzr9/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_5');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/Li22.bib" id="to_appear_5" >}}
-
-- Evolutionary Multi-Objective Virtual Network Function Placement: A Formal Model and Effective Algorithms<br>
-Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> May 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/ix0256tvn25vsfx/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/0fqi36on0g9zh4g/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_6');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/BillingsleyLMMG22.bib" id="to_appear_6" >}}
 
 ---
 

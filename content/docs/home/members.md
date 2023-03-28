@@ -240,7 +240,7 @@ hr.dashed {
 
 - Dr Xinqi Li
     - 01/11/2021 -- 01/08/2022, University of Exeter
-    - Job: -> G-Research London
+    - Job: -> GLAMOROUS.AI
 
 {{< /tab >}}
 
