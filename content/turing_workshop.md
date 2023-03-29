@@ -90,29 +90,26 @@ The detailed agenda of this workshop will be released in due course.
 
 <i class='fa fa-calendar-check-o' style='font-size:16px'></i> April 26, 2023<br>
 
-- 11:30 -- 14:00: Registration and lunch
-- 14:00 -- 17:30: Talks
-- 18:00 -- 20:00: Dinner
+- 11:30 -- 14:30: Registration and lunch
+- 14:30 -- 17:30: Talks
 
 ---
 
 <i class='fa fa-calendar-check-o' style='font-size:16px'></i> April 27, 2023<br>
 
-- 9:00  -- 12:00: Talks
-- 12:00 -- 14:00: Lunch
-- 14:00 -- 17:30: Talks and breakout groups
+- 8:30  -- 9:30: Arrival -- tea and coffee
+- 9:30  -- 11:30: Talks
+- 11:30 -- 14:30: Lunch break and poster session
+- 14:30 -- 17:30: Talks and breakout groups
 - 18:00 -- 20:00: Dinner
 
 ---
 
 <i class='fa fa-calendar-check-o' style='font-size:16px'></i> April 28, 2023<br>
 
-- 9:00  -- 12:00: Talks and panel discussion
-- 12:00 -- 14:00: Lunch
-- 14:00 -- 17:30: Talks
-
----
-- 11:40 – 14:00: Lunch break
+- 8:30  -- 9:30: Arrival -- tea and coffee
+- 9:30  -- 11:30: Talks and panel discussion
+- 11:30 – 14:00: Round up lunch and close
 ---
 
 ## <i class='fa fa-credit-card' style='font-size:20px'></i> Sponsors
