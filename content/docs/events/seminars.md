@@ -26,7 +26,7 @@ This is our seminar series where we exchange ideas with guest speakers, keeping 
 {{< tab "April" >}}
 
 - Turing Workshop on Human-Centric AI and Applications<br>
-<i class='fa fa-desktop' style='font-size:16px'></i> [`Website`](../activities/turing_workshop) | <i class='fa fa-user-circle' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> April 26-28
+<i class='fa fa-desktop' style='font-size:16px'></i> [`Website`](../../turing_workshop) | <i class='fa fa-user-circle' style='font-size:16px'></i> Ke Li | <i class='fa fa-calendar' style='font-size:16px'></i> April 26-28
 
 {{< /tab >}}
 
