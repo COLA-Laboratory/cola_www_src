@@ -109,13 +109,13 @@ hr.dashed {
 
 - Evolutionary Multi-Objective Optimization for Virtual Network Function Placement<br>
 Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> March 2023<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
 
 - Multidimensional Resource Fragmentation-Aware Virtual Network Embedding in MEC Systems Interconnected by Metro Optical Networks<br>
 Yingying Guan+, Qingyang Song, Weijing Qi, **<ins>Ke Li</ins>**, Lei Guo, Abbas Jamalipour<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> February 2023<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2303.15878 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/u3xs7ksz0bfvgjl/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('GuanSQLGJ23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/GuanSQLGJ23.bib" id="GuanSQLGJ23" >}}
 
