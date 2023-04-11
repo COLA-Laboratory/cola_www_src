@@ -16,3 +16,9 @@ bookToc: false
 TikZ is a powerful drawing package for academics who are using LaTeX for paper writing. Unlike other TeX packages, TikZ itself is really huge, its manual contains about 1100+ pages, 100+ chapters. Tens of other packages, and serveral GUI applications are based on TikZ.
 
 Instead of being comprehensive, this page mainly aims to provide a curated list of awesome TikZ templates frequently used in our COLA laboratory.
+
+---
+### Scatter plots
+<div class="item1" style="text-align:left">
+    <img src="/posts/pgfplots/scatter_plot_2d.jpg" width="300px", height="250px", class="center">
+</div>

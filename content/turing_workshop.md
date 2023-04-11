@@ -98,9 +98,9 @@ The detailed agenda of this workshop will be released in due course.
 <i class='fa fa-calendar-check-o' style='font-size:16px'></i> April 27, 2023<br>
 
 - 8:30  -- 9:30: Arrival -- tea and coffee
-- 9:30  -- 11:30: Talks
-- 11:30 -- 14:30: Lunch break and poster session
-- 14:30 -- 17:30: Talks and breakout groups
+- 9:30  -- 12:30: Academic talks
+- 12:30 -- 14:30: Lunch break and poster session
+- 14:30 -- 17:30: Industrial session
 - 18:00 -- 20:00: Dinner
 
 ---
@@ -108,7 +108,7 @@ The detailed agenda of this workshop will be released in due course.
 <i class='fa fa-calendar-check-o' style='font-size:16px'></i> April 28, 2023<br>
 
 - 8:30  -- 9:30: Arrival -- tea and coffee
-- 9:30  -- 11:30: Talks and panel discussion
+- 9:30  -- 11:30: Industrial session
 - 11:30 – 14:00: Round up lunch and close
 ---
 
