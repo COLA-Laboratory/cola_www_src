@@ -6,6 +6,20 @@ bookToc: false
 
 # Archive of Reading Group
 
+## Agenda (Year 2022)
+
+{{< tabs "uniqueid" >}}
+
+{{< tab "Oct" >}}
+
+- Optimizing Millions of Hyperparameters by Implicit Differentiation<br>
+_AISTAS 2020_<br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> `slides` | <i class='fa fa-bullhorn' style='font-size:16px'></i> Han Guo | <i class='fa fa-calendar' style='font-size:16px'></i> October 16
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
 ## Agenda (Year 2021)
 
 {{< tabs "uniqueid" >}}
@@ -104,4 +118,3 @@ _ICLR 2020_<br>
 {{< /tab >}}
 
 {{< /tabs >}}
-
