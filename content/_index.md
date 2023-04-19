@@ -24,6 +24,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Apr" >}}
+
+* Our paper on "Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems" has been accepted to [IJCAI 2023](https://ijcai-23.org/). Congratulations to Mingyu! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 19
+
+* Our paper on "A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation" has been accepted to [CEC 2023](https://2023.ieee-cec.org/). Congratulations to Phoenix! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 15
+
+{{< /tab >}}
+
 {{< tab "Mar" >}}
 
 * **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
