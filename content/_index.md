@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+* I'm glad to be invited to join the Editorial Board for [Mathematics](https://www.mdpi.com/journal/mathematics) journal (Impact Factor=2.592). <i class='fa fa-calendar' style='font-size:19px'></i> April 21
+
 * Our paper on "Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems" has been accepted to [IJCAI 2023](https://ijcai-23.org/). Congratulations to Mingyu! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 19
 
 * Our paper on "A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation" has been accepted to [CEC 2023](https://2023.ieee-cec.org/). Congratulations to Phoenix! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 15
