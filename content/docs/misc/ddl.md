@@ -14,15 +14,15 @@ Here are some important deadlines for the major conferences in artificial intell
 
 - ~~[IJCAI 2023](https://ijcai-23.org/): January 18, 2023~~
 - [ECAI 2023](https://ecai2023.eu/): May 8, 2023
-- ~~[AAAI 2023](https://www.aaai.org/): August 15, 2022~~
+- [AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023
 - ~~[ICLR 2023](https://iclr.cc/): September 28, 2022~~
 {{< /tab >}}
 
 {{< tab "ML" >}}
 
 - ~~[ICML 2023](https://icml.cc/Conferences/2023): January 26, 2023~~
-- [AutoML 2023](https://2023.automl.cc/): March 23, 2023
-- [ECML/PKDD 2023](https://2023.ecmlpkdd.org/): April 2, 2023
+- ~~[AutoML 2023](https://2023.automl.cc/): March 23, 2023~~
+- ~~[ECML/PKDD 2023](https://2023.ecmlpkdd.org/): April 2, 2023~~
 - ~~[UAI 2022](https://www.auai.org/uai2023/): February 17, 2023~~
 - [NeurIPS 2023](https://nips.cc/): May 17, 2023
 - ~~[AISTAS 2023](https://aistats.org/): October 13, 2022~~
@@ -40,7 +40,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - ~~[KDD 2023](https://kdd.org/kdd2023/): February 2, 2023~~
 - [ICDM 2023](http://www.cloud-conf.net/icdm2023/index.html): July 1, 2023
 - ~~[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23): October 14, 2022~~
-- [CIKM 2023](https://cikm2023.github.io/): TBD
+- [CIKM 2023](https://cikm2023.github.io/): June 2, 2023
 
 {{< /tab >}}
 
@@ -57,9 +57,9 @@ Here are some important deadlines for the major conferences in artificial intell
 
 - ~~[ISSTA 2023](https://conf.researchr.org/home/issta-2023): November 10, 2022 (1st round) | February 16, 2023 (2nd round)~~
 - ~~[FSE 2023](https://conf.researchr.org/home/fse-2023): February 2, 2023~~
-- [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers): May 5, 2023
+- ~~[ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers): May 5, 2023~~
 - [ICSE 2024](https://conf.researchr.org/home/icse-2024): March 29, 2023 (1st round) | August 1, 2023 (2nd round)
-- [ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023
+- ~~[ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023~~
 - ~~[ICPC 2023](https://conf.researchr.org/home/icpc-2023): December 19, 2022~~
 - [ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023
 - [ISSRE 2023](https://issre2022.github.io/): May 22, 2023
@@ -77,9 +77,9 @@ Here are some important deadlines for the major conferences in artificial intell
 - ~~[PPSN 2022](https://ppsn2022.cs.tu-dortmund.de/): April 13, 2022~~
 - ~~[IJCNN 2022](): January 31, 2023~~
 - ~~[CEC 2023](https://2023.ieee-cec.org/): January 13, 2023~~
-- [SMC 2023](https://ieeesmc2023.org/): March 30, 2023
+- ~~[SMC 2023](https://ieeesmc2023.org/): April 15, 2023~~
 - ~~[FOGA 2022](https://www.fhv.at/foga2021/): May 7, 2022~~
-- [SSCI 2023](https://attend.ieee.org/ssci-2023/): TBD
+- [SSCI 2023](https://attend.ieee.org/ssci-2023/): June 30, 2023
 
 {{< /tab >}}
 
