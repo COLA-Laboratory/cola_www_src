@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+* Our paper on "Boosting Text Augmentation via Hybrid Instance Filtering Framework" has been accepted to the Findings of [ACL 2023](https://2023.aclweb.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> May 2
+
+{{< /tab >}}
+
 {{< tab "Apr" >}}
 
 * I'm glad to be invited to join the Editorial Board for [Mathematics](https://www.mdpi.com/journal/mathematics) journal (Impact Factor=2.592). <i class='fa fa-calendar' style='font-size:19px'></i> April 21

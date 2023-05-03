@@ -165,6 +165,11 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Porc. of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/)<br>
