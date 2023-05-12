@@ -13,7 +13,7 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "AI" >}}
 
 - ~~[IJCAI 2023](https://ijcai-23.org/): January 18, 2023~~
-- [ECAI 2023](https://ecai2023.eu/): May 8, 2023
+- ~~[ECAI 2023](https://ecai2023.eu/): May 8, 2023~~
 - [AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023
 - ~~[ICLR 2023](https://iclr.cc/): September 28, 2022~~
 {{< /tab >}}
@@ -61,7 +61,7 @@ Here are some important deadlines for the major conferences in artificial intell
 - [ICSE 2024](https://conf.researchr.org/home/icse-2024): March 29, 2023 (1st round) | August 1, 2023 (2nd round)
 - ~~[ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023~~
 - ~~[ICPC 2023](https://conf.researchr.org/home/icpc-2023): December 19, 2022~~
-- [ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023
+- ~~[ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023~~
 - [ISSRE 2023](https://issre2022.github.io/): May 22, 2023
 - ~~[SANER 2023](https://saner2023.must.edu.mo/): October 21, 2022~~
 - ~~[ICST 2023](https://conf.researchr.org/home/icst-2023): January 27, 2023~~
