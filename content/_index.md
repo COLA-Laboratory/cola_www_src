@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Jun" >}}
+
+* We have three papers accepted to [IEEE SMC 2023](https://ieeesmc2023.org/). Congratulations to Renzhi, Shasha and Tian! Well done! <i class='fa fa-calendar' style='font-size:19px'></i> June 1
+
+{{< /tab >}}
+
 {{< tab "May" >}}
 
 * Our paper on "Boosting Text Augmentation via Hybrid Instance Filtering Framework" has been accepted to the Findings of [ACL 2023](https://2023.aclweb.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> May 2
