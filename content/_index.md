@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jun" >}}
 
+* Glad to announce that one project proposal (EASY-CROSS) is granted by [MSCA Staff Exchange 2022](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-staff-exchanges-2022). This project is about secure and modular boarder control supported by handheld biometric scanning devices. Look forward to seeing interesting collaborations coming out of this project. Congratulations to our colleagues. <i class='fa fa-calendar' style='font-size:19px'></i> June 1
+
 * We have three papers accepted to [IEEE SMC 2023](https://ieeesmc2023.org/). Congratulations to Renzhi, Shasha and Tian! Well done! <i class='fa fa-calendar' style='font-size:19px'></i> June 1
 
 {{< /tab >}}
