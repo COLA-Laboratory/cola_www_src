@@ -89,16 +89,6 @@ hr.dashed {
         04/2021 – present<br>
         <em>Interests</em>: MFO, TL, MTL, EMO
     </div>
-    <div class="item1">
-        <img src="/media/JC.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Miss Jiaxin Chen<br>
-        Research Associate<br>
-        12/2022 – present<br>
-        <em>Interests</em>: BLO, EMO, MTL
-    </div>
-</div>
 
 ---
 
@@ -246,6 +236,9 @@ hr.dashed {
 
 {{< tab "Visiting student" >}}
 
+- Miss Jiaxin Chen
+    - 06/2021 -- 05/2023, Northeastern University
+    - Visiting PhD student
 - Miss Huan Zhang
     - 06/2021 -- 01/12/2022, Northeastern University
     - Visiting PhD student
