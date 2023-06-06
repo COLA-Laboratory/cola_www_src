@@ -89,6 +89,7 @@ hr.dashed {
         04/2021 – present<br>
         <em>Interests</em>: MFO, TL, MTL, EMO
     </div>
+</div>
 
 ---
 
@@ -201,7 +202,7 @@ hr.dashed {
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "PhD student" >}}
+{{< tab "PhD students" >}}
 
 - Dr Joseph Billingsly
     - 01/09/2017 -- 01/05/2022, University of Exeter
@@ -234,7 +235,7 @@ hr.dashed {
 
 {{< /tab >}}
 
-{{< tab "Visiting student" >}}
+{{< tab "Visiting students" >}}
 
 - Miss Jiaxin Chen
     - 06/2021 -- 05/2023, Northeastern University
@@ -261,7 +262,7 @@ hr.dashed {
 
 {{< /tab >}}
 
-{{< tab "Visiting scholar" >}}
+{{< tab "Visiting scholars" >}}
 
 - Dr Lei Yang
     - 01/12/2017 -- 01/12/2018, South China Agricultural University
