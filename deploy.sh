@@ -22,4 +22,20 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push 
+git push
+
+# back to the scr folder
+cd ..
+ 
+# add changes to git
+git add .
+
+# Commit changes
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+  msg="$*"
+fi
+git commit -m "$msg"
+
+# Push source and build repos.
+git push
