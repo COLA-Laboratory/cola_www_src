@@ -7,7 +7,7 @@ headless: true
   - [Vacancies]({{< relref "/docs/home/vacancies" >}}) 
 - **Research**
   - [Publications]({{< relref "/docs/research/publications" >}}) 
-  - [Projects]({{< relref "/docs/research/projects" >}}) 
+  - [Landscape Analysis]({{< relref "/docs/research/landscapes" >}}) 
   - [Grants]({{< relref "/docs/research/grants" >}})
   - [EMOC]({{< relref "/docs/research/emoc" >}})
 - **Events**
