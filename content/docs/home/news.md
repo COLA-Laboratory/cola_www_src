@@ -190,6 +190,8 @@ bookToc: false
 
 {{< /tab >}}
 
+{{< /tabs >}}
+
 # 2020
 
 {{< tabs "uniqueid" >}}
