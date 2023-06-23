@@ -1,8 +1,8 @@
 ---
 title: Publications
 type: docs
-bookToc: true
-menuToc: false
+bookToc: false
+menuToc: true
 ---
 
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
@@ -105,7 +105,7 @@ Leveraging the advanced tools developed in the field of network science to facil
 # <i class='fa fa-university'></i> Our Work
 ---
 
-- [<i class='fa fa-graduation-cap'></i> Publications](#publications)
+<!-- - [<i class='fa fa-graduation-cap'></i> Publications](#publications)
 - [<i class='fa fa-search'></i> Analysis Methods](#analysis_methods)
   - [<i class="fa fa-bar-chart" aria-hidden="true"></i> Statistical Features](#statistical_features)
   - [<i class="fa fa-paint-brush" aria-hidden="true"></i> Landscape Visualization](#landscape_visualization)
@@ -115,7 +115,7 @@ Leveraging the advanced tools developed in the field of network science to facil
   - [<i class="fa fa-cube" aria-hidden="true"></i> Automated Machine Learning](#automl)
   - [<i class="fa fa-cube" aria-hidden="true"></i> Software Engineering](#software_engineering)
 
-(Developer Note: the hyperlink of the contents is to be fixed later.)
+(Developer Note: the hyperlink of the contents is to be fixed later.) -->
 
 ## <i class='fa fa-graduation-cap'></i> Publications<a name="publications"></a>
 

@@ -8,6 +8,7 @@ headless: true
 - **Research**
   - [Publications]({{< relref "/docs/research/publications" >}}) 
   - [Landscape Analysis]({{< relref "/docs/research/landscapes" >}}) 
+  - [Projects]({{< relref "/docs/research/projects" >}}) 
   - [Grants]({{< relref "/docs/research/grants" >}})
   - [EMOC]({{< relref "/docs/research/emoc" >}})
 - **Events**
