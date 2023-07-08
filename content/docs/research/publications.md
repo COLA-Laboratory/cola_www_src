@@ -203,12 +203,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ZouSLHYZL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt" id="abstract_ZouSLHYZL23" >}}
 
-- Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
-Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp;25%
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
-
 - Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
 Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -266,6 +260,12 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291-12301, June, 2023.<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp;25%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
