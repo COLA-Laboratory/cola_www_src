@@ -101,13 +101,13 @@ The link between `cola_www_src` and `COLA-Laboratory.github.io` is essential to 
     - Delete all the contents in the `gitmodules` file.
     - In the `git/config` file, delete possible lines like: [submodule "public"]
 	url = https://github.com/COLA-Laboratory/COLA-Laboratory.github.io.git
-    - In your command line, run: `git rm -r public` and `git rm --cached public`.
+    - In your command line, run: `git rm -r public` and `git rm --cached public` to delete any other related contents.
 - Then, re-add the submodule links:
-    - In your command line, run: `git submodule add https://github.com/COLA-Laboratory/COLA-Laboratory.github.io public`, this will clone the ``COLA-Laboratory.github.io` repository to the `public` folder of the `cola_www_src` repository.
+    - In your command line, run: `git submodule add https://github.com/COLA-Laboratory/COLA-Laboratory.github.io public`, this will clone the `COLA-Laboratory.github.io` repository to the `public` folder of the `cola_www_src` repository.
     - In your command line, run: `git submodule init`.
     - In your command line, run: `git submodule update`.
     - Commit and push your changes.
-- Verify the link:
+- Verify the link establishment:
     - In your command line, run `cat .gitmodules`. 
     - In your command line, run `git submodule status`. You should see non-empty outputs for these two commands. Alternatively, you could manually check the `gitmodules` and `git/config` file to see information about the submodules.
     - You should also be able to see, in the GitHub page, the `public` folder is linked to the `COLA-Laboratory.github.io` repository now with special icon.
