@@ -7,7 +7,7 @@ menuToc: true
 
 # Projects
 
-(Under development)
+(This section is currently under development)
 
 <div class="item1" style="text-align:center">
     <img src="/media/cola_projects.png", class="center">
