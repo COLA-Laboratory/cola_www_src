@@ -3,19 +3,31 @@ This is the HUGO source file of the website of COLA Laboratory.
 
 ## 1. Get the Project Source File
 
-The whole project is hosted on two seperat Github repositories. The source file is hosted on this repository, and the compiled website is hosted on the [COLA-Laboratory/COLA-Laboratory.github.io.](https://github.com/COLA-Laboratory/COLA-Laboratory.github.io) repository. The latter is linked to the **public** folder of this repository as a [submodule](https://github.blog/2016-02-01-working-with-submodules/).
+The whole project is hosted on two seperate Github repositories. The source file is hosted on this repository, and the compiled website is hosted on the [COLA-Laboratory/COLA-Laboratory.github.io.](https://github.com/COLA-Laboratory/COLA-Laboratory.github.io) repository. The latter is linked to the **public** folder of this repository as a [submodule](https://github.blog/2016-02-01-working-with-submodules/).
 
-Therefore, when trying to clone the whole project, you should use the following command to clone both this repository and the submodule:
+Therefore, to work with this project, you should use the following command to clone both this repository and the dependent submodule (a recursive clone):
 
 ```git clone --recurse-submodules https://github.com/COLA-Laboratory/cola_www_src.git```
 
 Alternatively, you could also do this on the [Github Desktop](https://desktop.github.com/) interface, which may automatically clone both repositories. The desktop manager is recommended for developers in China mainland as it generally has better network stability. 
 
-## 2. Develop the Website via HUGO
+## 2. Develop the Website with HUGO
 
-Make sure you have installed [HUGO](https://gohugo.io/installation/) on your local machine. The COLA website is based on [Hugo Book Theme](https://hugo-book-demo.netlify.app/posts/). The documentation page generally covers all the basic operations you need to know to develop the website. Each page of the website is a markdown file in the `content` folder. You could edit the markdown files directly following simple markdown syntax, or, advanced html or JavaScript syntax could be used to enable more customized functions.
+After cloned both repositories on your local machine, you could start to modify the website. 
 
-To inspect your changes locally, you could use the `hugo server` command to start a local server. The server would automatically update the website when you make changes to the source files. You could then open the website in your browser at `localhost:1313`. This is just like the LaTeX workflow, where you could inspect your changes instantly (and locally) before deploying the website. You may use IDEs like Visual Studio Code to edit the source files.
+In you command line, navigate to the directory of the source repository (cola_www_src), and run (make sure you have installed [HUGO](https://gohugo.io/installation/) on your local machine):
+
+```hugo```
+
+This command would compile the source files and generate the website in the `public` folder. You could then open the `index.html` file in the `public` folder to inspect the website (which is not recommended however).
+
+A better way to inspect your changes is to use the 
+    
+```hugo server```
+
+command. This would start a local server and which would automatically update the website when you make changes to the source files. You could then open the website in your browser at `localhost:1313`. This is just like the LaTeX workflow, where you could inspect your changes instantly (and locally) before deploying the website. You may use IDEs like Visual Studio Code to edit the source files.
+
+The COLA website is based on [Hugo Book Theme](https://hugo-book-demo.netlify.app/posts/). The documentation page generally covers all the basic operations you need to know to develop the website. Each page of the website is a markdown file in the `content` folder. You could edit the markdown files directly following simple markdown syntax, or, advanced html or JavaScript syntax could be used to enable more customized functions.
 
 ## 3. Deploy the Website
 
