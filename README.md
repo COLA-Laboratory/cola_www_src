@@ -5,10 +5,10 @@ This is the HUGO source file of the website of COLA Laboratory. Below is a simpl
 
 The whole project is hosted on two seperate Github repositories:
 
-- COLA-Laboratory/cola_www_src: The source file of the COLA website, which is based on [HUGO](https://gohugo.io/).
-- [COLA-Laboratory/COLA-Laboratory.github.io.](https://github.com/COLA-Laboratory/COLA-Laboratory.github.io): The compiled HTML files of the website used to host the GitHub pages.
+- **COLA-Laboratory/cola_www_src:** The source file of the COLA website, which is based on [HUGO](https://gohugo.io/).
+- **[COLA-Laboratory/COLA-Laboratory.github.io.](https://github.com/COLA-Laboratory/COLA-Laboratory.github.io):** The compiled HTML files of the website used to host the GitHub pages.
 
-The latter is linked to the `public` folder of this repository as a [submodule](https://github.blog/2016-02-01-working-with-submodules/).
+The latter is linked to the `public` folder of this repository as a [submodule](https://github.blog/2016-02-01-working-with-submodules/), as you could see above that the `public` folder icon has a little indicator showing that it is a submodule, and clicking on the `public` folder will take you over to the COLA-Laboratory.github.io repository.
 
 Therefore, to clone this project to your local machine, you should use the following command (a *recursive* clone) to clone both this repository and the dependent submodule (i.e., COLA-Laboratory/COLA-Laboratory.github.io):
 
