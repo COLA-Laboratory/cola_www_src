@@ -22,7 +22,7 @@ Alternatively, you could also do this on the [Github Desktop](https://desktop.gi
 
 ### 2.1 Download HUGO
 
-After cloned both repositories on your local machine, you could start to modify the website. The whole project is based on [HUGO](https://gohugo.io/installation/) (please make sure to download this on your local machine before procedding), and is surprisingly easy to work with.
+Having cloned both repositories on your local machine, you could start to modify the website. The whole project is based on [HUGO](https://gohugo.io/installation/) (please make sure to download this on your local machine before procedding), and is surprisingly easy to work with.
 
 ### 2.2 Editing Source Files 
 
@@ -46,9 +46,9 @@ This command would compile the source files and generate the website in the `pub
 hugo server
 ```
 
-It would start a local server and which would automatically update the website when you make changes to the source files. You could then open the website in your browser at `localhost:1313`. It will show you exactly the same version of what your website would look like online. 
+It would start a local server which would automatically update the website when you make changes to the source files. You could then open the website in your browser at `localhost:1313`. It will show you exactly the same version of what your website would look like online. 
 
-This is just like the LaTeX workflow, where you could inspect your changes instantly (and locally) before deploying the website. You may use IDEs like Visual Studio Code to edit the source files.
+This is just like the LaTeX workflow, where you could view your .tex source files and the compiled PDF file side by side. Both of them work greatly with Visual Studio Code.
 
 ## 3. Deploy the Website
 
@@ -56,25 +56,25 @@ After you have made your changes on your local machine, you could then deploy th
 
 ### 3.1. Deploy via Github Desktop
 
-Before development, remember to use the `hugo` command to compile the source file (which will automatically update the `public` folder in the cola_www_src repository). (You would also want to inspect your new website locally before proceeding using `hugo server`).
+Before development, remember to use the `hugo` command to compile the source file (which will automatically update the `public` folder in the `cola_www_src` repository). (You would also want to inspect your new website locally before proceeding using `hugo server`).
 
-Then in you Github Desktop you would be able to see the changes both in your source files and the `public` directory. The App will notice you with "Submodule changes" and you should follow the guide to **first open the COLA-Laboratory.github.io submodule and commit & push changes within it.**
+Then in you Github Desktop you would be able to see the changes both in your source files and the `public` directory. The App will notice you with "Submodule changes" and you should follow the guide to **first open the `COLA-Laboratory.github.io` submodule and commit & push changes within it.**
 
 <div class="item1" style="text-align:center">
     <img src="Github_Desktop.png" width="642px", height="462px", class="center">
 </div>
 
-Once you have pushed the modifications, the online server would begin to compile the updates, and you should be able to see the changes in the website in a few minutes. You could also track this process in the commit history of the .io repository by clicking the brown circle (when successfully deployed, it will turn into a green tick).
+Once you have pushed the modifications, the online server would begin to compile the updates, and you should be able to see the changes in the website in a few minutes. You could also track this process in the commit history of the `COLA-Laboratory.github.io` repository by clicking the brown circle (when successfully deployed, it will turn into a green tick).
 
 <div class="item1" style="text-align:center">
     <img src="Deployment.png" width="579px", height="246px", class="center">
 </div>
 
-**Now, you could return to the src repository and commit & push the changes in the source files (cola_www_src)**. This is also important, since if you only update the .io repository, then the website would be updated, but the source files would not, and the next time you (or others) clone the repository, you would not be able to see the changes you made before.
+**Now, you could return to the src repository and commit & push the changes in the source files (`cola_www_src`)**. This is also important, since if you only update the `COLA-Laboratory.github.io` repository, then the website would be updated, but the source files would not, and the next time you (or others) clone the repository, you would not be able to see the changes you made before.
 
 ### 3.2. Deploy via Command Line
 
-All the commands needed to conduct the aforementioned operations are included in the `deploy.sh` file (you could check the details by opening it with a text editor). Generally, the idea is to first commit & push the changes in the COLA-Laboratory.github.io repository, and then commit & push the changes in the cola_www_src repository.
+All the commands needed to conduct the aforementioned operations are included in the `deploy.sh` file (you could check the details by opening it with a text editor). Generally, the idea is to first commit & push the changes in the `COLA-Laboratory.github.io` repository, and then commit & push the changes in the `cola_www_src` repository.
 
 Just make your changes. Then run:
 
