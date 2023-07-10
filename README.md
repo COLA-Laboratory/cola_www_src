@@ -1,7 +1,7 @@
 # cola_www_src
 This is the HUGO source file of the website of COLA Laboratory.
 
-The **public** folder in this a [submodule](#https://github.blog/2016-02-01-working-with-submodules/) based on the repository [COLA-Laboratory/COLA-Laboratory.github.io.](#https://github.com/COLA-Laboratory/COLA-Laboratory.github.io).
+The **public** folder in this a [submodule](https://github.blog/2016-02-01-working-with-submodules/) based on the repository [COLA-Laboratory/COLA-Laboratory.github.io.](https://github.com/COLA-Laboratory/COLA-Laboratory.github.io).
 
 If you want to edit the website, use this command to clone it to your local computer:
 
@@ -11,7 +11,7 @@ To get the source code.
 
 Note that `--recurse-submodules` is used here to also clone the dependent submodule (`COLA-Laboratory.github.io` here). 
 
-After making your changes in the local machine, you could deploy the updated website either via command line or via the [Github Desktop](#https://desktop.github.com/) interface. The latter is recommended for developers in China mainland as it generally has better network stability. 
+After making your changes in the local machine, you could deploy the updated website either via command line or via the [Github Desktop](https://desktop.github.com/) interface. The latter is recommended for developers in China mainland as it generally has better network stability. 
 
 ## 1. Deploy via Github Desktop
 
