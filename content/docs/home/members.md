@@ -178,16 +178,6 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Shuang Li<br>
-        Visiting PhD Student<br>
-        Harbin Institute of Technology<br>
-        08/2022 – present<br>
-        <em>Interests</em>: EMO, BO
-    </div>
-    <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
         Kailai Gao<br>
         Visiting PhD Student<br>
         Northeastern University<br>
@@ -227,7 +217,7 @@ hr.dashed {
 
 - Dr Jiangjiao Xu
     - 01/07/2020 - 01/11/2022, University of Exeter
-    - Job: Zhongneng Integrated Smart Energy Technology Co. Ltd. Beijing, China 
+    - Job: Zhongneng Integrated Smart Energy Technology Co. Ltd. Beijing, China -> Shanghai Electric University
 
 - Dr Xinqi Li
     - 01/11/2021 -- 01/08/2022, University of Exeter
@@ -237,6 +227,9 @@ hr.dashed {
 
 {{< tab "Visiting students" >}}
 
+- Mr Shuang Li
+    - 07/2022 -- 07/2023, Harbin Institute of Technology
+    - Visiting PhD student
 - Miss Jiaxin Chen
     - 06/2021 -- 05/2023, Northeastern University
     - Visiting PhD student

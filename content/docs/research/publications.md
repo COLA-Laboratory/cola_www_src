@@ -113,12 +113,6 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
 
-- Multidimensional Resource Fragmentation-Aware Virtual Network Embedding in MEC Systems Interconnected by Metro Optical Networks<br>
-Yingying Guan+, Qingyang Song, Weijing Qi, **<ins>Ke Li</ins>**, Lei Guo, Abbas Jamalipour<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2303.15878 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2023<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/u3xs7ksz0bfvgjl/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('GuanSQLGJ23');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/GuanSQLGJ23.bib" id="GuanSQLGJ23" >}}
-
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2301.12148 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2023<br>
@@ -164,6 +158,11 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
+Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
+IEEE Internet of Things Journal (IoTJ)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Multioutput Surrogate Assisted Evolutionary Algorithm for Expensive Multi-Modal Optimization Problems<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
@@ -260,6 +259,12 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Single Application Service Deployment in the Edge Environment Based on the E-CARGO Model<br>
+Senyue Zhang, Ling Xue, Weiliang Huang, Lu Zhao, **<ins>Ke Li</ins>**<br>
+Proc. of 26th International Conference on Computer Supported Cooperative Work in Design [(CSCWD'23)](http://8.131.80.51/cscwd2023/index.html), May, 2023.<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/CSCWD57460.2023.10152752](https://ieeexplore.ieee.org/document/10152752)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>

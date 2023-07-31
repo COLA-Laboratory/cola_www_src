@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Aug" >}}
+
+* Our paper on "Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks" has been accepted to IEEE Internet of Things Journal. Congratulations to Yingying! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 1
+
+{{< /tab >}}
+
 {{< tab "Jun" >}}
 
 * Shasha and Xiaotian have successfully secured their Exeter-CSC PhD studentships and will join us this fall. Congratulations to them both, and warm welcome to join COLA laboratory this September. <i class='fa fa-calendar' style='font-size:19px'></i> June 22
