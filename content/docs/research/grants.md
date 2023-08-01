@@ -37,6 +37,9 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- EASY-CROSS: Secure and Modular Border Control Platform Supporting Handheld Biometric Scanning Devices for Verifying Travellers Crossing EU Land and Sea Borders<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> MSCA Staff Exchange 2022 |<i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I | <i class='fa fa-money' style='font-size:18px'></i> &euro;613,185 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2024--2027.
+
 - Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> UKRI Future Leaders Fellowship <br>
 Phase 2: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/X011135/1]() | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;743,285 (**<ins>prima facie case</ins>**) | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2026.<br>
@@ -99,7 +102,7 @@ Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](htt
 
 ### <i class='fa fa-globe' style='font-size:20px'></i> International
 
-<img src="/media/international.jpg" height="65">
+<img src="/media/international_2.jpg" height="65">
 
 ### <i class='fa fa-handshake-o' style='font-size:20px'></i> Industry Partners
 
