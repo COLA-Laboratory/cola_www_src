@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Aug" >}}
 
+* A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details. <i class='fa fa-calendar' style='font-size:19px'></i> August 1
+
 * Our paper on "Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks" has been accepted to IEEE Internet of Things Journal. Congratulations to Yingying! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 1
 
 {{< /tab >}}
