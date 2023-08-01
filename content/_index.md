@@ -17,8 +17,13 @@ bookToc: false
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory is working in computational/artificial intelligence, multi-objective optimization and decision-making, operational research, machine learning and statistical modeling of complex systems. Applications focus on search-based software engineering, energy, biological science and medicine.
 
 {{< hint info >}}
-We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.<br>
+We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
+
+{{< hint warning >}}
+A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details.
+{{< /hint >}}
+
 
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2023)
 
