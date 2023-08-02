@@ -209,20 +209,20 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenLLT23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLLT23.txt" id="abstract_ChenLLT23" >}}
 
-- Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
-**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3234269](https://ieeexplore.ieee.org/document/10015671)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLY22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY22.txt" id="abstract_LiLY22" >}}
-{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
-
 ---
 
 ## 2023
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
+**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
+IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749-763, 2023<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3234269](https://ieeexplore.ieee.org/document/10015671)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLY22');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY22.txt" id="abstract_LiLY22" >}}
+{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
 
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
 Bo Lyu+, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
