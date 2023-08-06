@@ -159,6 +159,11 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 32nd ACM International Conference on Information and Knowledge Management [(CIKM'23)](https://uobevents.eventsair.com/cikm2023/) Demon Track<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`| <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 35%
+
 - Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
 Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
 IEEE Internet of Things Journal (IoTJ)<br>
@@ -179,15 +184,10 @@ Tian Huang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Porc. of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp;15%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
 
 - A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation<br>
@@ -260,6 +260,11 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
+- Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`| <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 40.6%
+
 - Single Application Service Deployment in the Edge Environment Based on the E-CARGO Model<br>
 Senyue Zhang, Ling Xue, Weiliang Huang, Lu Zhao, **<ins>Ke Li</ins>**<br>
 Proc. of 26th International Conference on Computer Supported Cooperative Work in Design [(CSCWD'23)](http://8.131.80.51/cscwd2023/index.html), May, 2023.<br>
@@ -269,7 +274,7 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291-12301, June, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp;25%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>

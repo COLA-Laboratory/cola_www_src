@@ -31,6 +31,8 @@ A new PhD studentship is opening in our lab!!! This project is mainly led by our
 
 {{< tab "Aug" >}}
 
+* Our paper on "PyABSA:  A Modularized Framework for Reproducible Aspect-based Sentiment Analysis" has been accepted to [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) Demo Track. Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 5
+
 * A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details. <i class='fa fa-calendar' style='font-size:19px'></i> August 1
 
 * Our paper on "Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks" has been accepted to IEEE Internet of Things Journal. Congratulations to Yingying! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 1
