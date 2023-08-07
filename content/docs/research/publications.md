@@ -155,7 +155,7 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2211.02879 | <i class='fa fa-calendar' style='font-size:16px'></i> November 2022<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY22');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiCY22.bib" id="LiCY22" >}}
 
