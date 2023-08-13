@@ -16,7 +16,7 @@ Therefore, to clone this project to your local machine, you should use the follo
 git clone --recurse-submodules https://github.com/COLA-Laboratory/cola_www_src.git
 ```
 
-Alternatively, you could also do this on the [Github Desktop](https://desktop.github.com/) interface, which may automatically clone both repositories. The desktop manager is recommended for developers in China mainland as it generally has better network stability. 
+Alternatively, you could also do this on the [Github Desktop](https://desktop.github.com/) interface by simply cloning this repository, which may automatically clone both repositories (if not, clone `COLA-Laboratory.github.io` manually). The desktop manager is recommended for developers in China mainland as it generally has better network stability. 
 
 ## 2. Develop the Website with HUGO
 

@@ -37,10 +37,29 @@ The discussion is usually limited to one hour. The presenter will kick off the m
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "August" >}}
+
+- Multi-Objective Bi-Level Optimization for AutoML in Cross-Project Defect Prediction
+<br><code>Work Presentation</code></br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> slides | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Jiaxin Chen | 
+<i class='fa fa-calendar' style='font-size:16px'></i> Aug 6
+  
+{{< /tab >}}
+
 {{< tab "July" >}}
 
-- Optimistic tree search strategies for black-box combinatorial optimization<br>
-<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/PMJun23.pptx) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Mingyu Huang | <i class='fa fa-calendar' style='font-size:16px'></i> July 30
+- Paper Title
+<br><code>Paper Reading</code></br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> slides | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Presenter | 
+<i class='fa fa-calendar' style='font-size:16px'></i> July 23
+
+- Data-driven Literature Exploration with Topic Modeling, LLMs and Network Analysis
+<br><code>Work Presentation</code></br>
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> slides | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Mingyu Huang | 
+<i class='fa fa-calendar' style='font-size:16px'></i> July 30
   
 Moderator: Fan Li
 
@@ -48,13 +67,28 @@ Moderator: Fan Li
 
 {{< tab "Jun" >}}
 
-- Optimistic tree search strategies for black-box combinatorial optimization<br>
-_NeurIPS 2022_<br>
-<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/d6099a36f6c1720438de00c366aa1737-Paper-Conference.pdf) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/PMJun23.pptx) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Peili Mao | <i class='fa fa-calendar' style='font-size:16px'></i> June 4
+- Optimistic tree search strategies for black-box combinatorial optimization
+<br>NeurIPS'22</br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/d6099a36f6c1720438de00c366aa1737-Paper-Conference.pdf) | 
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/PMJun23.pptx) | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Peili Mao | 
+<i class='fa fa-calendar' style='font-size:16px'></i> June 4
   
-- Explaining Hyperparameter Optimization via Partial Dependence Plots<br>
-_NeurIPS 2021_<br>
-<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper/2021/file/12ced2db6f0193dda91ba86224ea1cd8-Paper.pdf) | <i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/HYJun24.pptx) | <i class='fa fa-bullhorn' style='font-size:16px'></i> Mingyu Huang | <i class='fa fa-calendar' style='font-size:16px'></i> June 18
+- Explaining Hyperparameter Optimization via Partial Dependence Plots
+<br>NeurIPS'21</br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper/2021/file/12ced2db6f0193dda91ba86224ea1cd8-Paper.pdf) | 
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/HYJun24.pptx) | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Mingyu Huang | 
+<i class='fa fa-calendar' style='font-size:16px'></i> June 18
+
+- Learning Algorithms for Active Learning
+<br>PMLR 2017</br>
+<i class='fa fa-download' style='font-size:16px'></i> [`paper`](http://proceedings.mlr.press/v70/bachman17a/bachman17a.pdf) | 
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> slides | 
+<i class='fa fa-bullhorn' style='font-size:16px'></i> Tian Huang | 
+<i class='fa fa-calendar' style='font-size:16px'></i> June 18
+
+
 
 Moderator: Peili Mao
 
