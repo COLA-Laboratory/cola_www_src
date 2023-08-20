@@ -17,7 +17,7 @@ bookToc: false
 This website maintains the supplementary materials related to the following paper:
 
 {{< hint info >}}
-**<ins>Ke Li</ins>**+, Renzhi Chen+, Xin Yao, "A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments", arXiv CoRR abs/xxxx.xxxxx, 2022.
+**<ins>Ke Li</ins>**+, Renzhi Chen+, Xin Yao, "A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments", IEEE Trans. Evolutionary Computation, in press, 2023.
 {{< /hint >}}
 
 It consists of the following parts:
