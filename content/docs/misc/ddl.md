@@ -72,10 +72,9 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "EC" >}}
 
-- ~~[GECCO 2023](https://gecco-2023.sigevo.org/HomePage): February 10, 2023~~
+- [GECCO 2024](https://gecco-2024.sigevo.org/HomePage): February 1, 2023
 - [WCCI 2024](https://wcci2024.org/): January 15, 2024
 - [PPSN 2024](https://ppsn2024.fh-ooe.at/): April 5, 2024
-- ~~[IJCNN 2022](): January 31, 2023~~
 - ~~[CEC 2023](https://2023.ieee-cec.org/): January 13, 2023~~
 - ~~[SMC 2023](https://ieeesmc2023.org/): April 15, 2023~~
 - ~~[FOGA 2022](https://www.fhv.at/foga2021/): May 7, 2022~~
