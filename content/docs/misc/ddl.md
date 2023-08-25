@@ -14,23 +14,23 @@ Here are some important deadlines for the major conferences in artificial intell
 
 - ~~[IJCAI 2023](https://ijcai-23.org/): January 18, 2023~~
 - ~~[ECAI 2023](https://ecai2023.eu/): May 8, 2023~~
-- [AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023
+- ~~[AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023~~
 - [ICLR 2024](https://iclr.cc/): September 28, 2023
 {{< /tab >}}
 
 {{< tab "ML" >}}
 
-- ~~[ICML 2023](https://icml.cc/Conferences/2023): January 26, 2023~~
+- [ICML 2024](https://icml.cc/Conferences/2024): January ??, 2024
 - ~~[AutoML 2023](https://2023.automl.cc/): March 23, 2023~~
-- ~~[ECML/PKDD 2023](https://2023.ecmlpkdd.org/): April 2, 2023~~
+- [ECML/PKDD 2024](https://2024.ecmlpkdd.org/): April 2, 2023
 - ~~[UAI 2022](https://www.auai.org/uai2023/): February 17, 2023~~
 - ~~[NeurIPS 2023](https://nips.cc/): May 17, 2023~~
-- ~~[AISTAS 2023](https://aistats.org/): October 13, 2022~~
+- [AISTAS 2024](http://aistats.org/aistats2024/index.html): October 13, 2024
 
 {{< /tab >}}
 
 {{< tab "CV" >}}
-- [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024): November 10, 2023
+- [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024): November 10, 2024
 - ~~[ICCV 2023](https://iccv2023.thecvf.com/): March 8, 2023~~
 - ~~[ECCV 2022](https://eccv2022.ecva.net/): March 7, 2022~~
 {{< /tab >}}
@@ -72,7 +72,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "EC" >}}
 
-- [GECCO 2024](https://gecco-2024.sigevo.org/HomePage): February 1, 2023
+- [GECCO 2024](https://gecco-2024.sigevo.org/HomePage): February 1, 2024
 - [WCCI 2024](https://wcci2024.org/): January 15, 2024
 - [PPSN 2024](https://ppsn2024.fh-ooe.at/): April 5, 2024
 - ~~[CEC 2023](https://2023.ieee-cec.org/): January 13, 2023~~
