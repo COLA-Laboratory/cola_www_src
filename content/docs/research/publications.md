@@ -113,18 +113,6 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
 
-- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
-Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2301.12148 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2023<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
-
-- DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
-**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2206.05743 | <i class='fa fa-calendar' style='font-size:16px'></i> June 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
-
 - Art-Attack: Black-Box Adversarial Attack via Evolutionary Art<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.04405 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
@@ -153,9 +141,22 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
+**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
+IEEE Trans. Software Engineering (TSE)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
+
+- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
+Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
+{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
+
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3307244](https://ieeexplore.ieee.org/document/10225543)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY22');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiCY22.bib" id="LiCY22" >}}
 

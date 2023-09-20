@@ -20,14 +20,17 @@ Computational Optimization for Learning and Adaptive Systems (COLA) laboratory i
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
 
-{{< hint warning >}}
-A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details.
-{{< /hint >}}
-
-
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2023)
 
 {{< tabs "uniqueid" >}}
+
+{{< tab "Sep" >}}
+
+* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted to IEEE Trans. Software Engineering pending to minor revision. Congratulations to Heng! Very well done! This is part of the outcome from my Amazon Research Award. <i class='fa fa-calendar' style='font-size:19px'></i> September 18
+
+* Our paper on "Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Ryoji! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
+
+{{< /tab >}}
 
 {{< tab "Aug" >}}
 
