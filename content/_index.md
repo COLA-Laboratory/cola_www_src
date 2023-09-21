@@ -26,9 +26,11 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Sep" >}}
 
-* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted to IEEE Trans. Software Engineering pending to minor revision. Congratulations to Heng! Very well done! This is part of the outcome from my Amazon Research Award. <i class='fa fa-calendar' style='font-size:19px'></i> September 18
+* We have two papers accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023)! Congratulations to Shuang and Phoenix! Shuang's work is a very interesting and unique perspective to redefine the stopping criterion in Bayesian optimization. I see many further applications based on this criterion. Phoenix developed a very interesting adversarial attack method based on CamoPatch. Very cool idea! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 21
 
 * Our paper on "Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Ryoji! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
+
+* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted to IEEE Trans. Software Engineering pending to minor revision. Congratulations to Heng! Very well done! This is part of the outcome from my Amazon Research Award. <i class='fa fa-calendar' style='font-size:19px'></i> September 18
 
 {{< /tab >}}
 

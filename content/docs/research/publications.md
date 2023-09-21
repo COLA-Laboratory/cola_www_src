@@ -147,6 +147,16 @@ IEEE Trans. Software Engineering (TSE)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
 
+- Why Not Looking backward?” A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
+Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
+Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+
+- CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
