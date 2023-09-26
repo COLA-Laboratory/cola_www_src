@@ -97,6 +97,33 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Jack Cole<br>
+        PhD Student<br>
+        To join in 2024<br>
+        <em>Interests</em>: RL, HCO, EMO
+    </div>
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Shasha Zhou<br>
+        PhD Student<br>
+        2023 - present<br>
+        <em>Interests</em>: XAI, ML, EMO
+    </div>
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Xiaotian Zou<br>
+        PhD Student<br>
+        2023 – present<br>
+        <em>Interests</em>: EMO, Fairness
+    </div>
+    <div class="item3">
         <img src="/media/PW.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
@@ -105,6 +132,9 @@ hr.dashed {
         2020 - present<br>
         <em>Interests</em>: BO, TL, EMO
     </div>
+</div>
+
+<div class="grid-container">
     <div class="item1">
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
@@ -112,6 +142,15 @@ hr.dashed {
         Heng Yang<br>
         PhD Student<br>
         2021 – present<br>
+        <em>Interests</em>: NLP, SE, Code naturalness
+    </div>
+    <div class="item1">
+        <img src="/media/JQ.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Jiancheng Qian<br>
+        PhD Student<br>
+        2020 – present<br>
         <em>Interests</em>: NLP, SE, Code naturalness
     </div>
 </div>
@@ -138,15 +177,6 @@ hr.dashed {
 </div>
 
 <div class="grid-container">
-    <div class="item1">
-        <img src="/media/JQ.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Jiancheng Qian<br>
-        PhD Student<br>
-        2020 – present<br>
-        <em>Interests</em>: NLP, SE, Code naturalness
-    </div>
     <div class="item3">
         <img src="/media/SY.jpeg" width="120px", height="130px">
     </div>
@@ -156,9 +186,6 @@ hr.dashed {
         2018 - present<br>
         <em>Interests</em>: EMO, BO, reliability
     </div>
-</div>
-
-<div class="grid-container">
     <div class="item3">
         <img src="/media/DW.png" width="120px", height="130px">
     </div>

@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Sep" >}}
 
+* Our COLA-Lab team is in the second place of the [AutoML Cup 2023](https://www.codabench.org/competitions/984/). Congratulations to Fan, Peili and Heng! Well done for your hard work! This is our first time to participate the AutoML competition. Hope we can win the trophy cup next time. <i class='fa fa-calendar' style='font-size:19px'></i> September 26
+
 * We have two papers accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023)! Congratulations to Shuang and Phoenix! Shuang's work is a very interesting and unique perspective to redefine the stopping criterion in Bayesian optimization. I see many further applications based on this criterion. Phoenix developed a very interesting adversarial attack method based on CamoPatch. Very cool idea! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 21
 
 * Our paper on "Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Ryoji! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
