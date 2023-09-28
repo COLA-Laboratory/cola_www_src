@@ -46,7 +46,7 @@ We are grateful to have been generously supported by or closely working with the
 ---
 
 - VENTURE: Investigating the Role of RNA Structure in mRNA Export<br>
-<i class='fa fa-balance-scale' style='font-size:18px'></i> ERC Consolidator Grant (UKRI Horizon Europe Guarantee) | <i class='fa fa-street-view' style='font-size:18px'></i> External Participant | <i class='fa fa-money' style='font-size:18px'></i> &pound;1,644,752 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2028.<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> ERC Consolidator Grant (UKRI Horizon Europe Guarantee) | <i class='fa fa-qrcode' style='font-size:18px'></i> EP/Y009886/1 | <i class='fa fa-street-view' style='font-size:18px'></i> External Participant | <i class='fa fa-money' style='font-size:18px'></i> &pound;1,644,752 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2028.<br>
 ---
 
 - Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation<br>
