@@ -111,7 +111,7 @@ Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](htt
 
 ### <i class='fa fa-globe' style='font-size:20px'></i> International
 
-<img src="/media/international.jpg" height="65">
+<img src="/media/international_1.jpg" height="65">
 
 ### <i class='fa fa-handshake-o' style='font-size:20px'></i> Industry Partners
 
