@@ -195,12 +195,6 @@ Tian Huang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
-Mingyu Huang+, **<ins>Ke Li</ins>**<br>
-Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
-
 - A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.ieee-cec.org/)<br>
@@ -271,9 +265,15 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
+- Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
+Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/), p. 5595--5603, August, 2023.<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
+
 - Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
-Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/)<br>
+Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/), p. 1652--1669, July, 2023.<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`| <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 40.6%
 
 - Single Application Service Deployment in the Edge Environment Based on the E-CARGO Model<br>
@@ -284,7 +284,7 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
 
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
-Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291-12301, June, 2023.<br>
+Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291--12301, June, 2023.<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
 
