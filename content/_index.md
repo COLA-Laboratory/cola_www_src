@@ -24,6 +24,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Oct" >}}
+* Our paper on "Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators" has been accepted to the Findings of [EMNLP 2023](https://2023.emnlp.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 7
+{{< /tab >}}
+
 {{< tab "Sep" >}}
 
 * I'm glad to be awarded the [Kan Tong Po International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/kan-tong-po/) from the Royal Society! Congratulations and really appreciate the continuous support from the Royal Society. This fellowship will support to visit Prof. Kan Chen Tan in the Hong Kong Polytechnic University and consolidate our collaborations. <i class='fa fa-calendar' style='font-size:19px'></i> September 28

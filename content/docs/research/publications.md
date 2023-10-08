@@ -147,6 +147,11 @@ IEEE Trans. Software Engineering (TSE)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
 
+- Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing [(EMNLP'23)](https://2023.emnlp.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Why Not Looking backward?” A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
