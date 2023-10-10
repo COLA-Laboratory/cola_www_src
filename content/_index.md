@@ -25,6 +25,9 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 {{< tabs "uniqueid" >}}
 
 {{< tab "Oct" >}}
+
+* I have been recognized in the [Stanford list of top 2% of scientists in the world](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) in 2023. This is my third consecutive year to be listed. Thank you very much for the excellent work from my team and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> October 10
+
 * Our paper on "Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators" has been accepted to the Findings of [EMNLP 2023](https://2023.emnlp.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 7
 {{< /tab >}}
 
