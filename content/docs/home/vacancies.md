@@ -16,13 +16,6 @@ bookToc: false
 
 We very much welcome and support applications from underrepresented groups and from people of all shapes, shades, and genders. If you are uncertain about your possible role in our team, please do not hesitate to get in touch with [Ke Li](k.li@exeter.ac.uk).
 
-{{< hint warning >}}
-We have multiple fully funded PhD studentships available.
-- **<ins>UKRI and CEMPS co-funded PhD studentship</ins>** to commence on 25th September 2023 or as soon as possible thereafter. For eligible students the studentship will cover Home tuition fees plus an annual tax-free stipend of at least £17,668 for 3.5 years full-time, or pro rata for part-time study. More detailed information can be found from [here](https://www.exeter.ac.uk/study/funding/award/?id=4653).
-- A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details.
-
-{{< /hint >}}
-
 {{< tabs "uniqueid" >}}
 {{< tab "PhD" >}}
 
