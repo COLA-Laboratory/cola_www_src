@@ -108,12 +108,12 @@ hr.dashed {
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
-Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, <ins>Ke Li</ins>**<br>
+Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2310.12538 | <i class='fa fa-calendar' style='font-size:16px'></i> October 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning<br>
-Shengbo Wang+, <ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
+Shengbo Wang+, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2307.00828 | <i class='fa fa-calendar' style='font-size:16px'></i> July 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
