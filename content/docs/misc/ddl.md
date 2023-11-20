@@ -12,7 +12,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "AI" >}}
 
-- ~~[IJCAI 2023](https://ijcai-23.org/): January 18, 2023~~
+- [IJCAI 2024](https://https://ijcai24.org/): January 17, 2024
 - ~~[ECAI 2023](https://ecai2023.eu/): May 8, 2023~~
 - ~~[AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023~~
 - [ICLR 2024](https://iclr.cc/): September 28, 2023
@@ -20,17 +20,17 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "ML" >}}
 
-- [ICML 2024](https://icml.cc/Conferences/2024): January ??, 2024
-- ~~[AutoML 2023](https://2023.automl.cc/): March 23, 2023~~
+- [ICML 2024](https://icml.cc/Conferences/2024): Feburary 1, 2024
+- [AutoML 2024](https://2024.automl.cc/): Feburary ?, 2024~~
 - [ECML/PKDD 2024](https://2024.ecmlpkdd.org/): April 2, 2023
 - ~~[UAI 2022](https://www.auai.org/uai2023/): February 17, 2023~~
 - ~~[NeurIPS 2023](https://nips.cc/): May 17, 2023~~
-- [AISTAS 2024](http://aistats.org/aistats2024/index.html): October 13, 2024
+- ~~[AISTAS 2024](http://aistats.org/aistats2024/index.html): October 13, 2024~~
 
 {{< /tab >}}
 
 {{< tab "CV" >}}
-- [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024): November 10, 2024
+- ~~[CVPR 2024](https://cvpr.thecvf.com/Conferences/2024): November 17, 2024~~
 - ~~[ICCV 2023](https://iccv2023.thecvf.com/): March 8, 2023~~
 - ~~[ECCV 2022](https://eccv2022.ecva.net/): March 7, 2022~~
 {{< /tab >}}
@@ -56,13 +56,13 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "SE" >}}
 
 - [ISSTA 2024](): December 15, 2023 (1st round) | April 12, 2024 (2nd round)
-- [FSE 2024](https://conf.researchr.org/home/fse-2024): September 28, 2023
-- ~~[ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers): May 5, 2023~~
-- [ICSE 2024](https://conf.researchr.org/home/icse-2024): March 29, 2023 (1st round) | August 1, 2023 (2nd round)
+- ~~[FSE 2024](https://conf.researchr.org/home/fse-2024): September 28, 2023~~
+- [ASE 2024](https://conf.researchr.org/home/ase-2024): June 7, 2024
+- [ICSE 2025](https://conf.researchr.org/home/icse-2025): March 22, 2024 (1st round) | August 2, 2024 (2nd round)
 - ~~[ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-papers): April 27, 2023~~
 - ~~[ICPC 2023](https://conf.researchr.org/home/icpc-2023): December 19, 2022~~
 - ~~[ESEM 2023](https://conf.researchr.org/home/esem-2023): May 2, 2023~~
-- [ISSRE 2023](https://issre2022.github.io/): May 22, 2023
+- ~~[ISSRE 2023](https://issre2022.github.io/): May 22, 2023~~
 - ~~[SANER 2023](https://saner2023.must.edu.mo/): October 21, 2022~~
 - ~~[ICST 2023](https://conf.researchr.org/home/icst-2023): January 27, 2023~~
 - ~~[QRS 2022](https://qrs22.techconf.org/): September 10, 2022~~
