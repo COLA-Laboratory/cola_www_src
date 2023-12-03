@@ -45,12 +45,17 @@ This task force will focus on all aspects, including theory, practice and applic
 
 ## On-Going Activities
 
-- **Special session** on [Advances in Decomposition-based Evolutionary Multi-­objective Optimization](https://sites.google.com/view/ademo-sessions/ademo2021), at the 2021 IEEE Congress on Computational Intelligence (IEEE CEC 2021), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang. 
-- **Workshop** on [Decomposition Techniques in Evolutionary Optimization (DTEO)](https://sites.google.com/view/dteo/), at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021). The deadline is February 4, 2021 Please consider submitting your best work to this workshop and see you in Cancun! 
-- **Tutorial** on [Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities](https://gecco-2021.sigevo.org/index.html/Tutorials), at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021), organised by Ke Li and Qingfu Zhang.
+- **Special session** on [Advances in Decomposition-based Evolutionary Multi-­objective Optimization (ADEMO)](https://sites.google.com/view/ademo-sessions/ADEMO/ademo2024), at the 2024 IEEE Wolrd Congress on Computational Intelligence (IEEE WCCI 2024), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang. 
 
 ### <ins>Past Activities</ins>
 
+- **Tutorial** on Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities, at the 2023 IEEE Congress on Evolutionary Computation (IEEE CEC 2023), organized by Ke Li.
+- **Special session** on Advances in Decomposition-based Evolutionary Multi-­objective Optimization(ADEMO), at the 2023 IEEE Congress on Evolutionary Computation (IEEE CEC 2023).
+- **Tutorial** on Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities, at the 2023 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2022), organized by Ke Li.
+- **Special session** on Advances in Decomposition-based Evolutionary Multi-­objective Optimization (ADEMO), at the 2022 IEEE Wolrd Congress on Computatinoal Intelligence (IEEE WCCI 2022).
+- **Special session** on [Advances in Decomposition-based Evolutionary Multi-­objective Optimization](https://sites.google.com/view/ademo-sessions/ademo2021), at the 2021 IEEE Congress on Computational Intelligence (IEEE CEC 2021), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang. 
+- **Workshop** on [Decomposition Techniques in Evolutionary Optimization (DTEO)](https://sites.google.com/view/dteo/), at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021). The deadline is February 4, 2021 Please consider submitting your best work to this workshop and see you in Cancun! 
+- **Tutorial** on [Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities](https://gecco-2021.sigevo.org/index.html/Tutorials), at the 2021 Genetic and Evolutionary Computation Conference (GECCO 2021), organised by Ke Li and Qingfu Zhang.
 - **Special session** on [Advances in Decomposition-­based Evolutionary Multi-­objective Optimization](https://sites.google.com/view/ademo-home/accueil), at the 2020 IEEE Congress on Computational Intelligence (IEEE WCCI 2020), organized by Saúl Zapotecas-Martínez, Bilel Derbel, Ke Li and Qingfu Zhang. 
 - **Workshop** on [Decomposition Techniques in Evolutionary Optimization (DTEO)](https://sites.google.com/view/dteo/), at the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020). The deadline is March 27, 2020 Please consider submitting your best work to this workshop and see you in Cancun! 
 - **Tutorial** on [Decomposition Multi-Objective Optimization: Current Developments and Future Opportunities](https://gecco-2020.sigevo.org/index.html/Tutorials), at the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), organised by Ke Li and Qingfu Zhang.
