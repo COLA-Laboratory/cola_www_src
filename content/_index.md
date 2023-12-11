@@ -24,6 +24,14 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Dec" >}}
+
+* Our paper on "Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence" has been accepted to [AAAI 2024](https://aaai.org/aaai-conference/). In this paper, Shengbo did a very beautiful and rigorous theoretical discussion on how to carefully explore constraint boundary in partially observable environments. Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 9
+
+* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted IEEE Transactions on Software Engineering. Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 2
+
+{{< /tab >}}
+
 {{< tab "Oct" >}}
 
 * I have been recognized in the [Stanford list of top 2% of scientists in the world](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) in 2023. This is my third consecutive year to be listed. Thank you very much for the excellent work from my team and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> October 10

@@ -151,6 +151,11 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
+Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
 **<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE)<br>
