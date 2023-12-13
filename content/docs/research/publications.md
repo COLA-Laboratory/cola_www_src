@@ -154,13 +154,14 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
 
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
 **<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE)<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV22');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/LiYV22.bib" id="LiYV22" >}}
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
+{{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
 
 - Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
@@ -170,7 +171,9 @@ Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing
 - Why Not Looking backward?” A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLL23.txt" id="abstract_LiLL23" >}}
+{{< ShowBibtex file="/content/bib/LiLL23.bib" id="LiLL23" >}}
 
 - CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
@@ -184,7 +187,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_TanabeL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
 {{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
-
+LL
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -192,16 +195,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiCY23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DETO) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
 {{< ShowBibtex file="/content/bib/LiCY23.bib" id="LiCY23" >}}
-
-- PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 32nd ACM International Conference on Information and Knowledge Management [(CIKM'23)](https://uobevents.eventsair.com/cikm2023/) Demon Track<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`| <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 35%
-
-- Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
-Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
-IEEE Internet of Things Journal (IoTJ)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Multioutput Surrogate Assisted Evolutionary Algorithm for Expensive Multi-Modal Optimization Problems<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
@@ -238,18 +231,25 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
+- Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
+Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
+IEEE Internet of Things Journal (IoTJ), 10(24): 22223--22232, 2023<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_GuanSQGLJ23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('GuanSQGLJ23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_GuanSQGLJ23.txt" id="abstract_GuanSQGLJ23" >}}
+{{< ShowBibtex file="/content/bib/GuanSQGLJ23.bib" id="GuanSQGLJ23" >}}
+
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
 **<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749-763, 2023<br>
+IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749--763, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3234269](https://ieeexplore.ieee.org/document/10015671)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLY22');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_1');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY22.txt" id="abstract_LiLY22" >}}
-{{< ShowBibtex file="/content/bib/LiLY22.bib" id="to_appear_1" >}}
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/oljgs6l1vybajc4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_ranknet) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLY23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLY23.txt" id="abstract_LiLY23" >}}
+{{< ShowBibtex file="/content/bib/LiLY23.bib" id="LiLY23" >}}
 
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
 Bo Lyu+, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
-IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415-425, 2023<br>
+IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415--425, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TETCI.2022.3210998](https://ieeexplore.ieee.org/document/9918532/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuHYCYLWH22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_4');">`BiB`</a>
@@ -258,7 +258,7 @@ IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415-425
 
 - Neural Architecture Search for Portrait Parsing<br>
 Bo Lyu+, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112-1121, 2023<br>
+IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112--1121, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TNNLS.2021.3104872](https://ieeexplore.ieee.org/document/9518382)<br> 
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuYWHL22');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_7');">`BiB`</a>
@@ -267,7 +267,7 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112-1121, 2023
 
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*<br>
-IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126-140, 2023<br>
+IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126--140, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_dmi');">`Abs`</a> |
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
@@ -283,6 +283,15 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
+- PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 32nd ACM International Conference on Information and Knowledge Management [(CIKM'23)](https://uobevents.eventsair.com/cikm2023/), p. 5117--5122, October, 2023.<br>
+<i class="ai ai-acm ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3583780.3614752](https://dl.acm.org/doi/10.1145/3583780.3614752)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangZL23');">`Abs`</a> |
+ <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3583780.3614752) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/yangheng95/PyABSA.) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangZL23');"> `BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 35%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_YangZL23.txt" id="abstract_YangZL23" >}}
+{{< ShowBibtex file="/content/bib/YangZL23.bib" id="YangZL23" >}}
+
 - A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.ieee-cec.org/), p. 1--8, July, 2023.<br>
@@ -291,8 +300,9 @@ Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/), p. 5595--5603, August, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <a href="#/" onclick="toggle_visibility('HuangL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
+{{< ShowBibtex file="/content/bib/HuangL23.bib" id="HuangL23" >}}
 
 - Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
@@ -308,8 +318,9 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291--12301, June, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WilliamsL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
+{{< ShowBibtex file="/content/bib/WilliamsL23.bib" id="WilliamsL23" >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
 Renzhi Chen+, **<ins>Ke Li</ins>**<br>
