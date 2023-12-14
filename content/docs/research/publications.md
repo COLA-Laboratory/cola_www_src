@@ -159,7 +159,7 @@ Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
 **<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/mjwbmxxxagsjjew/main.pdf?dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
 
@@ -187,7 +187,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_TanabeL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
 {{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
-LL
+
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -270,9 +270,9 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112--1121, 202
 IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126--140, 2023<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2022.3162993](https://ieeexplore.ieee.org/document/9744035)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_dmi');">`Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/xa5htf0ysci910x/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('in_press_3');">`BiB`</a>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiC23.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_dmi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiC23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_dmi.txt" id="abstract_dmi" >}}
-{{< ShowBibtex file="/content/bib/LiC22.bib" id="in_press_3" >}}
+{{< ShowBibtex file="/content/bib/LiC22.bib" id="LiC23" >}}
 
 - MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
 Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
