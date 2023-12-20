@@ -154,7 +154,7 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WangL24.txt" id="abstract_WangL24" >}}
 {{< ShowBibtex file="/content/bib/WangL24.bib" id="WangL24" >}}
 
