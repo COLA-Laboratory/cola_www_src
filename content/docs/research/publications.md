@@ -107,6 +107,11 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
+**<ins>Ke Li</ins>**, Han Guo+<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_pbmorl) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2310.12538 | <i class='fa fa-calendar' style='font-size:16px'></i> October 2023<br>
@@ -154,7 +159,7 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WangL24.txt" id="abstract_WangL24" >}}
 {{< ShowBibtex file="/content/bib/WangL24.bib" id="WangL24" >}}
 
@@ -170,7 +175,7 @@ Heng Yang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing [(EMNLP'23)](https://2023.emnlp.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Why Not Looking backward?” A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
+- "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%

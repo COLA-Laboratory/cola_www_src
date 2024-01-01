@@ -13,17 +13,17 @@ Here are some important deadlines for the major conferences in artificial intell
 {{< tab "AI" >}}
 
 - [IJCAI 2024](https://https://ijcai24.org/): January 17, 2024
-- ~~[ECAI 2023](https://ecai2023.eu/): May 8, 2023~~
+- [ECAI 2024](https://www.ecai2024.eu/): April 25, 2024
 - ~~[AAAI 2024](https://aaai.org/aaai-conference/): August 15, 2023~~
-- [ICLR 2024](https://iclr.cc/): September 28, 2023
+- ~~[ICLR 2024](https://iclr.cc/): September 28, 2023~~
 {{< /tab >}}
 
 {{< tab "ML" >}}
 
 - [ICML 2024](https://icml.cc/Conferences/2024): Feburary 1, 2024
-- [AutoML 2024](https://2024.automl.cc/): Feburary ?, 2024~~
-- [ECML/PKDD 2024](https://2024.ecmlpkdd.org/): April 2, 2023
-- ~~[UAI 2022](https://www.auai.org/uai2023/): February 17, 2023~~
+- [AutoML 2024](https://2024.automl.cc/): Feburary 29, 2024
+- [ECML/PKDD 2024](https://2024.ecmlpkdd.org/): March 22, 2024
+- [UAI 2024](https://www.auai.org/uai2024/): February 9, 2024
 - ~~[NeurIPS 2023](https://nips.cc/): May 17, 2023~~
 - ~~[AISTAS 2024](http://aistats.org/aistats2024/index.html): October 13, 2024~~
 
@@ -55,7 +55,7 @@ Here are some important deadlines for the major conferences in artificial intell
 
 {{< tab "SE" >}}
 
-- [ISSTA 2024](): December 15, 2023 (1st round) | April 12, 2024 (2nd round)
+- [ISSTA 2024](https://conf.researchr.org/home/issta-2024): ~~December 15, 2023 (1st round)~~ | April 12, 2024 (2nd round)
 - ~~[FSE 2024](https://conf.researchr.org/home/fse-2024): September 28, 2023~~
 - [ASE 2024](https://conf.researchr.org/home/ase-2024): June 7, 2024
 - [ICSE 2025](https://conf.researchr.org/home/icse-2025): March 22, 2024 (1st round) | August 2, 2024 (2nd round)
