@@ -112,6 +112,11 @@ hr.dashed {
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_pbmorl) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
+- Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
+Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2310.12538 | <i class='fa fa-calendar' style='font-size:16px'></i> October 2023<br>
@@ -169,23 +174,6 @@ IEEE Trans. Software Engineering (TSE)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
-
-- Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing [(EMNLP'23)](https://2023.emnlp.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
-Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
-Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLL23.txt" id="abstract_LiLL23" >}}
-{{< ShowBibtex file="/content/bib/LiLL23.bib" id="LiLL23" >}}
-
-- CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
-Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
 
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
@@ -285,10 +273,31 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126--140, 2023<br>
 Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
 Computers & Electrical Engineering, 105: 108474, 2023<br>
 <i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.compeleceng.2022.108474](https://www.sciencedirect.com/science/article/pii/S0045790622006899?dgcid=coauthor)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`</a>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LyuLHWYL23');">`Abs`</a> |
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LyuLHWYL23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LyuLHWYL23.txt" id="abstract_LyuLHWYL23" >}}
+{{< ShowBibtex file="/content/bib/LyuLHWYL23.bib" id="LyuLHWYL23" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
+Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
+Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLL23.txt" id="abstract_LiLL23" >}}
+{{< ShowBibtex file="/content/bib/LiLL23.bib" id="LiLL23" >}}
+
+- CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+
+- Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing [(EMNLP'23)](https://2023.emnlp.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangL23a');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-emnlp.907.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangL23a');"> `BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_YangL23a.txt" id="abstract_YangL23a" >}}
+{{< ShowBibtex file="/content/bib/YangL23a.bib" id="YangL23a" >}}
 
 - PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
@@ -302,19 +311,23 @@ Proc. of the 32nd ACM International Conference on Information and Knowledge Mana
 - A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.ieee-cec.org/), p. 1--8, July, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsLM23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WilliamsLM23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsLM23.txt" id="abstract_WilliamsLM23" >}}
+{{< ShowBibtex file="/content/bib/WilliamsLM23.bib" id="WilliamsLM23" >}}
 
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/), p. 5595--5603, August, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <a href="#/" onclick="toggle_visibility('HuangL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('HuangL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
 {{< ShowBibtex file="/content/bib/HuangL23.bib" id="HuangL23" >}}
 
 - Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
 Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/), p. 1652--1669, July, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`| <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 40.6%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangL23b');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangL23b');"> `BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 40.6%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_YangL23b.txt" id="abstract_YangL23b" >}}
+{{< ShowBibtex file="/content/bib/YangL23b.bib" id="YangL23b" >}}
 
 - Single Application Service Deployment in the Edge Environment Based on the E-CARGO Model<br>
 Senyue Zhang, Ling Xue, Weiliang Huang, Lu Zhao, **<ins>Ke Li</ins>**<br>
