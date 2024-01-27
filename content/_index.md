@@ -20,106 +20,17 @@ Computational Optimization for Learning and Adaptive Systems (COLA) laboratory i
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
 
-## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2023)
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2024)
 
 {{< tabs "uniqueid" >}}
 
-{{< tab "Dec" >}}
-
-* Our paper on "Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence" has been accepted to [AAAI 2024](https://aaai.org/aaai-conference/). In this paper, Shengbo did a very beautiful and rigorous theoretical discussion on how to carefully explore constraint boundary in partially observable environments. Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> December 9
-
-* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted IEEE Transactions on Software Engineering. Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> December 2
-
-{{< /tab >}}
-
-{{< tab "Oct" >}}
-
-* I have been recognized in the [Stanford list of top 2% of scientists in the world](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) in 2023. This is my third consecutive year to be listed. Thank you very much for the excellent work from my team and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> October 10
-
-* Our paper on "Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators" has been accepted to the Findings of [EMNLP 2023](https://2023.emnlp.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> October 7
-{{< /tab >}}
-
-{{< tab "Sep" >}}
-
-* I'm glad to be awarded the [Kan Tong Po International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/kan-tong-po/) from the Royal Society! Congratulations and really appreciate the continuous support from the Royal Society. This fellowship will support to visit Prof. Kan Chen Tan in the Hong Kong Polytechnic University and consolidate our collaborations. <i class='fa fa-calendar' style='font-size:19px'></i> September 28
-
-* Our COLA-Lab team is in the second place of the [AutoML Cup 2023](https://www.codabench.org/competitions/984/). Congratulations to Fan, Peili and Heng! Well done for your hard work! This is our first time to participate the AutoML competition. Hope we can win the trophy cup next time. <i class='fa fa-calendar' style='font-size:19px'></i> September 26
-
-* We have two papers accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023)! Congratulations to Shuang and Phoenix! Shuang's work is a very interesting and unique perspective to redefine the stopping criterion in Bayesian optimization. I see many further applications based on this criterion. Phoenix developed a very interesting adversarial attack method based on CamoPatch. Very cool idea! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 21
-
-* Our paper on "Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Ryoji! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
-
-* Our paper on "DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls" has been accepted to IEEE Trans. Software Engineering pending to minor revision. Congratulations to Heng! Very well done! This is part of the outcome from my Amazon Research Award. <i class='fa fa-calendar' style='font-size:19px'></i> September 18
-
-{{< /tab >}}
-
-{{< tab "Aug" >}}
-
-* Our paper on "A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Renzhi! Very well done! This works opens several new perspectives on how we can leverage the historical data in a manageable way. More information will be posted soon. <i class='fa fa-calendar' style='font-size:19px'></i> August 7
-
-* Our paper on "PyABSA:  A Modularized Framework for Reproducible Aspect-based Sentiment Analysis" has been accepted to [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) Demo Track. Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 5
-
-* A new PhD studentship is opening in our lab!!! This project is mainly led by our colleagues in the Engineering department. The topic is about [trustworthy and explainable AI for smart energy system management](https://www.findaphd.com/phds/project/trustworthy-and-explainable-ai-for-smart-energy-system-management/?p159883). Please feel free to contact me about more details. <i class='fa fa-calendar' style='font-size:19px'></i> August 1
-
-* Our paper on "Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks" has been accepted to IEEE Internet of Things Journal. Congratulations to Yingying! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> August 1
-
-{{< /tab >}}
-
-{{< tab "Jun" >}}
-
-* Shasha and Xiaotian have successfully secured their Exeter-CSC PhD studentships and will join us this fall. Congratulations to them both, and warm welcome to join COLA laboratory this September. <i class='fa fa-calendar' style='font-size:19px'></i> June 22
-
-* Glad to announce that one project proposal (EASY-CROSS) is granted by [MSCA Staff Exchange 2022](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-staff-exchanges-2022). This project is about secure and modular boarder control supported by handheld biometric scanning devices. Look forward to seeing interesting collaborations coming out of this project. Congratulations to our colleagues. <i class='fa fa-calendar' style='font-size:19px'></i> June 1
-
-* We have three papers accepted to [IEEE SMC 2023](https://ieeesmc2023.org/). Congratulations to Renzhi, Shasha and Tian! Well done! <i class='fa fa-calendar' style='font-size:19px'></i> June 1
-
-{{< /tab >}}
-
-{{< tab "May" >}}
-
-* Our paper on "Boosting Text Augmentation via Hybrid Instance Filtering Framework" has been accepted to the Findings of [ACL 2023](https://2023.aclweb.org/). Congratulations to Heng! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> May 2
-
-{{< /tab >}}
-
-{{< tab "Apr" >}}
-
-* I'm glad to be invited to join the Editorial Board for [Mathematics](https://www.mdpi.com/journal/mathematics) journal (Impact Factor=2.592). <i class='fa fa-calendar' style='font-size:19px'></i> April 21
-
-* Our paper on "Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems" has been accepted to [IJCAI 2023](https://ijcai-23.org/). Congratulations to Mingyu! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 19
-
-* Our paper on "A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation" has been accepted to [CEC 2023](https://2023.ieee-cec.org/). Congratulations to Phoenix! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> April 15
-
-{{< /tab >}}
-
-{{< tab "Mar" >}}
-
-* **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
-
-* I'm pleased to announce that my Turing Fellowship has been extended to the end of this September. Look forward to engage with the Alan Turing Institute to develop a broader collaborative network. <i class='fa fa-calendar' style='font-size:19px'></i> March 28
-
-* Our paper on "A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint" has been accepted to IEEE Trans. Evol. Comput. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> March 25
-
-* I'm glad to be invited to join the Editorial Board for the Brain-Computer Intersection section of [Frontiers in Human Neuroscience](https://www.frontiersin.org/journals/human-neuroscience) journal (Impact Factor=3.473). <i class='fa fa-calendar' style='font-size:19px'></i> March 20
-
-* Our tutorial on "Preference-Based Evolutionary Multi-Objective Optimization: Steppingstone to Involve Human in the Loop" has been accepted to IEEE [CEC 2023](https://2023.ieee-cec.org/) and [SMC 2023](https://ieeesmc2023.org/). This is an emerging topic that has been explored in my group for more than five years. It is my pleasure to share with you some of our very recent advances along this direction. Look forward seeing you in Chicago and Hawaii. <i class='fa fa-calendar' style='font-size:19px'></i> March 4
-
-* My paper on "[Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation](https://ieeexplore.ieee.org/document/9744035)" published in IEEE Tran. Evolutionary Computation this year has been invited to give a Journal to Conference talk in IEEE [CEC 2023](https://2023.ieee-cec.org/). <i class='fa fa-calendar' style='font-size:19px'></i> March 2
-
-{{< /tab >}}
-
-{{< tab "Feb" >}}
-
-* **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
-
-* Our papers on "Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation" has been accepted to [CVPR 2023](https://cvpr2023.thecvf.com/). Congratulations to Phoenix! Very well done!<i class='fa fa-calendar' style='font-size:19px'></i> February 27
-
-{{< /tab >}}
-
 {{< tab "Jan" >}}
 
-* **COLA-Lab is now hiring!!! We have multiple fully funded PhD studentships available for September 2023 entry. Detailed information can be found from [here](/docs/home/vacancies).**
+* I have been invited to join the Editorial Board of [Evolutionary Computation Journal](https://direct.mit.edu/evco) (ECJ), effective since February! ECJ is one of the most prestigious journals in the evolutionary computation field. It is my honor to promote the visibility and impact of ECJ. <i class='fa fa-calendar' style='font-size:19px'></i> January 25
 
-* Our papers on "Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search" has been accepted to IEEE Trans. Evol. Comput. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> January 2
+* Our papers on "An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity" has been accepted to IEEE Trans. Artificial Intelligence. Congratulations to Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> January 19
+
+* Our papers on "Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation" has been accepted to [EACL 2024](https://2024.eacl.org/). Congratulations to Heng! <i class='fa fa-calendar' style='font-size:19px'></i> January 18
 
 {{< /tab >}}
 

@@ -161,6 +161,16 @@ Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 18th Conference of the European Chapter of the Association for Computational Linguistics [(EACL'24)](https://2024.eacl.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Artificial Intelligence (TAI)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
