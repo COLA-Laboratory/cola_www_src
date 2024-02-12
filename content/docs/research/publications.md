@@ -107,14 +107,19 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- Unlocking the Secrets of Software Configuration Landscapes-Ruggedness, Accessibility, Escapability, and Transferability<br>
+Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2201.01429 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lonviz) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
 **<ins>Ke Li</ins>**, Han Guo+<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.02160 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_pbmorl) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.00978  | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
@@ -132,18 +137,6 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
-
-- Art-Attack: Black-Box Adversarial Attack via Evolutionary Art<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.04405 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2203.04405) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_2');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/WilliamsL22.bib" id="to_appear_2" >}}
-
-- Automated Few-Shot Time Series Forecasting based on Bi-level Programming<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2203.03328 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://arxiv.org/abs/2203.03328) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_3');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/XuL22.bib" id="to_appear_3" >}}
 
 - LONViZ: Unboxing the Black-Box of Configurable Software Systems from a Complex Networks Perspective<br>
 **<ins>Ke Li</ins>**, Peili Mao+, Tao Chen<br>
