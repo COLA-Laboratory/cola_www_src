@@ -108,7 +108,7 @@ hr.dashed {
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
-**<ins>Ke Li</ins>**, Fan Li<br>
+**<ins>Ke Li</ins>**, Fan Li+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
