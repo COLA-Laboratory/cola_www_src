@@ -20,6 +20,10 @@ Computational Optimization for Learning and Adaptive Systems (COLA) laboratory i
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
 
+{{< hint danger >}}
+I have been too busy to update this website, which is currently significantly out of date. I will try my best to come back soon.
+{{< /hint >}}
+
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2024)
 
 {{< tabs "uniqueid" >}}
