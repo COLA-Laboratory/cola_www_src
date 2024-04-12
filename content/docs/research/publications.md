@@ -109,7 +109,7 @@ hr.dashed {
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/xxxx.xxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2402.09638 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Unlocking the Secrets of Software Configuration Landscapes-Ruggedness, Accessibility, Escapability, and Transferability<br>
@@ -159,26 +159,31 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
-- Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 18th Conference of the European Chapter of the Association for Computational Linguistics [(EACL'24)](https://2024.eacl.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Artificial Intelligence (TAI)<br>
+- iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning<br>
+Haopeng Yu, Fan Li+, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
+Nucleic Acids Research (NAR)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
-Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_WangL24.txt" id="abstract_WangL24" >}}
-{{< ShowBibtex file="/content/bib/WangL24.bib" id="WangL24" >}}
+- Evolutionary Art Attack For Black-Box Adversarial Example Generation<br>
+Phoenix Williams+, **<ins>Ke Li</ins>**, G. Min<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Knee Point Driven Evolutionary Algorithm for Multi-Objective Bilevel Optimization<br>
+Jiaxin Chen+, Jinliang Ding, **<ins>Ke Li</ins>**, Kay Chen Tan, Tianyou Chai<br>
+IEEE Trans. Cybernetics (TCYB)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**, D. Li<br>
+IEEE Trans. Artificial Intelligence (TAI)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TAI.2024.3358795](https://ieeexplore.ieee.org/abstract/document/10414362)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
 **<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2023.3343716](https://ieeexplore.ieee.org/abstract/document/10372386)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
@@ -199,28 +204,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
 {{< ShowBibtex file="/content/bib/LiCY23.bib" id="LiCY23" >}}
 
-- Multioutput Surrogate Assisted Evolutionary Algorithm for Expensive Multi-Modal Optimization Problems<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Empirical Studies of Resampling Strategies in Noisy Evolutionary Multi-Objective Optimization<br>
-Shasha Zhou+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Preference-Based Multi-Objective Optimization with Gaussian Process<br>
-Tian Huang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
-Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3260306](https://ieeexplore.ieee.org/abstract/document/10078268)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ZouSLHYZL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt" id="abstract_ZouSLHYZL23" >}}
-
 - Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
 Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -230,6 +213,24 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 
 ---
 
+## 2024
+
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
+Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1609/aaai.v38i14.29488](https://doi.org/10.1609/aaai.v38i14.29488)<br>
+Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/), 38(14): 15607-15615, February, 2024<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_WangL24.txt" id="abstract_WangL24" >}}
+{{< ShowBibtex file="/content/bib/WangL24.bib" id="WangL24" >}}
+
+- Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [https://aclanthology.org/2024.findings-eacl.13](https://aclanthology.org/2024.findings-eacl.13)<br>
+Findings of the 18th Conference of the European Chapter of the Association for Computational Linguistics [(EACL'24)](https://2024.eacl.org/), p. 182-195, March, 2024.<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2024.findings-eacl.13.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 ## 2023
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
@@ -237,6 +238,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 - Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
 Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
 IEEE Internet of Things Journal (IoTJ), 10(24): 22223--22232, 2023<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/JIOT.2023.3304976](https://ieeexplore.ieee.org/document/10217060)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_GuanSQGLJ23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('GuanSQGLJ23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_GuanSQGLJ23.txt" id="abstract_GuanSQGLJ23" >}}
 {{< ShowBibtex file="/content/bib/GuanSQGLJ23.bib" id="GuanSQGLJ23" >}}
@@ -287,6 +289,29 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
 {{< ShowBibtex file="/content/bib/LyuLHWYL23.bib" id="LyuLHWYL23" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Multioutput Surrogate Assisted Evolutionary Algorithm for Expensive Multi-Modal Optimization Problems<br>
+Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Empirical Studies of Resampling Strategies in Noisy Evolutionary Multi-Objective Optimization<br>
+Shasha Zhou+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Preference-Based Multi-Objective Optimization with Gaussian Process<br>
+Tian Huang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
+Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3260306](https://ieeexplore.ieee.org/abstract/document/10078268)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ZouSLHYZL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt" id="abstract_ZouSLHYZL23" >}}
+
 
 - "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>

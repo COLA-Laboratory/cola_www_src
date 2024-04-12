@@ -21,12 +21,28 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 {{< /hint >}}
 
 {{< hint danger >}}
-I have been too busy to update this website, which is currently significantly out of date. I will try my best to come back soon.
+I have been working on the update of this website, though it has been a bit slow.
 {{< /hint >}}
 
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2024)
 
 {{< tabs "uniqueid" >}}
+
+{{< tab "Apr" >}}
+
+* Our first multi-disciplinary paper about AutoML for science, named "iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning" has been accepted to Nucleic Acids Research. Congratulations to Fan and our collaborator in Ding's lab. We have many more in coming! <i class='fa fa-calendar' style='font-size:19px'></i> April 11
+
+* Our paper on "Evolutionary Art Attack For Black-Box Adversarial Example Generation" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Phoenix! <i class='fa fa-calendar' style='font-size:19px'></i> April 2
+
+{{< /tab >}}
+
+{{< tab "Mar" >}}
+
+* Our paper on "A Knee Point Driven Evolutionary Algorithm for Multi-Objective Bilevel Optimization" has been accepted to IEEE Trans. Cybernetics. Congratulations to Jiaxin! <i class='fa fa-calendar' style='font-size:19px'></i> March 8
+
+* I'm thrilled to be selected as in the [new cohort](https://www.turing.ac.uk/news/alan-turing-institute-welcomes-over-50-new-turing-fellows-tackle-societal-challenges) of 51 Turing Fellows in the UK. The Alan Turing Institute is the national institute of AI and data science. Look forward to developing new collaboration in my second term as a Turing Fellow. <i class='fa fa-calendar' style='font-size:19px'></i> March 1
+
+{{< /tab >}}
 
 {{< tab "Jan" >}}
 
