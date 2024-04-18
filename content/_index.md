@@ -30,6 +30,8 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Apr" >}}
 
+* Our paper on "Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation" has been accepted to [FSE 2024](https://conf.researchr.org/home/fse-2024)! Congratulations to Shasha! Very nice piece of work on adversarial attacks in language models for software engineering. <i class='fa fa-calendar' style='font-size:19px'></i> April 14
+
 * Our first multi-disciplinary paper about AutoML for science, named "iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning" has been accepted to Nucleic Acids Research. Congratulations to Fan and our collaborator in Ding's lab. We have many more in coming! <i class='fa fa-calendar' style='font-size:19px'></i> April 11
 
 * Our paper on "Evolutionary Art Attack For Black-Box Adversarial Example Generation" has been accepted to IEEE Trans. Evolutionary Computation. Congratulations to Phoenix! <i class='fa fa-calendar' style='font-size:19px'></i> April 2

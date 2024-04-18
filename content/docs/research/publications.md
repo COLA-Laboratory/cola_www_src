@@ -159,6 +159,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
+Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
+Proc. of the 2024 ACM International Conference on the Foundations of Software Engineering (FSE'24)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning<br>
 Haopeng Yu, Fan Li+, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
 Nucleic Acids Research (NAR)<br>
