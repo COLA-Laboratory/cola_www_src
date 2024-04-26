@@ -107,6 +107,16 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
+- A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II-A Data Science Perspective<br>
+Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2404.14228 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/ulipelrt3v5pr3b50jwu4/main.pdf?rlkey=n6xwz4f2gpa11elmrtmgk5a98&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/xz2677tsqcqq7j7f5cyuc/supp.pdf?rlkey=cf65dyn7g0mt5tzivzxoe83vf&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part I-Past and Future<br>
+**<ins>Ke Li</ins>**<br>
+<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2404.14571 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2402.09638 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
@@ -158,6 +168,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Industrial Informatics (TII)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
 Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
