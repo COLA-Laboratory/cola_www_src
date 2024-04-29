@@ -30,6 +30,8 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Apr" >}}
 
+* Our AutoML for science work is featured in a WeiChat public account [article](https://mp.weixin.qq.com/s/fZV-GppVlNakqEm7IwOVZQ) for public outreaches. I'm very exciting to look forward more interesting works along this line of research. <i class='fa fa-calendar' style='font-size:19px'></i> April 28
+ 
 * Our paper on "Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity" has been accepted to IEEE Trans. on Industrial Informatics. Congratulations to Jiangjiao! Very nice piece of work on time-series forecasting from the perspective of Gaussian process modeling. <i class='fa fa-calendar' style='font-size:19px'></i> April 26
 
 * Our paper on "Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation" has been accepted to [FSE 2024](https://conf.researchr.org/home/fse-2024)! Congratulations to Shasha! Very nice piece of work on adversarial attacks in language models for software engineering. <i class='fa fa-calendar' style='font-size:19px'></i> April 14
