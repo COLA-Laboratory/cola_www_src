@@ -28,6 +28,12 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+* I am honored to be invited as a Senior Program Committee of [CIKM 2024](https://cikm2024.org/). This is a recognition of our group's effort on data engineering in the past three years. <i class='fa fa-calendar' style='font-size:19px'></i> May 17
+
+{{< /tab >}}
+
 {{< tab "Apr" >}}
 
 * Our AutoML for science work is featured in a WeiChat public account [article](https://mp.weixin.qq.com/s/fZV-GppVlNakqEm7IwOVZQ) for public outreaches. I'm very exciting to look forward more interesting works along this line of research. <i class='fa fa-calendar' style='font-size:19px'></i> April 28
