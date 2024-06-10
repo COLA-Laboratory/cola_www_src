@@ -174,6 +174,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
+Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Consumer Electronics (TCE)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity<br>
 Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Industrial Informatics (TII)<br>
