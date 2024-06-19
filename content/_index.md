@@ -30,6 +30,8 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Jun" >}}
 
+* Congratulations to Jack and Fan whose first ever RNA design benchmark is accepted to the ICML 2024 AI4Science workshop! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> June 17
+
 * Congratulations to Phoenix who secured a position in GSK, one of the biggest pharmaceutical companies in the world. He will be exploring the responsible AI in drug discovery. Very big congratulations to Phoenix's achievements. This also sets our new journey towards AI4Science. <i class='fa fa-calendar' style='font-size:19px'></i> June 4
 
 {{< /tab >}}
