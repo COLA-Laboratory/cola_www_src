@@ -23,6 +23,8 @@ This website maintains the supplementary materials related to the following pape
 It consists of the following parts:
 - The source code of this paper can be found from our <i class='fa fa-github-square' style='font-size:19px'></i> [Github repo](https://github.com/COLA-Laboratory/pbmorl).
 - Video clips of the preferred policy obtained by our proposed PBMORL.
+- Supplementary figures in addition to the experimental results reported in the manuscript can be found in this <i class='fa fa-file-pdf-o' style='font-size:19px'></i> [`PDF`](/docs/research/supp/supp_tnnls_pbmorl.pdf).
+
 <div align="left">
 Ant-v2 and Halfcheetah-v2, left is {{< katex >}}f_1{{< /katex >}} preferred and right is {{< katex >}}f_2{{< /katex >}} preferred.<br>
 <img src="/media/gifs/pbmorl/antprefer1.gif" width = "200px" align=center title="Moving peak benchmark" />

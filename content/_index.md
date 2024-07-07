@@ -28,6 +28,12 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Jul" >}}
+
+* Our paper on "Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints" has been accepted to IEEE Trans. on Evolutionary Comptation. Congratulations to Shuang! Very nice piece of work on problems with unknown constraints. This is has rarely been discussed yet highly important problem in the real world. <i class='fa fa-calendar' style='font-size:19px'></i> July 3
+
+{{< /tab >}}
+
 {{< tab "Jun" >}}
 
 * Congratulations to Jack and Fan whose first ever RNA design benchmark is accepted to the ICML 2024 AI4Science workshop! Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> June 17

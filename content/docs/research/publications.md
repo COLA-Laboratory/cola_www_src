@@ -137,11 +137,6 @@ Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.02160 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_pbmorl.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_pbmorl) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
-Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.00978  | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_admm.pdf) |  <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_admm.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2310.12538 | <i class='fa fa-calendar' style='font-size:16px'></i> October 2023<br>
@@ -173,6 +168,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
+Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
 Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
