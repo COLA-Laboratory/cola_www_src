@@ -63,7 +63,7 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/KL_cartoon.PNG" width="120px", height="120px">
+        <img src="/media/KL3.jpeg" width="120px", height="120px">
     </div>
     <div class="item2">
         Dr Ke Li<br>
@@ -100,11 +100,23 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
+        Hong Sun<br>
+        PhD Student<br>
+        2024 - present<br>
+        <em>Interests</em>: EMO, preference learning
+    </div>
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
         Jack Cole<br>
         PhD Student<br>
-        To join in 2024<br>
-        <em>Interests</em>: RL, HCO, EMO
+        2024 - present<br>
+        <em>Interests</em>: AI4Science
     </div>
+</div>
+
+<div class="grid-container">
     <div class="item3">
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
@@ -122,15 +134,6 @@ hr.dashed {
         PhD Student<br>
         2023 – present<br>
         <em>Interests</em>: EMO, Fairness
-    </div>
-    <div class="item3">
-        <img src="/media/PW.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item4">
-        <a href="https://phoenixwilliams.github.io/PersonalWebsite/">Phoenix Williams</a><br>
-        PhD Student<br>
-        2020 - present<br>
-        <em>Interests</em>: BO, TL, EMO
     </div>
 </div>
 
@@ -200,18 +203,6 @@ hr.dashed {
 ---
 
 ## <i class='fa fa-road' style='font-size:21px'></i> Visitor(s)
-<div class="grid-container">
-    <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Kailai Gao<br>
-        Visiting PhD Student<br>
-        Northeastern University<br>
-        02/2023 – present<br>
-        <em>Interests</em>: BO, MTL
-    </div>
-</div>
 
 ---
 
@@ -220,6 +211,12 @@ hr.dashed {
 {{< tabs "uniqueid" >}}
 
 {{< tab "PhD students" >}}
+
+- Dr Phoenix Williams
+    - 01/09/2020 -- 01/07/2024, University of Exeter
+    - PhD student, co-supervised with Prof. Geyong Min
+    - Job: -> GSK
+    - Outputs: 1 IEEE Trans, CVPR, NeurIPS, EMO, SMC, GECCO, and CEC papers
 
 - Dr Joseph Billingsly
     - 01/09/2017 -- 01/05/2022, University of Exeter
@@ -254,6 +251,9 @@ hr.dashed {
 
 {{< tab "Visiting students" >}}
 
+- Miss Kailai Gao
+    - 01/2023 -- 05/2024, Northeastern University
+    - Visiting PhD student
 - Mr Shuang Li
     - 07/2022 -- 07/2023, Harbin Institute of Technology
     - Visiting PhD student
