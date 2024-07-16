@@ -30,6 +30,10 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Jul" >}}
 
+* I have been officially promoted to a senior academic position, Readership (i.e., Associate Professor++) in the UK system. Appreciate to the great work done by my group and support from my collaborators and mentors. Look forward to the next level promotion soon. <i class='fa fa-calendar' style='font-size:19px'></i> July 16
+
+* Our paper on "TransOPT: Transfer Optimization System for Black-box Optimization" has been accepted to [CIKM 2024](https://cikm2024.org/) Demo Track. Congratulations to Peili! Very nice piece of initial work on a system for studying and developing transfer learning methods for black-box optimization. <i class='fa fa-calendar' style='font-size:19px'></i> July 16
+
 * Our paper on "Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints" has been accepted to IEEE Trans. on Evolutionary Comptation. Congratulations to Shuang! Very nice piece of work on problems with unknown constraints. This is has rarely been discussed yet highly important problem in the real world. <i class='fa fa-calendar' style='font-size:19px'></i> July 3
 
 {{< /tab >}}

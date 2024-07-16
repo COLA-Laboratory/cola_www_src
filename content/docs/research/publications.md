@@ -169,6 +169,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- TransOPT: Transfer Optimization System for Black-box Optimization<br>
+Peili Mao+, **<ins>Ke Li</ins>**<br>
+Proc. of the 33rd ACM International Conference on Information and Knowledge Management ([CIKM 2024](https://cikm2024.org/)) Demo Paper track<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
