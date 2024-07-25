@@ -169,6 +169,16 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
+Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Cybernetics (TCYB)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Many-Objective Evolutionary Algorithm Based on Interaction Force and Hybrid Optimization Mechanism<br>
+Lei Yang+, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
+Swarm and Evolutionary Computation (SWEVO)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - TransOPT: Transfer Optimization System for Black-box Optimization<br>
 Peili Mao+, **<ins>Ke Li</ins>**<br>
 Proc. of the 33rd ACM International Conference on Information and Knowledge Management ([CIKM 2024](https://cikm2024.org/)) Demo Paper track<br>
