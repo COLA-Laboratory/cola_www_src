@@ -107,10 +107,10 @@ hr.dashed {
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
-- PlantRNA-FM: A Plant RNA Foundation Model for Exploration RNA Functions in Plants<br>
-Haopeng Yu, Heng Yang+, Yiliang Ding, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> biArXiv xxxxxx | <i class='fa fa-calendar' style='font-size:16px'></i> May 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+- PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
+Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
+<i class="ai ai-biorxiv ai-lg"></i> [biArXiv 2024.06.24.600509](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.abstract) | <i class='fa fa-calendar' style='font-size:16px'></i> May 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.full.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II-A Data Science Perspective<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
