@@ -137,11 +137,6 @@ Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.02160 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_pbmorl.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_pbmorl) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning<br>
-Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2310.12538 | <i class='fa fa-calendar' style='font-size:16px'></i> October 2023<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2307.00828 | <i class='fa fa-calendar' style='font-size:16px'></i> July 2023<br>
@@ -182,11 +177,7 @@ Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- A Many-Objective Evolutionary Algorithm Based on Interaction Force and Hybrid Optimization Mechanism<br>
-Lei Yang+, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
-Swarm and Evolutionary Computation (SWEVO)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2024.3443396](https://ieeexplore.ieee.org/abstract/document/10644136)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - TransOPT: Transfer Optimization System for Black-box Optimization<br>
@@ -197,47 +188,19 @@ Proc. of the 33rd ACM International Conference on Information and Knowledge Mana
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
-Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
-Proc. of the 2024 ICML AI for Science Workshop<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3425629](https://ieeexplore.ieee.org/document/10589587)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
 Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Consumer Electronics (TCE)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCE.2024.3412817](https://ieeexplore.ieee.org/abstract/document/10554553)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Industrial Informatics (TII)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
-Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
-Proc. of the 2024 ACM International Conference on the Foundations of Software Engineering [(FSE'24)](https://conf.researchr.org/home/fse-2024)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning<br>
-Haopeng Yu, Fan Li+, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
-Nucleic Acids Research (NAR)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Art Attack For Black-Box Adversarial Example Generation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**, G. Min<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- A Knee Point Driven Evolutionary Algorithm for Multi-Objective Bilevel Optimization<br>
-Jiaxin Chen+, Jinliang Ding, **<ins>Ke Li</ins>**, Kay Chen Tan, Tianyou Chai<br>
-IEEE Trans. Cybernetics (TCYB)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, D. Li<br>
-IEEE Trans. Artificial Intelligence (TAI)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TAI.2024.3358795](https://ieeexplore.ieee.org/abstract/document/10414362)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3391063](https://ieeexplore.ieee.org/document/10504779)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
@@ -264,18 +227,60 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
 {{< ShowBibtex file="/content/bib/LiCY23.bib" id="LiCY23" >}}
 
-- Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
-Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3236455](https://ieeexplore.ieee.org/document/10016238)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenLLT23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLLT23.txt" id="abstract_ChenLLT23" >}}
-
 ---
 
 ## 2024
 
+### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- A Many-Objective Evolutionary Algorithm Based on Interaction Force and Hybrid Optimization Mechanism<br>
+Lei Yang+, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
+Swarm and Evolutionary Computation (SWEVO), 90: 101667<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [https://doi.org/10.1016/j.swevo.2024.101667](https://www.sciencedirect.com/science/article/abs/pii/S2210650224002050)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning<br>
+Haopeng Yu, Fan Li+, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
+Nucleic Acids Research (NAR), 52(W1): W19-W28, 2024<br>
+<i class="ai ai-doi ai-lg"></i> [https://doi.org/10.1093/nar/gkae315](https://academic.oup.com/nar/article/52/W1/W19/7659304)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://im-seeker.org/help) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Industrial Informatics (TII), 20(9): 11202--11212, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TII.2024.3396347](https://ieeexplore.ieee.org/document/10539288)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- A Knee Point Driven Evolutionary Algorithm for Multi-Objective Bilevel Optimization<br>
+Jiaxin Chen+, Jinliang Ding, **<ins>Ke Li</ins>**, Kay Chen Tan, Tianyou Chai<br>
+IEEE Trans. Cybernetics (TCYB), 54(7): 4177--4189, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2024.3377272](https://ieeexplore.ieee.org/document/10496817)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
+Jiangjiao Xu+, **<ins>Ke Li</ins>**, D. Li<br>
+IEEE Trans. Artificial Intelligence (TAI), 5(6): 2482--2492, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TAI.2024.3358795](https://ieeexplore.ieee.org/abstract/document/10414362)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
+Lei Chen, Hai-Lin Liu, **<ins>Ke Li</ins>**, Kay Chen Tan<br>
+IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3236455](https://ieeexplore.ieee.org/document/10016238)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_ChenLLT23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLLT23.txt" id="abstract_ChenLLT23" >}}
+
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
+Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
+Proc. of the 2024 ICML AI for Science Workshop<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/RNAInvBench) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
+Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
+Proc. of the 2024 ACM International Conference on the Foundations of Software Engineering [(FSE'24)](https://conf.researchr.org/home/fse-2024), 101: 2285--2308, July, 2024<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/MOAA) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
