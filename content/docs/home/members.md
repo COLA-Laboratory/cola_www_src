@@ -121,6 +121,27 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
+        Hong Sun<br>
+        PhD Student<br>
+        2024 - present<br>
+        <em>Interests</em>: EMO, preference learning
+    </div>
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Jack Cole<br>
+        PhD Student<br>
+        2024 - present<br>
+        <em>Interests</em>: AI4Science
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
         Shasha Zhou<br>
         PhD Student<br>
         2023 - present<br>
