@@ -28,6 +28,14 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Sep" >}}
+
+* We have two papers accepted in [EMNLP 2024]. One is about adversarial defense in large language models while the other is about using language model to predict RNA secondary structure. Both of them are very cool, especially the RNA one. Congratulations to Heng! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
+
+* I'm honored to be recognized in the list of top 2% of the world most-cited scientists by [Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7). I have been in this list since 2020. Really appreciate the hard work from my students and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> September 19
+
+{{< /tab >}}
+
 {{< tab "Jul" >}}
 
 * Our paper on "Solving Expensive Optimization Problems in Dynamic Environments with Meta-learning" has been accepted to IEEE Trans. on Cybernetics. Congratulations to Huang! The initial idea can be extended to a wide range of other scenarios, even beyond the Bayesian optimization niche. <i class='fa fa-calendar' style='font-size:19px'></i> July 25

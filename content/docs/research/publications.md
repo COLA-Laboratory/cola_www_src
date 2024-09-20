@@ -169,6 +169,16 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Findings of the 2024 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024](https://2024.emnlp.org/))<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024](https://2024.emnlp.org/))<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
