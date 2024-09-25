@@ -30,7 +30,9 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Sep" >}}
 
-* We have two papers accepted in [EMNLP 2024](https://2024.emnlp.org/). One is about adversarial defense in large language models while the other is about using language model to predict RNA secondary structure. Both of them are very cool, especially the RNA one. Congratulations to Heng! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
+* Our paper "Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits" has been accepted to [NeruIPS 2024](https://neurips.cc/). This is a super cool paper that achieves the first theoretical results of dueling bandits in multi-objective optimization. In particular, we significantly reduce the query complexity. Congratulations to Tian and Shengbo! <i class='fa fa-calendar' style='font-size:19px'></i> September 25
+
+* We have two papers been accepted in [EMNLP 2024](https://2024.emnlp.org/). One is about adversarial defense in large language models while the other is about using language model to predict RNA secondary structure. Both of them are very cool, especially the RNA one. Congratulations to Heng! <i class='fa fa-calendar' style='font-size:19px'></i> September 19
 
 * I'm honored to be recognized in the list of top 2% of the world most-cited scientists by [Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7). I have been in this list since 2020. Really appreciate the hard work from my students and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> September 19
 

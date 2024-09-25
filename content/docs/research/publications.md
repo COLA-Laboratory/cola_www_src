@@ -164,6 +164,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
+Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
+
 - MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
 Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
