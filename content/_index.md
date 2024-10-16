@@ -28,6 +28,10 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Oct" >}}
+* Our paper "An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants" has been accepted to Nature Machine Intelligence. This is the world first RNA foundation model pre-trained for the plant kingdom. While we only has 35 million parameters, this model can already beat other much larger models. Very appreciate to our student Heng's hard work as well as our fantastic collaborators Haopeng and Yiliang in the John Innes Centre. Without this highly multi-disciplinary collaboration, we cannot achieve this far. There are many more follow-on works coming soon! <i class='fa fa-calendar' style='font-size:19px'></i> October 16
+{{< /tab >}}
+
 {{< tab "Sep" >}}
 
 * Our paper "Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits" has been accepted to [NeruIPS 2024](https://neurips.cc/). This is a super cool paper that achieves the first theoretical results of dueling bandits in multi-objective optimization. In particular, we significantly reduce the query complexity. Congratulations to Tian and Shengbo! <i class='fa fa-calendar' style='font-size:19px'></i> September 25

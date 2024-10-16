@@ -17,7 +17,7 @@ bookToc: false
 This website maintains the supplementary materials related to the following paper:
 
 {{< hint info >}}
-Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** "PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants", submitted to Nature Machine Intelligence, under review, 2024.<br>
+Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** "PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants", accpeted to Nature Machine Intelligence, 2024.<br>
 <i class="ai ai-doi ai-lg"></i> https://doi.org/10.1101/2024.06.24.600509<br>
 <i class="ai ai-biorxiv ai-lg"></i> [biArXiv 2024.06.24.600509](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.abstract) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material)<br>
 {{< /hint >}}
