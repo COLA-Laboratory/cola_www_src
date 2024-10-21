@@ -29,6 +29,9 @@ I have been working on the update of this website, though it has been a bit slow
 {{< tabs "uniqueid" >}}
 
 {{< tab "Oct" >}}
+
+* My single author paper "A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future" has been accepted to IEEE Transactions on Evolutionary Computation. I see this as my 15 years' early-career summary in the evolutionary multi-objective optimization domain, where I got my fame there. My lab has been marching towards several new interesting grand challenges for creating a better world in future. Nevertheless, deep down, I am a computational optimization scientist no matter what other areas I will be. Finally, I would like to appreciate my students who helped me to prepare this long survey article, including Mingyu, An, and Peili. <i class='fa fa-calendar' style='font-size:19px'></i> October 21
+
 * Our paper "An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants" has been accepted to Nature Machine Intelligence. This is the world first RNA foundation model pre-trained for the plant kingdom. While we only has 35 million parameters, this model can already beat other much larger models. Very appreciate to our student Heng's hard work as well as our fantastic collaborators Haopeng and Yiliang in the John Innes Centre. Without this highly multi-disciplinary collaboration, we cannot achieve this far. There are many more follow-on works coming soon! <i class='fa fa-calendar' style='font-size:19px'></i> October 16
 {{< /tab >}}
 

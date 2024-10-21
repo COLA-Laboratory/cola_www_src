@@ -112,11 +112,6 @@ Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2404.14228 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/ulipelrt3v5pr3b50jwu4/main.pdf?rlkey=n6xwz4f2gpa11elmrtmgk5a98&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/xz2677tsqcqq7j7f5cyuc/supp.pdf?rlkey=cf65dyn7g0mt5tzivzxoe83vf&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part I-Past and Future<br>
-**<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2404.14571 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2402.09638 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
@@ -158,6 +153,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
+**<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
 Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
