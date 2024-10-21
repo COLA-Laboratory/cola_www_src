@@ -68,7 +68,7 @@ hr.dashed {
     <div class="item2">
         Dr Ke Li<br>
         UKRI FLF | Turing Fellow<br>
-        Senior Lecturer<br>
+        Reader in Computer Science<br>
         Department of Computer Science<br>
         University of Exeter<br>
         <a href="/CV-KL.pdf"><i class="ai ai-cv ai-lg"></i></a> <a href="https://scholar.google.co.uk/citations?user=lUFU8KsAAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i></a> <a href="https://dblp.uni-trier.de/pers/hd/l/Li_0001:Ke"><i class="ai ai-dblp ai-lg"></i></a> <a href="https://orcid.org/0000-0001-7200-4244"><i class="ai ai-orcid ai-lg"></i></a> <a href="https://www.researchgate.net/profile/Ke_Li18"><i class="ai ai-researchgate ai-lg"></i> <a href="https://arxiv.org/a/li_k_3.html"><i class="ai ai-arxiv ai-lg"></i></a>
