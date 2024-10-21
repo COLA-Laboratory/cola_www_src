@@ -225,19 +225,19 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
 {{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
 
-- A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3307244](https://ieeexplore.ieee.org/document/10225543)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiCY23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DETO) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY23');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
-{{< ShowBibtex file="/content/bib/LiCY23.bib" id="LiCY23" >}}
-
 ---
 
 ## 2024
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
+IEEE Trans. Evolutionary Computation (TEVC), 28(15): 1396--1411, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3307244](https://ieeexplore.ieee.org/document/10225543)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiCY23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DETO) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
+{{< ShowBibtex file="/content/bib/LiCY23.bib" id="LiCY23" >}}
 
 - A Many-Objective Evolutionary Algorithm Based on Interaction Force and Hybrid Optimization Mechanism<br>
 Lei Yang+, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
