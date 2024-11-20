@@ -144,19 +144,19 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/d3uybdmijif8dpx/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_4');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiMC22.bib" id="to_appear_4" >}}
 
-- Decomposition Multi-Objective Evolutionary Optimization: From State-of-the-Art to Future Opportunities<br>
-**<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2108.09588 | <i class='fa fa-calendar' style='font-size:16px'></i> August 2021<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/k6xom2n0smsmzr9/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_5');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/Li22.bib" id="to_appear_5" >}}
-
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
+Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD 2025)](https://kdd2025.kdd.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
+
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
 **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3496507](https://ieeexplore.ieee.org/document/10750458)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
@@ -167,28 +167,13 @@ Nature Machine Intelligence<br>
 
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
 Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)<br>
+Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://neurips.cc/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
-
-- MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2024.3443396](https://ieeexplore.ieee.org/abstract/document/10644136)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- TransOPT: Transfer Optimization System for Black-box Optimization<br>
-Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM 2024)](https://cikm2024.org/) Demo Paper track<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
@@ -277,6 +262,21 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLLT23.txt" id="abstract_ChenLLT23" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
+Heng Yang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- TransOPT: Transfer Optimization System for Black-box Optimization<br>
+Peili Mao+, **<ins>Ke Li</ins>**<br>
+Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM 2024)](https://cikm2024.org/) Demo Paper track<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
 Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>

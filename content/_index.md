@@ -28,6 +28,11 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Nov" >}}
+* Our paper "On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study" has been accepted to [KDD 2025](https://kdd2025.kdd.org/). This work developed tools to systematically understand the black box of the highly complex loss landscapes of hyperparameter optimization. There are several works underway in our lab along this line. Very well done, Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> October 18
+
+{{< /tab >}}
+
 {{< tab "Oct" >}}
 
 * My single author paper "A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future" has been accepted to IEEE Transactions on Evolutionary Computation. I see this as my 15 years' early-career summary in the evolutionary multi-objective optimization domain, where I got my fame there. My lab has been marching towards several new interesting grand challenges for creating a better world in future. Nevertheless, deep down, I am a computational optimization scientist no matter what other areas I will be. Finally, I would like to appreciate my students who helped me to prepare this long survey article, including Mingyu, An, and Peili. <i class='fa fa-calendar' style='font-size:19px'></i> October 21
