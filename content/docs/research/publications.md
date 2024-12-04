@@ -170,12 +170,6 @@ Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://neurips.cc/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
 
-- Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
-Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Cybernetics (TCYB)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2024.3443396](https://ieeexplore.ieee.org/abstract/document/10644136)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
@@ -202,23 +196,29 @@ IEEE Trans. Software Engineering (TSE)<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
 
-- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
-Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3319009](https://ieeexplore.ieee.org/document/10268021)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_TanabeL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
-{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
-
 ---
 
 ## 2024
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
+- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
+Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC), 28(6): 1575--1589, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3319009](https://ieeexplore.ieee.org/document/10268021)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_TanabeL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
+{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
+
+- Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
+Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Cybernetics (TCYB), 52(12): 7430--7442, 2024<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCYB.2024.3443396](https://ieeexplore.ieee.org/abstract/document/10644136)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
 **<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
-IEEE Trans. Evolutionary Computation (TEVC), 28(15): 1396--1411, 2024<br>
+IEEE Trans. Evolutionary Computation (TEVC), 28(5): 1396--1411, 2024<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3307244](https://ieeexplore.ieee.org/document/10225543)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiCY23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_deto) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DETO) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiCY23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiCY23.txt" id="abstract_LiCY23" >}}
