@@ -28,6 +28,12 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
+
+{{< tab "Dec" >}}
+* Our paper "Bridging Sequence-Structure Alignment in RNA Foundation Models" has been accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). This work developed a new RNA foundation model with 185M parameters. This model has achieved the state-of-the-art performance in predicting RNA secondary structures and RNA functions. Furthermore, this model also facilitate RNA design. There are several works underway in our lab along this line. Very well done, Heng! <i class='fa fa-calendar' style='font-size:19px'></i> December 10
+
+{{< /tab >}}
+
 {{< tab "Nov" >}}
 * Our paper "On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study" has been accepted to [KDD 2025](https://kdd2025.kdd.org/). This work developed tools to systematically understand the black box of the highly complex loss landscapes of hyperparameter optimization. There are several works underway in our lab along this line. Very well done, Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> October 18
 
