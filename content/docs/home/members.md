@@ -100,10 +100,10 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
-        Hong Sun<br>
+        Shiting Wang<br>
         PhD Student<br>
         2024 - present<br>
-        <em>Interests</em>: EMO, preference learning
+        <em>Interests</em>: AI4Science
     </div>
     <div class="item3">
         <img src="/media/default.jpeg" width="120px", height="130px">
