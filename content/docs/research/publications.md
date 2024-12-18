@@ -164,12 +164,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3496507](https://ieeexplore.ieee.org/document/10750458)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
-Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
-<i class="ai ai-biorxiv ai-lg"></i> [biArXiv 2024.06.24.600509](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.abstract)<br>
-Nature Machine Intelligence<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.full.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
 Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://neurips.cc/)<br>
@@ -206,6 +200,12 @@ IEEE Trans. Software Engineering (TSE)<br>
 ## 2024
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
+
+- An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
+Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
+<i class="ai ai-springer ai-lg"></i> [10.1038/s42256-024-00946-z](https://www.nature.com/articles/s42256-024-00946-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241218&utm_content=10.1038/s42256-024-00946-z)<br>
+Nature Machine Intelligence (NMI), 6: 1616--1625, 2024<br>
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.full.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>

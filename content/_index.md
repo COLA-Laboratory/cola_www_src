@@ -28,8 +28,10 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tabs "uniqueid" >}}
 
-
 {{< tab "Dec" >}}
+
+* I have been invited to serve as an Area Chair of the ACL ARR December round. <i class='fa fa-calendar' style='font-size:19px'></i> December 18
+
 * Our paper "Bridging Sequence-Structure Alignment in RNA Foundation Models" has been accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). This work developed a new RNA foundation model with 185M parameters. This model has achieved the state-of-the-art performance in predicting RNA secondary structures and RNA functions. Furthermore, this model also facilitate RNA design. There are several works underway in our lab along this line. Very well done, Heng! <i class='fa fa-calendar' style='font-size:19px'></i> December 10
 
 {{< /tab >}}
