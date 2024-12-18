@@ -109,10 +109,10 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
-        Jack Cole<br>
+        Yingjie Zou<br>
         PhD Student<br>
         2024 - present<br>
-        <em>Interests</em>: AI4Science
+        <em>Interests</em>: AutoML for energy
     </div>
 </div>
 
