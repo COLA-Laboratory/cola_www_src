@@ -150,12 +150,12 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 - Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective<br>
 Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025)<br>
+Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA 2025)](https://conf.researchr.org/home/issta-2025)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
 Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/)<br>
+Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.4%
 
 - On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
