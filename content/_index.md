@@ -30,6 +30,8 @@ I have been working on the update of this website, though it has been a bit slow
 
 {{< tab "Dec" >}}
 
+* Our paper "Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective" has been accepted to [ISSTA 2025](https://aaai.org/conference/aaai/aaai-25/). This is another line of our hardcore endeavour towards fitness landscape analysis for highly complex black-box systems. Our KDD 2025 work is about the machine learning system, while this work is about configurable software systems. This is a really intriguing area and we are moving towards building a software platform to facilitate and scale up such analysis to any black-boxes, such as biological systems where the fitness landscapes are from. Note that we ranked as the top 4% (23 out of 553 submissions) papers that are accepted in the first round. Very well done, Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> December 19
+
 * I have been invited to serve as an Area Chair of the ACL ARR December round. <i class='fa fa-calendar' style='font-size:19px'></i> December 18
 
 * Our paper "Bridging Sequence-Structure Alignment in RNA Foundation Models" has been accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). This work developed a new RNA foundation model with 185M parameters. This model has achieved the state-of-the-art performance in predicting RNA secondary structures and RNA functions. Furthermore, this model also facilitate RNA design. There are several works underway in our lab along this line. Very well done, Heng! <i class='fa fa-calendar' style='font-size:19px'></i> December 10
