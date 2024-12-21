@@ -117,11 +117,6 @@ Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2402.09638 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Unlocking the Secrets of Software Configuration Landscapes-Ruggedness, Accessibility, Escapability, and Transferability<br>
-Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2201.01429 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_lonviz.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lonviz.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
 **<ins>Ke Li</ins>**, Han Guo+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.02160 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
@@ -137,12 +132,6 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2106.14727 | <i class='fa fa-calendar' style='font-size:16px'></i> March 2023<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/csctus6huc7cwl4/main.pdf?dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/s/urodeyvfdru6807/supp.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('BillingsleyLMG23');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/BillingsleyLMG23.bib" id="BillingsleyLMG23" >}}
-
-- LONViZ: Unboxing the Black-Box of Configurable Software Systems from a Complex Networks Perspective<br>
-**<ins>Ke Li</ins>**, Peili Mao+, Tao Chen<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2201.01429 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2022<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/s/d3uybdmijif8dpx/main.pdf?dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('to_appear_4');">`BiB`</a>
-{{< ShowBibtex file="/content/bib/LiMC22.bib" id="to_appear_4" >}}
 
 ---
 
