@@ -139,17 +139,17 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 - Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective<br>
 Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA 2025)](https://conf.researchr.org/home/issta-2025)<br>
+Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
 Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)<br>
+Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.4%
 
 - On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD 2025)](https://kdd2025.kdd.org/)<br>
+Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
 
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
@@ -160,7 +160,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
 Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://neurips.cc/)<br>
+Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
@@ -264,17 +264,17 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
 
 - MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
-Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
+Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 16.9%
 
 - The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)<br>
+Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 20.8%
 
 - OpenTOS: Open-source System for Transfer Learning Bayesian Optimization<br>
 Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM 2024)](https://cikm2024.org/) Demo Paper track<br>
+Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM'24)](https://cikm2024.org/) Demo Paper track<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 43.2%
 
 - RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
