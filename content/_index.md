@@ -30,6 +30,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jan" >}}
 
+- Our paper "Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization" has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). This work developed a predictive modeling tool to prioritize the test case generation for detecting configuration performance bugs, where some configuration options to unexpectedly degrade performance which deviates from their original expectations designed by the developers. This is a very interesting problem when tackling highly complex configurable software systems. Very well done, Youpeng!  Jan 19
+
 - There is an interdisciplinary PhD studentship opportunity (**for both UK and international students**) in my group with a collaboration with GE Healthcare. In this project, we will explore and design exciting explainable AI agentic framework for early diagnosis of Parkinson's disease. Please see the outline information as follows. Please contact with me if you are interested in this opportunity. The application deadline is **February 10, 2025**.
 
 {{< /tab >}}
