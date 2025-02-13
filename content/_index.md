@@ -28,9 +28,15 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Feb" >}}
+
+- Our paper "Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization" has been conditionally accepted to IEEE Transactions on Control Systems Technology after minor corrections. In this work, we developed a theoretical framework for safe control problems from the perspective of optimization. This is a very important line of research that may set a new direction for optimization in real-world scenarios. Very well done, Shengbo! <i class='fa fa-calendar' style='font-size:19px'></i> Feb 13
+
+{{< /tab >}}
+
 {{< tab "Jan" >}}
 
-- Our paper "Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization" has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). This work developed a predictive modeling tool to prioritize the test case generation for detecting configuration performance bugs, where some configuration options to unexpectedly degrade performance which deviates from their original expectations designed by the developers. This is a very interesting problem when tackling highly complex configurable software systems. Very well done, Youpeng!  Jan 19
+- Our paper "Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization" has been accepted to [ICSE 2025](https://conf.researchr.org/home/icse-2025). This work developed a predictive modeling tool to prioritize the test case generation for detecting configuration performance bugs, where some configuration options to unexpectedly degrade performance which deviates from their original expectations designed by the developers. This is a very interesting problem when tackling highly complex configurable software systems. Very well done, Youpeng! <i class='fa fa-calendar' style='font-size:19px'></i> Jan 19
 
 - There is an interdisciplinary PhD studentship opportunity (**for both UK and international students**) in my group with a collaboration with GE Healthcare. In this project, we will explore and design exciting explainable AI agentic framework for early diagnosis of Parkinson's disease. Please see the outline information as follows. Please contact with me if you are interested in this opportunity. The application deadline is **February 10, 2025**.
 

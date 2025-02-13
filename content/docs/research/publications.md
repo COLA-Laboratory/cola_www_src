@@ -137,6 +137,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
+Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
+IEEE Trans. Control Systems Technology<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization<br>
 Youpeng Ma+, Tao Chen, **<ins>Ke Li</ins>**<br>
 Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](Jconf.researchr.org/home/icse-2025)<br>
