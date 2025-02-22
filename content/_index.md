@@ -17,14 +17,10 @@ bookToc: false
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory has contributed the fundamental development of computational/artificial intelligence (CI/AI) for black-box optimization and decision-making (especially with multiple conflicting objectives), as well as applications in life sciences (including bioscience and healthcare) and software engineering. In particular, we have been enthusiastic about broad AI+X (integrating AI with application domains denoted by "X" to enhance, innovate, or transform the domain).
 
 {{< hint info >}}
-There is an interdisciplinary PhD studentship opportunity (**for both UK and international students**) in my group with a collaboration with GE Healthcare. Please do contact me about more detail. The application deadline is **February 10, 2025**.
-{{< /hint >}}
-
-{{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
 
-## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2024)
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2025)
 
 {{< tabs "uniqueid" >}}
 
