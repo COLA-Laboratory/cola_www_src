@@ -24,6 +24,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Mar" >}}
+
+- Congratulations to our recent Royal Society Award for the International Exchange 2024 Global Round 3. We were previously informed to be in the reserve list, but finally get funded! Looking forward to build networks with Prof. Yew-Soon Ong in the Nanyang Technological University in the next two years. <i class='fa fa-calendar' style='font-size:19px'></i> Mar 28 
+
+{{< /tab >}}
+
 {{< tab "Feb" >}}
 
 - Our paper "Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization" has been conditionally accepted to IEEE Transactions on Control Systems Technology after minor corrections. In this work, we developed a theoretical framework for safe control problems from the perspective of optimization. This is a very important line of research that may set a new direction for optimization in real-world scenarios. Very well done, Shengbo! <i class='fa fa-calendar' style='font-size:19px'></i> Feb 13

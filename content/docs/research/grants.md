@@ -37,8 +37,16 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Towards Scalable Data-Driven Multi-Objective Surrogate Modelling and Transfer Optimisation<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society International Exchanges 2024 Global Round 3 | <i class='fa fa-qrcode' style='font-size:18px'></i> #IES/R3/243136 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,970 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2027.
+---
+
+- AI-Based Support for Mental Health Communication<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> MRC | <i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I | <i class='fa fa-money' style='font-size:18px'></i> &pound;124,137 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2028.
+---
+
 - Knowledge-Driven Evolutionary Multi-Objective Search for Automated Software Configuration Tuning<br>
-<i class='fa fa-balance-scale' style='font-size:18px'></i> Kan Tong Po Fellowship 2023 | <i class='fa fa-qrcode' style='font-size:18px'></i> #KTP\R1\231017 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;3,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2024.
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Kan Tong Po Fellowship 2023 | <i class='fa fa-qrcode' style='font-size:18px'></i> #KTP/R1/231017 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;3,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2024.
 ---
 
 - EASY-CROSS: Secure and Modular Border Control Platform Supporting Handheld Biometric Scanning Devices for Verifying Travellers Crossing EU Land and Sea Borders<br>
@@ -53,7 +61,11 @@ We are grateful to have been generously supported by or closely working with the
 <i class='fa fa-balance-scale' style='font-size:18px'></i> UKRI Future Leaders Fellowship <br>
 Phase 2: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/X011135/1]() | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;743,285 (**<ins>prima facie case</ins>**) | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2023--2026.<br>
 Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](https://gtr.ukri.org/projects?ref=MR%2FS017062%2F1) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;1,370,803 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2019--2023.
----
+
+{{< /tab >}}
+
+{{< tab "Finished" >}}
+
 - Evolutionary Multi-Objective Search for Automating CNN Architecture Design<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society | <i class='fa fa-qrcode' style='font-size:18px'></i> #IES\R2\212077 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;11,815 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2023.
 ---
@@ -65,10 +77,6 @@ Phase 1: <i class='fa fa-qrcode' style='font-size:18px'></i> [#MR/S017062/1](htt
 ---
 - Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> EPSRC DTP Doctoral Prize | <i class='fa fa-qrcode' style='font-size:18px'></i> [#2404317](https://gtr.ukri.org/projects?ref=studentship-2404317) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;74,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2020--2024.
-
-{{< /tab >}}
-
-{{< tab "Finished" >}}
 
 - Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> [Amazon Research Award](https://www.amazon.science/research-awards/recipients/ke-li-2020) | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> $80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2021--2022.
