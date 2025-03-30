@@ -81,13 +81,13 @@ hr.dashed {
 
 <div class="grid-container">
     <div class="item1">
-        <img src="/media/FL.jpeg" width="120px", height="130px">
+        <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Fan Li<br>
+        Dr Jiangtao Shen<br>
         Research Fellow<br>
-        04/2021 – present<br>
-        <em>Interests</em>: MFO, TL, MTL, EMO
+        04/2025 – present<br>
+        <em>Interests</em>: PINNs, MFO
     </div>
 </div>
 
@@ -166,7 +166,7 @@ hr.dashed {
         Heng Yang<br>
         PhD Student<br>
         2021 – present<br>
-        <em>Interests</em>: NLP, SE, Code naturalness
+        <em>Interests</em>: AI4Science, NLP
     </div>
     <div class="item1">
         <img src="/media/JQ.jpeg" width="120px", height="130px">
@@ -175,7 +175,7 @@ hr.dashed {
         Jiancheng Qian<br>
         PhD Student<br>
         2020 – present<br>
-        <em>Interests</em>: NLP, SE, Code naturalness
+        <em>Interests</em>: NLP, Code naturalness
     </div>
 </div>
 
@@ -209,15 +209,6 @@ hr.dashed {
         PhD Student<br>
         2018 - present<br>
         <em>Interests</em>: EMO, BO, reliability
-    </div>
-    <div class="item3">
-        <img src="/media/DW.png" width="120px", height="130px">
-    </div>
-    <div class="item4">
-        Dongya Wang<br>
-        PhD Student<br>
-        2018 - present<br>
-        <em>Interests</em>: EMO, CO
     </div>
 </div>
 
@@ -260,9 +251,13 @@ hr.dashed {
 
 {{< tab "Postdocs" >}}
 
+- Dr Fan Li
+    - 04/2021 -- 03/2025, University of Exeter
+    - Job: Associate Professor in Hunan University
+
 - Dr Jiangjiao Xu
-    - 01/07/2020 - 01/11/2022, University of Exeter
-    - Job: Zhongneng Integrated Smart Energy Technology Co. Ltd. Beijing, China -> Shanghai Electric University
+    - 01/07/2020 -- 01/11/2022, University of Exeter
+    - Job: Zhongneng Integrated Smart Energy Technology Co. Ltd. Beijing, China -> Assistant Professor in Shanghai Electric University
 
 - Dr Xinqi Li
     - 01/11/2021 -- 01/08/2022, University of Exeter
