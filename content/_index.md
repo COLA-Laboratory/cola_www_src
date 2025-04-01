@@ -24,9 +24,25 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Apr" >}}
+
+- Our proposal for organizing a competition on genomics foundation models associated with [ECML/PKDD 2025](https://ecmlpkdd.org/2025/) has been accepted. We are thrilled to organize this dedicated competition on AI for biology in a top-tier conference. Please help populate this event to your colleagues who are also working on this domain. Looking forward to your submissions. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
+
+- Our proposal for organizing EMO 2027 at Exeter has been approved! EMO is a dedicated and flagship conference in the evolutionary multi-objective optimization community. It has been over 14 years since its last showcase in Sheffield (I was still a PhD student at that time). Looking forward to your submissions and seeing you in beautiful Exeter then! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
+
+- Our recent paper on "Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection" has been accepted to IEEE Transactions on Instrumentation & Measurement. Congratulations to Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
+
+- Congratulations to our recent Royal Society Award has been confirmed. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
+
+{{< /tab >}}
+
 {{< tab "Mar" >}}
 
+- Our proposal to organize a competition on genomics foundation models associated with [ECML/PKDD 2025](https://ecmlpkdd.org/2025/) has been accepted. We are thrilled to organize this dedicated competition on AI for biology in a top-tier conference. Please help populate this event to your colleagues who are also working on this domain. Looking forward to your submissions. <i class='fa fa-calendar' style='font-size:19px'></i> Mar 31
+
 - Congratulations to our recent Royal Society Award for the International Exchange 2024 Global Round 3. We were previously informed to be in the reserve list, but finally get funded! Looking forward to build networks with Prof. Yew-Soon Ong in the Nanyang Technological University in the next two years. <i class='fa fa-calendar' style='font-size:19px'></i> Mar 28 
+
+- Our recent paper on "FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models" has been accepted to [ICME 2025](https://2025.ieeeicme.org/). Congratulations to Xiaotian! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 21
 
 {{< /tab >}}
 
