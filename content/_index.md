@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+- Congratulations to our recent MSCA Doctoral Networks 2024 proposal has been awarded! Glad to join the amazing team to build this multi-million consortium for doctoral training in a critical field of safety for Internet of Energy. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 2
+
 - Our proposal for organizing a competition on genomics foundation models associated with [ECML/PKDD 2025](https://ecmlpkdd.org/2025/) has been accepted. We are thrilled to organize this dedicated competition on AI for biology in a top-tier conference. Please help populate this event to your colleagues who are also working on this domain. Looking forward to your submissions. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
 
 - Our proposal for organizing EMO 2027 at Exeter has been approved! EMO is a dedicated and flagship conference in the evolutionary multi-objective optimization community. It has been over 14 years since its last showcase in Sheffield (I was still a PhD student at that time). Looking forward to your submissions and seeing you in beautiful Exeter then! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
