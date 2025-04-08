@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+- Glad to share a good news that my nomination to the ACM Senior Member category has been approved the ACM Award Committee today. This is a prestigious award for recognizing scientists who have significant contributions to the computing domain. I would like to thank all my students, postdocs, and collaborators who worked with me in the past several years! Looking forward to working you all for more fun reseach. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 8
+
 - Congratulations to our recent MSCA Doctoral Networks 2024 proposal has been awarded! Glad to join the amazing team to build this multi-million consortium for doctoral training in a critical field of safety for Internet of Energy. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 2
 
 - Our proposal for organizing a competition on genomics foundation models associated with [ECML/PKDD 2025](https://ecmlpkdd.org/2025/) has been accepted. We are thrilled to organize this dedicated competition on AI for biology in a top-tier conference. Please help populate this event to your colleagues who are also working on this domain. Looking forward to your submissions. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 1
