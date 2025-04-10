@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+- Congratulations to Tianmeng who has been awarded the EPSRC DLA PhD studentship. This is a highly competitive scheme where only 15 studentships will be awarded and the amount of international students is limited to at most 30% (i.e., only international 4 studentship will be awarded across the entire university). We are very welcoming Tianmeng to land in Exeter this fall! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 9
+
 - Glad to share a good news that my nomination to the ACM Senior Member category has been approved the ACM Award Committee today. This is a prestigious award for recognizing scientists who have significant contributions to the computing domain. I would like to thank all my students, postdocs, and collaborators who worked with me in the past several years! Looking forward to working you all for more fun reseach. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 8
 
 - Congratulations to our recent MSCA Doctoral Networks 2024 proposal has been awarded! Glad to join the amazing team to build this multi-million consortium for doctoral training in a critical field of safety for Internet of Energy. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 2
