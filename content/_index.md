@@ -16,6 +16,10 @@ bookToc: false
 
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory has contributed the fundamental development of computational/artificial intelligence (CI/AI) for black-box optimization and decision-making (especially with multiple conflicting objectives), as well as applications in life sciences (including bioscience and healthcare) and software engineering. In particular, we have been enthusiastic about broad AI+X (integrating AI with application domains denoted by "X" to enhance, innovate, or transform the domain).
 
+{{< hint danger >}}
+We are delighted to organize an ECML/PKDD 2025 Discovery Challenge on Foundation Models for Genomic Modeling and Understanding. The deadline is at the end of June. More details about this competition and guideline for participation can be found from this [website](https://www.codabench.org/competitions/6930/).
+{{< /hint >}}
+
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
