@@ -37,6 +37,10 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> BBSRC 2024 Transformative Research Technologies | <i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;194,564 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2027.
+---
+
 - SAILING: Secure AI and Digital Twin Empowered Smart Internet-of-Energy<br>
 <i class='fa fa-balance-scale' style='font-size:18px'></i> MSCA Doctoral Networks 2024 | <i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> Co-I | <i class='fa fa-money' style='font-size:18px'></i> &pound;836,971.5 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2026--2029.
 ---

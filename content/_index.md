@@ -30,6 +30,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+- Our recent BBSRC Transformative Research Technology 2024 proposal "Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology" has been approved for funding! This is a highly competitive scheme with less than 10% success rate. Looking forward to kicking start this project soon while you will see the world first conversational XAI agent for biology. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 29
+
 - Congratulations to Mingyu, Shasha, and Yuxuan whose paper on "Conversational Exploration of Literature Landscape with LitChat" has been accepted to IJCAI 2025 Demo track. We will push forward this in the next couple of months to further consolidate the results and impacts. Congratulations once again, well done! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 29
 
 - Congratulations to Shengbo whose recent paper on “Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization” has been accepted to IEEE Transactions on Control Systems Technology. In this paper, Shengbo developed a new theoretical framework for safety-critical control and connect that within Bayesian optimization. Very nice piece of work and it should be insightful for many follow-up works. Congratulations once again and very well done. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 11
