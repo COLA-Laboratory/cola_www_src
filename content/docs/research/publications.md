@@ -137,6 +137,12 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Conversational Exploration of Literature Landscape with LitChat<br>
+Mingyu Huang+, Shasha Zhou+, Yuxuan Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 34th International Joint Conference on Artificial Intelligence [(IJCAI'25)](https://2025.ijcai.org/)<br>
+Demo Paper Track<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
 IEEE Trans. Control Systems Technology<br>

@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Apr" >}}
 
+- Congratulations to Mingyu, Shasha, and Yuxuan whose paper on "Conversational Exploration of Literature Landscape with LitChat" has been accepted to IJCAI 2025 Demo track. We will push forward this in the next couple of months to further consolidate the results and impacts. Congratulations once again, well done! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 29
+
 - Congratulations to Shengbo whose recent paper on “Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization” has been accepted to IEEE Transactions on Control Systems Technology. In this paper, Shengbo developed a new theoretical framework for safety-critical control and connect that within Bayesian optimization. Very nice piece of work and it should be insightful for many follow-up works. Congratulations once again and very well done. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 11
 
 - Congratulations to Tianmeng who has been awarded the EPSRC DLA PhD studentship. This is a highly competitive scheme where only 15 studentships will be awarded and the amount of international students is limited to at most 30% (i.e., only international 4 studentship will be awarded across the entire university). We are very welcoming Tianmeng to land in Exeter this fall! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 9
