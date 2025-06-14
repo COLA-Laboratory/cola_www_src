@@ -28,6 +28,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Jun" >}}
+
+- Congratulations to Jiaxin whose paper on "MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction" has been accepted to IEEE Transactions on Software Engineering. In this paper, Jiaxin has extended my previous ASE 2020 paper from single-objective bilevel optimization format to a multi-objective bilevel optimization setup. This is another step of our group's automated machine learning from the perspective of bilevel optimization. Very well done, Jiaxin! <i class='fa fa-calendar' style='font-size:19px'></i> Jun 5
+
+{{< /tab >}}
+
 {{< tab "Apr" >}}
 
 - Our recent BBSRC Transformative Research Technology 2024 proposal "Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology" has been approved for funding! This is a highly competitive scheme with less than 10% success rate. Looking forward to kicking start this project soon while you will see the world first conversational XAI agent for biology. <i class='fa fa-calendar' style='font-size:19px'></i> Apr 29

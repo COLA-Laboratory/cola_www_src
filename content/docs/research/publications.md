@@ -137,6 +137,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction<br>
+Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Software Engineering (TSE)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Conversational Exploration of Literature Landscape with LitChat<br>
 Mingyu Huang+, Shasha Zhou+, Yuxuan Chen+, **<ins>Ke Li</ins>**<br>
 Proc. of the 34th International Joint Conference on Artificial Intelligence [(IJCAI'25)](https://2025.ijcai.org/)<br>
@@ -145,12 +150,13 @@ Demo Paper Track<br>
 
 - Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
-IEEE Trans. Control Systems Technology<br>
+IEEE Trans. Control Systems Technology (TCST)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection<br>
 Jiangjiao Xu+, Haiyu liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Instrumentation and Measurement<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TIM.2025.3568984](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11000342)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models<br>
@@ -168,26 +174,11 @@ Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
 Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
-Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.4%
-
-- On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
-Mingyu Huang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
-
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
 **<ins>Ke Li</ins>**<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3496507](https://ieeexplore.ieee.org/document/10750458)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
-Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
@@ -214,6 +205,23 @@ IEEE Trans. Software Engineering (TSE)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
+
+---
+
+## 2025
+
+
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
+Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
+Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/), 39(20): 21929--21937, Philadelphia, PA, USA, February 25--March 4, 2025<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.4%
+
+- On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
+Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/), p. 555--564, Toronto, ON, Canada, August 3--7, 2025<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
 
 ---
 
@@ -287,6 +295,11 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_ChenLLT23.txt" id="abstract_ChenLLT23" >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
+Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
 
 - MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
@@ -1122,7 +1135,7 @@ IEEE Trans. Cybernetics (TCYB). 44(8): 1295--1313, 2014.<br>
 
 - An Indicator-based Selection Multi-Objective Evolutionary Algorithm with Preference for Multi-Class Ensemble<br>
 Jingjing Cao, Sam Kwong, Ran Wang, **<ins>Ke Li</ins>**<br>
-Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICMLC’12), IEEE Press: p. 147--152, July 2014.<br>
+Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICMLC’14), IEEE Press: p. 147--152, July 2014.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/ICMLC.2014.7009108](https://doi.org/10.1109/ICMLC.2014.7009108)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/CaoKWL14.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2014_5');">`BiB`</a>
 <pre class="bibtexpre" id="pub_2014_5" style="display: none;">
@@ -1157,8 +1170,6 @@ Information Sciences (INS), 226: 1--22, 2013.<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ins.2012.11.002](https://www.sciencedirect.com/science/article/pii/S0020025512007463?via%3Dihub)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiKWTM13.pdf) | <i class='fa fa-file-code-o' aria-hidden='true' style='font-size:16px'></i> [`Code`](/codes/JGBL.zip) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('pub_2013_1');">`BiB`</a>
 {{< ShowBibtex file="/content/bib/LiKWTM13.bib" id="pub_2013_1" >}}
-
-### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Evolving Extreme Learning Machine Paradigm with Adaptive Operator Selection and Parameter Control<br>
 **<ins>Ke Li</ins>**, Ran Wang, Sam Kwong, Jingjing Cao<br>
