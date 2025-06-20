@@ -30,6 +30,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jun" >}}
 
+- Our recent paper on "Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems" has been accepted to IEEE Transactions on Computational Social Systems. Congratulations to Siwei and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 20
+
 - Congratulations to Jiaxin whose paper on "MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction" has been accepted to IEEE Transactions on Software Engineering. In this paper, Jiaxin has extended my previous ASE 2020 paper from single-objective bilevel optimization format to a multi-objective bilevel optimization setup. This is another step of our group's automated machine learning from the perspective of bilevel optimization. Very well done, Jiaxin! <i class='fa fa-calendar' style='font-size:19px'></i> Jun 5
 
 {{< /tab >}}

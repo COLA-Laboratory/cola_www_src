@@ -137,6 +137,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
+Siwei Zheng+, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
+IEEE Transactions on Computational Social Systems (TCSS)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction<br>
 Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Software Engineering (TSE)<br>
