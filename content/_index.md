@@ -28,6 +28,12 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Jul" >}}
+
+-  Our proposal on Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson’s Disease has been approved for funding by an EPSRC-IAA Impact Visionary Award. This is a new line of research in our group working on LLMs for healthcare. There are many other collaboration opportunitie with healthcare industry and NHS stakeholders. <i class='fa fa-calendar' style='font-size:19px'></i> Jul 21
+
+{{< /tab >}}
+
 {{< tab "Jun" >}}
 
 - Our recent paper on "Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems" has been accepted to IEEE Transactions on Computational Social Systems. Congratulations to Siwei and collaborators. <i class='fa fa-calendar' style='font-size:19px'></i> Jun 20
