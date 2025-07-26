@@ -16,10 +16,6 @@ bookToc: false
 
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory has contributed the fundamental development of computational/artificial intelligence (CI/AI) for black-box optimization and decision-making (especially with multiple conflicting objectives), as well as applications in life sciences (including bioscience and healthcare) and software engineering. In particular, we have been enthusiastic about broad AI+X (integrating AI with application domains denoted by "X" to enhance, innovate, or transform the domain).
 
-{{< hint danger >}}
-We are delighted to organize an ECML/PKDD 2025 Discovery Challenge on Foundation Models for Genomic Modeling and Understanding. The deadline is at the end of June. More details about this competition and guideline for participation can be found from this [website](https://www.codabench.org/competitions/6930/).
-{{< /hint >}}
-
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
@@ -29,6 +25,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 {{< tabs "uniqueid" >}}
 
 {{< tab "Jul" >}}
+
+- As a Co-PI, I am honored to be in the team of a Faraday Discovery Fellowship led by Prof. Yiliang Ding at the John Innes Centre. This is a massive &pound;8 million investment in unveiling the RNA language in nature. My lab has been collaborating with Yiliang since 2020. Both of us know how hard it is to carry out such highly interdisciplinary research. Looking forward to rock the field with an ambitious AI for RNA biology in the next 10 years. Congratulations once again to Yiliang and the team! <i class='fa fa-calendar' style='font-size:19px'></i> Jul 25
 
 -  Our proposal on Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson’s Disease has been approved for funding by an EPSRC-IAA Impact Visionary Award. This is a new line of research in our group working on LLMs for healthcare. There are many other collaboration opportunitie with healthcare industry and NHS stakeholders. <i class='fa fa-calendar' style='font-size:19px'></i> Jul 21
 

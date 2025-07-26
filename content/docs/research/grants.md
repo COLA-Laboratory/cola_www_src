@@ -37,8 +37,12 @@ We are grateful to have been generously supported by or closely working with the
 {{< tabs "uniqueid" >}}
 {{< tab "Ongoing" >}}
 
+- Deciphering the RNA Language in Nature<br>
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society Faraday Discovery Fellowship | <i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> Co-PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;8,000,000 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2035.
+---
+
 - Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology<br>
-<i class='fa fa-balance-scale' style='font-size:18px'></i> BBSRC 2024 Transformative Research Technologies | <i class='fa fa-qrcode' style='font-size:18px'></i> #UKRI1875 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;194,564 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2027.
+<i class='fa fa-balance-scale' style='font-size:18px'></i> BBSRC Transformative Research Technologies | <i class='fa fa-qrcode' style='font-size:18px'></i> #UKRI1875 | <i class='fa fa-street-view' style='font-size:18px'></i> PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;194,564 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2027.
 ---
 
 - Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson's Disease<br>
