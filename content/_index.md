@@ -26,7 +26,7 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jul" >}}
 
-- As a Co-PI, I am honored to be in the team of a Faraday Discovery Fellowship led by Prof. Yiliang Ding at the John Innes Centre. This is a massive &pound;8 million investment in unveiling the RNA language in nature. My lab has been collaborating with Yiliang since 2020. Both of us know how hard it is to carry out such highly interdisciplinary research. Looking forward to rock the field with an ambitious AI for RNA biology in the next 10 years. Congratulations once again to Yiliang and the team! <i class='fa fa-calendar' style='font-size:19px'></i> Jul 25
+- As a Co-PI, I am honored to be in the team of a Faraday Discovery Fellowship led by Prof. Yiliang Ding at the John Innes Centre. This is a massive &pound;8 million investment in unveiling the RNA language in nature. My lab has been collaborating with Yiliang since 2020. Both of us know how hard it is to carry out such highly interdisciplinary research. Looking forward to working with Yiliang on building an truly ambitious AI for RNA biology programme in the next 10 years. Congratulations once again to Yiliang and the team! <i class='fa fa-calendar' style='font-size:19px'></i> Jul 25
 
 -  Our proposal on Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson’s Disease has been approved for funding by an EPSRC-IAA Impact Visionary Award. This is a new line of research in our group working on LLMs for healthcare. There are many other collaboration opportunitie with healthcare industry and NHS stakeholders. <i class='fa fa-calendar' style='font-size:19px'></i> Jul 21
 
