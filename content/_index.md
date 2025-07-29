@@ -26,6 +26,8 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tab "Jul" >}}
 
+- I'm happy to announce that our proposal to host the 2027 IEEE Congress on Evolutionary Computation (CEC), the flagship conference in the field of evolutionary computation and computational intelligence, has been officially approved by the IEEE Computational Intelligence Society. This IEEE CEC 2027 will be located in Edinburgh at the summer of 2027. Looking forward to seeing you guys there and I believe it will be a very interesting event in computational intelligence. <i class='fa fa-calendar' style='font-size:19px'></i> Jul 28
+
 - As a Co-PI, I am honored to be in the team of a Faraday Discovery Fellowship led by Prof. Yiliang Ding at the John Innes Centre. This is a massive &pound;8million investment in unveiling the RNA language in nature. My lab has been collaborating with Yiliang since 2020. Both of us know how hard it is to carry out such highly interdisciplinary research. Looking forward to working with Yiliang on building an truly ambitious AI for RNA biology programme in the next 10 years. Congratulations once again to Yiliang and the team! <i class='fa fa-calendar' style='font-size:19px'></i> Jul 25
 
 -  Our proposal on Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson’s Disease has been approved for funding by an EPSRC-IAA Impact Visionary Award. This is a new line of research in our group working on LLMs for healthcare. There are many other collaboration opportunitie with healthcare industry and NHS stakeholders. <i class='fa fa-calendar' style='font-size:19px'></i> Jul 21
