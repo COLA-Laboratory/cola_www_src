@@ -112,11 +112,6 @@ Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2404.14228 | <i class='fa fa-calendar' style='font-size:16px'></i> April 2024<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/ulipelrt3v5pr3b50jwu4/main.pdf?rlkey=n6xwz4f2gpa11elmrtmgk5a98&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/xz2677tsqcqq7j7f5cyuc/supp.pdf?rlkey=cf65dyn7g0mt5tzivzxoe83vf&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Multi-Fidelity Methods for Optimization: A Survey<br>
-**<ins>Ke Li</ins>**, Fan Li+<br>
-<i class="ai ai-arxiv ai-lg"></i> CoRR abs/2402.09638 | <i class='fa fa-calendar' style='font-size:16px'></i> February 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
 - Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
 **<ins>Ke Li</ins>**, Han Guo+<br>
 <i class="ai ai-arxiv ai-lg"></i> CoRR abs/2401.02160 | <i class='fa fa-calendar' style='font-size:16px'></i> January 2024<br>
@@ -136,6 +131,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ---
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
+
+- Multi-Fidelity Methods for Optimization: A Survey<br>
+**<ins>Ke Li</ins>**, Fan Li+<br>
+ACM Computing Surveys (CSUR)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
 Siwei Zheng+, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
