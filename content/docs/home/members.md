@@ -100,6 +100,27 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item4">
+        Tianmeng Hu<br>
+        PhD Student<br>
+        2025 - present<br>
+        <em>Interests</em>: RL, AI4Science
+    </div>
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
+        Wanli Ma<br>
+        PhD Student<br>
+        2025 - present<br>
+        <em>Interests</em>: AI4Science
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="item3">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item4">
         Shiting Wang<br>
         PhD Student<br>
         2024 - present<br>
