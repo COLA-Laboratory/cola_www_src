@@ -38,7 +38,7 @@ We are grateful to have been generously supported by or closely working with the
 {{< tab "Ongoing" >}}
 
 - Deciphering the RNA Language in Nature<br>
-<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society Faraday Discovery Fellowship | <i class='fa fa-qrcode' style='font-size:18px'></i> #TBD | <i class='fa fa-street-view' style='font-size:18px'></i> Co-PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;7,992,182 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2035.
+<i class='fa fa-balance-scale' style='font-size:18px'></i> Royal Society Faraday Discovery Fellowship | <i class='fa fa-qrcode' style='font-size:18px'></i>  FDF/S2/251014 | <i class='fa fa-street-view' style='font-size:18px'></i> Co-PI | <i class='fa fa-money' style='font-size:18px'></i> &pound;7,992,182 | <i class='fa fa-calendar-o' style='font-size:18px'></i> 2025--2035.
 ---
 
 - Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology<br>
