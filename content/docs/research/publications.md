@@ -133,6 +133,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
+Mingyu Huang+, Shasha Zhou+, **<ins>Ke Li</ins>**<br>
+Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
 ACM Computing Surveys (CSUR)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](../publications/report/report_mfo.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](../supp/supp_mfo.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`

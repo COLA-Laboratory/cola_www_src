@@ -24,6 +24,13 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Sep" >}}
+
+- Our paper on "Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA" has been accepted to NeurIPS 2025 as a spotlight. This is a novel perspective to view performance benchmarking in biological machine learning models. By systematically considering the interplay of fitness landscape features of the biological system, we develop a new framework to benchmark performance beyond accuracy. Congratulations to Mingyu who has been working on the fitness landscape analysis direction for years. Looking forward to generating more interesting results along this line in the coming years. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 18
+
+
+{{< /tab >}}
+
 {{< tab "Jul" >}}
 
 - Our paper on "Multi-Fidelity Methods for Optimization: A Survey" has been accepted to ACM Computing Surveys. Congratulations to Fan who has contributed significantly and supported me in this survey. Multi-fidelity method is a classic optimization paradigm, which has been widely studied and applied in engineering domain, particularly aerodynamics etc. However, my philosophy is everything can be made multi-fidelity while it is pretty much like a problem-solving paradigm. It is super interesting direction to exploit and hopefully we will have new talented students jumping into this field in near future. Congratulations once again to Fan! <i class='fa fa-calendar' style='font-size:19px'></i> Jul 30
