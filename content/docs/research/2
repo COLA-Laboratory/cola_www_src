@@ -146,8 +146,44 @@ ACM Computing Surveys (CSUR)<br>
 - Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
 Siwei Zheng+, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Transactions on Computational Social Systems (TCSS)<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCSS.2025.3582364](https://ieeexplore.ieee.org/document/11081891)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction<br>
+Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Software Engineering (TSE)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Conversational Exploration of Literature Landscape with LitChat<br>
+Mingyu Huang+, Shasha Zhou+, Yuxuan Chen+, **<ins>Ke Li</ins>**<br>
+Proc. of the 34th International Joint Conference on Artificial Intelligence [(IJCAI'25)](https://2025.ijcai.org/)<br>
+Demo Paper Track<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
+Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
+IEEE Trans. Control Systems Technology (TCST)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection<br>
+Jiangjiao Xu+, Haiyu liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Instrumentation and Measurement<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TIM.2025.3568984](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11000342)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models<br>
+Xiaotian Zou+, Yongkang Chen, Qianqian Han, **<ins>Ke Li</ins>**<br>
+Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25)](https://2025.ieeeicme.org/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization<br>
+Youpeng Ma+, Tao Chen, **<ins>Ke Li</ins>**<br>
+Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](Jconf.researchr.org/home/icse-2025)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective<br>
+Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
+Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
 **<ins>Ke Li</ins>**<br>
@@ -155,25 +191,18 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3496507](https://ieeexplore.ieee.org/document/10750458)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
+- Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
+Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Consumer Electronics (TCE)<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCE.2024.3412817](https://ieeexplore.ieee.org/abstract/document/10554553)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+
 ---
 
 ## 2025
 
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
-
-- DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
-**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
-IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2023.3343716](https://ieeexplore.ieee.org/abstract/document/10372386)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
-{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
-{{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
-
-- MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction<br>
-Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Software Engineering (TSE), 51(8): 2305--2328, 2025<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2025.3577808](https://ieeexplore.ieee.org/document/11029502)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
@@ -187,41 +216,16 @@ IEEE Trans. Evolutionary Computation (TEVC), 29(4): 1343--1355, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3391063](https://ieeexplore.ieee.org/document/10504779)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
-- Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
-Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
-IEEE Trans. Control Systems Technology (TCST), 33(5): 1953--1959, 2025<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCST.2025.3561059](https://ieeexplore.ieee.org/document/10982112)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+- DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
+**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
+IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
+<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2023.3343716](https://ieeexplore.ieee.org/abstract/document/10372386)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
+{{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
+{{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
 
-- Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection<br>
-Jiangjiao Xu+, Haiyu liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Instrumentation and Measurement (TIM), 74: 3539813, 2025<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TIM.2025.3568984](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11000342)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
-Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Consumer Electronics (TCE), 71(2): 6469--6476, 2025<br>
-<i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCE.2024.3412817](https://ieeexplore.ieee.org/abstract/document/10554553)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
-
-- Conversational Exploration of Literature Landscape with LitChat<br>
-Mingyu Huang+, Shasha Zhou+, Yuxuan Chen+, **<ins>Ke Li</ins>**<br>
-Proc. of the 34th International Joint Conference on Artificial Intelligence [(IJCAI'25)](https://2025.ijcai.org/)<br>
-Demo Paper Track, p. 11058--11061, August, 2025<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective<br>
-Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
-Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025), ISSTA077: 1748--1771, June, 2025<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
-
-- Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization<br>
-Youpeng Ma+, Tao Chen, **<ins>Ke Li</ins>**<br>
-Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](Jconf.researchr.org/home/icse-2025), p. 988--1000, May, 2025<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
 Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
@@ -232,11 +236,6 @@ Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/), p. 555--564, Toronto, ON, Canada, August 3--7, 2025<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
-
-- FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models<br>
-Xiaotian Zou+, Yongkang Chen, Qianqian Han, **<ins>Ke Li</ins>**<br>
-Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25)](https://2025.ieeeicme.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 ---
 

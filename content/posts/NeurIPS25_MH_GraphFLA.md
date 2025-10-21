@@ -1,58 +1,33 @@
-
 ---
-title: "Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA"
-date: 2025-09-21
-draft: false
-description: "AutoVLA integrates chain-of-thought reasoning and physical action tokenization to directly generate planning trajectories through a unified autoregressive process, dynamically switching dual-thinking modes."
-tags: ["Autonomous Driving", "VLA", "LLM", "Reinforcement Learning", "Planning"]
-author: ["Mingyu Huang", "Shasha Zhou", "Ke Li†"]
+author: "Mingyu Huang"
+date: 2025-10-21
+linktitle: Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA
+tags: "paper"
+categories: "COLALab Papers"
+menu:
+  main:
+    parent: tutorials
+next: /tutorials/github-pages-blog
+prev: /tutorials/automated-deployments
+title: Evaluation beyond accuracy
+weight: 10
 bookToc: false
 ---
 
-<style>
-.page-wrap {max-width: 1000px;margin: 0 auto;padding: 2rem 1.25rem; font-size: 1.05rem;}
-h1, h2, h3 {text-align: center;}
-.authors, .affiliation, .notes {text-align: center;}
-.authors {margin: .75rem 0; line-height: 1.5;}
-.authors sup {font-size: .65em; vertical-align: super;}
-.affiliation {color: #555; margin-bottom: .5rem;}
-hr {margin: 2rem auto; max-width: 880px; border: 0; border-top: 1px solid #eee;}
-.kicker {text-align:center; color:#6b7280; margin-top:.5rem;}
-ul.tight > li {margin:.25rem 0;}
-blockquote {border-left: 4px solid #eee; padding: .5rem .85rem; color:#444; background:#fafafa; border-radius:8px;}
-.small {font-size:.95rem}
-.placeholder {border: 1px dashed #bbb; padding: 1.5rem; margin: 1.5rem auto; border-radius: 8px; background:#fafafa; text-align:center; color:#555; font-style:italic;}
-</style>
-
-<div class="page-wrap">
-
-# Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA
-
-<div class="authors">
-  <strong>Mingyu Huang</strong>,
-  <strong>Shasha Zhou</strong>,
-  <strong>Ke Li</strong>,
-</div>
-
-<div class="affiliation">University of Exeter, EX4 4QF, Exeter, UK</div>
+{{< hint info >}}
+**TLDR:** GraphFLA enables efficient characterization of landscape features of arbitrary sequence-fitness landscapes, thereby augments the performance evaluation of genomic models
+{{< /hint >}}
 
 ![Overview Figure of GraphFLA](/media/graphfla_intro.png)
-
-<div class="caption small">Overview of GraphFLA framework applied to biological fitness landscape and genomic benchmarks.</div>
-
 
 <hr/>
 
 ## Abstract
 
-**TLDR:** GraphFLA enables efficient characterization of landscape features of arbitrary sequence-fitness landscapes, thereby augments the performance evaluation of genomic models
-
 Machine learning models increasingly map biological sequence-fitness landscapes across various modalities to predict mutational effects. Effective evaluation of these models requires benchmarks derived from empirical data. However, current benchmarks often lack detailed topographical information regarding the underlying fitness landscape, which hampers interpretation and comparison of model performance. 
-
 Here, we introduce GraphFLA, a Python framework that constructs and analyzes fitness landscapes from diverse modalities (DNA, RNA, protein, and beyond), accommodating datasets up to millions of mutants. GraphFLA calculates 20 biologically relevant features that characterize 4 fundamental aspects of landscape topography. 
 
 By applying GraphFLA to over 5,300 landscapes from ProteinGym, RNAGym, and UniProbe, we demonstrate its utility in interpreting and comparing the performance of dozens of fitness prediction models, highlighting factors influencing model accuracy. 
-
 <hr/>
 
 ## Background and Scope
@@ -69,8 +44,10 @@ Existing benchmarks often feature dozens to hundreds of tasks (e.g., the famous 
 
 In particular, this leads to two unresolved questions:
 
-> - **Q1: Why did one model perform well on one set of tasks but poorly on another?** 
-> - **Q2: Why did on model outperform baseline on one task, but not on the other?**
+{{< hint warning >}}
+- **Q1: Why did one model perform well on one set of tasks but poorly on another?** 
+- **Q2: Why did on model outperform baseline on one task, but not on the other?**
+{{< /hint >}}
 
 Anwering these questions require effective meta-features to characterize the landscape topography of each task, which is unfortunately not available in all existing genomic benchmarks. 
 
