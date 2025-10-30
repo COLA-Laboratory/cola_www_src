@@ -24,6 +24,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Oct" >}}
+- Happy to announce that I officially join the [ELLIS Society](https://ellis.eu/) as [ELLIS Member](https://ellis.eu/person/ke-li). Thank you for my endorsers, collaborators, and students! <i class='fa fa-calendar' style='font-size:19px'></i> Oct 30
+{{< /tab >}}
+
 {{< tab "Sep" >}}
 
 - Our paper on [Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA](/posts/NeurIPS25_MH_GraphFLA) has been accepted to NeurIPS 2025 as a spotlight. This is a novel perspective to view performance benchmarking in biological machine learning models. By systematically considering the interplay of fitness landscape features of the biological system, we develop a new framework to benchmark performance beyond accuracy. Congratulations to Mingyu who has been working on the fitness landscape analysis direction for years. Looking forward to generating more interesting results along this line in the coming years. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 18
