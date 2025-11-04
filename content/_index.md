@@ -24,6 +24,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Nov" >}}
+- Our paper on "Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs" has been accepted to AAAI 2026 AISI Track. This paper develops a framework to evaluate the factuality of LLMs for medical QA. Very important work for our lab in the direction of agentic AI, which is going to be part of strategic direction that will be a high level framework to connect our models, algorithms and more. Congratulations to Shasha, Mingyu, and Jack. Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 4
+{{< /tab >}}
+
 {{< tab "Oct" >}}
 - Happy to announce that I officially join the [ELLIS Society](https://ellis.eu/) as [ELLIS Member](https://ellis.eu/person/ke-li). Thank you for my endorsers, collaborators, and students! <i class='fa fa-calendar' style='font-size:19px'></i> Oct 30
 {{< /tab >}}

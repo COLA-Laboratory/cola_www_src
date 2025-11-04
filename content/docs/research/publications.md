@@ -132,11 +132,16 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
+Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track <br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
+
 - Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
 Mingyu Huang+, Shasha Zhou+, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/)<br>
+Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
 <i class='fa fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-newspaper-o' style='font-size:16px'></i> [`Blog`](../../posts/NeurIPS25_MH_GraphFLA)| <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-newspaper-o' style='font-size:16px'></i> [`Blog`](../../posts/NeurIPS25_MH_GraphFLA)| <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.91%
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
