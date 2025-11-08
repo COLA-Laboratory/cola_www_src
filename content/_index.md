@@ -25,7 +25,10 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 {{< tabs "uniqueid" >}}
 
 {{< tab "Nov" >}}
-- Our paper on "Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs" has been accepted to AAAI 2026 AISI Track. This paper develops a framework to evaluate the factuality of LLMs for medical QA. Very important work for our lab in the direction of agentic AI, which is going to be part of strategic direction that will be a high level framework to connect our models, algorithms and more. Congratulations to Shasha, Mingyu, and Jack. Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 4
+
+- We have three paper accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) Main Track. In particular, Tianmeng's is selected as an Oral paper (top 5\% of over 31,000 submissions). His paper provides a very interesting theoretical discussion of a ‘well-known’ criterion (reinforcing monotonicity constraints) in multi-agent reinforcement learning. He challenged this domain and discovered that non-monotonic value decomposition can be ‘surprisingly’ good for learning dynamics. Very very congratulations to Tianmeng, Shengbo and Fan! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 8
+
+- Our paper on "Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs" has been accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) AISI Track. This paper develops a framework to evaluate the factuality of LLMs for medical QA. Very important work for our lab in the direction of agentic AI, which is going to be part of strategic direction that will be a high level framework to connect our models, algorithms and more. Congratulations to Shasha, Mingyu, and Jack. Very well done! <i class='fa fa-calendar' style='font-size:19px'></i> Nov 4
 {{< /tab >}}
 
 {{< tab "Oct" >}}

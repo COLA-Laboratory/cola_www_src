@@ -132,6 +132,22 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
+Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
+<i class='fa fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+
+- Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
+Shengbo Wang, Hong Sun, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
+
+- LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
+Fan Li, Shengbo Wang, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track <br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
+
 - Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
 Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track <br>
