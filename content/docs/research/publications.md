@@ -139,12 +139,12 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
 
 - Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
-Shengbo Wang, Hong Sun, **<ins>Ke Li</ins>**<br>
+Shengbo Wang+, Hong Sun+, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
 
 - LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
-Fan Li, Shengbo Wang, **<ins>Ke Li</ins>**<br>
+Fan Li+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
 
