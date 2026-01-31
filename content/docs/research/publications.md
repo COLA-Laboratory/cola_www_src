@@ -132,6 +132,11 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
+Tianmeng Hu+, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 28%
+
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
 Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
