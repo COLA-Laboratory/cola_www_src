@@ -24,6 +24,13 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "Mar" >}}
+- Our paper on AI co-scientist has been accepted to Molecular Plant (Cell sub-journal). This is a collaboration with Yiliang's group at the John Innes Centre, The Sainsbury Laboratory, and Huakun's group at the Northeast Agricultural University. It is a live AI agent where you can register and try through [here](https://plantscience.ai/). Congratulations to Shasha and Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 21
+
+- Jiangjiao's paper on power flow optimization has been accepted to the International Journal of Electrical Power and Energy Systems. Congratulations to Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 20
+
+{{< /tab >}}
+
 {{< tab "Jan" >}}
 
 - Our 3D RNA inverse dsign paper accepted to [ICLR 2026](https://iclr.cc/). Instead of chasing the sequence recovery rate, Tianmeng proposed new reinforcement learning guided alignment strategy that significantly improve the performance of inverse designed sequences that can be folded into the target structure. Structure matters! <i class='fa fa-calendar' style='font-size:19px'></i> Jan 26

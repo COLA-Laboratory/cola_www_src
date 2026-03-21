@@ -84,10 +84,31 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
+        Dr Mingyu Huang<br>
+        Research Associate<br>
+        11/2025 – present<br>
+        <em>Interests</em>: XAI, agentic system, landscape analysis
+    </div>
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Dr Thomas Chambers<br>
+        Research Associate<br>
+        01/2026 – present<br>
+        <em>Interests</em>: Cell segmentation
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
         Dr Jiangtao Shen<br>
         Research Fellow<br>
         04/2025 – present<br>
-        <em>Interests</em>: PINNs, MFO
+        <em>Interests</em>: Multi-task optimization
     </div>
 </div>
 
@@ -169,34 +190,13 @@ hr.dashed {
         <em>Interests</em>: XAI, ML, EMO
     </div>
     <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
+        <img src="/media/SW.jpeg" width="120px", height="150px">
     </div>
     <div class="item2">
-        Xiaotian Zou<br>
-        PhD Student<br>
-        2023 – present<br>
-        <em>Interests</em>: EMO, Fairness
-    </div>
-</div>
-
-<div class="grid-container">
-    <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Heng Yang<br>
+        Shengbo Wang<br>
         PhD Student<br>
         2021 – present<br>
-        <em>Interests</em>: AI4Science, NLP
-    </div>
-    <div class="item1">
-        <img src="/media/JQ.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Jiancheng Qian<br>
-        PhD Student<br>
-        2020 – present<br>
-        <em>Interests</em>: NLP, Code naturalness
+        <em>Interests</em>: BO, SO
     </div>
 </div>
 
@@ -210,18 +210,6 @@ hr.dashed {
         2021 – present<br>
         <em>Interests</em>: SE, BO, MCM, LA
     </div>
-    <div class="item1">
-        <img src="/media/SW.jpeg" width="120px", height="150px">
-    </div>
-    <div class="item2">
-        Shengbo Wang<br>
-        PhD Student<br>
-        2021 – present<br>
-        <em>Interests</em>: BO, SO
-    </div>
-</div>
-
-<div class="grid-container">
     <div class="item3">
         <img src="/media/SY.jpeg" width="120px", height="130px">
     </div>
@@ -244,6 +232,12 @@ hr.dashed {
 {{< tabs "uniqueid" >}}
 
 {{< tab "PhD students" >}}
+
+- Dr Heng Yang
+    - 01/11/2021 -- 01/01/2026, University of Exeter
+    - PhD student
+    - Job: -> Tonghuashun Ltd
+    - Output: 1 NMI, 1 IEEE Trans, AAAI, ACL, EMNLP, ECAL papers
 
 - Dr Phoenix Williams
     - 01/09/2020 -- 01/07/2024, University of Exeter
@@ -275,6 +269,10 @@ hr.dashed {
 - Dr Fan Li
     - 04/2021 -- 03/2025, University of Exeter
     - Job: Associate Professor in Hunan University
+
+- Dr Jiaxin Chen
+    - 04/2022 -- 05/2023, University of Exeter
+    - Job: Assistant Professor in China University of Mining and Technology
 
 - Dr Jiangjiao Xu
     - 01/07/2020 -- 01/11/2022, University of Exeter

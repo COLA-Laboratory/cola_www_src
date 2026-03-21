@@ -132,6 +132,17 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
+- PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
+Haopeng Yu, Shasha Zhou+, Mingyu Huang+, Ling Ding, Yuxuan Chen+, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
+Cell Molecular Plant (MP)<br>
+<i class="ai ai-doi ai-lg"></i> [10.1016/j.molp.2026.03.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8)<br>
+ <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-desktop' style='font-size:16px'></i> [`Web`](https://plantscience.ai/) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+- Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
+Jiangjiao Xu+, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
+International Journal of Electrical Power and Energy Systems<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
 Tianmeng Hu+, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
