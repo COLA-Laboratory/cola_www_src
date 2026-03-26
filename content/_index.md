@@ -20,7 +20,11 @@ Computational Optimization for Learning and Adaptive Systems (COLA) laboratory h
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
 
-## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2025)
+{{< hint danger>}}
+I plan to redesign our lab's scientific story. However, it has been much slower than I expected due to a variety of deadlines. I will pick this as much as I can in my spare time.
+{{< /hint >}}
+
+## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2026)
 
 {{< tabs "uniqueid" >}}
 
@@ -47,17 +51,17 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 ## <i class='fa fa-address-card' style='font-size:20px'></i> Contact
 {{< columns >}}
 
-Dr. Ke Li<br>
+Ke Li<br>
+Living Systems Institute and<br>
 Department of Computer Science<br>
-Room A1-D, Innovation Centre Phase 1<br>
+Room T05.17, Sir Steve Smith Building<br>
 University of Exeter<br>
-Streatham Campus, North Park Road<br>
-Exeter, EX4 4RN, UK<br>
+Streatham Campus, Stocker Road<br>
+Exeter, EX4 4QD, UK<br>
 <i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _k.li_ AT _exeter.ac.uk_<br>
 <i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0139-272-4557
 
 <--->
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.0014985924795!2d-3.5331215842581605!3d50.73846107951612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da4436e4494cb%3A0x1c62c9fa168f33ac!2sInnovation%20Centre%2C%20Rennes%20Dr%2C%20Exeter%20EX4%204RN!5e0!3m2!1sen!2suk!4v1605568402719!5m2!1sen!2suk" width="450" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.085984943658!2d-3.537240523425818!3d50.736894071648344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da445b3914f09%3A0x8f88348b0cae14f!2sLiving%20Systems%20Institute!5e0!3m2!1sen!2suk!4v1774558004093!5m2!1sen!2suk" width="450" height="210" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 {{< /columns >}}
