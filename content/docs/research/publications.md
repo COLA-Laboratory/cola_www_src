@@ -138,36 +138,20 @@ Cell Molecular Plant (MP)<br>
 <i class="ai ai-doi ai-lg"></i> [10.1016/j.molp.2026.03.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8)<br>
  <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-desktop' style='font-size:16px'></i> [`Web`](https://plantscience.ai/) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
+- Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization<br>
+Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
+Expert Systems with Applications (ESWA)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
 - Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
 Jiangjiao Xu+, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
-International Journal of Electrical Power and Energy Systems<br>
+International Journal of Electrical Power and Energy Systems (IJEPES)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
 Tianmeng Hu+, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 28%
-
-- Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
-Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
-<i class='fa fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
-
-- Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
-Shengbo Wang+, Hong Sun+, **<ins>Ke Li</ins>**<br>
-Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
-
-- LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
-Fan Li+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
-
-- Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
-Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
-Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track <br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
 
 - Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
 Mingyu Huang+, Shasha Zhou+, **<ins>Ke Li</ins>**<br>
@@ -191,6 +175,33 @@ IEEE Transactions on Computational Social Systems (TCSS)<br>
 IEEE Trans. Evolutionary Computation (TEVC)<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3496507](https://ieeexplore.ieee.org/document/10750458)<br>
 <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/p2krofna8ylz1ic8rq3s0/main.pdf?rlkey=wwi0wlxrf05vl0709ln2lp8yp&dl=0) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+
+---
+
+## 2026
+
+### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
+
+- Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
+Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(26): 21876--21884, Singapore, January 20--27, 2026<br>
+<i class='fa fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+
+- Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
+Shengbo Wang+, Hong Sun+, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(31): 26453--26461, Singapore, January 20--27, 2026<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+
+- LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
+Fan Li+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(23): 37018--37026, Singapore, January 20--27, 2026<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+
+- Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
+Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track, 40(46): 39646--39656, Singapore, January 20--27, 2026<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
 
 ---
 

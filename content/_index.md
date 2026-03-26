@@ -25,6 +25,9 @@ We are constantly looking for _talented_ and _passionate_ people to join our lab
 {{< tabs "uniqueid" >}}
 
 {{< tab "Mar" >}}
+
+- Our paper on "Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization" has been accepted to Expert Systems With Applications. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 25
+
 - Our paper on AI co-scientist has been accepted to Molecular Plant (Cell sub-journal). This is a collaboration with Yiliang's group at the John Innes Centre, The Sainsbury Laboratory, and Huakun's group at the Northeast Agricultural University. It is a live AI agent where you can register and try through [here](https://plantscience.ai/). Congratulations to Shasha and Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 21
 
 - Jiangjiao's paper on power flow optimization has been accepted to the International Journal of Electrical Power and Energy Systems. Congratulations to Jiangjiao! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 20
