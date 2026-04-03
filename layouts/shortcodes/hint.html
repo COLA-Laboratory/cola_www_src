@@ -5,6 +5,6 @@
   )
 ) -}}
 <blockquote {{ partial "docs/html-attrs" $attributes | safeHTMLAttr }}>
-{{ .Inner | safeHTML -}}
+{{ .InnerDeindent | markdownify -}}
 </blockquote>
 {{- /* remove whitespaces */ -}}

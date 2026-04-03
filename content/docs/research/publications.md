@@ -134,9 +134,9 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 
 - PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
 Haopeng Yu, Shasha Zhou+, Mingyu Huang+, Ling Ding, Yuxuan Chen+, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
-Cell Molecular Plant (MP)<br>
-<i class="ai ai-doi ai-lg"></i> [10.1016/j.molp.2026.03.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8)<br>
- <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-desktop' style='font-size:16px'></i> [`Web`](https://plantscience.ai/) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+Molecular Plant (MP)<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.molp.2026.03.010](https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8)<br>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-desktop' style='font-size:16px'></i> [`Web`](https://plantscience.ai/) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization<br>
 Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
@@ -146,6 +146,7 @@ Expert Systems with Applications (ESWA)<br>
 - Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
 Jiangjiao Xu+, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
 International Journal of Electrical Power and Energy Systems (IJEPES)<br>
+<i class="ai ai-elsevier ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1016/j.ijepes.2026.111774](https://www.sciencedirect.com/science/article/pii/S0142061526002164)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
@@ -268,7 +269,7 @@ Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysi
 
 - Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization<br>
 Youpeng Ma+, Tao Chen, **<ins>Ke Li</ins>**<br>
-Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](Jconf.researchr.org/home/icse-2025), p. 988--1000, May, 2025<br>
+Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](https://conf.researchr.org/home/icse-2025), p. 988--1000, May, 2025<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
 
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>

@@ -21,7 +21,7 @@ bookToc: false
 This comes up to be a typical example: ``TEVC_TBO2_RC``.
 
 Note that since the University of Exeter is a partner of Overleaf, you are free to use the professional version by using your university's email account to register. There are some very cool function of using this professional version.
-- You can sync your project to either [Dropbox](www.dropbox.com) or [Github](www.github.com), though this is applicable for regular account. This is very useful when you find the online Overleaf version is kind of slow.
+- You can sync your project to either [Dropbox](https://www.dropbox.com) or [Github](https://www.github.com), though this is applicable for regular account. This is very useful when you find the online Overleaf version is kind of slow.
 - It is very cool to track the changes by turning ``Track changes`` on.
 - Try to get yourself comfortable with the comment function in Overleaf, so that we can address concerns in an interactive manner.
 - ......

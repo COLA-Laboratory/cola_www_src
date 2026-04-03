@@ -15,7 +15,7 @@ bookToc: false
 </head>
 
 {{< hint info >}}
-The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in engaging with us, please feel free to contact [Dr Ke Li](k.li@exeter.ac.uk).
+The paper reading group meets weekly during the semester to discuss papers. Participation is open to all, guests are always welcome; if you are interested in engaging with us, please feel free to contact [Dr Ke Li](mailto:k.li@exeter.ac.uk).
 
 {{< /hint >}}
 
@@ -77,7 +77,7 @@ Moderator: Fan Li
 - Explaining Hyperparameter Optimization via Partial Dependence Plots
 <br>NeurIPS'21</br>
 <i class='fa fa-download' style='font-size:16px'></i> [`paper`](https://proceedings.neurips.cc/paper/2021/file/12ced2db6f0193dda91ba86224ea1cd8-Paper.pdf) | 
-<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> [`slides`](/slides/HYJun24.pptx) | 
+<i class='fa fa-file-powerpoint-o' style='font-size:16px'></i> slides | 
 <i class='fa fa-bullhorn' style='font-size:16px'></i> Mingyu Huang | 
 <i class='fa fa-calendar' style='font-size:16px'></i> June 18
 

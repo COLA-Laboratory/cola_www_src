@@ -15,7 +15,7 @@ bookToc: false
 </head>
 
 {{< hint info >}}
-The core purpose of this study group, which runs every Sunday afternoon, is to learn some fundamental knowledge pertinent to our research. Participation is usually expected to be our COLA members. However, if you are interested in engaging with us, please feel free to contact [Dr Ke Li](k.li@exeter.ac.uk) for a discussion.
+The core purpose of this study group, which runs every Sunday afternoon, is to learn some fundamental knowledge pertinent to our research. Participation is usually expected to be our COLA members. However, if you are interested in engaging with us, please feel free to contact [Dr Ke Li](mailto:k.li@exeter.ac.uk) for a discussion.
 
 {{< /hint >}}
 
