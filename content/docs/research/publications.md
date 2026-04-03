@@ -152,13 +152,13 @@ International Journal of Electrical Power and Energy Systems (IJEPES)<br>
 - 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
 Tianmeng Hu+, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 28%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 28%
 
 - Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
 Mingyu Huang+, Shasha Zhou+, **<ins>Ke Li</ins>**<br>
 Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
 <i class='fa fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-newspaper-o' style='font-size:16px'></i> [`Blog`](../../posts/NeurIPS25_MH_GraphFLA)| <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.91%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-newspaper-o' style='font-size:16px'></i> [`Blog`](../../posts/NeurIPS25_MH_GraphFLA)| <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 24.91%
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li+<br>
@@ -187,22 +187,22 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(26): 21876--21884, Singapore, January 20--27, 2026<br>
 <i class='fa fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 17.6%
 
 - Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
 Shengbo Wang+, Hong Sun+, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(31): 26453--26461, Singapore, January 20--27, 2026<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 17.6%
 
 - LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
 Fan Li+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(23): 37018--37026, Singapore, January 20--27, 2026<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 17.6%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 17.6%
 
 - Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
 Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track, 40(46): 39646--39656, Singapore, January 20--27, 2026<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 24.1%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 24.1%
 
 ---
 
@@ -214,7 +214,7 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 **<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2023.3343716](https://ieeexplore.ieee.org/abstract/document/10372386)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiYV23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/LiYV23.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/DaNuoYi) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiYV23');">`BiB`</a>{{< citation_count doi="10.1109/TSE.2023.3343716" >}}
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiYV23.txt" id="abstract_LiYV23" >}}
 {{< ShowBibtex file="/content/bib/LiYV23.bib" id="LiYV23" >}}
 
@@ -222,37 +222,39 @@ IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
 Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Software Engineering (TSE), 51(8): 2305--2328, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TSE.2025.3577808](https://ieeexplore.ieee.org/document/11029502)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> PDF | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TSE.2025.3577808" >}}
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 29(4): 1419--1433, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3425629](https://ieeexplore.ieee.org/document/10589587)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TEVC.2024.3425629" >}}
 
 - Evolutionary Art Attack For Black-Box Adversarial Example Generation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**, G. Min<br>
 IEEE Trans. Evolutionary Computation (TEVC), 29(4): 1343--1355, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2024.3391063](https://ieeexplore.ieee.org/document/10504779)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TEVC.2024.3391063" >}}
+
 
 - Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
 IEEE Trans. Control Systems Technology (TCST), 33(5): 1953--1959, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCST.2025.3561059](https://ieeexplore.ieee.org/document/10982112)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TCST.2025.3561059" >}}
 
 - Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection<br>
 Jiangjiao Xu+, Haiyu liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Instrumentation and Measurement (TIM), 74: 3539813, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TIM.2025.3568984](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11000342)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TIM.2025.3568984" >}}
 
 - Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
 Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Consumer Electronics (TCE), 71(2): 6469--6476, 2025<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TCE.2024.3412817](https://ieeexplore.ieee.org/abstract/document/10554553)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1109/TCE.2024.3412817" >}}
+
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
@@ -275,12 +277,12 @@ Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](h
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
 Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
 Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/), 39(20): 21929--21937, Philadelphia, PA, USA, February 25--March 4, 2025<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.4%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 23.4%
 
 - On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/), p. 555--564, Toronto, ON, Canada, August 3--7, 2025<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 19.0%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 19.0%
 
 - FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models<br>
 Xiaotian Zou+, Yongkang Chen, Qianqian Han, **<ins>Ke Li</ins>**<br>
@@ -297,7 +299,7 @@ Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25
 Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
 <i class="ai ai-springer ai-lg"></i> [10.1038/s42256-024-00946-z](https://www.nature.com/articles/s42256-024-00946-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241218&utm_content=10.1038/s42256-024-00946-z)<br>
 Nature Machine Intelligence (NMI), 6: 1616--1625, 2024<br>
-<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.full.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB`
+<i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.full.pdf) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Project`](../supp/plant_fm) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://huggingface.co/yangheng/PlantRNA-FM) | <i class='fa fa-folder-open-o' style='font-size:16px'></i> [`Supp`](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v2.supplementary-material) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` </a>{{< citation_count doi="10.1038/s42256-024-00946-z" >}}
 
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 Ryoji Tanabe, **<ins>Ke Li</ins>**<br>
@@ -305,7 +307,9 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(6): 1575--1589, 2024<br>
 <i class="ai ai-ieee ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1109/TEVC.2023.3319009](https://ieeexplore.ieee.org/document/10268021)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_TanabeL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-folder-open-o' style='font-size:16px'></i> `Supp` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('TanabeL23');">`BiB`</a>
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_TanabeL23.txt" id="abstract_TanabeL23" >}}
-{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}}
+{{< ShowBibtex file="/content/bib/TanabeL23.bib" id="TanabeL23" >}} 
+
+- Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
 
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
 Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
@@ -363,22 +367,22 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
 Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25.8%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 25.8%
 
 - MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
 Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 16.9%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 16.9%
 
 - The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 20.8%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 20.8%
 
 - OpenTOS: Open-source System for Transfer Learning Bayesian Optimization<br>
 Peili Mao+, **<ins>Ke Li</ins>**<br>
 Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM'24)](https://cikm2024.org/) Demo Paper track<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 43.2%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 43.2%
 
 - RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
 Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
@@ -388,13 +392,13 @@ Proc. of the 2024 ICML AI for Science Workshop<br>
 - Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
 Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
 Proc. of the 2024 ACM International Conference on the Foundations of Software Engineering [(FSE'24)](https://conf.researchr.org/home/fse-2024), 101: 2285--2308, July, 2024<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/MOAA) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 21.0%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/MOAA) | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 21.0%
 
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
 Shengbo Wang+, **<ins>Ke Li</ins>**<br>
 <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1609/aaai.v38i14.29488](https://doi.org/10.1609/aaai.v38i14.29488)<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/), 38(14): 15607-15615, February, 2024<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 23.5%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WangL24');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](/publications/WangL24.pdf) | <i class='fa fa-file-code-o' style='font-size:16px'></i> `Code` | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WangL24');">`BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 23.5%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WangL24.txt" id="abstract_WangL24" >}}
 {{< ShowBibtex file="/content/bib/WangL24.bib" id="WangL24" >}}
 
@@ -489,14 +493,14 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 - "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_LiLL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openreview.net/pdf?id=IMiGRqltQQ) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/COLA-Laboratory/OptimalStoping_NeurIPS2023) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('LiLL23');">`BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 26.1%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_LiLL23.txt" id="abstract_LiLL23" >}}
 {{< ShowBibtex file="/content/bib/LiLL23.bib" id="LiLL23" >}}
 
 - CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 26.1%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs` | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> `PDF` | <i class='fa fa-quote-right' style='font-size:15px'></i> `BiB` | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 26.1%
 
 - Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
@@ -510,7 +514,7 @@ Heng Yang+, **<ins>Ke Li</ins>**<br>
 Proc. of the 32nd ACM International Conference on Information and Knowledge Management [(CIKM'23)](https://uobevents.eventsair.com/cikm2023/), p. 5117--5122, October, 2023.<br>
 <i class="ai ai-acm ai-lg"></i> <i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1145/3583780.3614752](https://dl.acm.org/doi/10.1145/3583780.3614752)<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangZL23');">`Abs`</a> |
- <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3583780.3614752) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/yangheng95/PyABSA.) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangZL23');"> `BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 35%
+ <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://dl.acm.org/doi/pdf/10.1145/3583780.3614752) | <i class='fa fa-file-code-o' style='font-size:16px'></i> [`Code`](https://github.com/yangheng95/PyABSA.) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangZL23');"> `BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 35%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_YangZL23.txt" id="abstract_YangZL23" >}}
 {{< ShowBibtex file="/content/bib/YangZL23.bib" id="YangZL23" >}}
 
@@ -524,14 +528,14 @@ Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
 Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/), p. 5595--5603, August, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('HuangL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 15%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_HuangL23');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://www.ijcai.org/proceedings/2023/0621.pdf) | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`Supp`](../supp/supp_lon_ijcai23.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('HuangL23');">`BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 15%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_HuangL23.txt" id="abstract_HuangL23" >}}
 {{< ShowBibtex file="/content/bib/HuangL23.bib" id="HuangL23" >}}
 
 - Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
 Heng Yang+, **<ins>Ke Li</ins>**<br>
 Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/), p. 1652--1669, July, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangL23b');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangL23b');"> `BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 40.6%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_YangL23b');">`Abs`</a> | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://aclanthology.org/2023.findings-acl.105.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('YangL23b');"> `BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 40.6%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_YangL23b.txt" id="abstract_YangL23b" >}}
 {{< ShowBibtex file="/content/bib/YangL23b.bib" id="YangL23b" >}}
 
@@ -544,7 +548,7 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
 Phoenix Williams+, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291--12301, June, 2023.<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WilliamsL23');">`BiB`</a> | <i class='fa fa-bar-chart-o' style='font-size:16px'></i> &asymp; 25%
+<i class='fa fa-file-text-o' style='font-size:16px'></i> <a href="#/" onclick="toggle_visibility('abstract_WilliamsL23');">`Abs`</a>  | <i class='fa fa-file-pdf-o' style='font-size:16px'></i> [`PDF`](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf) | <i class='fa fa-quote-right' style='font-size:15px'></i> <a href="#/" onclick="toggle_visibility('WilliamsL23');">`BiB`</a> | <i class='fa fa-pie-chart' style='font-size:16px'></i> &asymp; 25%
 {{< ShowBibtex file="/content/docs/research/abstract/abstract_WilliamsL23.txt" id="abstract_WilliamsL23" >}}
 {{< ShowBibtex file="/content/bib/WilliamsL23.bib" id="WilliamsL23" >}}
 
