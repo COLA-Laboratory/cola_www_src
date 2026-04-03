@@ -1,0 +1,16 @@
+.book-brand {
+  a {
+    flex: 0 0 auto;
+    display: inline-flex;
+  }
+
+  img {
+    height: 2.5em;
+    width: auto;
+    max-width: 12rem;
+    object-fit: contain;
+    vertical-align: middle;
+    margin-inline-end: 0;
+    flex: 0 0 auto;
+  }
+}

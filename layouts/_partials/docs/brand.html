@@ -1,0 +1,8 @@
+<h2 class="book-brand">
+  {{- $home := cond (not .Site.Home.File) (index hugo.Sites 0).Home.RelPermalink .Site.Home.RelPermalink -}}
+  <a class="flex align-center" href="{{ $home }}">
+    {{- with .Site.Params.BookLogo -}}
+    <img src="{{ . | relURL }}" alt="{{ or $.Site.Title (partial "docs/text/i18n" "Logo") }}" />
+    {{- end -}}
+  </a>
+</h2>

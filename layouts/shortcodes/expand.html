@@ -1,0 +1,13 @@
+{{- $title := default (i18n "Expand") (.Get 0) -}}
+{{- $icon := .Get 1 -}}
+<details class="book-expand-compat">
+  <summary>
+    {{- $title | markdownify -}}
+    {{- with $icon -}}
+      <span aria-hidden="true"> {{ . }}</span>
+    {{- end -}}
+  </summary>
+  <div class="markdown-inner">
+    {{- .Inner | markdownify -}}
+  </div>
+</details>
