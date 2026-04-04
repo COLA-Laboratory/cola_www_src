@@ -14,3 +14,25 @@
     flex: 0 0 auto;
   }
 }
+
+.book-hint.important {
+  border-color: #8b5cf6;
+  background-color: rgba(139, 92, 246, 0.12);
+}
+
+.book-hint.success {
+  border-color: #2f9e44;
+  background-color: rgba(47, 158, 68, 0.12);
+}
+
+sup.student-mark {
+  font-size: 0.6em;
+  line-height: 0;
+  vertical-align: super;
+  margin-left: 0.08em;
+  color: currentColor;
+}
+
+sup.student-mark i {
+  font-size: 1.08em;
+}

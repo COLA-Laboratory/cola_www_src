@@ -9,7 +9,7 @@ bookToc: false
 <link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <head>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -97,23 +97,22 @@ bookToc: false
 }
 </style>
 
-{{< hint warning >}}
+{{< hint important >}}
 - The copyrights of published papers are transferred to publishers. Misuse of any material posted here may result in plagiarism.
-- \+ means my current/previous student or visitor.
-- \* means equal contribution
+- <i class="fas fa-hippo"></i> indicates my current/previous group members.
+- <i class="fa fa-pie-chart"></i> indicates acceptance rate.
+- <i class="fa fa-bar-chart"></i> extracts the citation counts from [OpenAlex](https://openalex.org/). 
 
 {{< /hint >}}
 
 <script defer src="/publication_journal_index.js"></script>
-
----
 
 ## To appear
 
 ### <i class='fa fa-file-text-o' style='font-size:18px'></i> Technical Report
 
 - A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II-A Data Science Perspective<br>
-Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 {{< paper_meta
   slug="a-survey-of-decomposition-based-evolutionary-multi-objective-optimization-part-ii-a-data-science-perspective"
   source_label="CoRR abs/2404.14228"
@@ -127,7 +126,7 @@ Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 >}}
 
 - Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
-**<ins>Ke Li</ins>**, Han Guo+<br>
+**<ins>Ke Li</ins>**, Han Guo{{< student_mark >}}<br>
 {{< paper_meta
   slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
   source_label="CoRR abs/2401.02160"
@@ -141,7 +140,7 @@ Mingyu Huang+, **<ins>Ke Li</ins>**<br>
 >}}
 
 - Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning<br>
-Shengbo Wang+, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
+Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
 {{< paper_meta
   slug="model-assisted-probabilistic-safe-adaptive-control-with-meta-bayesian-learning"
   source_label="CoRR abs/2307.00828"
@@ -155,7 +154,7 @@ Shengbo Wang+, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shipin
 >}}
 
 - Evolutionary Multi-Objective Optimization for Virtual Network Function Placement<br>
-Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
+Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 {{< paper_meta
   slug="evolutionary-multi-objective-optimization-for-virtual-network-function-placement"
   source_label="CoRR abs/2106.14727"
@@ -176,13 +175,12 @@ Joseph Billingsley+, **<ins>Ke Li</ins>**, Geyong Min, Nektarios Georgalas<br>
 ### <i class='fa fa-free-code-camp' style='font-size:18px'></i> In press
 
 - PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
-Haopeng Yu, Shasha Zhou+, Mingyu Huang+, Ling Ding, Yuxuan Chen+, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
+Haopeng Yu, Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Ling Ding, Yuxuan Chen{{< student_mark >}}, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
 Molecular Plant (MP)<br>
 {{< paper_meta
   slug="plantscience-ai-an-llm-powered-virtual-scientist-for-plant-science"
   doi="10.1016/j.molp.2026.03.010"
   doi_url="https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8"
-  source_icon="ai ai-elsevier ai-lg"
   show_pdf="true"
   web="https://plantscience.ai/"
   show_abs="true"
@@ -194,12 +192,9 @@ Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>*
 Expert Systems with Applications (ESWA)<br>
 {{< paper_meta
   slug="adaptive-population-classification-based-multi-strategy-evolutionary-algorithm-for-dynamic-constrained-multi-objective-optimization"
-  metadata_title="Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization"
-  metadata_doi="10.2139/ssrn.6136239"
-  abstract_text="Abstract metadata is not yet available from public sources for this paper. Replace this note with the accepted-manuscript abstract or a local abstract file once it is available."
+  abstract_file="/content/docs/research/abstract/abstract_WangLHZZL26.txt"
   bib_key="WangLHZZL26"
   bib_type="article"
-  bib_journal="Expert Systems with Applications"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -207,17 +202,22 @@ Expert Systems with Applications (ESWA)<br>
 >}}
 
 - Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
-Jiangjiao Xu+, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
+Jiangjiao Xu{{< student_mark >}}, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
 International Journal of Electrical Power and Energy Systems (IJEPES)<br>
 {{< paper_meta
   doi="10.1016/j.ijepes.2026.111774"
   doi_url="https://www.sciencedirect.com/science/article/pii/S0142061526002164"
   source_icon="ai ai-elsevier ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_XuMLLGJ26.txt"
   bib_key="XuMLLGJ26"
+  bib_type="article"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
 >}}
 
 - 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
-Tianmeng Hu+, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
+Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
 {{< paper_meta
   slug="3d-rna-inverse-design-with-reinforcement-learning-guided-diffusion-models"
@@ -229,7 +229,7 @@ Proc. of the 14th International Conference on Learning Representations [(ICLR'26
 >}}
 
 - Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
-Mingyu Huang+, Shasha Zhou+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
 <i class='fa fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
 {{< paper_meta
@@ -243,7 +243,7 @@ Proc. of the 39th Annual Conference on Neural Information Processing Systems [(N
 >}}
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
-**<ins>Ke Li</ins>**, Fan Li+<br>
+**<ins>Ke Li</ins>**, Fan Li{{< student_mark >}}<br>
 ACM Computing Surveys (CSUR)<br>
 {{< paper_meta
   doi="10.1145/3801959"
@@ -255,7 +255,7 @@ ACM Computing Surveys (CSUR)<br>
 >}}
 
 - Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
-Siwei Zheng+, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
+Siwei Zheng{{< student_mark >}}, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Computational Social Systems (TCSS)<br>
 {{< paper_meta
   doi="10.1109/TCSS.2025.3582364"
@@ -283,7 +283,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
-Tianmeng Hu+, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
+Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(26): 21876--21884, Singapore, January 20--27, 2026<br>
 <i class='fa fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
 {{< paper_meta
@@ -296,7 +296,7 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 >}}
 
 - Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
-Shengbo Wang+, Hong Sun+, **<ins>Ke Li</ins>**<br>
+Shengbo Wang{{< student_mark >}}, Hong Sun{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(31): 26453--26461, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="preference-is-more-than-comparisons-rethinking-dueling-bandits-with-augmented-human-feedback"
@@ -308,7 +308,7 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 >}}
 
 - LAMDA: Two-Phase HPO via Learning Prior from Low-Fidelity Data<br>
-Fan Li+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Fan Li{{< student_mark >}}, Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(23): 37018--37026, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="lamda-two-phase-hpo-via-learning-prior-from-low-fidelity-data"
@@ -320,7 +320,7 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 >}}
 
 - Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
-Shasha Zhou+, Mingyu Huang+, Jack Cole+, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
+Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Jack Cole{{< student_mark >}}, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track, 40(46): 39646--39656, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="assessing-automated-fact-checking-for-medical-llm-responses-with-knowledge-graphs"
@@ -338,7 +338,7 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls<br>
-**<ins>Ke Li</ins>**, Heng Yang+, Willem Visser<br>
+**<ins>Ke Li</ins>**, Heng Yang{{< student_mark >}}, Willem Visser<br>
 IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
 {{< paper_meta
   doi="10.1109/TSE.2023.3343716"
@@ -347,72 +347,87 @@ IEEE Trans. Software Engineering (TSE), 51(9): 2412--2431, 2025<br>
   pdf="/publications/LiYV23.pdf"
   code="https://github.com/COLA-Laboratory/DaNuoYi"
   bib_key="LiYV23"
+  bib_type="article"
+  show_citation="true"
 >}}
 
 - MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction<br>
-Jiaxin Chen+, Jingliang Ding, Kay Chen Tan, Jiancheng Qian+, **<ins>Ke Li</ins>**<br>
+Jiaxin Chen{{< student_mark >}}, Jingliang Ding, Kay Chen Tan, Jiancheng Qian{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Software Engineering (TSE), 51(8): 2305--2328, 2025<br>
 {{< paper_meta
   doi="10.1109/TSE.2025.3577808"
   doi_url="https://ieeexplore.ieee.org/document/11029502"
   source_icon="ai ai-ieee ai-lg"
   bib_key="ChenDTQL25"
+  bib_type="article"
+  show_citation="true"
 >}}
 
 
 - Evolutionary Alternating Direction Method of Multipliers for Constrained Multi-Objective Optimization with Unknown Constraints<br>
-Shuang Li+, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
+Shuang Li{{< student_mark >}}, **<ins>Ke Li</ins>**, Wei Li, Ming Yang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 29(4): 1419--1433, 2025<br>
 {{< paper_meta
   slug="evolutionary-alternating-direction-method-of-multipliers-for-constrained-multi-objective-optimization-with-unknown-constraints"
   doi="10.1109/TEVC.2024.3425629"
   doi_url="https://ieeexplore.ieee.org/document/10589587"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="LiLLY25"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Evolutionary Art Attack For Black-Box Adversarial Example Generation<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**, G. Min<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**, G. Min<br>
 IEEE Trans. Evolutionary Computation (TEVC), 29(4): 1343--1355, 2025<br>
 {{< paper_meta
   slug="evolutionary-art-attack-for-black-box-adversarial-example-generation"
   doi="10.1109/TEVC.2024.3391063"
   doi_url="https://ieeexplore.ieee.org/document/10504779"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="WilliamsLM25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
-
 - Optimal Parameter Adaptation for Safety-Critical Control via Safe Barrier Bayesian Optimization<br>
-Shengbo Wang+, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
+Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**, Zheng Yan, Zhenyuan Guo, Guanghui Wen, Shiping Wen<br>
 IEEE Trans. Control Systems Technology (TCST), 33(5): 1953--1959, 2025<br>
 {{< paper_meta
   slug="optimal-parameter-adaptation-for-safety-critical-control-via-safe-barrier-bayesian-optimization"
   doi="10.1109/TCST.2025.3561059"
   doi_url="https://ieeexplore.ieee.org/document/10982112"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="WangLYGWW25"
   pdf="https://www.dropbox.com/scl/fi/k5xlpovyn8up18grfp2tn/WangLYGZWW25.pdf?rlkey=s0r76ri4h8vfwe91o3bphqelk&dl=0"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Multi-Scale Feature Fusion Transformer with Hybrid Attention for Insulator Defect Detection<br>
-Jiangjiao Xu+, Haiyu liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
+Jiangjiao Xu{{< student_mark >}}, Haiyu Liao, Changjun Jiang, Dongdong Li, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Instrumentation and Measurement (TIM), 74: 3539813, 2025<br>
 {{< paper_meta
   slug="multi-scale-feature-fusion-transformer-with-hybrid-attention-for-insulator-defect-detection"
   doi="10.1109/TIM.2025.3568984"
   doi_url="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11000342"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="XuLJLL25"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Mutual Knowledge Distillation based Personalized Federated Learning for Smart Edge Computing<br>
@@ -423,16 +438,19 @@ IEEE Trans. Consumer Electronics (TCE), 71(2): 6469--6476, 2025<br>
   doi="10.1109/TCE.2024.3412817"
   doi_url="https://ieeexplore.ieee.org/abstract/document/10554553"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="ZhengHML25"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Conversational Exploration of Literature Landscape with LitChat<br>
-Mingyu Huang+, Shasha Zhou+, Yuxuan Chen+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, Yuxuan Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 34th International Joint Conference on Artificial Intelligence [(IJCAI'25)](https://2025.ijcai.org/)<br>
 Demo Paper Track, p. 11058--11061, August, 2025<br>
 {{< paper_meta
@@ -440,81 +458,99 @@ Demo Paper Track, p. 11058--11061, August, 2025<br>
   doi="10.24963/ijcai.2025/1262"
   doi_url="https://dl.acm.org/doi/10.24963/ijcai.2025/1262"
   source_icon="ai ai-acm ai-lg"
+  bib_type="inproceedings"
+  bib_key="HuangZCL26"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Rethinking Performance Analysis for Configurable Software Systems: A Case Study from a Fitness Landscape Perspective<br>
-Mingyu Huang+, Peili Mao+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA'25)](https://conf.researchr.org/home/issta-2025), ISSTA077: 1748--1771, June, 2025<br>
 {{< paper_meta
   slug="rethinking-performance-analysis-for-configurable-software-systems-a-case-study-from-a-fitness-landscape-perspective"
   doi="10.1145/3728954"
   doi_url="https://dl.acm.org/doi/10.1145/3728954"
   source_icon="ai ai-acm ai-lg"
+  bib_type="inproceedings"
+  bib_key="HuangML25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Faster Configuration Performance Bug Testing with Neural Dual-level Prioritization<br>
-Youpeng Ma+, Tao Chen, **<ins>Ke Li</ins>**<br>
+Youpeng Ma{{< student_mark >}}, Tao Chen, **<ins>Ke Li</ins>**<br>
 Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](https://conf.researchr.org/home/icse-2025), p. 988--1000, May, 2025<br>
 {{< paper_meta
   slug="faster-configuration-performance-bug-testing-with-neural-dual-level-prioritization"
   doi="10.1109/ICSE55347.2025.00201"
   doi_url="https://dl.acm.org/doi/10.1109/ICSE55347.2025.00201"
   source_icon="ai ai-acm ai-lg"
+  bib_type="inproceedings"
+  bib_key="MaCL25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Bridging Sequence-Structure Alignment in RNA Foundation Models<br>
-Heng Yang+, Renzhi Chen, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, Renzhi Chen, **<ins>Ke Li</ins>**<br>
 Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](https://aaai.org/conference/aaai/aaai-25/), 39(20): 21929--21937, Philadelphia, PA, USA, February 25--March 4, 2025<br>
 {{< paper_meta
   slug="bridging-sequence-structure-alignment-in-rna-foundation-models"
   doi="10.1609/aaai.v39i20.35500"
   doi_url="https://dl.acm.org/doi/10.1609/aaai.v39i20.35500"
   source_icon="ai ai-acm ai-lg"
+  bib_type="inproceedings"
+  bib_key="YangCL25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 23.4%"
+  show_citation="true"
 >}}
 
 - On the Hyperparameter Loss Landscapes of Machine Learning Models: An Exploratory Study<br>
-Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD'25)](https://kdd2025.kdd.org/), p. 555--564, Toronto, ON, Canada, August 3--7, 2025<br>
 {{< paper_meta
   slug="on-the-hyperparameter-loss-landscapes-of-machine-learning-models-an-exploratory-study"
   doi="10.1145/3690624.3709229"
   doi_url="https://dl.acm.org/doi/10.1145/3690624.3709229"
   source_icon="ai ai-acm ai-lg"
+  bib_type="inproceedings"
+  bib_key="HuangL25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 19.0%"
+  show_citation="true"
 >}}
 
 - FlowJD: Your Imagination can Help You Jailbreak in Visual Language Models<br>
-Xiaotian Zou+, Yongkang Chen, Qianqian Han, **<ins>Ke Li</ins>**<br>
+Xiaotian Zou{{< student_mark >}}, Yongkang Chen, Qianqian Han, **<ins>Ke Li</ins>**<br>
 Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25)](https://2025.ieeeicme.org/)<br>
 {{< paper_meta
   slug="flowjd-your-imagination-can-help-you-jailbreak-in-visual-language-models"
   doi="10.1109/ICME59968.2025.11209893"
   doi_url="https://ieeexplore.ieee.org/document/11209893"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="inproceedings"
+  bib_key="ZouCHL25"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 ---
@@ -524,7 +560,7 @@ Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants<br>
-Haopeng Yu, Heng Yang+, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
+Haopeng Yu, Heng Yang{{< student_mark >}}, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>** <br>
 Nature Machine Intelligence (NMI), 6: 1616--1625, 2024<br>
 {{< paper_meta
   slug="an-interpretable-rna-foundation-model-for-exploration-functional-rna-motifs-in-plants"
@@ -539,6 +575,7 @@ Nature Machine Intelligence (NMI), 6: 1616--1625, 2024<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Quality Indicators for Preference-based Evolutionary Multi-objective Optimization Using a Reference Point: A Review and Analysis<br>
@@ -557,29 +594,35 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(6): 1575--1589, 2024<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Solving Expensive Optimization Problems in Dynamic Environments with Meta-Learning<br>
-Huan Zhang+, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
+Huan Zhang{{< student_mark >}}, Jinliang Ding, Liang Feng, Kay Chen Tan, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Cybernetics (TCYB), 52(12): 7430--7442, 2024<br>
 {{< paper_meta
   slug="solving-expensive-optimization-problems-in-dynamic-environments-with-meta-learning"
   doi="10.1109/TCYB.2024.3443396"
   doi_url="https://ieeexplore.ieee.org/abstract/document/10644136"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="ZhangDFTL24"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - A Data-Driven Evolutionary Transfer Optimization for Expensive Problems in Dynamic Environments<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen+\*, Xin Yao<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen{{< student_mark >}}\*, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 28(5): 1396--1411, 2024<br>
 {{< paper_meta
   slug="a-data-driven-evolutionary-transfer-optimization-for-expensive-problems-in-dynamic-environments"
   doi="10.1109/TEVC.2023.3307244"
   doi_url="https://ieeexplore.ieee.org/document/10225543"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="LiCY24"
   pdf="https://www.dropbox.com/s/1m3e1pxe6ii5p7d/main.pdf?dl=0"
   supp="../supp/supp_deto"
   code="https://github.com/COLA-Laboratory/DETO"
@@ -589,23 +632,28 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(5): 1396--1411, 2024<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - A Many-Objective Evolutionary Algorithm Based on Interaction Force and Hybrid Optimization Mechanism<br>
-Lei Yang+, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
+Lei Yang{{< student_mark >}}, Jiale Cao, Kangshun Li, Yuanye Zhang, Rui Xu, **<ins>Ke Li</ins>**<br>
 Swarm and Evolutionary Computation (SWEVO), 90: 101667<br>
 {{< paper_meta
   slug="a-many-objective-evolutionary-algorithm-based-on-interaction-force-and-hybrid-optimization-mechanism"
   doi="10.1016/j.swevo.2024.101667"
   doi_url="https://www.sciencedirect.com/science/article/abs/pii/S2210650224002050"
   source_icon="ai ai-elsevier ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_YangCLZXL24.txt"
+  bib_type="article"
+  bib_key="YangCLZXL24"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - iM-Seeker: A Webserver for DNA I-motifs Prediction and Scoring via Automated Machine Learning<br>
-Haopeng Yu, Fan Li+, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
+Haopeng Yu, Fan Li{{< student_mark >}}, Bibo Yang, Yiman Qi, Dilek Guneri, Wenqian Chen, Zoe Waller, **<ins>Ke Li</ins>**, Yiliang Ding<br>
 Nucleic Acids Research (NAR), 52(W1): W19-W28, 2024<br>
 {{< paper_meta
   slug="im-seeker-a-webserver-for-dna-i-motifs-prediction-and-scoring-via-automated-machine-learning"
@@ -613,49 +661,61 @@ Nucleic Acids Research (NAR), 52(W1): W19-W28, 2024<br>
   doi_url="https://academic.oup.com/nar/article/52/W1/W19/7659304"
   show_pdf="true"
   code="https://im-seeker.org/help"
+  bib_type="article"
+  bib_key="YuLYQGCWLD24"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Multi-Output Framework for Time-Series Forecasting in Smart Grid Meets Data Scarcity<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**, Dongdong Li<br>
 IEEE Trans. Industrial Informatics (TII), 20(9): 11202--11212, 2024<br>
 {{< paper_meta
   slug="multi-output-framework-for-time-series-forecasting-in-smart-grid-meets-data-scarcity"
   doi="10.1109/TII.2024.3396347"
   doi_url="https://ieeexplore.ieee.org/document/10539288"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="XuLL24a"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - A Knee Point Driven Evolutionary Algorithm for Multi-Objective Bilevel Optimization<br>
-Jiaxin Chen+, Jinliang Ding, **<ins>Ke Li</ins>**, Kay Chen Tan, Tianyou Chai<br>
+Jiaxin Chen{{< student_mark >}}, Jinliang Ding, **<ins>Ke Li</ins>**, Kay Chen Tan, Tianyou Chai<br>
 IEEE Trans. Cybernetics (TCYB), 54(7): 4177--4189, 2024<br>
 {{< paper_meta
   slug="a-knee-point-driven-evolutionary-algorithm-for-multi-objective-bilevel-optimization"
   doi="10.1109/TCYB.2024.3377272"
   doi_url="https://ieeexplore.ieee.org/document/10496817"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="ChenDLTC24"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - An Automated Few-Shot Learning for Time Series Forecasting in Smart Grid Under Data Scarcity<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, D. Li<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**, D. Li<br>
 IEEE Trans. Artificial Intelligence (TAI), 5(6): 2482--2492, 2024<br>
 {{< paper_meta
   slug="an-automated-few-shot-learning-for-time-series-forecasting-in-smart-grid-under-data-scarcity"
   doi="10.1109/TAI.2024.3358795"
   doi_url="https://ieeexplore.ieee.org/abstract/document/10414362"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="XuLL24b"
   show_pdf="true"
   show_code="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Evolutionary Bi-level Optimization via Multi-objective Transformation Based Lower Level Search<br>
@@ -666,16 +726,18 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
   doi="10.1109/TEVC.2023.3236455"
   doi_url="https://ieeexplore.ieee.org/document/10016238"
   source_icon="ai ai-ieee ai-lg"
+  bib_type="article"
+  bib_key="ChenLLT24"
   show_pdf="true"
-  abstract_file="/content/docs/research/abstract/abstract_ChenLLT23.txt"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
-Tian Huang+, Shengbo Wang+, **<ins>Ke Li</ins>**<br>
+Tian Huang{{< student_mark >}}, Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
 {{< paper_meta
   slug="direct-preference-based-evolutionary-multi-objective-optimization-with-dueling-bandits"
@@ -688,7 +750,7 @@ Proc. of the 38th Annual Conference on Neural Information Processing Systems [(N
 >}}
 
 - MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Findings of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
 {{< paper_meta
   slug="mp-rna-unleashing-multi-species-rna-foundation-model-via-calibrated-secondary-structure-prediction"
@@ -702,32 +764,37 @@ Findings of the 2024 Conference on Empirical Methods in Natural Language Process
 >}}
 
 - The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP'24)](https://2024.emnlp.org/)<br>
 {{< paper_meta
   slug="the-best-defense-is-attack-repairing-semantics-in-textual-adversarial-examples"
+  doi="10.18653/v1/2024.emnlp-main.481"
+  doi_url="https://aclanthology.org/2024.emnlp-main.481/"
   show_pdf="true"
-  show_code="true"
+  show_code="false"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 20.8%"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - OpenTOS: Open-source System for Transfer Learning Bayesian Optimization<br>
-Peili Mao+, **<ins>Ke Li</ins>**<br>
+Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 33rd ACM International Conference on Information and Knowledge Management [(CIKM'24)](https://cikm2024.org/) Demo Paper track<br>
 {{< paper_meta
   slug="opentos-open-source-system-for-transfer-learning-bayesian-optimization"
+  source_icon="ai ai-acm ai-lg"
+  doi="10.1145/3627673.3679225"
+  doi_url="https://dl.acm.org/doi/10.1145/3627673.3679225"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 43.2%"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - RNAInvBench: Benchmark for the RNA Inverse Design Problem<br>
-Jack Cole+, Fan Li+, Liwen Wu+, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
+Jack Cole{{< student_mark >}}, Fan Li{{< student_mark >}}, Liwen Wu{{< student_mark >}}, Krasmira Tsaneva-Atanasova, **<ins>Ke Li</ins>**<br>
 Proc. of the 2024 ICML AI for Science Workshop<br>
 {{< paper_meta
   slug="rnainvbench-benchmark-for-the-rna-inverse-design-problem"
@@ -735,28 +802,32 @@ Proc. of the 2024 ICML AI for Science Workshop<br>
   code="https://github.com/COLA-Laboratory/RNAInvBench"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation<br>
-Shasha Zhou+, Mingyu Huang+, Yanan Sun, **<ins>Ke Li</ins>**<br>
+Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Yanan Sun, **<ins>Ke Li</ins>**<br>
 Proc. of the 2024 ACM International Conference on the Foundations of Software Engineering [(FSE'24)](https://conf.researchr.org/home/fse-2024), 101: 2285--2308, July, 2024<br>
 {{< paper_meta
   slug="evolutionary-multi-objective-optimization-for-contextual-adversarial-example-generation"
+  source_icon="ai ai-acm ai-lg"
+  doi="10.1145/3660808"
+  doi_url="https://dl.acm.org/doi/10.1145/3660808"
   show_pdf="true"
   code="https://github.com/COLA-Laboratory/MOAA"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 21.0%"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence<br>
-Shengbo Wang+, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1609/aaai.v38i14.29488](https://doi.org/10.1609/aaai.v38i14.29488)<br>
+Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](https://aaai.org/aaai-conference/), 38(14): 15607-15615, February, 2024<br>
 {{< paper_meta
   slug="constrained-bayesian-optimization-under-partial-observations-balanced-improvements-and-provable-convergence"
+  doi="10.1609/aaai.v38i14.29488"
+  doi_url="https://ojs.aaai.org/index.php/AAAI/article/view/29488"
   pdf="/publications/WangL24.pdf"
   show_code="true"
   abstract_file="/content/docs/research/abstract/abstract_WangL24.txt"
@@ -766,19 +837,20 @@ Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](
   show_abs="true"
   show_bib="true"
   metric="&asymp; 23.5%"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
-<i class="ai ai-open-access ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [https://aclanthology.org/2024.findings-eacl.13](https://aclanthology.org/2024.findings-eacl.13)<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Findings of the 18th Conference of the European Chapter of the Association for Computational Linguistics [(EACL'24)](https://2024.eacl.org/), p. 182-195, March, 2024.<br>
 {{< paper_meta
   slug="modeling-aspect-sentiment-coherency-via-local-sentiment-aggregation"
+  doi="10.18653/v1/2024.findings-eacl.13"
+  doi_url="https://aclanthology.org/2024.findings-eacl.13"
   pdf="https://aclanthology.org/2024.findings-eacl.13.pdf"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 ## 2023
@@ -786,7 +858,7 @@ Findings of the 18th Conference of the European Chapter of the Association for C
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Multidimensional Resource Fragmentation-Aware Virtual Network Embedding for IoT Applications in MEC Networks<br>
-Yingying Guan+, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
+Yingying Guan{{< student_mark >}}, Qingyang Song, Weijing Qi, Lei Guo, **<ins>Ke Li</ins>**, Abbas Jamalipour<br>
 IEEE Internet of Things Journal (IoTJ), 10(24): 22223--22232, 2023<br>
 {{< paper_meta
   slug="multidimensional-resource-fragmentation-aware-virtual-network-embedding-for-iot-applications-in-mec-networks"
@@ -800,10 +872,11 @@ IEEE Internet of Things Journal (IoTJ), 10(24): 22223--22232, 2023<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank<br>
-**<ins>Ke Li</ins>**, Guiyu Lai+, Xin Yao<br>
+**<ins>Ke Li</ins>**, Guiyu Lai{{< student_mark >}}, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749--763, 2023<br>
 {{< paper_meta
   slug="interactive-evolutionary-multi-objective-optimization-via-learning-to-rank"
@@ -818,11 +891,11 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749--763, 2023<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
-Bo Lyu+, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
+Bo Lyu{{< student_mark >}}, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
 IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415--425, 2023<br>
 {{< paper_meta
   slug="efficient-spectral-graph-convolutional-network-deployment-on-memristive-crossbars"
@@ -836,11 +909,11 @@ IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415--42
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Neural Architecture Search for Portrait Parsing<br>
-Bo Lyu+, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
+Bo Lyu{{< student_mark >}}, Yin Yang, Shiping Wen, Tingwen Huang, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112--1121, 2023<br>
 {{< paper_meta
   slug="neural-architecture-search-for-portrait-parsing"
@@ -854,11 +927,11 @@ IEEE Trans. Neural Networks and Learning Systems (TNNLS), 34(3): 1112--1121, 202
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen+\*<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen{{< student_mark >}}\*<br>
 IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126--140, 2023<br>
 {{< paper_meta
   slug="batched-data-driven-evolutionary-multi-objective-optimization-based-on-manifold-interpolation"
@@ -873,11 +946,11 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(1): 126--140, 2023<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - MTLP-JR: Multi-Task Learning-Based Prediction for Joint Ranking in Neural Architecture Search<br>
-Bo Lyu+, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
+Bo Lyu{{< student_mark >}}, Longfei Lu,  Maher Hamdi, Shiping Wen, Yin Yang, **<ins>Ke Li</ins>**<br>
 Computers & Electrical Engineering, 105: 108474, 2023<br>
 {{< paper_meta
   slug="mtlp-jr-multi-task-learning-based-prediction-for-joint-ranking-in-neural-architecture-search"
@@ -891,35 +964,44 @@ Computers & Electrical Engineering, 105: 108474, 2023<br>
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Multioutput Surrogate Assisted Evolutionary Algorithm for Expensive Multi-Modal Optimization Problems<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Renzhi Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 {{< paper_meta
   slug="multioutput-surrogate-assisted-evolutionary-algorithm-for-expensive-multi-modal-optimization-problems"
+  doi="10.1109/SMC53992.2023.10394405"
+  doi_url="https://ieeexplore.ieee.org/document/10394405"
+  source_icon="ai ai-ieee ai-lg"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  bib_type="inproceedings"
+  bib_key="Chen23"
+  show_citation="true"
 >}}
 
 - Empirical Studies of Resampling Strategies in Noisy Evolutionary Multi-Objective Optimization<br>
-Shasha Zhou+, **<ins>Ke Li</ins>**<br>
+Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 {{< paper_meta
   slug="empirical-studies-of-resampling-strategies-in-noisy-evolutionary-multi-objective-optimization"
+  doi="10.1109/SMC53992.2023.10394174"
+  doi_url="https://ieeexplore.ieee.org/document/10394174"
+  bib_key="ZhouL23"
+  bib_type="inproceedings"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Preference-Based Multi-Objective Optimization with Gaussian Process<br>
-Tian Huang+, **<ins>Ke Li</ins>**<br>
+Tian Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 {{< paper_meta
   slug="preference-based-multi-objective-optimization-with-gaussian-process"
@@ -945,7 +1027,7 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 
 
 - "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
-Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
+Shuang Li{{< student_mark >}}, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
 {{< paper_meta
   slug="why-not-looking-backward-a-robust-two-step-method-to-automatically-terminate-bayesian-optimization"
@@ -962,7 +1044,7 @@ Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'
 >}}
 
 - CamoPatch: An Evolutionary Strategy for Generating Camoflauged Adversarial Patches<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
 {{< paper_meta
   slug="camopatch-an-evolutionary-strategy-for-generating-camoflauged-adversarial-patches"
@@ -974,7 +1056,7 @@ Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'
 >}}
 
 - Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing [(EMNLP'23)](https://2023.emnlp.org/)<br>
 {{< paper_meta
   slug="evolutionary-multi-objective-instruction-optimization-via-large-language-model-based-instruction-operators"
@@ -989,7 +1071,7 @@ Proc. of the 2023 Conference on Empirical Methods in Natural Language Processing
 >}}
 
 - PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 32nd ACM International Conference on Information and Knowledge Management [(CIKM'23)](https://uobevents.eventsair.com/cikm2023/), p. 5117--5122, October, 2023.<br>
 {{< paper_meta
   slug="pyabsa-a-modularized-framework-for-reproducible-aspect-based-sentiment-analysis"
@@ -1000,17 +1082,16 @@ Proc. of the 32nd ACM International Conference on Information and Knowledge Mana
   pdf="https://dl.acm.org/doi/pdf/10.1145/3583780.3614752"
   code="https://github.com/yangheng95/PyABSA."
   abstract_file="/content/docs/research/abstract/abstract_YangZL23.txt"
-  bib_file="/content/bib/YangZL23.bib"
   bib_key="YangZL23"
   bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 35%"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - A Surrogate Assisted Evolutionary Strategy for Image Approximation by Density-Ratio Estimation<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.ieee-cec.org/), p. 1--8, July, 2023.<br>
 {{< paper_meta
   slug="a-surrogate-assisted-evolutionary-strategy-for-image-approximation-by-density-ratio-estimation"
@@ -1019,47 +1100,45 @@ Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.
   source_icon="ai ai-ieee ai-lg"
   show_pdf="true"
   abstract_file="/content/docs/research/abstract/abstract_WilliamsLM23.txt"
-  bib_file="/content/bib/WilliamsLM23.bib"
-  bib_key="WilliamsLM23"
+  bib_key="WilliamsL23"
   bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Exploring Structural Similarity in Fitness Landscapes via Graph Data Mining: A Case Study on Number Partitioning Problems<br>
-Mingyu Huang+, **<ins>Ke Li</ins>**<br>
+Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJCAI'23)](https://ijcai-23.org/), p. 5595--5603, August, 2023.<br>
 {{< paper_meta
   slug="exploring-structural-similarity-in-fitness-landscapes-via-graph-data-mining-a-case-study-on-number-partitioning-problems"
-  doi="10.24963/IJCAI.2023/621"
+  doi="10.24963/ijcai.2023/621"
   doi_url="https://doi.org/10.24963/ijcai.2023/621"
   pdf="https://www.ijcai.org/proceedings/2023/0621.pdf"
   supp="../supp/supp_lon_ijcai23.pdf"
   supp_icon="fa fa-file-pdf-o"
-  abstract_file="/content/docs/research/abstract/abstract_HuangL23.txt"
-  bib_file="/content/bib/HuangL23.bib"
   bib_key="HuangL23"
   bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 15%"
+  show_citation="true"
 >}}
 
 - Boosting Text Augmentation via Hybrid Instance Filtering Framework<br>
-Heng Yang+, **<ins>Ke Li</ins>**<br>
+Heng Yang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Findings of the 61st Annual Meeting of the Association for Computational Linguistics [(ACL'23)](https://2023.aclweb.org/), p. 1652--1669, July, 2023.<br>
 {{< paper_meta
   slug="boosting-text-augmentation-via-hybrid-instance-filtering-framework"
-  doi="10.18653/V1/2023.FINDINGS-ACL.105"
+  doi="10.18653/v1/2023.findings-acl.105"
   doi_url="https://doi.org/10.18653/v1/2023.findings-acl.105"
   pdf="https://aclanthology.org/2023.findings-acl.105.pdf"
-  abstract_file="/content/docs/research/abstract/abstract_YangL23b.txt"
-  bib_file="/content/bib/YangL23b.bib"
   bib_key="YangL23b"
   bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 40.6%"
+  show_citation="true"
 >}}
 
 - Single Application Service Deployment in the Edge Environment Based on the E-CARGO Model<br>
@@ -1070,13 +1149,16 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
   doi="10.1109/CSCWD57460.2023.10152752"
   doi_url="https://ieeexplore.ieee.org/document/10152752"
   source_icon="ai ai-ieee ai-lg"
+  bib_key="ZhangXHZL23"
+  bib_type="inproceedings"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  show_citation="true"
 >}}
 
 - Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR'23)](https://cvpr2023.thecvf.com/), p. 12291--12301, June, 2023.<br>
 {{< paper_meta
   slug="black-box-sparse-adversarial-attack-via-multi-objective-optimisation"
@@ -1085,16 +1167,16 @@ Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(C
   source_icon="ai ai-ieee ai-lg"
   pdf="https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf"
   abstract_file="/content/docs/research/abstract/abstract_WilliamsL23.txt"
-  bib_file="/content/bib/WilliamsL23.bib"
   bib_key="WilliamsL23"
   bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 25%"
+  show_citation="true"
 >}}
 
 - Data-Driven Evolutionary Multi-Objective Optimization Based on Multiple-Gradient Descent for Disconnected Pareto Fronts<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Renzhi Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/), Springer, p. 56-70, March, 2023<br>
 {{< paper_meta
   slug="data-driven-evolutionary-multi-objective-optimization-based-on-multiple-gradient-descent-for-disconnected-pareto-fronts"
@@ -1105,21 +1187,28 @@ Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optim
   supp="https://www.dropbox.com/s/5c8k6slk13wsrnf/supp.pdf?dl=0"
   supp_icon="fa fa-file-pdf-o"
   abstract_file="/content/docs/research/abstract/abstract_ChenL23.txt"
+  bib_key="ChenL23"
+  bib_type="inproceedings"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Sparse Adversarial Attack via Bi-Objective Optimization<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'23)](https://emo2023.liacs.leidenuniv.nl/), Springer, p. 118-133, March, 2023<br>
-<i class="ai ai-springer ai-lg"></i> <i class="ai ai-doi ai-lg"></i> [10.1007/978-3-031-27250-9_9](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_9)<br>
-<i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
 {{< paper_meta
   slug="sparse-adversarial-attack-via-bi-objective-optimization"
+  doi="10.1007/978-3-031-27250-9_9"
+  doi_url="https://link.springer.com/chapter/10.1007/978-3-031-27250-9_9"
+  source_icon="ai ai-springer ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_WilliamsL23.txt"
+  bib_key="WilliamsLGM23"
+  bib_type="inproceedings"
+  show_abs="true"
   show_pdf="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 ## 2022
@@ -1127,7 +1216,7 @@ Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optim
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification<br>
-**<ins>Ke Li</ins>**, Haifeng Nie+, Huiru Gao+, Xin Yao<br>
+**<ins>Ke Li</ins>**, Haifeng Nie{{< student_mark >}}, Huiru Gao{{< student_mark >}}, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 26(6): 1409-1423, 2022<br>
 {{< paper_meta
   slug="posterior-decision-making-based-on-decomposition-driven-knee-point-identification"
@@ -1137,13 +1226,11 @@ IEEE Trans. Evolutionary Computation (TEVC), 26(6): 1409-1423, 2022<br>
   pdf="https://www.dropbox.com/s/dw0wt332adlmcbm/main.pdf?dl=0"
   supp="https://www.dropbox.com/s/153vfu4mhrq4qj0/main.pdf?dl=0"
   code="https://github.com/JerryI00/KPI"
-  abstract_file="/content/docs/research/abstract/abstract_LiNGY22.txt"
-  bib_file="/content/bib/LiNGY22.bib"
   bib_key="LiNGY22"
   bib_type="article"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Distributed UAV Swarm Formation and Collision Avoidance Strategies Over Fixed and Switching Topologies<br>
@@ -1154,14 +1241,12 @@ IEEE Trans. Cybernetics (TCYB), 52(10): 10969-10979, 2022<br>
   doi="10.1109/TCYB.2021.3132587"
   doi_url="https://ieeexplore.ieee.org/document/9663025"
   source_icon="ai ai-ieee ai-lg"
-  show_pdf="true"
-  abstract_file="/content/docs/research/abstract/abstract_WuLLL22.txt"
-  bib_file="/content/bib/WuLLL22.bib"
   bib_key="WuLLL22"
   bib_type="article"
+  show_pdf="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Transfer Learning Based Parallel Evolutionary Algorithm Framework for Bi-level Optimization<br>
@@ -1172,39 +1257,35 @@ IEEE Trans. Evolutionary Computation (TEVC), 26(1): 115-129, 2022<br>
   doi="10.1109/TEVC.2021.3095313"
   doi_url="https://ieeexplore.ieee.org/abstract/document/9476019"
   source_icon="ai ai-ieee ai-lg"
-  show_pdf="true"
-  show_code="true"
-  abstract_file="/content/docs/research/abstract/abstract_ChenLTL22.txt"
-  bib_file="/content/bib/ChenLTL22.bib"
   bib_key="ChenLTL22"
   bib_type="article"
+  show_pdf="true"
+  show_code="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Preference based Multi-Objective Reinforcement Learning for Multi-Microgrid System Optimization Problem in Smart Grid<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
 Memetic Computing (MC), 14(2): 225-235, 2022<br>
 {{< paper_meta
   slug="preference-based-multi-objective-reinforcement-learning-for-multi-microgrid-system-optimization-problem-in-smart-grid"
   doi="10.1007/s12293-022-00357-w"
   doi_url="https://link.springer.com/article/10.1007/s12293-022-00357-w"
   source_icon="ai ai-springer ai-lg"
-  show_pdf="true"
-  abstract_file="/content/docs/research/abstract/abstract_XuLA22.txt"
-  bib_file="/content/bib/XuLA22.bib"
   bib_key="XuLA22"
   bib_type="article"
+  show_pdf="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Surrogate-Assisted Evolutionary Multi-Objective Optimization for Hardware Design Space Exploration<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Renzhi Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 {{< paper_meta
   slug="surrogate-assisted-evolutionary-multi-objective-optimization-for-hardware-design-space-exploration"
@@ -1216,7 +1297,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 >}}
 
 - Are All Training Data Useful? A Empirical Revisit of Subset Selection in Bayesian Optimization<br>
-Peili Mao+, **<ins>Ke Li</ins>**<br>
+Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 {{< paper_meta
   slug="are-all-training-data-useful-a-empirical-revisit-of-subset-selection-in-bayesian-optimization"
@@ -1228,7 +1309,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 >}}
 
 - Imputation and Forecasting for Multi-Output Gaussian Process in Smart Grid<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems, 2022<br>
 <i class='fa fa-file-text-o' style='font-size:16px'></i> `Abs`</a> |
 {{< paper_meta
@@ -1239,7 +1320,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 >}}
 
 - Do We Really Need to Use Constraint Violation in Constrained Evolutionary Multi-Objective Optimization?<br>
-Shuang Li+, **<ins>Ke Li</ins>**, Wei Li<br>
+Shuang Li{{< student_mark >}}, **<ins>Ke Li</ins>**, Wei Li<br>
 Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/), Springer, p. 124-137, September, 2022<br>
 {{< paper_meta
   slug="do-we-really-need-to-use-constraint-violation-in-constrained-evolutionary-multi-objective-optimization"
@@ -1253,7 +1334,7 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
 
 
 - Attention-Based Genetic Algorithm for Adversarial Attack in Natural Language Processing<br>
-Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 17the International Conference on Parallel Problem Solving from Nature [(PPSN'22)](https://ppsn2022.cs.tu-dortmund.de/), Springer, p. 341-355, September, 2022<br>
 {{< paper_meta
   slug="attention-based-genetic-algorithm-for-adversarial-attack-in-natural-language-processing"
@@ -1267,7 +1348,7 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
 
 
 - Black-Box Adversarial Attack via Overlapped Shapes<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage), ACM, p. 467-468, July, 2022<br>
 {{< paper_meta
   slug="black-box-adversarial-attack-via-overlapped-shapes"
@@ -1281,7 +1362,7 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
 
 
 - Adversarial Attack Example Generation via Genetic Algorithm: A Preliminary Result<br>
-Shasha Zhou+, **<ins>Ke Li</ins>**, Geyong Min<br>
+Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min<br>
 Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GECCO’22)](https://gecco-2022.sigevo.org/HomePage), ACM, p. 469-470, July, 2022<br>
 {{< paper_meta
   slug="adversarial-attack-example-generation-via-genetic-algorithm-a-preliminary-result"
@@ -1315,7 +1396,7 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Vertical Distance-based Clonal Selection Mechanism for the Multiobjective Immune Algorithm<br>
-Lingjie Li+, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
+Lingjie Li{{< student_mark >}}, Qiuzhen Lin, **<ins>Ke Li</ins>**, Zhong Ming<br>
 Swarm and Evolutionary Computation (SWEVO), 106: 107299, 2021<br>
 {{< paper_meta
   slug="vertical-distance-based-clonal-selection-mechanism-for-the-multiobjective-immune-algorithm"
@@ -1330,7 +1411,7 @@ Swarm and Evolutionary Computation (SWEVO), 106: 107299, 2021<br>
 >}}
 
 - A Vector Angles-Based Many-Objective Particle Swarm Optimization Algorithm Using Archive<br>
-Lei Yang+, Xin Hu, **<ins>Ke Li</ins>**<br>
+Lei Yang{{< student_mark >}}, Xin Hu, **<ins>Ke Li</ins>**<br>
 Applied Soft Computing (ASOC), 63: 100886, 2021<br>
 {{< paper_meta
   slug="a-vector-angles-based-many-objective-particle-swarm-optimization-algorithm-using-archive"
@@ -1362,7 +1443,7 @@ Information Sciences (INS), 554: 256--275, 2021<br>
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Knee Point Identification Based on the Geometric Characteristic<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Renzhi Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 764--769, October, 2021<br>
 {{< paper_meta
   slug="knee-point-identification-based-on-the-geometric-characteristic"
@@ -1377,7 +1458,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 >}}
 
 - Large-Scale Evolutionary Optimization via Multi-Task Random Grouping<br>
-Phoenix Williams+, **<ins>Ke Li</ins>**<br>
+Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 778--783, October, 2021<br>
 {{< paper_meta
   slug="large-scale-evolutionary-optimization-via-multi-task-random-grouping"
@@ -1392,7 +1473,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 >}}
 
 - Transfer Bayesian Optimization for Expensive Black-Box Optimization in Dynamic Environment<br>
-Renzhi Chen+, **<ins>Ke Li</ins>**<br>
+Renzhi Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 1374--1379, October, 2021<br>
 {{< paper_meta
   slug="transfer-bayesian-optimization-for-expensive-black-box-optimization-in-dynamic-environment"
@@ -1407,7 +1488,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 >}}
 
 - ADMM-based OPF Problem Against Cyber Attacks in Smart Grid<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**, Mohammad Abusara, Yan Zhang<br>
 Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'21)](http://ieeesmc2021.org/), IEEE, p. 1418--1423, October, 2021<br>
 {{< paper_meta
   slug="admm-based-opf-problem-against-cyber-attacks-in-smart-grid"
@@ -1422,7 +1503,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
 >}}
 
 - An Enhancement of the NSGA-II Reliability Optimization using Extended Kalman Filter Based Initialization<br>
-Savas Yuec+, **<ins>Ke Li</ins>**<br>
+Savas Yuec{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](https://ukci2021.dcs.aber.ac.uk/), Springer, p. 121--128, September, 2021<br>
 {{< paper_meta
   slug="an-enhancement-of-the-nsga-ii-reliability-optimization-using-extended-kalman-filter-based-initialization"
@@ -1438,7 +1519,7 @@ Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](htt
 
 
 - Empirical Studies on the Role of the Decision Maker in Interactive Evolutionary Multi-Objective Optimization<br>
-Guiyu Lai+, Minhui Liao, **<ins>Ke Li</ins>**<br>
+Guiyu Lai{{< student_mark >}}, Minhui Liao, **<ins>Ke Li</ins>**<br>
 Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://cec2021.mini.pw.edu.pl/), IEEE, p. 1--8, June, 2021<br>
 {{< paper_meta
   slug="empirical-studies-on-the-role-of-the-decision-maker-in-interactive-evolutionary-multi-objective-optimization"
@@ -1453,7 +1534,7 @@ Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://c
 >}}
 
 - Empirical Study of Correlations in the Fitness Landscapes of Combinatorial Optimization Problems<br>
-Longfei Zhang+, **<ins>Ke Li</ins>**, Shi Gu<br>
+Longfei Zhang{{< student_mark >}}, **<ins>Ke Li</ins>**, Shi Gu<br>
 Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GECCO’21)](https://gecco-2021.sigevo.org/), ACM, p. 247--248, July, 2021.<br>
 {{< paper_meta
   slug="empirical-study-of-correlations-in-the-fitness-landscapes-of-combinatorial-optimization-problems"
@@ -1468,7 +1549,7 @@ Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GE
 >}}
 
 - An Improved Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
-Xinyu Shan+, **<ins>Ke Li</ins>**<br>
+Xinyu Shan{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 235--247, March, 2021<br>
 {{< paper_meta
   slug="an-improved-two-archive-evolutionary-algorithm-for-constrained-multi-objective-optimization"
@@ -1483,7 +1564,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 >}}
 
 - Multi-Objective Reinforcement Learning based Multi-Microgrid System Optimisation Problem<br>
-Jiangjiao Xu+, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
+Jiangjiao Xu{{< student_mark >}}, **<ins>Ke Li</ins>**, Mohammad Abusara<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 684--696, March, 2021<br>
 {{< paper_meta
   slug="multi-objective-reinforcement-learning-based-multi-microgrid-system-optimisation-problem"
@@ -1498,7 +1579,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 >}}
 
 - Parallel Algorithms for Multiobjective Virtual Network Function Placement Problem<br>
-Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
+Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optimization [(EMO'21)](https://www.emo2021.org/), Springer LNCS, volume 12654, p. 708--720, March, 2021<br>
 {{< paper_meta
   slug="parallel-algorithms-for-multiobjective-virtual-network-function-placement-problem"
@@ -1519,7 +1600,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Does Preference Always Help? A Holistic Study on Preference-Based Evolutionary Multi-Objective Optimisation Using Reference Points<br>
-**<ins>Ke Li</ins>**, Minhui Liao+, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
+**<ins>Ke Li</ins>**, Minhui Liao{{< student_mark >}}, Kalyanmoy Deb, Geyong Min, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 24(6): 1078--1096, 2020.<br>
 {{< paper_meta
   slug="does-preference-always-help-a-holistic-study-on-preference-based-evolutionary-multi-objective-optimisation-using-reference-points"
@@ -1550,7 +1631,7 @@ Water Resources Management, 34: 1005--1020, 2020.<br>
 >}}
 
 - Evolutionary Many-Objective Optimization Based on Adversarial Decomposition<br>
-Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang<br>
+Mengyuan Wu{{< student_mark >}}, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang<br>
 IEEE Trans. Cybernetics (TCYB), 50(2): 753--764, 2020.<br>
 {{< paper_meta
   slug="evolutionary-many-objective-optimization-based-on-adversarial-decomposition"
@@ -1569,7 +1650,7 @@ IEEE Trans. Cybernetics (TCYB), 50(2): 753--764, 2020.<br>
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Performance Analysis of SDN and NFV enabled Mobile Cloud Computing<br>
-Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
+Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 2020 IEEE Global Communications Conference [(GLOBECOM'20)](https://globecom2020.ieee-globecom.org/), IEEE Press: p. 1--6, December, 2020<br>
 {{< paper_meta
   slug="performance-analysis-of-sdn-and-nfv-enabled-mobile-cloud-computing"
@@ -1584,7 +1665,7 @@ Proc. of the 2020 IEEE Global Communications Conference [(GLOBECOM'20)](https://
 >}}
 
 - Knee Point Identification Based on Voronoi Diagram<br>
-Haifeng Nie+, Huiru Gao+, **<ins>Ke Li</ins>**<br>
+Haifeng Nie{{< student_mark >}}, Huiru Gao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2020 IEEE Conference on Systems, Man and Cybernetics [(SMC'20)](http://smc2020.org/), IEEE Press: p. 1--6, December, 2020<br>
 {{< paper_meta
   slug="knee-point-identification-based-on-voronoi-diagram"
@@ -1599,7 +1680,7 @@ Proc. of the 2020 IEEE Conference on Systems, Man and Cybernetics [(SMC'20)](htt
 >}}
 
 - BiLO-CPDP: Bi-Level Programming for Automated Model Discovery in Cross-Project Defect Prediction<br>
-**<ins>Ke Li</ins>**, Zilin Xiang+, Tao Chen, Kay Chen Tan<br>
+**<ins>Ke Li</ins>**, Zilin Xiang{{< student_mark >}}, Tao Chen, Kay Chen Tan<br>
 Proc. of the 35th IEEE/ACM International Conference on Automated Software Engineering [(ASE'20)](https://conf.researchr.org/home/ase-2020), IEEE Press: September, 2020<br>
 {{< paper_meta
   slug="bilo-cpdp-bi-level-programming-for-automated-model-discovery-in-cross-project-defect-prediction"
@@ -1615,7 +1696,7 @@ Proc. of the 35th IEEE/ACM International Conference on Automated Software Engine
 >}}
 
 - Adaptive Operator Selection Based on Dynamic Thompson Sampling for MOEA/D<br>
-Lei Sun+, **<ins>Ke Li</ins>**<br>
+Lei Sun{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 16th International Conference on Parallel Problem Solving from Nature [(PPSN XVI)](https://ppsn2020.liacs.leidenuniv.nl/), Springer LNCS, volume 12270, p. 271--284, Septermber, 2020.<br>
 {{< paper_meta
   slug="adaptive-operator-selection-based-on-dynamic-thompson-sampling-for-moea-d"
@@ -1630,7 +1711,7 @@ Proc. of the 16th International Conference on Parallel Problem Solving from Natu
 >}}
 
 - Surrogate Assisted Evolutionary Algorithm for Medium Scale Multi-Objective Optimisation Problems<br>
-Xiaoran Ruan+, **<ins>Ke Li</ins>**, Bilel Derbel, Arnaud Liefooghe<br>
+Xiaoran Ruan{{< student_mark >}}, **<ins>Ke Li</ins>**, Bilel Derbel, Arnaud Liefooghe<br>
 Proc. of the 22th Annual Conference on Genetic and Evolutionary Computation [(GECCO’20)](https://gecco-2020.sigevo.org/index.html/HomePage), ACM Press: p. 560--568, July, 2020.<br>
 {{< paper_meta
   slug="surrogate-assisted-evolutionary-algorithm-for-medium-scale-multi-objective-optimisation-problems"
@@ -1645,7 +1726,7 @@ Proc. of the 22th Annual Conference on Genetic and Evolutionary Computation [(GE
 >}}
 
 - Routing-Led Placement of VNFs in Arbitrary Networks<br>
-Joseph Billingsley+, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
+Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Wang Miao, Geyong Min, Nektarios Georgalas<br>
 Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https://wcci2020.org/), IEEE Press: p. 1--8, July, 2020.<br>
 {{< paper_meta
   slug="routing-led-placement-of-vnfs-in-arbitrary-networks"
@@ -1675,7 +1756,7 @@ Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https
 >}}
 
 - DeepSQLi: Deep Semantic Learning for Testing SQL Injection<br>
-Muyang Liu+, **<ins>Ke Li</ins>**, Tao Chen<br>
+Muyang Liu{{< student_mark >}}, **<ins>Ke Li</ins>**, Tao Chen<br>
 Proc. of the ACM SIGSOFT 2020 International Symposium on Software Testing and Analysis [(ISSTA'20)](https://conf.researchr.org/home/issta-2020), ACM Press: p. 286--297, July, 2020.<br>
 {{< paper_meta
   slug="deepsqli-deep-semantic-learning-for-testing-sql-injection"
@@ -1691,7 +1772,7 @@ Proc. of the ACM SIGSOFT 2020 International Symposium on Software Testing and An
 >}}
 
 - Understanding the Automated Parameter Optimization on Transfer Learning for Cross-Project Defect Prediction: An Empirical Study<br>
-**<ins>Ke Li</ins>**\*, Zilin Xiang+\*, Tao Chen\*, Shuo Wang, Kay Chen Tan<br>
+**<ins>Ke Li</ins>**\*, Zilin Xiang{{< student_mark >}}\*, Tao Chen\*, Shuo Wang, Kay Chen Tan<br>
 Proc. of the 42nd International Conference on Software Engineering [(ICSE'20)](https://conf.researchr.org/home/icse-2020), ACM Press: p. 566--577, June, 2020.<br>
 {{< paper_meta
   slug="understanding-the-automated-parameter-optimization-on-transfer-learning-for-cross-project-defect-prediction-an-empirical-study"
@@ -1728,7 +1809,7 @@ Proc. of the 20th European Conference on Evolutionary Computation in Combinatori
 ### <i class='fa fa-leanpub' style='font-size:18px'></i> Journal
 
 - Learning to Decompose: A Paradigm for Decomposition-Based Multi-Objective Optimization<br>
-Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Jun Zhang<br>
+Mengyuan Wu{{< student_mark >}}, **<ins>Ke Li</ins>**, Sam Kwong, Qingfu Zhang, Jun Zhang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 23(3): 376–390, 2019.<br>
 {{< paper_meta
   slug="learning-to-decompose-a-paradigm-for-decomposition-based-multi-objective-optimization"
@@ -1745,7 +1826,7 @@ IEEE Trans. Evolutionary Computation (TEVC), 23(3): 376–390, 2019.<br>
 >}}
 
 - Interactive Decomposition Multi-Objective Optimization via Progressively Learned Value Functions<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Dragan Savic, Xin Yao<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen\*{{< student_mark >}}, Dragan Savic, Xin Yao<br>
 IEEE Trans. Fuzzy Systems (TFS), 27(5): 845–860, 2019.<br>
 {{< paper_meta
   slug="interactive-decomposition-multi-objective-optimization-via-progressively-learned-value-functions"
@@ -1763,7 +1844,7 @@ IEEE Trans. Fuzzy Systems (TFS), 27(5): 845–860, 2019.<br>
 >}}
 
 - Two-Archive Evolutionary Algorithm for Constrained Multi-Objective Optimization<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Guangtao Fu, Xin Yao<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen\*{{< student_mark >}}, Guangtao Fu, Xin Yao<br>
 IEEE Trans. Evolutionary Computation (TEVC), 23(2): 303–315, 2019.<br>
 {{< paper_meta
   slug="two-archive-evolutionary-algorithm-for-constrained-multi-objective-optimization"
@@ -1798,7 +1879,7 @@ Swarm and Evolutionary Computation, 47: 33--43, 2019.<br>
 ### <i class='fa fa-cubes' style='font-size:18px'></i> Conference
 
 - Which Surrogate Works for Empirical Performance Modelling? A Case Study with Differential Evolution<br>
-**<ins>Ke Li</ins>**, Zilin Xiang+, Kay Chen Tan<br>
+**<ins>Ke Li</ins>**, Zilin Xiang{{< student_mark >}}, Kay Chen Tan<br>
 Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press: p. 1988--1995, June, 2019.<br>
 {{< paper_meta
   slug="which-surrogate-works-for-empirical-performance-modelling-a-case-study-with-differential-evolution"
@@ -1814,7 +1895,7 @@ Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press
 >}}
 
 - Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons<br>
-Huiru Gao+, Haifeng Nie+, **<ins>Ke Li</ins>**<br>
+Huiru Gao{{< student_mark >}}, Haifeng Nie{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press: p. 1750--1757, June, 2019.<br>
 {{< paper_meta
   slug="visualisation-of-pareto-front-approximation-a-short-survey-and-empirical-comparisons"
@@ -1847,7 +1928,7 @@ Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GEC
 >}}
 
 - Security Testing of Web Applications: A Search-Based Approach for Detecting SQL Injection Vulnerabilities<br>
-Muyang Liu+, **<ins>Ke Li</ins>**, Tao Chen<br>
+Muyang Liu{{< student_mark >}}, **<ins>Ke Li</ins>**, Tao Chen<br>
 Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GECCO’19), ACM Press: p. 417--418, July 2019.<br> 
 {{< paper_meta
   slug="security-testing-of-web-applications-a-search-based-approach-for-detecting-sql-injection-vulnerabilities"
@@ -1918,7 +1999,7 @@ IEEE Trans. Evolutionary Computation (TEVC), 22(6): 821--835, 2018.<br>
 >}}
 
 - Integration of Preferences in Decomposition Multiobjective Optimization<br> 
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Geyong Min, Xin Yao<br> 
+**<ins>Ke Li</ins>**\*, Renzhi Chen\*{{< student_mark >}}, Geyong Min, Xin Yao<br> 
 IEEE Trans. Cybernetics (TCYB), 48(12): 3359--3370, 2018.<br> 
 {{< paper_meta
   slug="integration-of-preferences-in-decomposition-multiobjective-optimization"
@@ -1969,7 +2050,7 @@ ACM Trans. Software Engineering and Methodology (TOSEM), 27(2): 1--50, 2018.<br>
 >}}
 
 - Dynamic Multi-Objectives Optimization with a Changing Number of Objectives<br>
-**<ins>Ke Li</ins>**\*, Renzhi Chen\*+, Xin Yao,<br>
+**<ins>Ke Li</ins>**\*, Renzhi Chen\*{{< student_mark >}}, Xin Yao,<br>
 IEEE Trans. Evolutionary Computation (TEVC), 21(1): 157--171, 2018.<br>
 {{< paper_meta
   slug="dynamic-multi-objectives-optimization-with-a-changing-number-of-objectives"
@@ -2046,7 +2127,7 @@ IEEE Trans. Cybernetics (TCYB), 47(9): 2838--2849, 2017.<br>
 >}}
 
 - Matching-Based Selection with Incomplete Lists for Decomposition Multi-Objective Optimization<br>
-Mengyuan Wu+, **<ins>Ke Li</ins>**, Sam Kwong, Yu Zhou, Qingfu Zhang<br>
+Mengyuan Wu{{< student_mark >}}, **<ins>Ke Li</ins>**, Sam Kwong, Yu Zhou, Qingfu Zhang<br>
 IEEE Trans. Evolutionary Computation (TEVC), 21(4): 554--568, 2017.<br>
 {{< paper_meta
   slug="matching-based-selection-with-incomplete-lists-for-decomposition-multi-objective-optimization"

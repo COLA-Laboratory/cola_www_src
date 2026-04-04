@@ -1,0 +1,20 @@
+{{- $icon := "fas fa-hippo" -}}
+{{- with .Get "icon" -}}
+  {{- $icon = . -}}
+{{- end -}}
+
+{{- $title := "Current/previous student or visitor" -}}
+{{- with .Get "title" -}}
+  {{- $title = . -}}
+{{- end -}}
+
+{{- $sup := true -}}
+{{- with .Get "sup" -}}
+  {{- $sup = ne (lower (printf "%v" .)) "false" -}}
+{{- end -}}
+
+{{- if $sup -}}
+<sup class="student-mark" title="{{ $title | htmlEscape }}"><i class="{{ $icon }}" aria-hidden="true"></i></sup>
+{{- else -}}
+<i class="{{ $icon }}" aria-hidden="true"></i>
+{{- end -}}
