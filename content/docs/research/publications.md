@@ -255,7 +255,7 @@ ACM Computing Surveys (CSUR)<br>
 >}}
 
 - Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
-Siwei Zheng{{< student_mark >}}, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
+Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Computational Social Systems (TCSS)<br>
 {{< paper_meta
   doi="10.1109/TCSS.2025.3582364"
