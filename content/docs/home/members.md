@@ -66,7 +66,7 @@ hr.dashed {
         <img src="/media/KL3.jpeg" width="120px", height="120px">
     </div>
     <div class="item2">
-        Dr Ke Li<br>
+        Ke Li<br>
         UKRI FLF | Turing Fellow<br>
         Reader in Computer Science<br>
         Department of Computer Science<br>
@@ -84,7 +84,29 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Mingyu Huang<br>
+        Jiangtao Shen<br>
+        Research Fellow<br>
+        04/2025 – present<br>
+        <em>Interests</em>: LLM-powered algorithm discovery
+    </div>
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Hongjie Wu<br>
+        Research Associate<br>
+        04/2026 – present<br>
+        <em>Interests</em>: Explainable AI Agent
+    </div>
+
+</div>
+
+<div class="grid-container">
+    <div class="item1">
+        <img src="/media/default.jpeg" width="120px", height="130px">
+    </div>
+    <div class="item2">
+        Mingyu Huang<br>
         Research Associate<br>
         11/2025 – present<br>
         <em>Interests</em>: XAI, agentic system, landscape analysis
@@ -93,22 +115,10 @@ hr.dashed {
         <img src="/media/default.jpeg" width="120px", height="130px">
     </div>
     <div class="item2">
-        Dr Thomas Chambers<br>
+        Thomas Chambers<br>
         Research Associate<br>
         01/2026 – present<br>
         <em>Interests</em>: Cell segmentation
-    </div>
-</div>
-
-<div class="grid-container">
-    <div class="item1">
-        <img src="/media/default.jpeg" width="120px", height="130px">
-    </div>
-    <div class="item2">
-        Dr Jiangtao Shen<br>
-        Research Fellow<br>
-        04/2025 – present<br>
-        <em>Interests</em>: Multi-task optimization
     </div>
 </div>
 
@@ -239,10 +249,16 @@ hr.dashed {
     - Job: -> Tonghuashun Ltd
     - Output: 1 NMI, 1 IEEE Trans, AAAI, ACL, EMNLP, ECAL papers
 
+- Dr Bo Lyu
+    - 01/09/2018 -- 01/07/2022, The University of Electronic Science and Technology of China
+    - PhD student, co-supervised with Prof. Shiping Wen
+    - Job: -> Zhijiang Lab
+    - Outputs: 2 IEEE Trans, 1 journal paper
+
 - Dr Phoenix Williams
     - 01/09/2020 -- 01/07/2024, University of Exeter
     - PhD student, co-supervised with Prof. Geyong Min
-    - Job: -> GSK
+    - Job: -> GSK.ai -> Llyods Banking Group
     - Outputs: 1 IEEE Trans, CVPR, NeurIPS, EMO, SMC, GECCO, and CEC papers
 
 - Dr Joseph Billingsly
@@ -254,12 +270,13 @@ hr.dashed {
 - Dr Mengyuan Wu
     - 01/09/2014 -- 01/07/2018, City University of Hong Kong
     - PhD student, co-supervised with Prof. Sam Kwong
-    - Job: -> Huawei Noah's Ark Laboratory
+    - Job: -> Huawei Noah's Ark Laboratory -> Shein Lab
     - Outputs: 3 IEEE Trans papers, 1 GECCO paper, 1 SMC paper
+    
 - Dr Renzhi Chen 
     - 01/09/2013 -- 01/06/2018, University of Birmingham
     - PhD student, co-supervised with Prof. Xin Yao
-    - Job: -> National Defense University of Technology -> PLA Academy of Military Science
+    - Job: -> National Defense University of Technology -> PLA Academy of Military Science -> Qiyuan Lab
     - Outputs: 4 IEEE Trans papers
 
 {{< /tab >}}
@@ -318,7 +335,10 @@ hr.dashed {
 {{< /tab >}}
 
 {{< tab "Visiting scholars" >}}
-
+- Dr Senyue Zhang
+    - 01/12/2022 -- 31/11/2023, Shenyang Aerospace University
+    - Visiting scholar
+    - Job: -> Shenyang Aerospace University
 - Dr Lei Yang
     - 01/12/2017 -- 01/12/2018, South China Agricultural University
     - Visiting scholar
