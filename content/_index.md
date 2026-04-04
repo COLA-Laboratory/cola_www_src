@@ -52,8 +52,7 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 {{< columns >}}
 
 Ke Li<br>
-Living Systems Institute and<br>
-Department of Computer Science<br>
+Living Systems Institute<br>
 Room T05.17, Sir Steve Smith Building<br>
 University of Exeter<br>
 Streatham Campus, Stocker Road<br>

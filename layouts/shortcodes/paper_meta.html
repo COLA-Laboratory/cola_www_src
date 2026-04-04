@@ -1,0 +1,537 @@
+{{- $doi := .Get "doi" -}}
+{{- $metadataDoi := .Get "metadata_doi" -}}
+{{- $sourceLabel := .Get "source_label" -}}
+{{- $sourceURL := .Get "source_url" -}}
+{{- $dateText := .Get "date_text" -}}
+{{- $pdf := .Get "pdf" -}}
+{{- $pdfLabel := or (.Get "pdf_label") "PDF" -}}
+{{- $supp := .Get "supp" -}}
+{{- $suppLabel := or (.Get "supp_label") "Supp" -}}
+{{- $code := .Get "code" -}}
+{{- $codeLabel := or (.Get "code_label") "Code" -}}
+{{- $project := .Get "project" -}}
+{{- $projectLabel := or (.Get "project_label") "Project" -}}
+{{- $blog := .Get "blog" -}}
+{{- $blogLabel := or (.Get "blog_label") "Blog" -}}
+{{- $web := .Get "web" -}}
+{{- $webLabel := or (.Get "web_label") "Web" -}}
+{{- $showAbs := eq (.Get "show_abs") "true" -}}
+{{- $showPDF := or (eq (.Get "show_pdf") "true") (ne $pdf "") -}}
+{{- $showSupp := or (eq (.Get "show_supp") "true") (ne $supp "") -}}
+{{- $showCode := or (eq (.Get "show_code") "true") (ne $code "") -}}
+{{- $showProject := or (eq (.Get "show_project") "true") (ne $project "") -}}
+{{- $showBlog := or (eq (.Get "show_blog") "true") (ne $blog "") -}}
+{{- $showWeb := or (eq (.Get "show_web") "true") (ne $web "") -}}
+{{- $showBib := eq (.Get "show_bib") "true" -}}
+{{- $metric := .Get "metric" -}}
+{{- $metricIcon := or (.Get "metric_icon") "fa fa-pie-chart" -}}
+{{- $absIcon := or (.Get "abs_icon") "fa fa-file-text-o" -}}
+{{- $pdfIcon := or (.Get "pdf_icon") "fa fa-file-pdf-o" -}}
+{{- $suppIcon := or (.Get "supp_icon") "fa fa-folder-open-o" -}}
+{{- $codeIcon := or (.Get "code_icon") "fa fa-file-code-o" -}}
+{{- $projectIcon := or (.Get "project_icon") "fa fa-folder-open-o" -}}
+{{- $blogIcon := or (.Get "blog_icon") "fa fa-newspaper-o" -}}
+{{- $webIcon := or (.Get "web_icon") "fa fa-desktop" -}}
+{{- $bibIcon := or (.Get "bib_icon") "fa fa-quote-right" -}}
+{{- $citationIcon := or (.Get "citation_icon") "fa fa-bar-chart-o" -}}
+{{- $abstractTextParam := .Get "abstract_text" -}}
+{{- $abstractFile := .Get "abstract_file" -}}
+{{- $bibFile := .Get "bib_file" -}}
+{{- $bibKey := .Get "bib_key" -}}
+{{- $bibType := .Get "bib_type" -}}
+{{- $bibTitle := .Get "bib_title" -}}
+{{- $bibContainer := or (.Get "bib_container") (.Get "bib_journal") -}}
+{{- $bibContainerField := .Get "bib_container_field" -}}
+{{- $bibURL := .Get "bib_url" -}}
+{{- $lookupTitle := or (.Get "lookup_title") (.Get "metadata_title") $bibTitle -}}
+{{- $lookupTitleNorm := replaceRE "[^a-z0-9]+" "" (lower $lookupTitle) -}}
+{{- $displayDoiURL := or (.Get "doi_url") (cond (ne $doi "") (printf "https://doi.org/%s" $doi) "") -}}
+{{- $lookupDoi := or $doi $metadataDoi -}}
+{{- $sourceIcon := .Get "source_icon" -}}
+{{- $sourceIcon2 := .Get "source_icon2" -}}
+{{- $sourceIcon3 := .Get "source_icon3" -}}
+{{- $slugSource := or (.Get "slug") $doi $metadataDoi $lookupTitle $sourceLabel $bibKey $pdfLabel "paper-meta" -}}
+{{- $slug := trim (replaceRE "-+" "-" (replaceRE "[^a-z0-9]+" "-" (lower $slugSource))) "-" -}}
+{{- $abstractID := printf "abstract-%s" $slug -}}
+{{- $bibID := printf "bib-%s" $slug -}}
+{{- $openalex := dict -}}
+{{- $csl := dict -}}
+{{- $crossref := dict -}}
+{{- $abstractText := "abstract unavailable" -}}
+{{- $bibtex := "bibtex unavailable" -}}
+{{- $abstractAvailable := false -}}
+{{- $bibAvailable := false -}}
+
+{{- if $lookupTitle -}}
+  {{- $crossrefURL := printf "https://api.crossref.org/works?rows=10&query.title=%s" ($lookupTitle | urlquery) -}}
+  {{- with try (resources.GetRemote $crossrefURL) -}}
+    {{- with .Value -}}
+      {{- $crossrefResponse := . | transform.Unmarshal -}}
+      {{- with index (index $crossrefResponse "message") "items" -}}
+        {{- $crossrefMatched := false -}}
+        {{- range . -}}
+          {{- $candidateTitle := "" -}}
+          {{- with index . "title" -}}
+            {{- with index . 0 -}}
+              {{- $candidateTitle = printf "%v" . -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if and (not $crossrefMatched) $candidateTitle (eq (replaceRE "[^a-z0-9]+" "" (lower $candidateTitle)) $lookupTitleNorm) -}}
+            {{- $crossref = . -}}
+            {{- $crossrefMatched = true -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if and (not $crossrefMatched) (eq (len $crossref) 0) (gt (len .) 0) -}}
+          {{- $crossref = index . 0 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (not $lookupDoi) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "DOI" -}}
+    {{- $lookupDoi = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+{{- $lookupDoiURL := or (.Get "metadata_doi_url") $displayDoiURL (cond (ne $lookupDoi "") (printf "https://doi.org/%s" $lookupDoi) "") -}}
+{{- $showCitation := and (ne (.Get "show_citation") "false") (ne $lookupDoi "") -}}
+
+{{- if $lookupDoi -}}
+  {{- $openalexURL := printf "https://api.openalex.org/works/https://doi.org/%s" $lookupDoi -}}
+  {{- with try (resources.GetRemote $openalexURL) -}}
+    {{- with .Value -}}
+      {{- $openalex = . | transform.Unmarshal -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with $openalex.abstract_inverted_index -}}
+    {{- $scratch := newScratch -}}
+    {{- $positions := slice -}}
+    {{- range $token, $tokenPositions := . -}}
+      {{- range $tokenPositions -}}
+        {{- $positions = $positions | append (dict "pos" . "token" $token) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $scratch.Set "tokens" (slice) -}}
+    {{- range sort $positions "pos" -}}
+      {{- $scratch.Add "tokens" (slice .token) -}}
+    {{- end -}}
+    {{- $abstractText = delimit ($scratch.Get "tokens") " " -}}
+  {{- end -}}
+
+  {{- with try (resources.GetRemote (printf "https://doi.org/%s" $lookupDoi) (dict "headers" (dict "Accept" "application/vnd.citationstyles.csl+json"))) -}}
+    {{- with .Value -}}
+      {{- $csl = .Content | transform.Unmarshal -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (eq (len $openalex) 0) $lookupTitle -}}
+  {{- $openalexSearchURL := printf "https://api.openalex.org/works?per-page=10&search=%s" ($lookupTitle | urlquery) -}}
+  {{- with try (resources.GetRemote $openalexSearchURL) -}}
+    {{- with .Value -}}
+      {{- $openalexResponse := . | transform.Unmarshal -}}
+      {{- with index $openalexResponse "results" -}}
+        {{- $openalexMatched := false -}}
+        {{- range . -}}
+          {{- $candidateTitle := printf "%v" (or (index . "display_name") "") -}}
+          {{- if and (not $openalexMatched) $candidateTitle (eq (replaceRE "[^a-z0-9]+" "" (lower $candidateTitle)) $lookupTitleNorm) -}}
+            {{- $openalex = . -}}
+            {{- $openalexMatched = true -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if and (not $openalexMatched) (eq (len $openalex) 0) (gt (len .) 0) -}}
+          {{- $openalex = index . 0 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with $openalex.abstract_inverted_index -}}
+    {{- $scratch := newScratch -}}
+    {{- $positions := slice -}}
+    {{- range $token, $tokenPositions := . -}}
+      {{- range $tokenPositions -}}
+        {{- $positions = $positions | append (dict "pos" . "token" $token) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $scratch.Set "tokens" (slice) -}}
+    {{- range sort $positions "pos" -}}
+      {{- $scratch.Add "tokens" (slice .token) -}}
+    {{- end -}}
+    {{- $abstractText = delimit ($scratch.Get "tokens") " " -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (eq $abstractText "abstract unavailable") (gt (len $crossref) 0) -}}
+  {{- with index $crossref "abstract" -}}
+    {{- $abstractText = (printf "%v" .) | plainify -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (eq $abstractText "abstract unavailable") $abstractTextParam -}}
+  {{- $abstractText = $abstractTextParam -}}
+{{- end -}}
+{{- if and (eq $abstractText "abstract unavailable") $abstractFile -}}
+  {{- $abstractText = $abstractFile | readFile -}}
+{{- end -}}
+{{- $abstractAvailable = ne (trim $abstractText " \n\r\t") "abstract unavailable" -}}
+
+{{- $year := "" -}}
+{{- with index $csl "issued" -}}
+  {{- $dateParts := index . "date-parts" -}}
+  {{- if and $dateParts (gt (len $dateParts) 0) (gt (len (index $dateParts 0)) 0) -}}
+    {{- $year = printf "%v" (index (index $dateParts 0) 0) -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $year -}}
+  {{- with index $openalex "publication_year" -}}
+    {{- $year = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $year) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "issued" -}}
+    {{- $dateParts := index . "date-parts" -}}
+    {{- if and $dateParts (gt (len $dateParts) 0) (gt (len (index $dateParts 0)) 0) -}}
+      {{- $year = printf "%v" (index (index $dateParts 0) 0) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibType -}}
+  {{- $cslType := index $csl "type" -}}
+  {{- if eq $cslType "paper-conference" -}}
+    {{- $bibType = "inproceedings" -}}
+  {{- else if eq $cslType "chapter" -}}
+    {{- $bibType = "incollection" -}}
+  {{- else if eq $cslType "posted-content" -}}
+    {{- $bibType = "article" -}}
+  {{- else if and (not $cslType) (gt (len $crossref) 0) -}}
+    {{- $crossrefType := index $crossref "type" -}}
+    {{- if eq $crossrefType "proceedings-article" -}}
+      {{- $bibType = "inproceedings" -}}
+    {{- else if eq $crossrefType "book-chapter" -}}
+      {{- $bibType = "incollection" -}}
+    {{- else -}}
+      {{- $bibType = "article" -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $bibType = "article" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibContainerField -}}
+  {{- if or (eq $bibType "inproceedings") (eq $bibType "incollection") (eq $bibType "inbook") -}}
+    {{- $bibContainerField = "booktitle" -}}
+  {{- else -}}
+    {{- $bibContainerField = "journal" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibKey -}}
+  {{- $firstAuthor := "" -}}
+  {{- with index $csl "author" -}}
+    {{- with index . 0 -}}
+      {{- $firstAuthor = replaceRE "[^A-Za-z0-9]" "" (or (index . "family") "ref") -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $firstAuthor -}}
+    {{- with index $crossref "author" -}}
+      {{- with index . 0 -}}
+        {{- $firstAuthor = replaceRE "[^A-Za-z0-9]" "" (or (index . "family") "ref") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $firstAuthor -}}
+    {{- with index $openalex "authorships" -}}
+      {{- with index . 0 -}}
+        {{- $authorName := or (index . "raw_author_name") "" -}}
+        {{- if not $authorName -}}
+          {{- with index . "author" -}}
+            {{- $authorName = or (index . "display_name") "" -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if $authorName -}}
+          {{- $firstAuthor = replaceRE "[^A-Za-z0-9]" "" (replaceRE "^.* " "" $authorName) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and $firstAuthor $year -}}
+    {{- $bibKey = printf "%s%s" $firstAuthor $year -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibTitle -}}
+  {{- $bibTitle = or (index $csl "title") $openalex.display_name -}}
+{{- end -}}
+{{- if and (not $bibTitle) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "title" -}}
+    {{- with index . 0 -}}
+      {{- $bibTitle = printf "%v" . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibContainer -}}
+  {{- $bibContainer = or (index $csl "container-title") "" -}}
+{{- end -}}
+{{- if and (not $bibContainer) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "container-title" -}}
+    {{- with index . 0 -}}
+      {{- $bibContainer = printf "%v" . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $bibContainer) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "group-title" -}}
+    {{- $bibContainer = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $bibContainer -}}
+  {{- with index $openalex "primary_location" -}}
+    {{- with index . "source" -}}
+      {{- $bibContainer = or (index . "display_name") "" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $bibURL -}}
+  {{- $bibURL = or $lookupDoiURL (index $csl "URL") (index $crossref "URL") -}}
+{{- end -}}
+
+{{- $authorScratch := newScratch -}}
+{{- $authorScratch.Set "authors" (slice) -}}
+{{- with index $csl "author" -}}
+  {{- range . -}}
+    {{- $authorScratch.Add "authors" (slice (trim (printf "%s %s" (or (index . "given") "") (or (index . "family") "")) " ")) -}}
+  {{- end -}}
+{{- end -}}
+{{- if eq (len ($authorScratch.Get "authors")) 0 -}}
+  {{- with index $crossref "author" -}}
+    {{- range . -}}
+      {{- $authorScratch.Add "authors" (slice (trim (printf "%s %s" (or (index . "given") "") (or (index . "family") "")) " ")) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if eq (len ($authorScratch.Get "authors")) 0 -}}
+  {{- with index $openalex "authorships" -}}
+    {{- range . -}}
+      {{- $authorName := or (index . "raw_author_name") "" -}}
+      {{- if not $authorName -}}
+        {{- with index . "author" -}}
+          {{- $authorName = or (index . "display_name") "" -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with $authorName -}}
+        {{- $authorScratch.Add "authors" (slice .) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $authors := $authorScratch.Get "authors" -}}
+{{- $authorIndent := "                 " -}}
+{{- $authorValue := "" -}}
+{{- if gt (len $authors) 0 -}}
+  {{- $authorValue = delimit $authors (printf " and\n%s" $authorIndent) -}}
+{{- end -}}
+
+{{- $bibVolume := "" -}}
+{{- with index $csl "volume" -}}
+  {{- $bibVolume = printf "%v" . -}}
+{{- end -}}
+{{- if not $bibVolume -}}
+  {{- with index $openalex "biblio" -}}
+    {{- with index . "volume" -}}
+      {{- $bibVolume = printf "%v" . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $bibVolume) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "volume" -}}
+    {{- $bibVolume = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $bibNumber := "" -}}
+{{- with index $csl "issue" -}}
+  {{- $bibNumber = printf "%v" . -}}
+{{- end -}}
+{{- if not $bibNumber -}}
+  {{- with index $openalex "biblio" -}}
+    {{- with index . "issue" -}}
+      {{- $bibNumber = printf "%v" . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $bibNumber) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "issue" -}}
+    {{- $bibNumber = printf "%v" . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $bibPages := "" -}}
+{{- with index $csl "page" -}}
+  {{- $bibPages = replace (replace . "–" "--") "-" "--" -}}
+{{- end -}}
+{{- if not $bibPages -}}
+  {{- with index $openalex "biblio" -}}
+    {{- $firstPage := or (index . "first_page") "" -}}
+    {{- $lastPage := or (index . "last_page") "" -}}
+    {{- if and $firstPage $lastPage -}}
+      {{- $bibPages = printf "%v--%v" $firstPage $lastPage -}}
+    {{- else if $firstPage -}}
+      {{- $bibPages = printf "%v" $firstPage -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $bibPages) (gt (len $crossref) 0) -}}
+  {{- with index $crossref "page" -}}
+    {{- $bibPages = replace (replace (printf "%v" .) "–" "--") "-" "--" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and $bibKey $bibTitle -}}
+  {{- $bibLines := slice (printf "@%s{%s," $bibType $bibKey) -}}
+  {{- with $authorValue -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," "author" .) -}}
+  {{- end -}}
+  {{- with $bibTitle -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," "title" .) -}}
+  {{- end -}}
+  {{- with $bibContainer -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," $bibContainerField .) -}}
+  {{- end -}}
+  {{- with $year -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," "year" .) -}}
+  {{- end -}}
+  {{- with $bibVolume -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%v}," "volume" .) -}}
+  {{- end -}}
+  {{- with $bibNumber -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%v}," "number" .) -}}
+  {{- end -}}
+  {{- with $bibPages -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," "pages" .) -}}
+  {{- end -}}
+  {{- with $bibURL -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}," "url" .) -}}
+  {{- end -}}
+  {{- with $lookupDoi -}}
+    {{- $bibLines = $bibLines | append (printf "    %-10s = {%s}" "doi" .) -}}
+  {{- end -}}
+  {{- $bibLines = $bibLines | append "}" -}}
+  {{- $bibtex = delimit $bibLines "\n" -}}
+{{- end -}}
+
+{{- if and (eq $bibtex "bibtex unavailable") $bibFile -}}
+  {{- $bibtex = $bibFile | readFile -}}
+{{- end -}}
+{{- $bibAvailable = ne (trim $bibtex " \n\r\t") "bibtex unavailable" -}}
+
+{{- $controls := slice -}}
+{{- if $abstractAvailable -}}
+  {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"#/\" onclick=\"toggle_visibility('%s');\"><code>Abs</code></a>" $absIcon $abstractID) -}}
+{{- end -}}
+{{- if $showPDF -}}
+  {{- if $pdf -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $pdfIcon ($pdf | safeURL) $pdfLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $pdfIcon $pdfLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $showSupp -}}
+  {{- if $supp -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $suppIcon ($supp | safeURL) $suppLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $suppIcon $suppLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $showCode -}}
+  {{- if $code -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $codeIcon ($code | safeURL) $codeLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $codeIcon $codeLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $showProject -}}
+  {{- if $project -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $projectIcon ($project | safeURL) $projectLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $projectIcon $projectLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $showBlog -}}
+  {{- if $blog -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $blogIcon ($blog | safeURL) $blogLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $blogIcon $blogLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if $showWeb -}}
+  {{- if $web -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"%s\"><code>%s</code></a>" $webIcon ($web | safeURL) $webLabel) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>%s</code>" $webIcon $webLabel) -}}
+  {{- end -}}
+{{- end -}}
+{{- if or $bibAvailable $showBib $lookupDoi -}}
+  {{- if $bibAvailable -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:15px'></i> <a href=\"#/\" onclick=\"toggle_visibility('%s');\"><code>BiB</code></a>" $bibIcon $bibID) -}}
+  {{- else -}}
+    {{- $controls = $controls | append (printf "<i class='%s' style='font-size:15px'></i> <code>BiB</code>" $bibIcon) -}}
+  {{- end -}}
+{{- end -}}
+{{- with $metric -}}
+  {{- $controls = $controls | append (printf "<span class=\"pub-metric\"><i class='%s' style='font-size:16px'></i> %s</span>" $metricIcon (. | safeHTML)) -}}
+{{- end -}}
+{{- if $showCitation -}}
+  {{- if isset $openalex "cited_by_count" -}}
+    {{- $controls = $controls | append (printf "<span class=\"pub-citation\" title=\"Citation count from OpenAlex\"><i class='%s' style='font-size:16px'></i> Cited by %v</span>" $citationIcon (index $openalex "cited_by_count")) -}}
+  {{- else -}}
+    {{- $controls = $controls | append "<span class=\"pub-citation pub-citation-error\">citation unavailable</span>" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $iconBits := slice -}}
+{{- range slice $sourceIcon $sourceIcon2 $sourceIcon3 -}}
+  {{- with . -}}
+    {{- $iconBits = $iconBits | append (printf "<i class=\"%s\"></i>" .) -}}
+  {{- end -}}
+{{- end -}}
+{{- $sourceMain := "" -}}
+{{- if $doi -}}
+  {{- $iconBits = $iconBits | append "<i class=\"ai ai-doi ai-lg\"></i>" -}}
+  {{- $sourceMain = printf "%s <a href=\"%s\">%s</a>" (delimit $iconBits " ") ($displayDoiURL | safeURL) $doi -}}
+{{- else if or $sourceLabel $sourceURL -}}
+  {{- with $sourceURL -}}
+    {{- $sourceMain = printf "%s <a href=\"%s\">%s</a>" (delimit $iconBits " ") (. | safeURL) (or $sourceLabel .) -}}
+  {{- else -}}
+    {{- with $sourceLabel -}}
+      {{- $sourceMain = printf "%s %s" (delimit $iconBits " ") . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if gt (len $iconBits) 0 -}}
+  {{- $sourceMain = delimit $iconBits " " -}}
+{{- end -}}
+{{- $dateBit := "" -}}
+{{- if $dateText -}}
+  {{- $dateBit = printf "<i class='fa fa-calendar' style='font-size:16px'></i> %s" $dateText -}}
+{{- end -}}
+
+{{- if or $sourceMain $dateBit -}}
+{{- if and $sourceMain $dateBit -}}
+{{ printf "%s | %s" $sourceMain $dateBit | safeHTML }}<br>
+{{- else -}}
+{{ or $sourceMain $dateBit | safeHTML }}<br>
+{{- end -}}
+{{- end -}}
+{{- if gt (len $controls) 0 -}}
+{{ delimit $controls " | " | safeHTML }}
+{{- end -}}
+{{- if $abstractAvailable -}}
+<pre class="bibtexpre" id="{{ $abstractID }}" style="display: none;">{{ $abstractText | safeHTML }}</pre>
+{{- end -}}
+{{- if $bibAvailable -}}
+<pre class="bibtexpre" id="{{ $bibID }}" style="display: none;">{{ $bibtex | safeHTML }}</pre>
+{{- end -}}

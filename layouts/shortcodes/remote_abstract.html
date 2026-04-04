@@ -1,0 +1,32 @@
+{{- $doi := .Get "doi" -}}
+{{- $id := .Get "id" -}}
+<pre class="bibtexpre" id="{{ $id }}" style="display: none;">
+{{- if or (not $doi) (not $id) -}}
+abstract unavailable
+{{- else -}}
+  {{- $url := printf "https://api.openalex.org/works/https://doi.org/%s" $doi -}}
+  {{- with try (resources.GetRemote $url) -}}
+    {{- with .Err -}}
+abstract unavailable
+    {{- else with .Value -}}
+      {{- $work := . | transform.Unmarshal -}}
+      {{- $index := $work.abstract_inverted_index -}}
+      {{- if $index -}}
+        {{- $.Scratch.Set "abstract_tokens" (slice) -}}
+        {{- $positions := slice -}}
+        {{- range $token, $tokenPositions := $index -}}
+          {{- range $tokenPositions -}}
+            {{- $positions = $positions | append (dict "pos" . "token" $token) -}}
+          {{- end -}}
+        {{- end -}}
+        {{- range sort $positions "pos" -}}
+          {{- $.Scratch.Add "abstract_tokens" (slice .token) -}}
+        {{- end -}}
+{{ delimit ($.Scratch.Get "abstract_tokens") " " }}
+      {{- else -}}
+abstract unavailable
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+</pre>

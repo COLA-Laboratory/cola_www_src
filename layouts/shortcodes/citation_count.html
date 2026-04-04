@@ -1,19 +1,11 @@
 {{- $doi := .Get "doi" -}}
 {{- $label := or (.Get "label") "Cited by" -}}
-{{- if not $doi -}}
-  <span class="pub-citation pub-citation-error">citation unavailable</span>
-{{- else -}}
+{{- if not $doi -}}<span class="pub-citation pub-citation-error">citation unavailable</span>{{- else -}}
   {{- $url := printf "https://api.openalex.org/works/https://doi.org/%s" $doi -}}
   {{- with try (resources.GetRemote $url) -}}
-    {{- with .Err -}}
-      <span class="pub-citation pub-citation-error">citation unavailable</span>
-    {{- else with .Value -}}
+    {{- with .Err -}}<span class="pub-citation pub-citation-error">citation unavailable</span>{{- else with .Value -}}
       {{- $work := . | transform.Unmarshal -}}
-      {{- with $work.cited_by_count -}}
- | <span class="pub-citation" title="Citation count from OpenAlex"><i class='fa fa-bar-chart-o' style='font-size:16px'></i> {{ $label }} {{ . }}</span>
-      {{- else -}}
-        <span class="pub-citation pub-citation-error">citation unavailable</span>
-      {{- end -}}
+      {{- if isset $work "cited_by_count" -}} | <span class="pub-citation" title="Citation count from OpenAlex"><i class='fa fa-bar-chart-o' style='font-size:16px'></i> {{ $label }} {{ index $work "cited_by_count" }}</span>{{- else -}}<span class="pub-citation pub-citation-error">citation unavailable</span>{{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
