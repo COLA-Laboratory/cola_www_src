@@ -1,0 +1,375 @@
+subjects:
+  - code: AI
+    label: AI
+    name: Artificial Intelligence
+    color: "#0f766e"
+  - code: ML
+    label: ML
+    name: Machine Learning
+    color: "#1d4f91"
+  - code: CV
+    label: CV
+    name: Computer Vision
+    color: "#6d28d9"
+  - code: DM
+    label: DM
+    name: Data Mining
+    color: "#b45309"
+  - code: NLP
+    label: NLP
+    name: Natural Language Processing
+    color: "#be185d"
+  - code: SE
+    label: SE
+    name: Software Engineering
+    color: "#b54242"
+  - code: EC
+    label: EC
+    name: Evolutionary Computation
+    color: "#166534"
+
+conferences:
+  - id: ijcai-2024
+    title: IJCAI 2024
+    subjects: [AI]
+    website: https://ijcai24.org/
+    location: Jeju Island, Korea
+    timezone: KST
+    deadlines:
+      - label: Paper
+        date: 2024-01-17
+  - id: ecai-2024
+    title: ECAI 2024
+    subjects: [AI]
+    website: https://www.ecai2024.eu/
+    location: Santiago de Compostela, Spain
+    timezone: CEST
+    deadlines:
+      - label: Paper
+        date: 2024-04-25
+  - id: aaai-2024
+    title: AAAI 2024
+    subjects: [AI]
+    website: https://aaai.org/aaai-conference/
+    deadlines:
+      - label: Paper
+        date: 2023-08-15
+  - id: iclr-2024
+    title: ICLR 2024
+    subjects: [AI]
+    website: https://iclr.cc/
+    deadlines:
+      - label: Paper
+        date: 2023-09-28
+
+  - id: icml-2024
+    title: ICML 2024
+    subjects: [ML]
+    website: https://icml.cc/Conferences/2024
+    location: Vienna, Austria
+    timezone: CEST
+    deadlines:
+      - label: Paper
+        date: 2024-02-01
+  - id: automl-2024
+    title: AutoML 2024
+    subjects: [ML]
+    website: https://2024.automl.cc/
+    deadlines:
+      - label: Paper
+        date: 2024-02-29
+  - id: ecmlpkdd-2024
+    title: ECML/PKDD 2024
+    subjects: [ML]
+    website: https://2024.ecmlpkdd.org/
+    location: Vilnius, Lithuania
+    timezone: EEST
+    deadlines:
+      - label: Paper
+        date: 2024-03-22
+  - id: uai-2024
+    title: UAI 2024
+    subjects: [ML]
+    website: https://www.auai.org/uai2024/
+    location: Barcelona, Spain
+    timezone: CEST
+    deadlines:
+      - label: Paper
+        date: 2024-02-09
+  - id: neurips-2023
+    title: NeurIPS 2023
+    subjects: [ML]
+    website: https://nips.cc/
+    deadlines:
+      - label: Paper
+        date: 2023-05-17
+  - id: aistats-2024
+    title: AISTATS 2024
+    subjects: [ML]
+    website: http://aistats.org/aistats2024/index.html
+    location: Valencia, Spain
+    timezone: CEST
+    deadlines:
+      - label: Paper
+        date: 2024-10-13
+  - id: neurips-2026
+    title: NeurIPS 2026
+    subjects: [ML]
+    website: https://neurips.cc/
+    schedule:
+      - location: Sydney, Australia
+        dates: Dec 6-12, 2026
+      - location: Atlanta, Georgia
+        dates: Dec 8-13, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-05-04
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-05-06
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+
+  - id: cvpr-2024
+    title: CVPR 2024
+    subjects: [CV]
+    website: https://cvpr.thecvf.com/Conferences/2024
+    location: Seattle, USA
+    timezone: PDT
+    deadlines:
+      - label: Paper
+        date: 2024-11-17
+  - id: iccv-2023
+    title: ICCV 2023
+    subjects: [CV]
+    website: https://iccv2023.thecvf.com/
+    deadlines:
+      - label: Paper
+        date: 2023-03-08
+  - id: eccv-2022
+    title: ECCV 2022
+    subjects: [CV]
+    website: https://eccv2022.ecva.net/
+    deadlines:
+      - label: Paper
+        date: 2022-03-07
+
+  - id: kdd-2023
+    title: KDD 2023
+    subjects: [DM]
+    website: https://kdd.org/kdd2023/
+    deadlines:
+      - label: Paper
+        date: 2023-02-02
+  - id: icdm-2023
+    title: ICDM 2023
+    subjects: [DM]
+    website: http://www.cloud-conf.net/icdm2023/index.html
+    deadlines:
+      - label: Paper
+        date: 2023-07-01
+  - id: sdm-2023
+    title: SDM 2023
+    subjects: [DM]
+    website: https://www.siam.org/conferences/cm/conference/sdm23
+    deadlines:
+      - label: Paper
+        date: 2022-10-14
+  - id: cikm-2023
+    title: CIKM 2023
+    subjects: [DM]
+    website: https://cikm2023.github.io/
+    deadlines:
+      - label: Paper
+        date: 2023-06-02
+  - id: cikm-2026
+    title: CIKM 2026
+    subjects: [DM]
+    website: https://cikm2026.diag.uniroma1.it/
+    schedule:
+      - location: Rome, Italy
+        dates: Nov 7-11, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-05-16
+      - label: Full paper
+        date: 2026-05-23
+
+  - id: acl-2022
+    title: ACL 2022
+    subjects: [NLP]
+    website: https://www.2022.aclweb.org/
+    deadlines:
+      - label: Paper
+        date: 2021-11-15
+  - id: naacl-2022
+    title: NAACL 2022
+    subjects: [NLP]
+    website: https://2022.naacl.org/
+    deadlines:
+      - label: Paper
+        date: 2022-01-15
+  - id: coling-2022
+    title: COLING 2022
+    subjects: [NLP]
+    website: https://coling2022.org/
+    deadlines:
+      - label: Paper
+        date: 2022-05-15
+  - id: emnlp-2022
+    title: EMNLP 2022
+    subjects: [NLP]
+    website: https://2022.emnlp.org/
+    deadlines:
+      - label: Paper
+        date: 2022-05-24
+
+  - id: issta-2024
+    title: ISSTA 2024
+    subjects: [SE]
+    website: https://conf.researchr.org/home/issta-2024
+    deadlines:
+      - label: 1st round
+        date: 2023-12-15
+      - label: 2nd round
+        date: 2024-04-12
+  - id: fse-2024
+    title: FSE 2024
+    subjects: [SE]
+    website: https://conf.researchr.org/home/fse-2024
+    deadlines:
+      - label: Paper
+        date: 2023-09-28
+  - id: ase-2024
+    title: ASE 2024
+    subjects: [SE]
+    website: https://conf.researchr.org/home/ase-2024
+    location: Sacramento, USA
+    timezone: PDT
+    deadlines:
+      - label: Paper
+        date: 2024-06-07
+  - id: icse-2025
+    title: ICSE 2025
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icse-2025
+    location: Ottawa, Canada
+    timezone: EDT
+    deadlines:
+      - label: 1st round
+        date: 2024-03-22
+      - label: 2nd round
+        date: 2024-08-02
+  - id: icsme-2023
+    title: ICSME 2023
+    subjects: [SE]
+    website: https://conf.researchr.org/track/icsme-2023/icsme-2023-papers
+    deadlines:
+      - label: Paper
+        date: 2023-04-27
+  - id: icpc-2023
+    title: ICPC 2023
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icpc-2023
+    deadlines:
+      - label: Paper
+        date: 2022-12-19
+  - id: esem-2023
+    title: ESEM 2023
+    subjects: [SE]
+    website: https://conf.researchr.org/home/esem-2023
+    deadlines:
+      - label: Paper
+        date: 2023-05-02
+  - id: issre-2023
+    title: ISSRE 2023
+    subjects: [SE]
+    website: https://issre2022.github.io/
+    deadlines:
+      - label: Paper
+        date: 2023-05-22
+  - id: saner-2023
+    title: SANER 2023
+    subjects: [SE]
+    website: https://saner2023.must.edu.mo/
+    deadlines:
+      - label: Paper
+        date: 2022-10-21
+  - id: icst-2023
+    title: ICST 2023
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icst-2023
+    deadlines:
+      - label: Paper
+        date: 2023-01-27
+  - id: qrs-2022
+    title: QRS 2022
+    subjects: [SE]
+    website: https://qrs22.techconf.org/
+    deadlines:
+      - label: Paper
+        date: 2022-09-10
+  - id: msr-2023
+    title: MSR 2023
+    subjects: [SE]
+    website: https://conf.researchr.org/home/msr-2023
+    deadlines:
+      - label: Paper
+        date: 2023-01-16
+
+  - id: gecco-2024
+    title: GECCO 2024
+    subjects: [EC]
+    website: https://gecco-2024.sigevo.org/HomePage
+    location: Melbourne, Australia
+    timezone: AEST
+    deadlines:
+      - label: Paper
+        date: 2024-02-01
+  - id: wcci-2024
+    title: WCCI 2024
+    subjects: [EC]
+    website: https://wcci2024.org/
+    deadlines:
+      - label: Paper
+        date: 2024-01-15
+  - id: ppsn-2024
+    title: PPSN 2024
+    subjects: [EC]
+    website: https://ppsn2024.fh-ooe.at/
+    location: Hagenberg, Austria
+    timezone: CEST
+    deadlines:
+      - label: Paper
+        date: 2024-04-05
+  - id: cec-2023
+    title: CEC 2023
+    subjects: [EC]
+    website: https://2023.ieee-cec.org/
+    deadlines:
+      - label: Paper
+        date: 2023-01-13
+  - id: smc-2023
+    title: SMC 2023
+    subjects: [EC]
+    website: https://ieeesmc2023.org/
+    deadlines:
+      - label: Paper
+        date: 2023-04-15
+  - id: foga-2022
+    title: FOGA 2022
+    subjects: [EC]
+    website: https://www.fhv.at/foga2021/
+    deadlines:
+      - label: Paper
+        date: 2022-05-07
+  - id: ssci-2023
+    title: SSCI 2023
+    subjects: [EC]
+    website: https://attend.ieee.org/ssci-2023/
+    deadlines:
+      - label: Paper
+        date: 2023-06-30

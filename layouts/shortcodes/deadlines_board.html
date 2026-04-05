@@ -1,0 +1,59 @@
+{{- $payload := dict
+  "subjects" hugo.Data.deadlines.subjects
+  "conferences" hugo.Data.deadlines.conferences
+-}}
+{{- $version := now.Unix -}}
+<link rel="stylesheet" href="/deadlines_board.css?v={{ $version }}">
+
+<div class="deadline-board" id="deadline-board">
+  <div class="deadline-board__hero">
+    <div class="deadline-board__summary" id="deadline-summary" aria-live="polite"></div>
+  </div>
+
+  <div class="deadline-board__toolbar">
+    <div
+      class="deadline-board__filters"
+      id="deadline-filters"
+      role="group"
+      aria-label="Deadline subject filters"
+    ></div>
+    <button class="deadline-board__reset" id="deadline-reset" type="button">Show all</button>
+  </div>
+
+  <p class="deadline-board__message" id="deadline-message" hidden></p>
+
+  <section class="deadline-board__section" id="deadline-upcoming-section" hidden>
+    <div class="deadline-board__section-head">
+      <h3>Upcoming</h3>
+      <span id="deadline-upcoming-count"></span>
+    </div>
+    <div class="deadline-board__grid" id="deadline-upcoming"></div>
+  </section>
+
+  <section class="deadline-board__section" id="deadline-past-section" hidden>
+    <div class="deadline-board__section-head">
+      <div class="deadline-board__section-meta">
+        <h3>Archive</h3>
+        <span id="deadline-past-count"></span>
+      </div>
+      <button
+        class="deadline-board__section-toggle"
+        id="deadline-past-toggle"
+        type="button"
+        aria-expanded="false"
+      >
+        Show archive
+      </button>
+    </div>
+    <div class="deadline-board__grid" id="deadline-past"></div>
+  </section>
+
+  <noscript>
+    <div class="deadline-board__noscript">
+      Enable JavaScript to use the filter chips and the grouped card layout.
+    </div>
+  </noscript>
+</div>
+
+<script id="deadline-board-data" type="application/json">{{ $payload | jsonify | safeJS }}</script>
+<script defer src="/deadlines_board.js?v={{ $version }}"></script>
