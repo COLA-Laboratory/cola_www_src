@@ -2,11 +2,11 @@ subjects:
   - code: AI
     label: AI
     name: Artificial Intelligence
-    color: "#0f766e"
+    color: "#155e75"
   - code: ML
     label: ML
     name: Machine Learning
-    color: "#1d4f91"
+    color: "#1e3a8a"
   - code: CV
     label: CV
     name: Computer Vision
@@ -14,19 +14,19 @@ subjects:
   - code: DM
     label: DM
     name: Data Mining
-    color: "#b45309"
+    color: "#334155"
   - code: NLP
     label: NLP
     name: Natural Language Processing
-    color: "#be185d"
+    color: "#9f1239"
   - code: SE
     label: SE
     name: Software Engineering
-    color: "#b54242"
+    color: "#7c2d12"
   - code: EC
     label: EC
     name: Evolutionary Computation
-    color: "#166534"
+    color: "#14532d"
 
 conferences:
   - id: ijcai-2024
@@ -54,6 +54,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-08-15
+  - id: aaai-2026
+    title: AAAI 2026
+    subjects: [AI]
+    website: https://aaai.org/conference/aaai/aaai-26/
+    schedule:
+      - location: Singapore
+        dates: Jan 20-27, 2026
+    deadlines:
+      - label: Abstract
+        date: 2025-07-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2025-08-01
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: iclr-2024
     title: ICLR 2024
     subjects: [AI]
@@ -61,6 +79,42 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-09-28
+  - id: iclr-2026
+    title: ICLR 2026
+    subjects: [AI]
+    website: https://iclr.cc/Conferences/2026
+    schedule:
+      - location: Rio de Janeiro, Brazil
+        dates: Apr 23-27, 2026
+    deadlines:
+      - label: Abstract
+        date: 2025-09-19
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2025-09-24
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: ijcai-ecai-2026
+    title: IJCAI-ECAI 2026
+    subjects: [AI]
+    website: https://2026.ijcai.org/
+    schedule:
+      - location: Bremen, Germany
+        dates: Aug 15-21, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-01-12
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-01-19
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
 
   - id: icml-2024
     title: ICML 2024
@@ -71,6 +125,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-02-01
+  - id: icml-2026
+    title: ICML 2026
+    subjects: [ML]
+    website: https://icml.cc/Conferences/2026
+    schedule:
+      - location: Seoul, South Korea
+        dates: Jul 6-11, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-01-23
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-01-28
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: automl-2024
     title: AutoML 2024
     subjects: [ML]
@@ -87,6 +159,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-03-22
+  - id: ecmlpkdd-2026
+    title: ECML/PKDD 2026
+    subjects: [ML]
+    website: https://ecmlpkdd.org/2026/
+    schedule:
+      - location: Naples, Italy
+        dates: Sep 7-11, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-03-05
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-03-12
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: uai-2024
     title: UAI 2024
     subjects: [ML]
@@ -96,6 +186,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-02-09
+  - id: uai-2026
+    title: UAI 2026
+    subjects: [ML]
+    website: https://www.auai.org/uai2026/
+    schedule:
+      - location: Amsterdam, Netherlands
+        dates: Aug 17-21, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-02-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: neurips-2023
     title: NeurIPS 2023
     subjects: [ML]
@@ -112,6 +215,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-10-13
+  - id: aistats-2026
+    title: AISTATS 2026
+    subjects: [ML]
+    website: https://virtual.aistats.org/Conferences/2026
+    schedule:
+      - location: Tangier, Morocco
+        dates: May 2-5, 2026
+    deadlines:
+      - label: Abstract
+        date: 2025-09-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2025-10-02
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: neurips-2026
     title: NeurIPS 2026
     subjects: [ML]
@@ -142,6 +263,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-11-17
+  - id: cvpr-2026
+    title: CVPR 2026
+    subjects: [CV]
+    website: https://cvpr.thecvf.com/Conferences/2026
+    schedule:
+      - location: Denver, Colorado
+        dates: Jun 3-7, 2026
+    deadlines:
+      - label: Abstract
+        date: 2025-11-07
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2025-11-13
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: iccv-2023
     title: ICCV 2023
     subjects: [CV]
@@ -156,6 +295,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-03-07
+  - id: eccv-2026
+    title: ECCV 2026
+    subjects: [CV]
+    website: https://eccv.ecva.net/Conferences/2026
+    schedule:
+      - location: Malmo, Sweden
+        dates: Sep 8-13, 2026
+    deadlines:
+      - label: Registration
+        date: 2026-02-26
+        time_label: 11:00PM CET
+        time_24: "23:00"
+        utc_offset: "+01:00"
+      - label: Full paper
+        date: 2026-03-05
+        time_label: 11:00PM CET
+        time_24: "23:00"
+        utc_offset: "+01:00"
 
   - id: kdd-2023
     title: KDD 2023
@@ -164,6 +321,34 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-02-02
+  - id: kdd-2026
+    title: KDD 2026
+    subjects: [DM]
+    website: https://kdd2026.kdd.org/
+    schedule:
+      - location: Jeju, Korea
+        dates: Aug 9-13, 2026
+    deadlines:
+      - label: Cycle 1 abstract
+        date: 2025-07-24
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 1 paper
+        date: 2025-07-31
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 2 abstract
+        date: 2026-02-01
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 2 paper
+        date: 2026-02-08
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: icdm-2023
     title: ICDM 2023
     subjects: [DM]
@@ -171,6 +356,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-07-01
+  - id: icdm-2026
+    title: ICDM 2026
+    subjects: [DM]
+    website: https://icdm2026.neu.edu.cn/
+    schedule:
+      - location: Shenyang, China
+        dates: Nov 12-15, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-06-06
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: sdm-2023
     title: SDM 2023
     subjects: [DM]
@@ -205,6 +403,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2021-11-15
+  - id: acl-2026
+    title: ACL 2026
+    subjects: [NLP]
+    website: https://2026.aclweb.org/
+    schedule:
+      - location: San Diego, California, USA
+        dates: Jul 2-7, 2026
+    deadlines:
+      - label: ARR
+        date: 2026-01-05
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: naacl-2022
     title: NAACL 2022
     subjects: [NLP]
@@ -226,6 +437,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-05-24
+  - id: emnlp-2026
+    title: EMNLP 2026
+    subjects: [NLP]
+    website: https://2026.emnlp.org/
+    schedule:
+      - location: Budapest, Hungary
+        dates: Oct 24-29, 2026
+    deadlines:
+      - label: ARR
+        date: 2026-05-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
 
   - id: issta-2024
     title: ISSTA 2024
@@ -236,6 +460,19 @@ conferences:
         date: 2023-12-15
       - label: 2nd round
         date: 2024-04-12
+  - id: issta-2026
+    title: ISSTA 2026
+    subjects: [SE]
+    website: https://conf.researchr.org/home/issta-2026
+    schedule:
+      - location: Oakland, California, USA
+        dates: Oct 3-9, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-01-29
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: fse-2024
     title: FSE 2024
     subjects: [SE]
@@ -243,6 +480,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-09-28
+  - id: fse-2026
+    title: FSE 2026
+    subjects: [SE]
+    website: https://conf.researchr.org/home/fse-2026
+    schedule:
+      - location: Montreal, Canada
+        dates: Jul 5-9, 2026
+    deadlines:
+      - label: Abstract
+        date: 2025-09-04
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2025-09-11
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: ase-2024
     title: ASE 2024
     subjects: [SE]
@@ -252,6 +507,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-06-07
+  - id: ase-2026
+    title: ASE 2026
+    subjects: [SE]
+    website: https://conf.researchr.org/home/ase-2026
+    schedule:
+      - location: Munich, Germany
+        dates: Oct 12-16, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-03-26
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: icse-2025
     title: ICSE 2025
     subjects: [SE]
@@ -263,6 +531,52 @@ conferences:
         date: 2024-03-22
       - label: 2nd round
         date: 2024-08-02
+  - id: icse-2026
+    title: ICSE 2026
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icse-2026
+    schedule:
+      - location: Rio de Janeiro, Brazil
+        dates: Apr 12-18, 2026
+    deadlines:
+      - label: Cycle 1 abstract
+        date: 2025-03-07
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 1 paper
+        date: 2025-03-14
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 2 abstract
+        date: 2025-07-11
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Cycle 2 paper
+        date: 2025-07-18
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: icse-2027
+    title: ICSE 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icse-2027
+    schedule:
+      - location: Dublin, Ireland
+        dates: Apr 25-May 1, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-06-23
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-06-30
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: icsme-2023
     title: ICSME 2023
     subjects: [SE]

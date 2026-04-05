@@ -16,6 +16,6 @@ headless: true
   -  [Reading Group]({{< relref "/docs/events/readinggroup" >}})
   -  [COLA Seminar Series]({{< relref "/docs/events/seminars" >}})
 - **Misc**
-  - [ECTC TF]({{< relref "/docs/misc/dtec" >}})
   - [Deadlines]({{< relref "/docs/misc/ddl" >}})
+  - [Materials]({{< relref "/posts" >}})
 <br />
