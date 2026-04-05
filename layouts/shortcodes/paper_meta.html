@@ -24,16 +24,16 @@
 {{- $showWeb := or (eq (.Get "show_web") "true") (ne $web "") -}}
 {{- $showBib := eq (.Get "show_bib") "true" -}}
 {{- $metric := .Get "metric" -}}
-{{- $metricIcon := or (.Get "metric_icon") "fa fa-pie-chart" -}}
-{{- $absIcon := or (.Get "abs_icon") "fa fa-file-text-o" -}}
-{{- $pdfIcon := or (.Get "pdf_icon") "fa fa-file-pdf-o" -}}
-{{- $suppIcon := or (.Get "supp_icon") "fa fa-folder-open-o" -}}
-{{- $codeIcon := or (.Get "code_icon") "fa fa-file-code-o" -}}
-{{- $projectIcon := or (.Get "project_icon") "fa fa-folder-open-o" -}}
-{{- $blogIcon := or (.Get "blog_icon") "fa fa-newspaper-o" -}}
-{{- $webIcon := or (.Get "web_icon") "fa fa-desktop" -}}
-{{- $bibIcon := or (.Get "bib_icon") "fa fa-quote-right" -}}
-{{- $citationIcon := or (.Get "citation_icon") "fa fa-bar-chart-o" -}}
+{{- $metricIcon := or (.Get "metric_icon") "fas fa-chart-pie" -}}
+{{- $absIcon := or (.Get "abs_icon") "far fa-file-alt" -}}
+{{- $pdfIcon := or (.Get "pdf_icon") "far fa-file-pdf" -}}
+{{- $suppIcon := or (.Get "supp_icon") "far fa-folder-open" -}}
+{{- $codeIcon := or (.Get "code_icon") "far fa-file-code" -}}
+{{- $projectIcon := or (.Get "project_icon") "far fa-folder-open" -}}
+{{- $blogIcon := or (.Get "blog_icon") "far fa-newspaper" -}}
+{{- $webIcon := or (.Get "web_icon") "fas fa-desktop" -}}
+{{- $bibIcon := or (.Get "bib_icon") "fas fa-quote-right" -}}
+{{- $citationIcon := or (.Get "citation_icon") "fas fa-chart-bar" -}}
 {{- $abstractTextParam := .Get "abstract_text" -}}
 {{- $abstractFile := .Get "abstract_file" -}}
 {{- $bibFile := .Get "bib_file" -}}
@@ -516,7 +516,7 @@
 {{- end -}}
 {{- $dateBit := "" -}}
 {{- if $dateText -}}
-  {{- $dateBit = printf "<i class='fa fa-calendar' style='font-size:16px'></i> %s" $dateText -}}
+  {{- $dateBit = printf "<i class='far fa-calendar-alt' style='font-size:16px'></i> %s" $dateText -}}
 {{- end -}}
 
 {{- if or $sourceMain $dateBit -}}
