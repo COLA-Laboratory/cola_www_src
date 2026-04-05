@@ -192,13 +192,15 @@ Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>*
 Expert Systems with Applications (ESWA)<br>
 {{< paper_meta
   slug="adaptive-population-classification-based-multi-strategy-evolutionary-algorithm-for-dynamic-constrained-multi-objective-optimization"
+  doi="10.1016/j.ijepes.2026.111774"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S0142061526002164"
+  source_icon="ai ai-elsevier ai-lg"
   abstract_file="/content/docs/research/abstract/abstract_WangLHZZL26.txt"
   bib_key="WangLHZZL26"
   bib_type="article"
-  show_pdf="true"
   show_abs="true"
   show_bib="true"
-  show_citation="false"
+  show_citation="true"
 >}}
 
 - Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
@@ -216,7 +218,7 @@ International Journal of Electrical Power and Energy Systems (IJEPES)<br>
   show_citation="true"
 >}}
 
-- 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion Models<br>
+- RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion<br>
 Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
 {{< paper_meta
