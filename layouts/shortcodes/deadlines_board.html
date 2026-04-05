@@ -21,11 +21,12 @@
         aria-label="Deadline subject filters"
       ></div>
     </div>
+    <div class="deadline-board__selection" id="deadline-selection" aria-live="polite"></div>
   </div>
 
   <p class="deadline-board__message" id="deadline-message" hidden></p>
 
-  <section class="deadline-board__section" id="deadline-upcoming-section" hidden>
+  <section class="deadline-board__section deadline-board__section--featured" id="deadline-upcoming-section" hidden>
     <div class="deadline-board__section-head">
       <div class="deadline-board__section-meta">
         <h3 class="deadline-board__section-title">
@@ -38,12 +39,12 @@
     <div class="deadline-board__grid" id="deadline-upcoming"></div>
   </section>
 
-  <section class="deadline-board__section" id="deadline-ongoing-section" hidden>
+  <section class="deadline-board__section deadline-board__section--secondary" id="deadline-ongoing-section" hidden>
     <div class="deadline-board__section-head">
       <div class="deadline-board__section-meta">
         <h3 class="deadline-board__section-title">
-          <i class="fas fa-tram" aria-hidden="true"></i>
-          Ongoing
+          <i class="fas fa-yin-yang" aria-hidden="true"></i>
+          Conferences Ahead
         </h3>
         <span id="deadline-ongoing-count"></span>
       </div>
