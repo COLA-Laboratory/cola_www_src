@@ -26,7 +26,7 @@ subjects:
   - code: EC
     label: EC
     name: Evolutionary Computation
-    color: "#14532d"
+    color: "#65a30d"
 
 conferences:
   - id: ijcai-2024
@@ -199,6 +199,24 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: colm-2026
+    title: COLM 2026
+    subjects: [ML]
+    website: https://colmweb.org/
+    schedule:
+      - location: San Francisco, California, USA
+        dates: Oct 6-9, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-03-26
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-03-31
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: neurips-2023
     title: NeurIPS 2023
     subjects: [ML]
@@ -303,7 +321,7 @@ conferences:
       - location: Malmo, Sweden
         dates: Sep 8-13, 2026
     deadlines:
-      - label: Registration
+      - label: Abstract
         date: 2026-02-26
         time_label: 11:00PM CET
         time_24: "23:00"
@@ -411,8 +429,21 @@ conferences:
       - location: San Diego, California, USA
         dates: Jul 2-7, 2026
     deadlines:
-      - label: ARR
+      - label: ARR submit
         date: 2026-01-05
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: eacl-2026
+    title: EACL 2026
+    subjects: [NLP]
+    website: https://2026.eacl.org/
+    schedule:
+      - location: Rabat, Morocco
+        dates: Mar 24-29, 2026
+    deadlines:
+      - label: ARR submit
+        date: 2025-10-06
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
@@ -445,7 +476,7 @@ conferences:
       - location: Budapest, Hungary
         dates: Oct 24-29, 2026
     deadlines:
-      - label: ARR
+      - label: ARR submit
         date: 2026-05-25
         time_label: 11:59PM AOE
         time_24: "23:59"
@@ -643,6 +674,18 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-02-01
+  - id: gecco-2026
+    title: GECCO 2026
+    subjects: [EC]
+    website: https://gecco-2026.sigevo.org/HomePage
+    schedule:
+      - location: San Jose, Costa Rica
+        dates: Jul 13-17, 2026
+    deadlines:
+      - label: Abstract
+        date: 2026-01-19
+      - label: Full paper
+        date: 2026-01-26
   - id: wcci-2024
     title: WCCI 2024
     subjects: [EC]
@@ -650,6 +693,16 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-01-15
+  - id: wcci-2026
+    title: WCCI 2026
+    subjects: [EC]
+    website: https://attend.ieee.org/wcci-2026/
+    schedule:
+      - location: Maastricht, Netherlands
+        dates: Jun 21-26, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-01-31
   - id: ppsn-2024
     title: PPSN 2024
     subjects: [EC]
@@ -659,6 +712,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-04-05
+  - id: ppsn-2026
+    title: PPSN 2026
+    subjects: [EC]
+    website: https://ppsn2026.disi.unitn.it/
+    schedule:
+      - location: Trento, Italy
+        dates: Aug 29-Sep 2, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-04-18
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: cec-2023
     title: CEC 2023
     subjects: [EC]
@@ -673,6 +739,16 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-04-15
+  - id: smc-2026
+    title: SMC 2026
+    subjects: [EC]
+    website: https://www.ieeesmc2026.org/
+    schedule:
+      - location: Bellevue, Washington, USA
+        dates: Oct 4-7, 2026
+    deadlines:
+      - label: Full paper
+        date: 2026-03-22
   - id: foga-2022
     title: FOGA 2022
     subjects: [EC]
