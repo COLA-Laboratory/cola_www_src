@@ -1,17 +1,19 @@
 .book-brand {
+  width: 100%;
+
   a {
-    flex: 0 0 auto;
-    display: inline-flex;
+    display: block;
+    width: 100%;
   }
 
   img {
-    height: 2.5em;
-    width: auto;
-    max-width: 12rem;
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: auto;
     object-fit: contain;
     vertical-align: middle;
     margin-inline-end: 0;
-    flex: 0 0 auto;
   }
 }
 
