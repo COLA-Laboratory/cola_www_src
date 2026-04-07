@@ -1,0 +1,506 @@
+# Edit this file to add, remove, or update grants shown on the Grants page.
+# Limited inline HTML is supported in `funder_html` and each detail-row `html`.
+
+active:
+  -
+    title: "Deciphering the RNA Language in Nature"
+    funder_html: "Royal Society Faraday Discovery Fellowship"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "FDF/S2/251014"
+          -
+            icon: "street-view"
+            html: "Co-PI"
+          -
+            icon: "money"
+            html: "&pound;7,992,182"
+          -
+            icon: "calendar-o"
+            html: "2025&ndash;2035"
+  -
+    title: "Explainome: Open-Source Automated Explainable AI Agent Powered by Large Language Models and Knowledge Graphs for Computational Biology"
+    funder_html: "BBSRC Transformative Research Technologies"
+    logo_src: "/media/bbsrc_logo.png"
+    logo_alt: "BBSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#UKRI1875"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;194,564"
+          -
+            icon: "calendar-o"
+            html: "2025&ndash;2027"
+  -
+    title: "Large Language Model Empowered Explainable Automated Machine Learning for Early Diagnosis of Parkinson's Disease"
+    funder_html: "EPSRC IAA Impact Visionary Award"
+    logo_src: "/media/epsrc_logo.png"
+    logo_alt: "EPSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#TBD"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;48,882.04"
+          -
+            icon: "calendar-o"
+            html: "2025&ndash;2026"
+  -
+    title: "SAILING: Secure AI and Digital Twin Empowered Smart Internet-of-Energy"
+    funder_html: "MSCA Doctoral Networks 2024"
+    logo_src: "/media/ec_logo.png"
+    logo_alt: "European Commission logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#TBD"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&pound;836,971.5"
+          -
+            icon: "calendar-o"
+            html: "2026&ndash;2029"
+  -
+    title: "Towards Scalable Data-Driven Multi-Objective Surrogate Modelling and Transfer Optimisation"
+    funder_html: "Royal Society International Exchanges 2024 Global Round 3"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#IES/R3/243136"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;11,970"
+          -
+            icon: "calendar-o"
+            html: "2025&ndash;2027"
+  -
+    title: "AI-Based Support for Mental Health Communication"
+    funder_html: "MRC"
+    logo_src: "/media/mrc_logo.png"
+    logo_alt: "MRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#TBD"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&pound;124,137"
+          -
+            icon: "calendar-o"
+            html: "2025&ndash;2028"
+  -
+    title: "Knowledge-Driven Evolutionary Multi-Objective Search for Automated Software Configuration Tuning"
+    funder_html: "Kan Tong Po Fellowship 2023"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#KTP/R1/231017"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;3,000"
+          -
+            icon: "calendar-o"
+            html: "2023&ndash;2024"
+  -
+    title: "EASY-CROSS: Secure and Modular Border Control Platform Supporting Handheld Biometric Scanning Devices for Verifying Travellers Crossing EU Land and Sea Borders"
+    funder_html: "MSCA Staff Exchange 2022"
+    logo_src: "/media/ec_logo.png"
+    logo_alt: "European Commission logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#TBD"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&euro;613,185"
+          -
+            icon: "calendar-o"
+            html: "2024&ndash;2027"
+  -
+    title: "VENTURE: Investigating the Role of RNA Structure in mRNA Export"
+    funder_html: "ERC Consolidator Grant (UKRI Horizon Europe Guarantee)"
+    logo_src: "/media/erc_logo.png"
+    logo_alt: "ERC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "EP/Y009886/1"
+          -
+            icon: "street-view"
+            html: "External Participant"
+          -
+            icon: "money"
+            html: "&pound;1,644,752"
+          -
+            icon: "calendar-o"
+            html: "2023&ndash;2028"
+  -
+    title: "Transfer Optimisation System for Adaptive Automated Nature-Inspired Optimisation"
+    funder_html: "UKRI Future Leaders Fellowship"
+    logo_src: "/media/ukri_logo.jpeg"
+    logo_alt: "UKRI logo"
+    detail_rows:
+      -
+        phase: "Phase 2:"
+        items:
+          -
+            icon: "qrcode"
+            html: "#MR/X011135/1"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;743,285 <span class=\"grant-card-sample__inline-note\"><strong><ins>prima facie case</ins></strong></span>"
+          -
+            icon: "calendar-o"
+            html: "2023&ndash;2027"
+      -
+        phase: "Phase 1:"
+        items:
+          -
+            icon: "qrcode"
+            html: "<a href=\"https://gtr.ukri.org/projects?ref=MR%2FS017062%2F1\">#MR/S017062/1</a>"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;1,370,803"
+          -
+            icon: "calendar-o"
+            html: "2019&ndash;2023"
+finished:
+  -
+    title: "Evolutionary Multi-Objective Search for Automating CNN Architecture Design"
+    funder_html: "Royal Society"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#IES\\R2\\212077"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;11,815"
+          -
+            icon: "calendar-o"
+            html: "2021&ndash;2023"
+  -
+    title: "Human-Centric Computing"
+    funder_html: "Alan Turing Fellowship"
+    logo_src: "/media/ati_logo.png"
+    logo_alt: "Alan Turing Institute logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "calendar-o"
+            html: "2021&ndash;2023"
+  -
+    title: "Towards Scalable Multi-Objective Bilevel Optimization: Foundations, Methodologies and Applications"
+    funder_html: "Hong Kong GRF"
+    logo_src: "/media/rgc.jpg"
+    logo_alt: "Hong Kong Research Grants Council logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "<a href=\"https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11211521&old_proj_id=null&proj_title=&isname=Tan&ioname=&institution=PolyU&subject=E2&pages=1&year=2021&theSubmit=11211521\">#11211521</a>"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "HK$1,150,000"
+          -
+            icon: "calendar-o"
+            html: "2021&ndash;2024"
+  -
+    title: "Knowledge Representation in Transfer Optimisation System and Applications for Highly Configurable Software Systems"
+    funder_html: "EPSRC DTP Doctoral Prize"
+    logo_src: "/media/epsrc_logo.png"
+    logo_alt: "EPSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "<a href=\"https://gtr.ukri.org/projects?ref=studentship-2404317\">#2404317</a>"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;74,000"
+          -
+            icon: "calendar-o"
+            html: "2020&ndash;2024"
+  -
+    title: "Many Hands Make Work Light: Multi-task Deep Semantic Learning for Testing Web Application Firewalls"
+    funder_html: "<a href=\"https://www.amazon.science/research-awards/recipients/ke-li-2020\">Amazon Research Award</a>"
+    logo_src: "/media/ara_logo.png"
+    logo_alt: "Amazon Research Award logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "$80,000 + <i class='fa fa-amazon' style='font-size:15px'></i> $10,000"
+          -
+            icon: "calendar-o"
+            html: "2021&ndash;2022"
+  -
+    title: "Transfer Bayesian Optimization for Multi-Fidelity Data in Uncertain Environments"
+    funder_html: "European Network Fund"
+    logo_src: "/media/uoe_logo.png"
+    logo_alt: "University of Exeter logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#GP ENF5.10"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;7,440"
+          -
+            icon: "calendar-o"
+            html: "2021&ndash;2022"
+  -
+    title: "Dynamic Resource Management and Optimization for SLA Guarantees in Hyperconverged Communication Infrastructures"
+    funder_html: "EPSRC Industrial CASE Studentship"
+    logo_src: "/media/epsrc_logo.png"
+    logo_alt: "EPSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "<a href=\"https://gtr.ukri.org/projects?ref=studentship-2006920\">#EP/P51049X/1</a>"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&pound;81,430"
+          -
+            icon: "calendar-o"
+            html: "2017&ndash;2021"
+  -
+    title: "Multi-Task Semi-Supervised Deep Learning based on Evolutionary Algorithms and Its Applications"
+    funder_html: "NSFC"
+    logo_src: "/media/nsfc.jpeg"
+    logo_alt: "NSFC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#61876162"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&yen;640,000"
+          -
+            icon: "calendar-o"
+            html: "2019&ndash;2022"
+  -
+    title: "University of Exeter Start-up Grant"
+    funder_html: "University of Exeter"
+    logo_src: "/media/uoe_logo.png"
+    logo_alt: "University of Exeter logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;10,000"
+          -
+            icon: "calendar-o"
+            html: "2017&ndash;present"
+  -
+    title: "Three-Fold Decomposition in Multi-objective Optimization"
+    funder_html: "North-European Associated Team Project between INRIA Lille Nord Europe and University of Exeter"
+    logo_src: "/media/inria.png"
+    logo_alt: "INRIA logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&euro;10,000"
+          -
+            icon: "calendar-o"
+            html: "2018&ndash;2020"
+  -
+    title: "Key Questions in Multi-Label Active Learning: Multi-objective Optimisation"
+    funder_html: "Royal Society International Exchange Program (Cost Share with NSFC)"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#IEC/NSFC/170243"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;11,863"
+          -
+            icon: "calendar-o"
+            html: "2018&ndash;2020"
+  -
+    title: "Research on Key Problems in Dynamic Environment Multi-objective Evolutionary Optimization"
+    funder_html: "NSFC"
+    logo_src: "/media/nsfc.jpeg"
+    logo_alt: "NSFC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#61502408"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&yen;250,000"
+          -
+            icon: "calendar-o"
+            html: "2015&ndash;2018"
+  -
+    title: "DAASE: Dynamic Adaptive Automated Software Engineering"
+    funder_html: "EPSRC Program Grant"
+    logo_src: "/media/epsrc_logo.png"
+    logo_alt: "EPSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#EP/J017515/1"
+          -
+            icon: "street-view"
+            html: "Research Fellow"
+          -
+            icon: "money"
+            html: "&yen;6,834,903"
+          -
+            icon: "calendar-o"
+            html: "2012&ndash;2019"
+  -
+    title: "Evolutionary Computation for Dynamic Optimisation in Network Environments"
+    funder_html: "EPSRC"
+    logo_src: "/media/epsrc_logo.png"
+    logo_alt: "EPSRC logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#EP/K001523/1"
+          -
+            icon: "street-view"
+            html: "Research Fellow"
+          -
+            icon: "money"
+            html: "&yen;512,325"
+          -
+            icon: "calendar-o"
+            html: "2013&ndash;2017"
+  -
+    title: "Stable Matching Theory in Multiobjective Evolutionary Algorithm based on Decomposition"
+    funder_html: "Hong Kong GRF"
+    logo_src: "/media/rgc.jpg"
+    logo_alt: "Hong Kong Research Grants Council logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#11205314"
+          -
+            icon: "street-view"
+            html: "Proposal drafting and activity scheduling"
+          -
+            icon: "money"
+            html: "HK$692,894"
+          -
+            icon: "calendar-o"
+            html: "2014&ndash;2017"

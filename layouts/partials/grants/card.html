@@ -1,0 +1,28 @@
+{{- $grant := . -}}
+<div class="grant-card-sample">
+  <div class="{{ if $grant.logo_src }}grant-card-sample__logo-shell{{ else }}grant-card-sample__logo-shell grant-card-sample__logo-shell--fallback{{ end }}">
+    {{- if $grant.logo_src -}}
+      <img
+        class="grant-card-sample__logo"
+        src="{{ $grant.logo_src }}"
+        alt="{{ $grant.logo_alt }}"
+        loading="lazy"
+      >
+    {{- else -}}
+      <span class="grant-card-sample__logo-fallback">{{ $grant.logo_fallback }}</span>
+    {{- end -}}
+  </div>
+  <div class="grant-card-sample__content">
+    <p class="grant-card-sample__title">{{ $grant.title }}</p>
+    <p class="grant-card-sample__funder">{{ $grant.funder_html | safeHTML }}</p>
+    {{- range $grant.detail_rows }}
+      <p class="grant-card-sample__details">
+        {{- with .phase }}<span class="grant-card-sample__phase-label">{{ . }}</span>{{ end -}}
+        {{- range $index, $item := .items -}}
+          {{- if gt $index 0 }}<span class="grant-card-sample__separator">|</span>{{ end -}}
+          <span class="grant-card-sample__meta-item"><i class="fa fa-{{ $item.icon }}" aria-hidden="true"></i> {{ $item.html | safeHTML }}</span>
+        {{- end -}}
+      </p>
+    {{- end }}
+  </div>
+</div>

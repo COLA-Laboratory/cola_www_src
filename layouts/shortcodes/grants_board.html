@@ -1,0 +1,42 @@
+{{- $grants := hugo.Data.grants -}}
+{{- $version := now.Unix -}}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/grants_board.css?v={{ $version }}">
+
+<div class="grants-board">
+  {{- with $grants.intro }}
+    <p class="grants-intro">{{ . }}</p>
+  {{- end }}
+
+  <div class="grants-section-head">
+    <p class="grants-section-title">Active Grants</p>
+    <span class="grants-section-count">{{ len $grants.active }} grants</span>
+  </div>
+
+  {{- range $grants.active }}
+    {{ partial "grants/card.html" . }}
+  {{- end }}
+
+  <div class="grants-archive">
+    <details>
+      <summary>
+        <span class="grants-archive-head">
+          <span class="grants-archive-title">
+            <i class="fa fa-archive" aria-hidden="true"></i>
+            <span>Finished Grants</span>
+          </span>
+          <span class="grants-archive-count">{{ len $grants.finished }} grants</span>
+        </span>
+        <span class="grants-archive-button">
+          <span class="grants-archive-button__show">Show finished grants</span>
+          <span class="grants-archive-button__hide">Hide finished grants</span>
+        </span>
+      </summary>
+      <div class="grants-archive-content">
+        {{- range $grants.finished }}
+          {{ partial "grants/card.html" . }}
+        {{- end }}
+      </div>
+    </details>
+  </div>
+</div>
