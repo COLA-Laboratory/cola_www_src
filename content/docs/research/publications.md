@@ -120,20 +120,6 @@ Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
   show_citation="false"
 >}}
 
-- Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
-**<ins>Ke Li</ins>**, Han Guo{{< student_mark >}}<br>
-{{< paper_meta
-  slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
-  source_label="CoRR abs/2401.02160"
-  source_url="https://arxiv.org/abs/2401.02160"
-  date_text="January 2024"
-  source_icon="ai ai-arxiv ai-lg"
-  pdf="../publications/report/report_pbmorl.pdf"
-  supp="../supp/supp_pbmorl"
-  show_bib="true"
-  show_citation="false"
->}}
-
 - Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning<br>
 Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>**, Yin Yang, Yuting Cao, Tingwen Huang, Shiping Wen<br>
 {{< paper_meta
@@ -168,6 +154,69 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 ---
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
+
+- Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
+Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.2%)<br>
+{{< paper_meta
+  slug="genomic-model-research-must-move-beyond-anecdotal-evaluation-of-interpretability-methods"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning<br>
+Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+{{< paper_meta
+  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
+Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+{{< paper_meta
+  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks<br>
+Yuan Li{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+{{< paper_meta
+  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- GradientStabilizer: Fix the Norm, Not the Gradient<br>
+Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, Xiang Li, Li Shen, Jiaxing Shang, Tianlong Chen, **<ins>Ke Li</ins>**, Lu Liu, Qingsong Wen, Shiwei Liu<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+{{< paper_meta
+  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
 
 - PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
 Haopeng Yu, Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Ling Ding, Yuxuan Chen{{< student_mark >}}, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
@@ -221,6 +270,7 @@ Proc. of the 14th International Conference on Learning Representations [(ICLR'26
   show_pdf="true"
   show_abs="true"
   show_bib="true"
+  code="https://github.com/COLA-Laboratory/RIDER"
   metric="&asymp; 28%"
   show_citation="false"
 >}}

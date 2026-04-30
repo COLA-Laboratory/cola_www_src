@@ -30,6 +30,12 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 
 {{< tab "Mar" >}}
 
+- We have five papers accepted in the [ICML 2026](https://icml.cc/Conferences/2026). One paper is selected as a Spotlight Paper (top 2.2%) in the Postion Paper Track. Congratulations to Shasha, Mingyu, Tianmeng, Yuan, as well as our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 30
+
+{{< /tab >}}
+
+{{< tab "Mar" >}}
+
 - Our paper on "Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization" has been accepted to Expert Systems With Applications. Congratulations to our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 25
 
 - Our paper on AI co-scientist has been accepted to Molecular Plant (Cell sub-journal). This is a collaboration with Yiliang's group at the John Innes Centre, The Sainsbury Laboratory, and Huakun's group at the Northeast Normal University. It is a live AI agent where you can register and try through [here](https://plantscience.ai/). Congratulations to Shasha and Mingyu! <i class='fa fa-calendar' style='font-size:19px'></i> Mar 21
