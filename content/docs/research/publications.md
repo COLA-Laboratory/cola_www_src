@@ -157,7 +157,7 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 - Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
 Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track<br>
 <i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.2%)<br>
 {{< paper_meta
   slug="genomic-model-research-must-move-beyond-anecdotal-evaluation-of-interpretability-methods"
@@ -170,7 +170,7 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
 
 - CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning<br>
 Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
   show_pdf="true"
@@ -183,7 +183,7 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
 
 - Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
 Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
   show_pdf="true"
@@ -196,7 +196,7 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
 
 - Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks<br>
 Yuan Li{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="understanding-transfer-learning-of-rna-foundation-models-on-downstreamUnderstanding Transfer Learning of RNA Foundation Models on Downstream Tasks-tasks"
   show_pdf="true"
@@ -208,7 +208,7 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
 
 - GradientStabilizer: Fix the Norm, Not the Gradient<br>
 Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, Xiang Li, Li Shen, Jiaxing Shang, Tianlong Chen, **<ins>Ke Li</ins>**, Lu Liu, Qingsong Wen, Shiwei Liu<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="gradientstabilizer-fix-the-norm-not-the-gradient"
   show_pdf="true"
