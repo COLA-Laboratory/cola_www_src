@@ -155,6 +155,17 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
+- A Clustering-Based Dynamic Adaptive Search Strategy Based on Competitive Swarm Optimizer for Constrained Multi-objective Optimization<br>
+Lei Yang, Haiqin Yao, Dongbin Zheng, Daoyuan Zheng, Kangshun Li, **<ins>Ke Li</ins>**<br>
+Swarm and Evolutionary Computation (SWEVO)<br>
+{{< paper_meta
+  slug="a-clustering-based-dynamic-adaptive-search"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_citation="false"
+>}}
+
 - Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
 Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track<br>
@@ -216,19 +227,6 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
   show_bib="true"
   metric="&asymp; 26.6%"
   show_citation="false"
->}}
-
-- PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
-Haopeng Yu, Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Ling Ding, Yuxuan Chen{{< student_mark >}}, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
-Molecular Plant (MP)<br>
-{{< paper_meta
-  slug="plantscience-ai-an-llm-powered-virtual-scientist-for-plant-science"
-  doi="10.1016/j.molp.2026.03.010"
-  doi_url="https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8"
-  show_pdf="true"
-  web="https://plantscience.ai/"
-  show_abs="true"
-  show_bib="true"
 >}}
 
 - Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization<br>
@@ -326,6 +324,21 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 ---
 
 ## 2026
+
+### <i class='fas fa-book-open' style='font-size:18px'></i> Journal
+
+- PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
+Haopeng Yu, Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Ling Ding, Yuxuan Chen{{< student_mark >}}, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
+Molecular Plant (MP), 19(5): 1117--1123, 2026<br>
+{{< paper_meta
+  slug="plantscience-ai-an-llm-powered-virtual-scientist-for-plant-science"
+  doi="10.1016/j.molp.2026.03.010"
+  doi_url="https://www.cell.com/molecular-plant/fulltext/S1674-2052(26)00080-8"
+  show_pdf="true"
+  web="https://plantscience.ai/"
+  show_abs="true"
+  show_bib="true"
+>}}
 
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
 
