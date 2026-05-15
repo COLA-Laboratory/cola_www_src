@@ -155,17 +155,6 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
-- A Clustering-Based Dynamic Adaptive Search Strategy Based on Competitive Swarm Optimizer for Constrained Multi-objective Optimization<br>
-Lei Yang, Haiqin Yao, Dongbin Zheng, Daoyuan Zheng, Kangshun Li, **<ins>Ke Li</ins>**<br>
-Swarm and Evolutionary Computation (SWEVO)<br>
-{{< paper_meta
-  slug="a-clustering-based-dynamic-adaptive-search"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  show_citation="false"
->}}
-
 - Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
 Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track<br>
@@ -227,37 +216,6 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
   show_bib="true"
   metric="&asymp; 26.6%"
   show_citation="false"
->}}
-
-- Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization<br>
-Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
-Expert Systems with Applications (ESWA)<br>
-{{< paper_meta
-  slug="adaptive-population-classification-based-multi-strategy-evolutionary-algorithm-for-dynamic-constrained-multi-objective-optimization"
-  doi="10.1016/j.ijepes.2026.111774"
-  doi_url="https://www.sciencedirect.com/science/article/pii/S0142061526002164"
-  source_icon="ai ai-elsevier ai-lg"
-  abstract_file="/content/docs/research/abstract/abstract_WangLHZZL26.txt"
-  bib_key="WangLHZZL26"
-  bib_type="article"
-  show_abs="true"
-  show_bib="true"
-  show_citation="true"
->}}
-
-- Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
-Jiangjiao Xu{{< student_mark >}}, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
-International Journal of Electrical Power and Energy Systems (IJEPES)<br>
-{{< paper_meta
-  doi="10.1016/j.ijepes.2026.111774"
-  doi_url="https://www.sciencedirect.com/science/article/pii/S0142061526002164"
-  source_icon="ai ai-elsevier ai-lg"
-  abstract_file="/content/docs/research/abstract/abstract_XuMLLGJ26.txt"
-  bib_key="XuMLLGJ26"
-  bib_type="article"
-  show_abs="true"
-  show_bib="true"
-  show_citation="true"
 >}}
 
 - RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion<br>
@@ -340,6 +298,51 @@ Molecular Plant (MP), 19(5): 1117--1123, 2026<br>
   show_bib="true"
 >}}
 
+- A Clustering-Based Dynamic Adaptive Search Strategy Based on Competitive Swarm Optimizer for Constrained Multi-objective Optimization<br>
+Lei Yang, Haiqin Yao, Dongbin Zheng, Daoyuan Zheng, Kangshun Li, **<ins>Ke Li</ins>**<br>
+Swarm and Evolutionary Computation (SWEVO), 105: 102409, 2026<br>
+{{< paper_meta
+  doi="10.1016/j.swevo.2026.102409"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S221065022600129X"
+  source_icon="ai ai-elsevier ai-lg"
+  slug="a-clustering-based-dynamic-adaptive-search"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
+>}}
+
+- Adaptive Population Classification based Multi-Strategy Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization<br>
+Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
+Expert Systems with Applications (ESWA), 320: 132089, 2026<br>
+{{< paper_meta
+  slug="adaptive-population-classification-based-multi-strategy-evolutionary-algorithm-for-dynamic-constrained-multi-objective-optimization"
+  doi="10.1016/j.ijepes.2026.111774"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S095741742601002X"
+  source_icon="ai ai-elsevier ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_WangLHZZL26.txt"
+  bib_key="WangLHZZL26"
+  bib_type="article"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
+>}}
+
+- Semantic-Probabilistic Co-Optimization Framework for Distributed Non-linear Optimal Power Flow<br>
+Jiangjiao Xu{{< student_mark >}}, Long Ma, **<ins>Ke Li</ins>**, Dongdong Li, Leijiao Ge, Changjun Jiang<br>
+International Journal of Electrical Power and Energy Systems (IJEPES), 177: 111774, 2026<br>
+{{< paper_meta
+  doi="10.1016/j.ijepes.2026.111774"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S0142061526002164"
+  source_icon="ai ai-elsevier ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_XuMLLGJ26.txt"
+  bib_key="XuMLLGJ26"
+  bib_type="article"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
+>}}
+
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
 
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
@@ -388,6 +391,20 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
   show_abs="true"
   show_bib="true"
   metric="&asymp; 24.1%"
+  show_citation="false"
+>}}
+
+- Foundation Models for Genomic Modeling and Understanding: Methods, Results, and Future Directions<br>
+Heng Yang{{< student_mark >}}, Jack Cole{{< student_mark >}}, Yuan Li{{< student_mark >}}, Saeid Rezaei, Stefano Pagliari, Krasimira Tsaneva-Atanasova, Yiliang Ding, **<ins>Ke Li</ins>**<br>
+Proc. of the 2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases [(ECML/PKDD'25)](https://ecmlpkdd.org/2025/), Discovery Challenge Track, 2843: 494--502, Porto, Portugal, September 15--19, 2025<br>
+{{< paper_meta
+  slug="foundation-models-for-genomic-modeling-and-understanding"
+  doi="10.1007/978-3-032-19108-3_37"
+  doi_url="https://link.springer.com/chapter/10.1007/978-3-032-19108-3_37"
+  source_icon="ai ai-springer ai-lg"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
   show_citation="false"
 >}}
 
