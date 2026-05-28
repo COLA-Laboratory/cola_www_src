@@ -155,6 +155,19 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
+
+- Few-shot Constrained Bayesian Optimization for Dynamic Constrained Problem<br>
+Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 19th International Conference on Parallel Problem Solving From Nature [(PPSN'26)](https://ppsn2026.disi.unitn.it/)<br>
+{{< paper_meta
+  slug="few-shot-constrained-bo"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="false"
+  show_citation="false"
+>}}
+
 - Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
 Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track<br>
@@ -231,32 +244,6 @@ Proc. of the 14th International Conference on Learning Representations [(ICLR'26
   show_citation="false"
 >}}
 
-- Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
-Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
-<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
-{{< paper_meta
-  slug="augmenting-biological-fitness-prediction-benchmarks-with-landscapes-features-from-graphfla"
-  show_pdf="true"
-  blog="../../posts/NeurIPS25_MH_GraphFLA"
-  show_abs="true"
-  show_bib="true"
-  metric="&asymp; 24.91%"
-  show_citation="false"
->}}
-
-- Multi-Fidelity Methods for Optimization: A Survey<br>
-**<ins>Ke Li</ins>**, Fan Li{{< student_mark >}}<br>
-ACM Computing Surveys (CSUR)<br>
-{{< paper_meta
-  doi="10.1145/3801959"
-  doi_url="https://dl.acm.org/doi/10.1145/3801959"
-  source_icon="ai ai-acm ai-lg"
-  pdf="../publications/report/report_mfo.pdf"
-  supp="../supp/supp_mfo.pdf"
-  bib_key="LiL26"
->}}
-
 - Meta Representation-based Personalized Federated Continual Learning in Edge Computing Systems<br>
 Siwei Zheng, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**<br>
 IEEE Trans. Computational Social Systems (TCSS)<br>
@@ -284,6 +271,18 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
 ## 2026
 
 ### <i class='fas fa-book-open' style='font-size:18px'></i> Journal
+
+- Multi-Fidelity Methods for Optimization: A Survey<br>
+**<ins>Ke Li</ins>**, Fan Li{{< student_mark >}}<br>
+ACM Computing Surveys (CSUR), 58(12): 1--38, 2026<br>
+{{< paper_meta
+  doi="10.1145/3801959"
+  doi_url="https://dl.acm.org/doi/10.1145/3801959"
+  source_icon="ai ai-acm ai-lg"
+  pdf="../publications/report/report_mfo.pdf"
+  supp="../supp/supp_mfo.pdf"
+  bib_key="LiL26"
+>}}
 
 - PlantScience.ai: An LLM-Powered Virtual Scientist for Plant Science<br>
 Haopeng Yu, Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Ling Ding, Yuxuan Chen{{< student_mark >}}, Yinru Wang, Yingyu Ren, Nuo Cheng, Xinya Wang, Jie Liang, The John Innes Centre and The Sainsbury Laboratory Collaboration, Huakun Zhang, Yiliang Ding, **<ins>Ke Li</ins>**<br>
@@ -344,6 +343,20 @@ International Journal of Electrical Power and Energy Systems (IJEPES), 177: 1117
 >}}
 
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
+
+- Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
+Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
+<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
+{{< paper_meta
+  slug="augmenting-biological-fitness-prediction-benchmarks-with-landscapes-features-from-graphfla"
+  show_pdf="true"
+  blog="../../posts/NeurIPS25_MH_GraphFLA"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 24.91%"
+  show_citation="false"
+>}}
 
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
 Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>

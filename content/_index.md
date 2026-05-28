@@ -28,6 +28,12 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 
 {{< tabs "uniqueid" >}}
 
+{{< tab "May" >}}
+
+- Peili's paper on "Few-shot Constrained Bayesian Optimization for Dynamic Constrained Problem" has been accepted to [PPSN 2026](https://ppsn2026.disi.unitn.it/). Congratulations to Peili. <i class='fa fa-calendar' style='font-size:19px'></i> May 27
+
+{{< /tab >}}
+
 {{< tab "Apr" >}}
 
 - We have five papers accepted in the [ICML 2026](https://icml.cc/Conferences/2026). One paper is selected as a Spotlight Paper (top 2.2%) in the Postion Paper Track. Congratulations to Shasha, Mingyu, Tianmeng, Yuan, as well as our collaborators! <i class='fa fa-calendar' style='font-size:19px'></i> Apr 30
