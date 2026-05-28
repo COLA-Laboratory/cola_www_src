@@ -161,10 +161,11 @@ Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 19th International Conference on Parallel Problem Solving From Nature [(PPSN'26)](https://ppsn2026.disi.unitn.it/)<br>
 {{< paper_meta
   slug="few-shot-constrained-bo"
+  bib_file="/content/bib/MaoL26.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
-  metric="false"
+  metric="&asymp; 31%"
   show_citation="false"
 >}}
 
@@ -174,6 +175,7 @@ Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https
 <i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.2%)<br>
 {{< paper_meta
   slug="genomic-model-research-must-move-beyond-anecdotal-evaluation-of-interpretability-methods"
+  bib_file="/content/bib/ZhouHL26.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -186,6 +188,7 @@ Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  bib_file="/content/bib/HuLL26a.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -199,6 +202,7 @@ Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
+  bib_file="/content/bib/HuLL26b.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -212,6 +216,7 @@ Yuan Li{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="understanding-transfer-learning-of-rna-foundation-models-on-downstreamUnderstanding Transfer Learning of RNA Foundation Models on Downstream Tasks-tasks"
+  bib_file="/content/bib/LiL26b.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -224,6 +229,7 @@ Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, Xiang Li, L
 Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
 {{< paper_meta
   slug="gradientstabilizer-fix-the-norm-not-the-gradient"
+  bib_file="/content/bib/HuangWHZJLSSCLLWL26.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -236,6 +242,7 @@ Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<b
 Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
 {{< paper_meta
   slug="3d-rna-inverse-design-with-reinforcement-learning-guided-diffusion-models"
+  bib_file="/content/bib/HuCLL26.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -305,6 +312,9 @@ Swarm and Evolutionary Computation (SWEVO), 105: 102409, 2026<br>
   doi_url="https://www.sciencedirect.com/science/article/pii/S221065022600129X"
   source_icon="ai ai-elsevier ai-lg"
   slug="a-clustering-based-dynamic-adaptive-search"
+  abstract_file="/content/docs/research/abstract/abstract_YangYZZLL26.txt"
+  bib_key="YangYZZLL26"
+  bib_type="article"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -316,7 +326,7 @@ Xueqing Wang, Biao Luo, Zhanglu Hou, Juan Zou, Jinhua Zheng, **<ins>Ke Li</ins>*
 Expert Systems with Applications (ESWA), 320: 132089, 2026<br>
 {{< paper_meta
   slug="adaptive-population-classification-based-multi-strategy-evolutionary-algorithm-for-dynamic-constrained-multi-objective-optimization"
-  doi="10.1016/j.ijepes.2026.111774"
+  doi="10.1016/j.eswa.2026.132089"
   doi_url="https://www.sciencedirect.com/science/article/pii/S095741742601002X"
   source_icon="ai ai-elsevier ai-lg"
   abstract_file="/content/docs/research/abstract/abstract_WangLHZZL26.txt"
@@ -350,6 +360,8 @@ Proc. of the 39th Annual Conference on Neural Information Processing Systems [(N
 <i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
 {{< paper_meta
   slug="augmenting-biological-fitness-prediction-benchmarks-with-landscapes-features-from-graphfla"
+  abstract_file="/content/docs/research/abstract/abstract_HuangZL25.txt"
+  bib_file="/content/bib/HuangZL25.bib"
   show_pdf="true"
   blog="../../posts/NeurIPS25_MH_GraphFLA"
   show_abs="true"
@@ -364,6 +376,12 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 <i class='fas fa-bolt' style='font-size:16px'></i> Oral paper (Top 5%)<br>
 {{< paper_meta
   slug="beyond-monotonicity-revisiting-factorization-principles-in-multi-agent-q-learning"
+  doi="10.1609/aaai.v40i26.39340"
+  doi_url="https://ojs.aaai.org/index.php/AAAI/article/view/39340"
+  abstract_file="/content/docs/research/abstract/abstract_HuCTLL26.txt"
+  bib_key="HuCTLL26"
+  bib_type="inproceedings"
+  bib_container="AAAI'26: Proceedings of The 40th Annual AAAI Conference on Artificial Intelligence"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -371,11 +389,17 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
   show_citation="false"
 >}}
 
-- Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
+- Preference Is More than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback<br>
 Shengbo Wang{{< student_mark >}}, Hong Sun{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(31): 26453--26461, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="preference-is-more-than-comparisons-rethinking-dueling-bandits-with-augmented-human-feedback"
+  doi="10.1609/aaai.v40i31.39852"
+  doi_url="https://ojs.aaai.org/index.php/AAAI/article/view/39852"
+  abstract_file="/content/docs/research/abstract/abstract_WangSL26.txt"
+  bib_key="WangSL26"
+  bib_type="inproceedings"
+  bib_container="AAAI'26: Proceedings of The 40th Annual AAAI Conference on Artificial Intelligence"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -388,6 +412,12 @@ Fan Li{{< student_mark >}}, Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</ins>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(23): 37018--37026, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="lamda-two-phase-hpo-via-learning-prior-from-low-fidelity-data"
+  doi="10.1609/aaai.v40i43.41030"
+  doi_url="https://ojs.aaai.org/index.php/AAAI/article/view/41030"
+  abstract_file="/content/docs/research/abstract/abstract_LiWL26.txt"
+  bib_key="LiWL26"
+  bib_type="inproceedings"
+  bib_container="AAAI'26: Proceedings of The 40th Annual AAAI Conference on Artificial Intelligence"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -396,10 +426,16 @@ Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](
 >}}
 
 - Assessing Automated Fact-Checking for Medical LLM Responses with Knowledge Graphs<br>
-Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Jack Cole{{< student_mark >}}, Charles Britton, Ming Yin, **<ins>Ke Li</ins>**<br>
+Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, Jack Cole{{< student_mark >}}, Charles Britton, Ming Yin, Jan Wolber, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), AI for Social Impact Track, 40(46): 39646--39656, Singapore, January 20--27, 2026<br>
 {{< paper_meta
   slug="assessing-automated-fact-checking-for-medical-llm-responses-with-knowledge-graphs"
+  doi="10.1609/aaai.v40i46.41317"
+  doi_url="https://ojs.aaai.org/index.php/AAAI/article/view/41317"
+  abstract_file="/content/docs/research/abstract/abstract_ZhouHCBYWL26.txt"
+  bib_key="ZhouHCBYWL26"
+  bib_type="inproceedings"
+  bib_container="AAAI'26: Proceedings of The 40th Annual AAAI Conference on Artificial Intelligence"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -415,6 +451,10 @@ Proc. of the 2025 European Conference on Machine Learning and Principles and Pra
   doi="10.1007/978-3-032-19108-3_37"
   doi_url="https://link.springer.com/chapter/10.1007/978-3-032-19108-3_37"
   source_icon="ai ai-springer ai-lg"
+  abstract_file="/content/docs/research/abstract/abstract_YangCLRPTDL26.txt"
+  bib_key="YangCLRPTDL26"
+  bib_type="inproceedings"
+  bib_container="Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -550,6 +590,7 @@ Demo Paper Track, p. 11058--11061, August, 2025<br>
   source_icon="ai ai-acm ai-lg"
   bib_type="inproceedings"
   bib_key="HuangZCL26"
+  bib_container="IJCAI'25: Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -583,6 +624,7 @@ Proc. of the 47th International Conference on Software Engineering [(ICSE'25)](h
   source_icon="ai ai-acm ai-lg"
   bib_type="inproceedings"
   bib_key="MaCL25"
+  bib_container="ICSE'25: Proceedings of IEEE/ACM 47th International Conference on Software Engineering"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -600,6 +642,7 @@ Proc. of the 39th Annual AAAI Conference on Artificial Intelligence [(AAAI'25)](
   source_icon="ai ai-acm ai-lg"
   bib_type="inproceedings"
   bib_key="YangCL25"
+  bib_container="AAAI'25: Proceedings of The 39th Annual AAAI Conference on Artificial Intelligence"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -618,6 +661,7 @@ Proc. of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining [(KDD
   source_icon="ai ai-acm ai-lg"
   bib_type="inproceedings"
   bib_key="HuangL25"
+  bib_container="KDD'25: Proceedings of The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -636,6 +680,7 @@ Proc. of the 2025 IEEE International Conference on Multimedia and Expo [(ICME'25
   source_icon="ai ai-ieee ai-lg"
   bib_type="inproceedings"
   bib_key="ZouCHL25"
+  bib_container="ICME'25: Proceedings of the 2025 IEEE International Conference on Multimedia and Expo"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -831,6 +876,9 @@ Tian Huang{{< student_mark >}}, Shengbo Wang{{< student_mark >}}, **<ins>Ke Li</
 Proc. of the 38th Annual Conference on Neural Information Processing Systems [(NeurIPS'24)](https://neurips.cc/)<br>
 {{< paper_meta
   slug="direct-preference-based-evolutionary-multi-objective-optimization-with-dueling-bandits"
+  abstract_file="/content/docs/research/abstract/abstract_HuangWL24.txt"
+  bib_file="/content/bib/HuangWL24.bib"
+  pdf="https://proceedings.neurips.cc/paper_files/paper/2024/file/dd0ef9308bd10c964bd14c0000438460-Paper-Conference.pdf"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -846,6 +894,9 @@ Findings of the 2024 Conference on Empirical Methods in Natural Language Process
   slug="mp-rna-unleashing-multi-species-rna-foundation-model-via-calibrated-secondary-structure-prediction"
   doi="10.18653/v1/2024.findings-emnlp.304"
   doi_url="https://aclanthology.org/2024.findings-emnlp.304/"
+  bib_type="inproceedings"
+  bib_key="YangL24a"
+  bib_container="EMNLP'24: Findings of the Association for Computational Linguistics: EMNLP 2024"
   show_pdf="true"
   show_code="true"
   show_abs="true"
@@ -860,6 +911,9 @@ Proc. of the 2024 Conference on Empirical Methods in Natural Language Processing
   slug="the-best-defense-is-attack-repairing-semantics-in-textual-adversarial-examples"
   doi="10.18653/v1/2024.emnlp-main.481"
   doi_url="https://aclanthology.org/2024.emnlp-main.481/"
+  bib_type="inproceedings"
+  bib_key="YangL24b"
+  bib_container="EMNLP'24: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing"
   show_pdf="true"
   show_code="false"
   show_abs="true"
@@ -876,6 +930,9 @@ Proc. of the 33rd ACM International Conference on Information and Knowledge Mana
   source_icon="ai ai-acm ai-lg"
   doi="10.1145/3627673.3679225"
   doi_url="https://dl.acm.org/doi/10.1145/3627673.3679225"
+  bib_type="inproceedings"
+  bib_key="MaoL24"
+  bib_container="CIKM'24: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -888,6 +945,7 @@ Jack Cole{{< student_mark >}}, Fan Li{{< student_mark >}}, Liwen Wu{{< student_m
 Proc. of the 2024 ICML AI for Science Workshop<br>
 {{< paper_meta
   slug="rnainvbench-benchmark-for-the-rna-inverse-design-problem"
+  bib_file="/content/bib/ColeLWTL24.bib"
   show_pdf="true"
   code="https://github.com/COLA-Laboratory/RNAInvBench"
   show_abs="true"
@@ -922,8 +980,9 @@ Proc. of the 38th Annual AAAI Conference on Artificial Intelligence [(AAAI'24)](
   show_code="true"
   abstract_file="/content/docs/research/abstract/abstract_WangL24.txt"
   bib_file="/content/bib/WangL24.bib"
-  bib_key="WangL23"
+  bib_key="WangL24"
   bib_type="inproceedings"
+  bib_container="AAAI'24: Proceedings of The 38th Annual AAAI Conference on Artificial Intelligence"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 23.5%"
@@ -938,6 +997,9 @@ Findings of the 18th Conference of the European Chapter of the Association for C
   doi="10.18653/v1/2024.findings-eacl.13"
   doi_url="https://aclanthology.org/2024.findings-eacl.13"
   pdf="https://aclanthology.org/2024.findings-eacl.13.pdf"
+  bib_type="inproceedings"
+  bib_key="YangL24c"
+  bib_container="EACL'24: Findings of the Association for Computational Linguistics: EACL 2024"
   show_abs="true"
   show_bib="true"
   show_citation="true"
@@ -1072,6 +1134,7 @@ Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics
   show_bib="true"
   bib_type="inproceedings"
   bib_key="Chen23"
+  bib_container="SMC'23: Proceedings of the 2023 IEEE International Conference on Systems, Man, and Cybernetics"
   show_citation="true"
 >}}
 
@@ -1084,6 +1147,7 @@ Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics
   doi_url="https://ieeexplore.ieee.org/document/10394174"
   bib_key="ZhouL23"
   bib_type="inproceedings"
+  bib_container="SMC'23: Proceedings of the 2023 IEEE International Conference on Systems, Man, and Cybernetics"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -1095,6 +1159,7 @@ Tian Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics [(SMC'23)](https://ieeesmc2023.org/)<br>
 {{< paper_meta
   slug="preference-based-multi-objective-optimization-with-gaussian-process"
+  bib_file="/content/bib/HuangL23a.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -1138,6 +1203,7 @@ Phoenix Williams{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 37th Conference on Neural Information Processing Systems [(NeurIPS'23)](https://neurips.cc/Conferences/2023)<br>
 {{< paper_meta
   slug="camopatch-an-evolutionary-strategy-for-generating-camoflauged-adversarial-patches"
+  bib_file="/content/bib/WilliamsL23a.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -1174,6 +1240,7 @@ Proc. of the 32nd ACM International Conference on Information and Knowledge Mana
   abstract_file="/content/docs/research/abstract/abstract_YangZL23.txt"
   bib_key="YangZL23"
   bib_type="inproceedings"
+  bib_container="CIKM'23: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 35%"
@@ -1192,6 +1259,7 @@ Proc. of 2023 IEEE Congress on Evolutionary Computation [(CEC'23)](https://2023.
   abstract_file="/content/docs/research/abstract/abstract_WilliamsLM23.txt"
   bib_key="WilliamsL23"
   bib_type="inproceedings"
+  bib_container="CEC'23: Proceedings of the 2023 IEEE Congress on Evolutionary Computation"
   show_abs="true"
   show_bib="true"
   show_citation="true"
@@ -1209,6 +1277,7 @@ Porc. of the 32nd International Joint Conference on Artificial Intelligence [(IJ
   supp_icon="far fa-file-pdf"
   bib_key="HuangL23"
   bib_type="inproceedings"
+  bib_container="IJCAI'23: Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 15%"
@@ -1225,6 +1294,7 @@ Findings of the 61st Annual Meeting of the Association for Computational Linguis
   pdf="https://aclanthology.org/2023.findings-acl.105.pdf"
   bib_key="YangL23b"
   bib_type="inproceedings"
+  bib_container="ACL'23: Findings of the Association for Computational Linguistics: ACL 2023"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 40.6%"
@@ -1241,6 +1311,7 @@ Proc. of 26th International Conference on Computer Supported Cooperative Work in
   source_icon="ai ai-ieee ai-lg"
   bib_key="ZhangXHZL23"
   bib_type="inproceedings"
+  bib_container="CSCWD'23: Proceedings of the 2023 26th International Conference on Computer Supported Cooperative Work in Design"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -1259,6 +1330,7 @@ Proc. of 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition [(C
   abstract_file="/content/docs/research/abstract/abstract_WilliamsL23.txt"
   bib_key="WilliamsL23"
   bib_type="inproceedings"
+  bib_container="CVPR'23: Proceedings of the 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
   show_abs="true"
   show_bib="true"
   metric="&asymp; 25%"
@@ -1279,6 +1351,7 @@ Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optim
   abstract_file="/content/docs/research/abstract/abstract_ChenL23.txt"
   bib_key="ChenL23"
   bib_type="inproceedings"
+  bib_container="EMO'23: Proceedings of the 12th International Conference on Evolutionary Multi-Criterion Optimization"
   show_abs="true"
   show_bib="true"
   show_citation="true"
@@ -1295,6 +1368,7 @@ Proc. of the 12th International Conference on Evolutionary Multi-Criterion Optim
   abstract_file="/content/docs/research/abstract/abstract_WilliamsL23.txt"
   bib_key="WilliamsLGM23"
   bib_type="inproceedings"
+  bib_container="EMO'23: Proceedings of the 12th International Conference on Evolutionary Multi-Criterion Optimization"
   show_abs="true"
   show_pdf="true"
   show_bib="true"
@@ -1381,6 +1455,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
   slug="surrogate-assisted-evolutionary-multi-objective-optimization-for-hardware-design-space-exploration"
   pdf="https://www.dropbox.com/s/do1f1q9tkkmxgfw/main.pdf?dl=0"
   abstract_file="/content/docs/research/abstract/abstract_ChenL22.txt"
+  bib_file="/content/bib/ChenL22.bib"
   show_abs="true"
   show_bib="true"
   show_citation="false"
@@ -1393,6 +1468,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
   slug="are-all-training-data-useful-a-empirical-revisit-of-subset-selection-in-bayesian-optimization"
   pdf="https://www.dropbox.com/s/sfa37snhfl6wjtt/main.pdf?dl=0"
   abstract_file="/content/docs/research/abstract/abstract_MaoL22.txt"
+  bib_file="/content/bib/MaoL22.bib"
   show_abs="true"
   show_bib="true"
   show_citation="false"
@@ -1404,6 +1480,7 @@ Proc. of the NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, an
 <i class='far fa-file-alt' style='font-size:16px'></i> `Abs`</a> |
 {{< paper_meta
   slug="imputation-and-forecasting-for-multi-output-gaussian-process-in-smart-grid"
+  bib_file="/content/bib/XuL22a.bib"
   show_pdf="true"
   show_bib="true"
   show_citation="false"
@@ -1417,6 +1494,9 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
   doi="10.1007/978-3-031-14721-0_9"
   doi_url="https://link.springer.com/chapter/10.1007/978-3-031-14721-0_9"
   source_icon="ai ai-springer ai-lg"
+  bib_key="LiLL22"
+  bib_type="inproceedings"
+  bib_container="PPSN'22: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature"
   show_pdf="true"
   show_bib="true"
 >}}
@@ -1431,6 +1511,9 @@ Proc. of the 17the International Conference on Parallel Problem Solving from Nat
   doi="10.1007/978-3-031-14714-2_24"
   doi_url="https://link.springer.com/chapter/10.1007/978-3-031-14714-2_24"
   source_icon="ai ai-springer ai-lg"
+  bib_key="ZhouLM22"
+  bib_type="inproceedings"
+  bib_container="PPSN'22: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature"
   show_pdf="true"
   show_bib="true"
 >}}
@@ -1445,6 +1528,9 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
   doi="10.1145/3520304.3528934"
   doi_url="https://dl.acm.org/doi/10.1145/3520304.3528934"
   source_icon="ai ai-acm ai-lg"
+  bib_key="WilliamsLM22"
+  bib_type="inproceedings"
+  bib_container="GECCO'22 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_pdf="true"
   show_bib="true"
 >}}
@@ -1459,6 +1545,9 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
   doi="10.1145/3520304.3528981"
   doi_url="https://dl.acm.org/doi/10.1145/3520304.3528981"
   source_icon="ai ai-acm ai-lg"
+  bib_key="ZhouLM22a"
+  bib_type="inproceedings"
+  bib_container="GECCO'22 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_pdf="true"
   show_bib="true"
 >}}
@@ -1473,6 +1562,9 @@ Proc. of the 24th Annual Conference on Genetic and Evolutionary Computation [(GE
   doi="10.1145/3520304.3533629"
   doi_url="https://dl.acm.org/doi/10.1145/3520304.3533629"
   source_icon="ai ai-acm ai-lg"
+  bib_key="LiZ22"
+  bib_type="inproceedings"
+  bib_container="GECCO'22 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_pdf="true"
   show_bib="true"
 >}}
@@ -1544,6 +1636,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
   bib_file="/content/bib/Chen021.bib"
   bib_key="Chen021"
   bib_type="inproceedings"
+  bib_container="SMC'21: Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -1559,6 +1652,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
   bib_file="/content/bib/WilliamsLM21.bib"
   bib_key="WilliamsLM21"
   bib_type="inproceedings"
+  bib_container="SMC'21: Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -1574,6 +1668,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
   bib_file="/content/bib/ChenL21.bib"
   bib_key="ChenL21"
   bib_type="inproceedings"
+  bib_container="SMC'21: Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -1589,6 +1684,7 @@ Proc. of the 2021 IEEE International Conference on Systems, Man, and Cybernetics
   bib_file="/content/bib/XuLA021.bib"
   bib_key="XuLA021"
   bib_type="inproceedings"
+  bib_container="SMC'21: Proceedings of the 2021 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -1604,6 +1700,7 @@ Proc. of the 2021 20th UK Workshop on Computational Intelligence [(UKCI'21)](htt
   bib_file="/content/bib/YuceL21.bib"
   bib_key="YuceL21"
   bib_type="inproceedings"
+  bib_container="UKCI'21: Proceedings of the 20th UK Workshop on Computational Intelligence"
   show_bib="true"
 >}}
 
@@ -1620,6 +1717,7 @@ Proc. of the 2021 IEEE Congress on Evolutionary Computation [(CEC'21)](https://c
   bib_file="/content/bib/LaiL021.bib"
   bib_key="LaiL021"
   bib_type="inproceedings"
+  bib_container="CEC'21: Proceedings of the 2021 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -1635,6 +1733,7 @@ Proc. of the 23th Annual Conference on Genetic and Evolutionary Computation [(GE
   bib_file="/content/bib/ZhangLG21.bib"
   bib_key="ZhangLG21"
   bib_type="inproceedings"
+  bib_container="GECCO'21 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_bib="true"
 >}}
 
@@ -1650,6 +1749,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
   bib_file="/content/bib/ShanL21.bib"
   bib_key="ShanL21"
   bib_type="inproceedings"
+  bib_container="EMO'21: Proceedings of the 11th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -1665,6 +1765,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
   bib_file="/content/bib/XuLA21.bib"
   bib_key="XuLA21"
   bib_type="inproceedings"
+  bib_container="EMO'21: Proceedings of the 11th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -1680,6 +1781,7 @@ Proc. of the 11th International Conference on Evolutionary Multi-Criterion Optim
   bib_file="/content/bib/BillingsleyLMMG21.bib"
   bib_key="BillingsleyLMMG21"
   bib_type="inproceedings"
+  bib_container="EMO'21: Proceedings of the 11th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -1751,6 +1853,7 @@ Proc. of the 2020 IEEE Global Communications Conference [(GLOBECOM'20)](https://
   bib_file="/content/bib/BillingsleyMLMG20.bib"
   bib_key="BillingsleyMLMG20"
   bib_type="inproceedings"
+  bib_container="GLOBECOM'20: Proceedings of the 2020 IEEE Global Communications Conference"
   show_bib="true"
 >}}
 
@@ -1766,6 +1869,7 @@ Proc. of the 2020 IEEE Conference on Systems, Man and Cybernetics [(SMC'20)](htt
   bib_file="/content/bib/NieGL20.bib"
   bib_key="NieGL20"
   bib_type="inproceedings"
+  bib_container="SMC'20: Proceedings of the 2020 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -1782,6 +1886,7 @@ Proc. of the 35th IEEE/ACM International Conference on Automated Software Engine
   bib_file="/content/bib/LiXCT20.bib"
   bib_key="LiXCT20"
   bib_type="inproceedings"
+  bib_container="ASE'20: Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering"
   show_bib="true"
 >}}
 
@@ -1797,6 +1902,7 @@ Proc. of the 16th International Conference on Parallel Problem Solving from Natu
   bib_file="/content/bib/SunL20.bib"
   bib_key="SunL20"
   bib_type="inproceedings"
+  bib_container="PPSN'20: Proceedings of the 16th International Conference on Parallel Problem Solving from Nature"
   show_bib="true"
 >}}
 
@@ -1812,6 +1918,7 @@ Proc. of the 22th Annual Conference on Genetic and Evolutionary Computation [(GE
   bib_file="/content/bib/RuanLDL20.bib"
   bib_key="RuanLDL20"
   bib_type="inproceedings"
+  bib_container="GECCO'20: Proceedings of the 2020 Genetic and Evolutionary Computation Conference"
   show_bib="true"
 >}}
 
@@ -1826,7 +1933,8 @@ Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https
   show_pdf="true"
   bib_file="/content/bib/BillingsleyLMMG20.bib"
   bib_key="BillingsleyLMMG20"
-  bib_type="article"
+  bib_type="inproceedings"
+  bib_container="CEC'20: Proceedings of the 2020 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -1842,6 +1950,7 @@ Proc. of the 2020 World Congress on Computational Intelligence [(WCCI'20)](https
   bib_file="/content/bib/FanLT20.bib"
   bib_key="FanLT20"
   bib_type="inproceedings"
+  bib_container="CEC'20: Proceedings of the 2020 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -1858,6 +1967,7 @@ Proc. of the ACM SIGSOFT 2020 International Symposium on Software Testing and An
   bib_file="/content/bib/LiuLC20.bib"
   bib_key="LiuLC20"
   bib_type="inproceedings"
+  bib_container="ISSTA'20: Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis"
   show_bib="true"
 >}}
 
@@ -1874,6 +1984,7 @@ Proc. of the 42nd International Conference on Software Engineering [(ICSE'20)](h
   bib_file="/content/bib/LiX0WT20.bib"
   bib_key="LiX0WT20"
   bib_type="inproceedings"
+  bib_container="ICSE'20: Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering"
   show_bib="true"
 >}}
 
@@ -1889,6 +2000,7 @@ Proc. of the 20th European Conference on Evolutionary Computation in Combinatori
   bib_file="/content/bib/PruvostDLL020.bib"
   bib_key="PruvostDLL020"
   bib_type="inproceedings"
+  bib_container="EvoCOP'20: Proceedings of the 20th European Conference on Evolutionary Computation in Combinatorial Optimization"
   show_bib="true"
 >}}
 
@@ -1980,7 +2092,8 @@ Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press
   show_supp="true"
   bib_file="/content/bib/LiXT19.bib"
   bib_key="LiXT19"
-  bib_type="article"
+  bib_type="inproceedings"
+  bib_container="CEC'19: Proceedings of the 2019 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -1996,7 +2109,8 @@ Proc. of the 2019 IEEE Congress on Evolutionary Computation (CEC'19), IEEE Press
   show_supp="true"
   bib_file="/content/bib/GaoNL19.bib"
   bib_key="GaoNL19"
-  bib_type="article"
+  bib_type="inproceedings"
+  bib_container="CEC'19: Proceedings of the 2019 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -2013,6 +2127,7 @@ Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/LiZ19.bib"
   bib_key="LiZ19"
   bib_type="inproceedings"
+  bib_container="GECCO'19 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_bib="true"
   show_citation="false"
 >}}
@@ -2029,6 +2144,7 @@ Proc. of the 21th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/LiuLC19.bib"
   bib_key="LiuLC19"
   bib_type="inproceedings"
+  bib_container="GECCO'19 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_bib="true"
 >}}
 
@@ -2046,6 +2162,7 @@ Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optim
   bib_file="/content/bib/Li19.bib"
   bib_key="Li19"
   bib_type="inproceedings"
+  bib_container="EMO'19: Proceedings of the 10th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -2061,6 +2178,7 @@ Proc. of the 10th International Conference on Evolutionary Multi-Criterion Optim
   bib_file="/content/bib/BillingsleyLMMG19.bib"
   bib_key="BillingsleyLMMG19"
   bib_type="inproceedings"
+  bib_container="EMO'19: Proceedings of the 10th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -2172,6 +2290,7 @@ Proc. of the 24th International Conference on Parallel and Distributed Systems
   bib_file="/content/bib/KumarBCLB18.bib"
   bib_key="KumarBCLB18"
   bib_type="inproceedings"
+  bib_container="ICPADS'18: Proceedings of the 2018 IEEE 24th International Conference on Parallel and Distributed Systems"
   show_bib="true"
 >}}
 
@@ -2188,6 +2307,7 @@ Proc. of the 20th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/LiZ18.bib"
   bib_key="LiZ18"
   bib_type="inproceedings"
+  bib_container="GECCO'18 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion"
   show_bib="true"
   show_citation="false"
 >}}
@@ -2263,6 +2383,7 @@ Proc. of the 9th International Conference on Evolutionary Multi-Criterion Optimi
   bib_file="/content/bib/LiDAY17.bib"
   bib_key="LiDAY17"
   bib_type="inproceedings"
+  bib_container="EMO'17: Proceedings of the 9th International Conference on Evolutionary Multi-Criterion Optimization"
   show_bib="true"
 >}}
 
@@ -2278,6 +2399,7 @@ Proc. of the 19th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/WuKJLZ17.bib"
   bib_key="WuKJLZ17"
   bib_type="inproceedings"
+  bib_container="GECCO'17: Proceedings of the Genetic and Evolutionary Computation Conference"
   show_bib="true"
 >}}
 
@@ -2316,6 +2438,7 @@ Proc. of the 14th International Conference on Parallel Problem Solving from Natu
   bib_file="/content/bib/LiODY16.bib"
   bib_key="LiODY16"
   bib_type="inproceedings"
+  bib_container="PPSN'16: Proceedings of the 14th International Conference on Parallel Problem Solving from Nature"
   show_bib="true"
 >}}
 
@@ -2403,6 +2526,7 @@ Proc. of 2015 IEEE Conference on Systems, Mans and Cybernetics (SMC’15), IEEE 
   bib_file="/content/bib/WuKZLWL15.bib"
   bib_key="WuKZLWL15"
   bib_type="inproceedings"
+  bib_container="SMC'15: Proceedings of the 2015 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2417,8 +2541,9 @@ Proc. of 2015 IEEE Congress on Evolutionary Computation (CEC’15), IEEE Press: 
   pdf="/publications/LiDZ15.pdf"
   code="https://github.com/JerryI00/releasing-codes-java"
   bib_file="/content/bib/LiZKLW14.bib"
-  bib_key="LiZKLW14"
-  bib_type="article"
+  bib_key="LiDZ15"
+  bib_type="inproceedings"
+  bib_container="CEC'15: Proceedings of the 2015 IEEE Congress on Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -2504,8 +2629,9 @@ Proc. of 2014 International Conference on Machine Learning and Cybernetics (ICML
   source_icon="ai ai-ieee ai-lg"
   pdf="/publications/CaoKWL14.pdf"
   bib_file="/content/bib/LiKWTM13.bib"
-  bib_key="LiKWTM13"
-  bib_type="article"
+  bib_key="CaoKWL14"
+  bib_type="inproceedings"
+  bib_container="ICMLC'14: Proceedings of the 2014 International Conference on Machine Learning and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2581,6 +2707,7 @@ Proc. of 2012 IEEE International Conference on Systems, Mans and Cybernetics (SM
   bib_file="/content/bib/LiKWCR12.bib"
   bib_key="LiKWCR12"
   bib_type="inproceedings"
+  bib_container="SMC'12: Proceedings of the 2012 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2596,6 +2723,7 @@ Proc. of 2012 International Conference on Machine Learning and Cybernetics (ICML
   bib_file="/content/bib/CaoKWL12.bib"
   bib_key="CaoKWL12"
   bib_type="inproceedings"
+  bib_container="ICMLC'12: Proceedings of the 2012 International Conference on Machine Learning and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2617,6 +2745,7 @@ Proc. of 2011 IEEE International Conference on Systems, Mans and Cybernetics (SM
   bib_file="/content/bib/CaoWKL11.bib"
   bib_key="CaoWKL11"
   bib_type="inproceedings"
+  bib_container="SMC'11: Proceedings of the 2011 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2632,6 +2761,7 @@ Proc. of the 13th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/LiKM11.bib"
   bib_key="LiKM11"
   bib_type="inproceedings"
+  bib_container="GECCO'11 Companion: Proceedings of the 13th Annual Conference Companion on Genetic and Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -2647,6 +2777,7 @@ Proc. of the 5th International Conference on Learning and Intelligent Optimizati
   bib_file="/content/bib/LiFK11.bib"
   bib_key="LiFK11"
   bib_type="inproceedings"
+  bib_container="LION'11: Proceedings of the 5th International Conference on Learning and Intelligent Optimization"
   show_bib="true"
 >}}
 
@@ -2683,6 +2814,7 @@ Proc. of the 11th International Conference on Parallel Problem Solving from Natu
   bib_file="/content/bib/LiZLYS10.bib"
   bib_key="LiZLYS10"
   bib_type="inproceedings"
+  bib_container="PPSN'10: Proceedings of the 11th International Conference on Parallel Problem Solving from Nature"
   show_bib="true"
 >}}
 
@@ -2698,6 +2830,7 @@ Proc. of the 12th Annual Conference on Genetic and Evolutionary Computation (GEC
   bib_file="/content/bib/LiZSLY10.bib"
   bib_key="LiZSLY10"
   bib_type="inproceedings"
+  bib_container="GECCO'10: Proceedings of the 12th Annual Conference on Genetic and Evolutionary Computation"
   show_bib="true"
 >}}
 
@@ -2719,6 +2852,7 @@ Proc. of 2009 IEEE International Conference on Systems, Mans and Cybernetics (SM
   bib_file="/content/bib/LiZLZL09.bib"
   bib_key="LiZLZL09"
   bib_type="inproceedings"
+  bib_container="SMC'09: Proceedings of the 2009 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2734,6 +2868,7 @@ Proc. of 2009 IEEE International Conference on Systems, Mans and Cybernetics (SM
   bib_file="/content/bib/LiZLWX09.bib"
   bib_key="LiZLWX09"
   bib_type="inproceedings"
+  bib_container="SMC'09: Proceedings of the 2009 IEEE International Conference on Systems, Man, and Cybernetics"
   show_bib="true"
 >}}
 
@@ -2749,6 +2884,7 @@ Proc. of the 5th International Conference on Natural Computation (ICNC’09), IE
   bib_file="/content/bib/ZhouZLL09.bib"
   bib_key="ZhouZLL09"
   bib_type="inproceedings"
+  bib_container="ICNC'09: Proceedings of the 2009 Fifth International Conference on Natural Computation"
   show_bib="true"
 >}}
 
@@ -2764,6 +2900,7 @@ Proc. of the 5th International Conference on Natural Computation (ICNC’09), IE
   bib_file="/content/bib/LvZWZL09.bib"
   bib_key="LvZWZL09"
   bib_type="inproceedings"
+  bib_container="ICNC'09: Proceedings of the 2009 Fifth International Conference on Natural Computation"
   show_bib="true"
 >}}
 
@@ -2779,5 +2916,6 @@ Proc. of 2009 WRI World Congress on Computer Science and Information Engineering
   bib_file="/content/bib/LiZZL09.bib"
   bib_key="LiZZL09"
   bib_type="inproceedings"
+  bib_container="CSIE'09: Proceedings of the 2009 WRI World Congress on Computer Science and Information Engineering"
   show_bib="true"
 >}}

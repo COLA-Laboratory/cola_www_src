@@ -169,10 +169,10 @@
     {{- $abstractText = (printf "%v" .) | plainify -}}
   {{- end -}}
 {{- end -}}
-{{- if and (eq $abstractText "abstract unavailable") $abstractTextParam -}}
+{{- if $abstractTextParam -}}
   {{- $abstractText = $abstractTextParam -}}
 {{- end -}}
-{{- if and (eq $abstractText "abstract unavailable") $abstractFile -}}
+{{- if $abstractFile -}}
   {{- $abstractText = $abstractFile | readFile -}}
 {{- end -}}
 {{- $abstractAvailable = ne (trim $abstractText " \n\r\t") "abstract unavailable" -}}
