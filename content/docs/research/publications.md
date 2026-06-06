@@ -261,9 +261,15 @@ IEEE Trans. Computational Social Systems (TCSS)<br>
   bib_key="ZhengHML25"
 >}}
 
+---
+
+## 2026
+
+### <i class='fas fa-book-open' style='font-size:18px'></i> Journal
+
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
 **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
+IEEE Trans. Evolutionary Computation (TEVC), 30(3): 957--978, 2026<br>
 {{< paper_meta
   doi="10.1109/TEVC.2024.3496507"
   doi_url="https://ieeexplore.ieee.org/document/10750458"
@@ -272,12 +278,6 @@ IEEE Trans. Evolutionary Computation (TEVC)<br>
   supp="https://www.dropbox.com/scl/fi/ef9xazny7u4qhmnzf2g8m/supp.pdf?rlkey=owq81kgveebkdaxi0u3ywr43a&dl=0"
   bib_key="Li24"
 >}}
-
----
-
-## 2026
-
-### <i class='fas fa-book-open' style='font-size:18px'></i> Journal
 
 - Multi-Fidelity Methods for Optimization: A Survey<br>
 **<ins>Ke Li</ins>**, Fan Li{{< student_mark >}}<br>
