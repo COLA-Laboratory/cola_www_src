@@ -155,6 +155,21 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
+- HICnet: A Two-stage Framework based on Region Partitioning for Predicting HIC Values from Car Point Clouds<br>
+Shuang Li{{< student_mark >}}, Jinran Wu{{< student_mark >}}, Aimin Shi, Fan Li, Guojie Wang, Jianwen Zhou, Yong Xia, Lihua Wang, Jie Li, **<ins>Ke Li</ins>**<br>
+Accident Analysis & Prevention (AAP)<br>
+{{< paper_meta
+  slug="HIC-prediction"
+  bib_file="/content/bib/LiWSLWZXWLL26.bib"
+  abstract_file="/content/docs/research/abstract/abstract_LiWSLWZXWLL26.txt"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  doi="10.1016/j.aap.2026.108634"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S0001457526002435?dgcid=coauthor"
+  source_icon="ai ai-elsevier ai-lg"
+  bib_key="LiWSLWZXWLL26"
+>}}
 
 - Few-shot Constrained Bayesian Optimization for Dynamic Constrained Problem<br>
 Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
@@ -488,6 +503,7 @@ IEEE Trans. Software Engineering (TSE), 51(8): 2305--2328, 2025<br>
   doi="10.1109/TSE.2025.3577808"
   doi_url="https://ieeexplore.ieee.org/document/11029502"
   source_icon="ai ai-ieee ai-lg"
+  code="https://github.com/COLA-Laboratory/MBL-CPDP"
   bib_key="ChenDTQL25"
   bib_type="article"
   show_citation="true"

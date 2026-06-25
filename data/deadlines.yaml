@@ -72,6 +72,24 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: aaai-2027
+    title: AAAI 2027
+    subjects: [AI]
+    website: https://aaai.org/conference/aaai/aaai-27/
+    schedule:
+      - location: Montreal, Canada
+        dates: Feb 16-23, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-07-21
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-07-28
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: iclr-2024
     title: ICLR 2024
     subjects: [AI]
@@ -331,7 +349,6 @@ conferences:
         time_label: 11:00PM CET
         time_24: "23:00"
         utc_offset: "+01:00"
-
   - id: kdd-2023
     title: KDD 2023
     subjects: [DM]
@@ -447,6 +464,19 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: eacl-2027
+    title: EACL 2027
+    subjects: [NLP]
+    website: https://2027.eacl.org/
+    schedule:
+      - location: Athens, Greece
+        dates: Mar 9-14, 2027
+    deadlines:
+      - label: ARR submit
+        date: 2026-08-03
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: naacl-2022
     title: NAACL 2022
     subjects: [NLP]
@@ -526,6 +556,19 @@ conferences:
         utc_offset: "-12:00"
       - label: Full paper
         date: 2025-09-11
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: fse-2027
+    title: FSE 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/fse-2027
+    schedule:
+      - location: Shenzhen, China
+        dates: Jul 12-16, 2027
+    deadlines:
+      - label: Full paper
+        date: 2026-10-02
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
@@ -643,6 +686,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-10-21
+  - id: saner-2027
+    title: SANER 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/saner-2027
+    schedule:
+      - location: Richmond, Virginia, USA
+        dates: Mar 9-12, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-09-21
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-09-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: icst-2023
     title: ICST 2023
     subjects: [SE]
