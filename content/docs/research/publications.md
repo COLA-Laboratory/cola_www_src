@@ -369,22 +369,6 @@ International Journal of Electrical Power and Energy Systems (IJEPES), 177: 1117
 
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
 
-- Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
-Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
-<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
-{{< paper_meta
-  slug="augmenting-biological-fitness-prediction-benchmarks-with-landscapes-features-from-graphfla"
-  abstract_file="/content/docs/research/abstract/abstract_HuangZL25.txt"
-  bib_file="/content/bib/HuangZL25.bib"
-  show_pdf="true"
-  blog="../../posts/NeurIPS25_MH_GraphFLA"
-  show_abs="true"
-  show_bib="true"
-  metric="&asymp; 24.91%"
-  show_citation="false"
->}}
-
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
 Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual AAAI Conference on Artificial Intelligence [(AAAI'26)](https://aaai.org/conference/aaai/aaai-26/), 40(26): 21876--21884, Singapore, January 20--27, 2026<br>
@@ -594,6 +578,22 @@ IEEE Trans. Consumer Electronics (TCE), 71(2): 6469--6476, 2025<br>
 
 
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
+
+- Augmenting Biological Fitness Prediction Benchmarks with Landscapes Features from GraphFLA<br>
+Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 39th Annual Conference on Neural Information Processing Systems [(NeurIPS'25)](https://neurips.cc/), Dataset and Benchmark Track <br>
+<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.8%)<br>
+{{< paper_meta
+  slug="augmenting-biological-fitness-prediction-benchmarks-with-landscapes-features-from-graphfla"
+  abstract_file="/content/docs/research/abstract/abstract_HuangZL25.txt"
+  bib_file="/content/bib/HuangZL25.bib"
+  show_pdf="true"
+  blog="../../posts/NeurIPS25_MH_GraphFLA"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 24.91%"
+  show_citation="false"
+>}}
 
 - Conversational Exploration of Literature Landscape with LitChat<br>
 Mingyu Huang{{< student_mark >}}, Shasha Zhou{{< student_mark >}}, Yuxuan Chen{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
@@ -1062,6 +1062,22 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749--763, 2023<br>
   show_citation="true"
 >}}
 
+- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
+Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC)<br>
+{{< paper_meta
+  slug="a-multi-population-evolutionary-algorithm-using-new-cooperative-mechanism-for-solving-multi-objective-problems-with-multi-constraint"
+  doi="10.1109/TEVC.2023.3260306"
+  doi_url="https://ieeexplore.ieee.org/abstract/document/10078268"
+  source_icon="ai ai-ieee ai-lg"
+  show_pdf="true"
+  abstract_file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt"
+  bib_type="article"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
+>}}
+
 - Efficient Spectral Graph Convolutional Network Deployment on Memristive Crossbars<br>
 Bo Lyu{{< student_mark >}}, Maher Hamdi, Yin Yang, Yuting Cao, Zheng Yan, **<ins>Ke Li</ins>**, Shiping Wen, Tingwen Huang<br>
 IEEE Trans. Emerging Topics in Computational Intelligence (TETCI), 7(2): 415--425, 2023<br>
@@ -1181,21 +1197,6 @@ Proc. of the 2023 IEEE International Conference on Systems, Man, and Cybernetics
   show_bib="true"
   show_citation="false"
 >}}
-
-- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
-Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-{{< paper_meta
-  slug="a-multi-population-evolutionary-algorithm-using-new-cooperative-mechanism-for-solving-multi-objective-problems-with-multi-constraint"
-  doi="10.1109/TEVC.2023.3260306"
-  doi_url="https://ieeexplore.ieee.org/abstract/document/10078268"
-  source_icon="ai ai-ieee ai-lg"
-  show_pdf="true"
-  abstract_file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt"
-  show_abs="true"
-  show_bib="true"
->}}
-
 
 - "Why Not Looking backward?" A Robust Two-Step Method to Automatically Terminate Bayesian Optimization<br>
 Shuang Li{{< student_mark >}}, **<ins>Ke Li</ins>**, Wei Li<br>
