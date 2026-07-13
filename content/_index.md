@@ -16,6 +16,10 @@ bookToc: false
 
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory has contributed the fundamental development of computational/artificial intelligence (CI/AI) for black-box optimization and decision-making (especially with multiple conflicting objectives), as well as applications in life sciences (including bioscience and healthcare) and software engineering. In particular, we have been enthusiastic about broad AI+X (integrating AI with application domains denoted by "X" to enhance, innovate, or transform the domain).
 
+{{< hint success>}}
+The COLALab will relocate to the Earlham Institute at the Norwich Research Park since this September. We are going to build an ambitious generative digital biology programme, while our new contact details will be updated in due course. There will be multiple openings for postdocs and PhD students in the coming weeks or months. Please feel free to contact me about those opportunities.
+{{< /hint >}}
+
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}

@@ -885,6 +885,22 @@ IEEE Trans. Evolutionary Computation (TEVC), 28(3): 733--747, 2024<br>
   show_citation="true"
 >}}
 
+- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
+Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
+IEEE Trans. Evolutionary Computation (TEVC), 28(1): 267--280, 2024<br>
+{{< paper_meta
+  slug="a-multi-population-evolutionary-algorithm-using-new-cooperative-mechanism-for-solving-multi-objective-problems-with-multi-constraint"
+  doi="10.1109/TEVC.2023.3260306"
+  doi_url="https://ieeexplore.ieee.org/abstract/document/10078268"
+  source_icon="ai ai-ieee ai-lg"
+  show_pdf="true"
+  abstract_file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt"
+  bib_type="article"
+  show_abs="true"
+  show_bib="true"
+  show_citation="true"
+>}}
+
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
 
 - Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandits<br>
@@ -1056,22 +1072,6 @@ IEEE Trans. Evolutionary Computation (TEVC), 27(4): 749--763, 2023<br>
   abstract_file="/content/docs/research/abstract/abstract_LiLY23.txt"
   bib_file="/content/bib/LiLY23.bib"
   bib_key="LiLY23"
-  bib_type="article"
-  show_abs="true"
-  show_bib="true"
-  show_citation="true"
->}}
-
-- A Multi-Population Evolutionary Algorithm Using New Cooperative Mechanism for Solving Multi-Objective Problems with Multi-Constraint<br>
-Juan Zou, Ruiqing Sun, Yuan Liu, Yaru Hu, Shengxiang Yang, Jinhua Zheng, **<ins>Ke Li</ins>**<br>
-IEEE Trans. Evolutionary Computation (TEVC)<br>
-{{< paper_meta
-  slug="a-multi-population-evolutionary-algorithm-using-new-cooperative-mechanism-for-solving-multi-objective-problems-with-multi-constraint"
-  doi="10.1109/TEVC.2023.3260306"
-  doi_url="https://ieeexplore.ieee.org/abstract/document/10078268"
-  source_icon="ai ai-ieee ai-lg"
-  show_pdf="true"
-  abstract_file="/content/docs/research/abstract/abstract_ZouSLHYZL23.txt"
   bib_type="article"
   show_abs="true"
   show_bib="true"
