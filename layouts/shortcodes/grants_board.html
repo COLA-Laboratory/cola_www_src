@@ -1,5 +1,35 @@
 {{- $grants := hugo.Data.grants -}}
 {{- $version := now.Unix -}}
+{{- $currentYear := now.Format "2006" | int -}}
+{{- $activeGrants := slice -}}
+{{- $autoFinishedGrants := slice -}}
+{{- range $grant := $grants.active -}}
+  {{- $endYear := 0 -}}
+  {{- range $grant.detail_rows -}}
+    {{- range .items -}}
+      {{- if eq .icon "calendar-o" -}}
+        {{- range (findRE `[0-9]{4}` .html) -}}
+          {{- $year := . | int -}}
+          {{- if gt $year $endYear -}}
+            {{- $endYear = $year -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if and (gt $endYear 0) (lt $endYear $currentYear) -}}
+    {{- $autoFinishedGrants = $autoFinishedGrants | append $grant -}}
+  {{- else -}}
+    {{- $activeGrants = $activeGrants | append $grant -}}
+  {{- end -}}
+{{- end -}}
+{{- $finishedGrants := slice -}}
+{{- range $autoFinishedGrants -}}
+  {{- $finishedGrants = $finishedGrants | append . -}}
+{{- end -}}
+{{- range $grants.finished -}}
+  {{- $finishedGrants = $finishedGrants | append . -}}
+{{- end -}}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/grants_board.css?v={{ $version }}">
 
@@ -10,10 +40,10 @@
 
   <div class="grants-section-head">
     <p class="grants-section-title">Active Grants</p>
-    <span class="grants-section-count">{{ len $grants.active }} grants</span>
+    <span class="grants-section-count">{{ len $activeGrants }} grants</span>
   </div>
 
-  {{- range $grants.active }}
+  {{- range $activeGrants }}
     {{ partial "grants/card.html" . }}
   {{- end }}
 
@@ -25,7 +55,7 @@
             <i class="fa fa-archive" aria-hidden="true"></i>
             <span>Finished Grants</span>
           </span>
-          <span class="grants-archive-count">{{ len $grants.finished }} grants</span>
+          <span class="grants-archive-count">{{ len $finishedGrants }} grants</span>
         </span>
         <span class="grants-archive-button">
           <span class="grants-archive-button__show">Show finished grants</span>
@@ -33,7 +63,7 @@
         </span>
       </summary>
       <div class="grants-archive-content">
-        {{- range $grants.finished }}
+        {{- range $finishedGrants }}
           {{ partial "grants/card.html" . }}
         {{- end }}
       </div>

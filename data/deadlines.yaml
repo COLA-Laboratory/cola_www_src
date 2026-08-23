@@ -47,6 +47,16 @@ conferences:
     deadlines:
       - label: Paper
         date: 2024-04-25
+  - id: ecai-2027
+    title: ECAI 2027
+    subjects: [AI]
+    website: https://ecai2027.org/
+    schedule:
+      - location: Athens, Greece
+        dates: Oct 2-7, 2027
+    deadlines:
+      - label: Full paper
+        date: 2027-04-14
   - id: aaai-2024
     title: AAAI 2024
     subjects: [AI]
@@ -115,6 +125,24 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: iclr-2027
+    title: ICLR 2027
+    subjects: [AI]
+    website: https://iclr.cc/Conferences/2027
+    schedule:
+      - location: San Francisco, California, USA
+        dates: Apr 26-30, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-09-18
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-09-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: ijcai-ecai-2026
     title: IJCAI-ECAI 2026
     subjects: [AI]
@@ -130,6 +158,24 @@ conferences:
         utc_offset: "-12:00"
       - label: Full paper
         date: 2026-01-19
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: aamas-2027
+    title: AAMAS 2027
+    subjects: [AI]
+    website: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+    schedule:
+      - location: Hanoi, Vietnam
+        dates: May 3-7, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-10-01
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-10-08
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
@@ -477,6 +523,11 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+      - label: Commitment
+        date: 2026-10-11
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: naacl-2022
     title: NAACL 2022
     subjects: [NLP]
@@ -484,6 +535,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-01-15
+  - id: naacl-2027
+    title: NAACL 2027
+    subjects: [NLP]
+    website: https://2027.naacl.org/
+    schedule:
+      - location: San Francisco, California, USA
+        dates: Jun 1-5, 2027
+    deadlines:
+      - label: ARR submit
+        date: 2026-10-12
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Commitment
+        date: 2026-12-23
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: coling-2022
     title: COLING 2022
     subjects: [NLP]
@@ -491,6 +560,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-05-15
+  - id: coling-2027
+    title: COLING 2027
+    subjects: [NLP]
+    website: https://2027.coling-iccl.org/
+    schedule:
+      - location: Macau, China
+        dates: May 9-14, 2027
+    deadlines:
+      - label: ARR submit
+        date: 2026-10-12
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Commitment
+        date: 2026-12-23
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: emnlp-2022
     title: EMNLP 2022
     subjects: [NLP]
@@ -531,6 +618,24 @@ conferences:
     deadlines:
       - label: Full paper
         date: 2026-01-29
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: issta-2027
+    title: ISSTA 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/issta-2027
+    schedule:
+      - location: Singapore
+        dates: Sep 7-10, 2027
+    deadlines:
+      - label: Abstract
+        date: 2027-01-08
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2027-01-11
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
@@ -665,6 +770,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2022-12-19
+  - id: icpc-2027
+    title: ICPC 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icpc-2027
+    schedule:
+      - location: Dublin, Ireland
+        dates: Apr 25-26, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-10-29
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-11-05
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: esem-2023
     title: ESEM 2023
     subjects: [SE]
@@ -711,6 +834,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-01-27
+  - id: icst-2027
+    title: ICST 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/home/icst-2027
+    schedule:
+      - location: San Sebastian, Spain
+        dates: May 17-21, 2027
+    deadlines:
+      - label: Full paper
+        date: 2026-11-02
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: qrs-2022
     title: QRS 2022
     subjects: [SE]
@@ -725,6 +861,24 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-01-16
+  - id: msr-2027
+    title: MSR 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/track/msr-2027/msr-2027-technical-papers
+    schedule:
+      - location: Dublin, Ireland
+        dates: Apr 26-27, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-10-20
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-10-23
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
 
   - id: gecco-2024
     title: GECCO 2024

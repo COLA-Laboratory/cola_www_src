@@ -155,6 +155,45 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
+- Adaptive Federated Class-Incremental Learning for Privacy-Preserving Edge Intelligence<br>
+Siwei Zheng, Jialin Tian, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**, Kapal Dev<br>
+IEEE Trans. Network Science and Engineering (TNSE)<br>
+{{< paper_meta
+  slug="adaptive-federated-class-incremental-learning-for-privacy-preserving-edge-intelligence"
+  bib_file="/content/bib/ZhengTHMLD26.bib"
+  show_abs="true"
+  show_pdf="true"
+  show_bib="true"
+  citation_count="0"
+  show_citation="true"
+>}}
+
+- Component Knowledge Learning for Generalizable Neural Architecture Design<br>
+Yuqi Feng, Jingrong Xie, Chunhui Ding, Andy Song, Zixuan Liang, **<ins>Ke Li</ins>**, Yanan Sun<br>
+Science China Information Sciences (SCIS)<br>
+{{< paper_meta
+  slug="component-knowledge-learning-for-generalizable-neural-architecture-design"
+  bib_file="/content/bib/FengXDSLLS26.bib"
+  show_abs="true"
+  show_pdf="true"
+  show_bib="true"
+  citation_count="0"
+  show_citation="true"
+>}}
+
+- CPR: Chained Perceptual Refinement for Coarse-to-Fine Medical Image Classification<br>
+Siyuan Lu, Hanruo Zhu, Ziquan Zhu, Gaojie Jin, Zeyu Fu, Lu Yin, **<ins>Ke Li</ins>**, Lu Liu, Tianjin Huang<br>
+Proc. of the 29th International Conference on Medical Image Computing and Computer Assisted Intervention [(MICCAI'26)](https://conferences.miccai.org/2026/en/default.asp)<br>
+{{< paper_meta
+  slug="cpr-chained-perceptual-refinement-for-coarse-to-fine-medical-image-classification"
+  bib_file="/content/bib/LuZZJFYLLH26.bib"
+  show_abs="true"
+  show_pdf="true"
+  show_bib="true"
+  citation_count="0"
+  show_citation="true"
+>}}
+
 - HICnet: A Two-stage Framework based on Region Partitioning for Predicting HIC Values from Car Point Clouds<br>
 Shuang Li{{< student_mark >}}, Jinran Wu{{< student_mark >}}, Aimin Shi, Fan Li, Guojie Wang, Jianwen Zhou, Yong Xia, Lihua Wang, Jie Li, **<ins>Ke Li</ins>**<br>
 Accident Analysis & Prevention (AAP)<br>

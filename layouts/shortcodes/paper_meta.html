@@ -34,6 +34,7 @@
 {{- $webIcon := or (.Get "web_icon") "fas fa-desktop" -}}
 {{- $bibIcon := or (.Get "bib_icon") "fas fa-quote-right" -}}
 {{- $citationIcon := or (.Get "citation_icon") "fas fa-chart-bar" -}}
+{{- $citationCount := .Get "citation_count" -}}
 {{- $abstractTextParam := .Get "abstract_text" -}}
 {{- $abstractFile := .Get "abstract_file" -}}
 {{- $bibFile := .Get "bib_file" -}}
@@ -95,7 +96,7 @@
   {{- end -}}
 {{- end -}}
 {{- $lookupDoiURL := or (.Get "metadata_doi_url") $displayDoiURL (cond (ne $lookupDoi "") (printf "https://doi.org/%s" $lookupDoi) "") -}}
-{{- $showCitation := and (ne (.Get "show_citation") "false") (ne $lookupDoi "") -}}
+{{- $showCitation := and (ne (.Get "show_citation") "false") (or (ne $lookupDoi "") (ne $citationCount "")) -}}
 
 {{- if $lookupDoi -}}
   {{- $openalexURL := printf "https://api.openalex.org/works/https://doi.org/%s" $lookupDoi -}}
@@ -432,6 +433,8 @@
 {{- $controls := slice -}}
 {{- if $abstractAvailable -}}
   {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <a href=\"#/\" onclick=\"toggle_visibility('%s');\"><code>Abs</code></a>" $absIcon $abstractID) -}}
+{{- else if $showAbs -}}
+  {{- $controls = $controls | append (printf "<i class='%s' style='font-size:16px'></i> <code>Abs</code>" $absIcon) -}}
 {{- end -}}
 {{- if $showPDF -}}
   {{- if $pdf -}}
@@ -488,6 +491,8 @@
 {{- if $showCitation -}}
   {{- if isset $openalex "cited_by_count" -}}
     {{- $controls = $controls | append (printf "<span class=\"pub-citation\" title=\"Citation count from OpenAlex\"><i class='%s' style='font-size:16px'></i> Cited by %v</span>" $citationIcon (index $openalex "cited_by_count")) -}}
+  {{- else if ne $citationCount "" -}}
+    {{- $controls = $controls | append (printf "<span class=\"pub-citation\"><i class='%s' style='font-size:16px'></i> Cited by %v</span>" $citationIcon $citationCount) -}}
   {{- else -}}
     {{- $controls = $controls | append "<span class=\"pub-citation pub-citation-error\">citation unavailable</span>" -}}
   {{- end -}}

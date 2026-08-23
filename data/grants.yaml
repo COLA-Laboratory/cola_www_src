@@ -3,6 +3,26 @@
 
 active:
   -
+    title: "PHASE: Physics-Informed AI for Sensors and Enzymes"
+    funder_html: "UKRI Turing AI Pioneer Interdisciplinary Fellowship"
+    logo_src: "/media/ukri_logo.jpeg"
+    logo_alt: "UKRI logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#TBD"
+          -
+            icon: "street-view"
+            html: "Co-I"
+          -
+            icon: "money"
+            html: "&pound;2,163,635"
+          -
+            icon: "calendar-o"
+            html: "2026&ndash;2029"
+  -
     title: "Deciphering the RNA Language in Nature"
     funder_html: "Royal Society Faraday Discovery Fellowship"
     logo_src: "/media/rs_logo.png"
@@ -123,26 +143,6 @@ active:
             icon: "calendar-o"
             html: "2025&ndash;2028"
   -
-    title: "Knowledge-Driven Evolutionary Multi-Objective Search for Automated Software Configuration Tuning"
-    funder_html: "Kan Tong Po Fellowship 2023"
-    logo_src: "/media/rs_logo.png"
-    logo_alt: "Royal Society logo"
-    detail_rows:
-      -
-        items:
-          -
-            icon: "qrcode"
-            html: "#KTP/R1/231017"
-          -
-            icon: "street-view"
-            html: "PI"
-          -
-            icon: "money"
-            html: "&pound;3,000"
-          -
-            icon: "calendar-o"
-            html: "2023&ndash;2024"
-  -
     title: "EASY-CROSS: Secure and Modular Border Control Platform Supporting Handheld Biometric Scanning Devices for Verifying Travellers Crossing EU Land and Sea Borders"
     funder_html: "MSCA Staff Exchange 2022"
     logo_src: "/media/ec_logo.png"
@@ -219,6 +219,26 @@ active:
             icon: "calendar-o"
             html: "2019&ndash;2023"
 finished:
+  -
+    title: "Knowledge-Driven Evolutionary Multi-Objective Search for Automated Software Configuration Tuning"
+    funder_html: "Kan Tong Po Fellowship 2023"
+    logo_src: "/media/rs_logo.png"
+    logo_alt: "Royal Society logo"
+    detail_rows:
+      -
+        items:
+          -
+            icon: "qrcode"
+            html: "#KTP/R1/231017"
+          -
+            icon: "street-view"
+            html: "PI"
+          -
+            icon: "money"
+            html: "&pound;3,000"
+          -
+            icon: "calendar-o"
+            html: "2023&ndash;2024"
   -
     title: "Evolutionary Multi-Objective Search for Automating CNN Architecture Design"
     funder_html: "Royal Society"
