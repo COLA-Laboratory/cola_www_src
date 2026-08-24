@@ -41,32 +41,6 @@ hr.dashed {
 
 </style>
 
-{{< expand "Lookup table of acronyms in this page." "+" >}}
-
-{{< columns >}}
-- **<ins>EMO</ins>**: evolutionary multi-objective optimization
-- **<ins>BO</ins>**: Bayesian optimization
-- **<ins>BLO</ins>**: bi-level optimization
-- **<ins>MFO</ins>**: multi-fidelity optimization
-- **<ins>CO</ins>**: constrained optimization
-- **<ins>DO</ins>**: dynamic optimization
-- **<ins>MCM</ins>**: Monte Carlo method
-
-<--->
-
-- **<ins>LA</ins>**: landscape analysis
-- **<ins>TL</ins>**: transfer learning
-- **<ins>MTL</ins>**: multi-task learning
-- **<ins>LL</ins>**: life-long learning
-- **<ins>GP</ins>**: Gaussian processes
-- **<ins>NLP</ins>**: natural language processing
-- **<ins>SE</ins>**: software engineering
-- **<ins>VNF</ins>**: virtual network functions
-
-{{< /columns >}}
-
-{{< /expand >}}
-
 ---
 
 ## <i class='fa fa-grav' style='font-size:21px'></i> Faculty
