@@ -1,0 +1,70 @@
+{{- $membersData := hugo.Data.members -}}
+{{- $version := now.Unix -}}
+
+<link rel="stylesheet" href="/academicons/academicons-1.9.0/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/members_board.css?v={{ $version }}">
+
+<div class="members-board">
+  {{- range $section := $membersData.current_sections }}
+    {{- if gt (len $section.members) 0 }}
+      {{- $sectionMembers := $section.members -}}
+      {{- with $section.sort_by }}
+        {{- $sectionMembers = sort $sectionMembers . "desc" -}}
+      {{- end }}
+      {{- $count := len $sectionMembers -}}
+      {{- $isFaculty := eq $section.key "faculty" -}}
+
+      <section class="members-section" aria-labelledby="members-{{ $section.key }}">
+        <div class="members-section__head">
+          <h2 class="members-section__title" id="members-{{ $section.key }}">
+            <i class="{{ $section.icon }}" aria-hidden="true"></i>
+            <span>{{ $section.title }}</span>
+          </h2>
+          <span class="members-section__count">{{ $count }} {{ cond (eq $count 1) "member" "members" }}</span>
+        </div>
+
+        <div class="members-grid{{ if eq $section.columns 1 }} members-grid--single{{ end }}">
+          {{- range $member := $sectionMembers }}
+            {{ partial "members/card.html" (dict "member" $member "is_faculty" $isFaculty) }}
+          {{- end }}
+        </div>
+      </section>
+    {{- end }}
+  {{- end }}
+
+  {{- with $membersData.alumni }}
+    <section class="members-section members-alumni" aria-labelledby="members-alumni">
+      <div class="members-section__head">
+        <h2 class="members-section__title" id="members-alumni">
+          <i class="fa fa-map-signs" aria-hidden="true"></i>
+          <span>Alumni</span>
+        </h2>
+      </div>
+
+      <div class="members-alumni__groups">
+        {{- range $group := . }}
+          {{- if gt (len $group.members) 0 }}
+            {{- $groupMembers := $group.members -}}
+            {{- with $group.sort_by }}
+              {{- $groupMembers = sort $groupMembers . "desc" -}}
+            {{- end }}
+            {{- $count := len $groupMembers -}}
+
+            <details class="members-alumni__group"{{ if $group.open }} open{{ end }}>
+              <summary>
+                <span>{{ $group.title }}</span>
+                <span class="members-alumni__count">{{ $count }}</span>
+              </summary>
+              <div class="members-alumni__list">
+                {{- range $member := $groupMembers }}
+                  {{ partial "members/alumni-entry.html" $member }}
+                {{- end }}
+              </div>
+            </details>
+          {{- end }}
+        {{- end }}
+      </div>
+    </section>
+  {{- end }}
+</div>

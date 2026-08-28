@@ -1,0 +1,43 @@
+{{- $member := . -}}
+
+<article class="alumni-entry">
+  <h3 class="alumni-entry__name">
+    {{- with $member.honorific }}{{ . }} {{ end -}}{{ $member.name }}
+  </h3>
+
+  <p class="alumni-entry__tenure">
+    <span>{{ $member.period }}</span>
+    {{- with $member.institution }}
+      <span class="alumni-entry__separator" aria-hidden="true">&middot;</span>
+      <span>{{ . }}</span>
+    {{- end }}
+  </p>
+
+  {{- with $member.role }}
+    <p class="alumni-entry__row">
+      <span class="alumni-entry__label">Role</span>
+      <span>{{ . }}</span>
+    </p>
+  {{- end }}
+
+  {{- with $member.career }}
+    <p class="alumni-entry__row">
+      <span class="alumni-entry__label">Career</span>
+      <span class="alumni-entry__career">
+        {{- range $index, $position := . -}}
+          {{- if gt $index 0 }}
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+          {{- end }}
+          <span>{{ $position }}</span>
+        {{- end }}
+      </span>
+    </p>
+  {{- end }}
+
+  {{- with $member.outputs }}
+    <p class="alumni-entry__row">
+      <span class="alumni-entry__label">Selected outputs</span>
+      <span>{{ . }}</span>
+    </p>
+  {{- end }}
+</article>

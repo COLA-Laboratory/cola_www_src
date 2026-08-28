@@ -1,0 +1,68 @@
+{{- $member := .member -}}
+{{- $isFaculty := .is_faculty -}}
+{{- $width := or $member.image_width 120 -}}
+{{- $height := or $member.image_height 130 -}}
+
+<article class="member-card{{ if $isFaculty }} member-card--faculty{{ end }}">
+  <div class="member-card__portrait">
+    <img
+      class="member-card__image"
+      src="{{ $member.image | safeURL }}"
+      width="{{ $width }}"
+      height="{{ $height }}"
+      alt=""
+      decoding="async"
+      {{- if not $isFaculty }} loading="lazy"{{ end }}
+    >
+  </div>
+
+  <div class="member-card__content">
+    <h3 class="member-card__name">{{ $member.name }}</h3>
+
+    {{- with $member.appointments }}
+      <div class="member-card__appointments">
+        {{- range . }}
+          <p class="member-card__appointment">
+            <span class="member-card__role">{{ .title }}</span>
+            {{- with .institution }}
+              <span class="member-card__affiliation">{{ . }}</span>
+            {{- end }}
+          </p>
+        {{- end }}
+      </div>
+    {{- else }}
+      {{- with $member.role }}
+        <p class="member-card__role">{{ . }}</p>
+      {{- end }}
+      {{- with $member.period }}
+        <p class="member-card__period">{{ . }}</p>
+      {{- end }}
+      {{- with $member.interests }}
+        <p class="member-card__interests">
+          <span class="member-card__label">Research interests</span>
+          <span>
+            {{- range $index, $interest := . -}}
+              {{- if gt $index 0 }}, {{ end -}}
+              {{- with $interest.full -}}
+                <abbr title="{{ . }}">{{ $interest.label }}</abbr>
+              {{- else -}}
+                {{ $interest.label }}
+              {{- end -}}
+            {{- end -}}
+          </span>
+        </p>
+      {{- end }}
+    {{- end }}
+
+  </div>
+
+  {{- with $member.links }}
+    <nav class="member-card__links" aria-label="{{ $member.name }} profiles">
+      {{- range . }}
+        <a href="{{ .url | safeURL }}" aria-label="{{ .label }}" title="{{ .label }}">
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+        </a>
+      {{- end }}
+    </nav>
+  {{- end }}
+</article>

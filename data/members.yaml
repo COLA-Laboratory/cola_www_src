@@ -1,0 +1,489 @@
+# Edit this file to add, remove, or update people shown on the Members page.
+# Current members are grouped by role and sorted by start_sort when configured.
+
+current_sections:
+  -
+    key: "faculty"
+    title: "Faculty"
+    icon: "fa fa-grav"
+    columns: 1
+    members:
+      -
+        name: "Professor Ke Li"
+        image: "/media/KL3.jpeg"
+        image_width: 140
+        image_height: 140
+        appointments:
+          -
+            title: "UKRI Future Leaders Fellow | Turing Fellow"
+          -
+            title: "Group Leader of AI for Biology"
+            institution: "Earlham Institute"
+          -
+            title: "Honorary Professor"
+            institution: "University of Exeter"
+        links:
+          -
+            label: "Curriculum vitae"
+            url: "/CV-KL.pdf"
+            icon: "ai ai-cv ai-lg"
+          -
+            label: "Google Scholar"
+            url: "https://scholar.google.co.uk/citations?user=lUFU8KsAAAAJ&hl=en"
+            icon: "ai ai-google-scholar ai-lg"
+          -
+            label: "DBLP"
+            url: "https://dblp.uni-trier.de/pers/hd/l/Li_0001:Ke"
+            icon: "ai ai-dblp ai-lg"
+          -
+            label: "ORCID"
+            url: "https://orcid.org/0000-0001-7200-4244"
+            icon: "ai ai-orcid ai-lg"
+          -
+            label: "ResearchGate"
+            url: "https://www.researchgate.net/profile/Ke_Li18"
+            icon: "ai ai-researchgate ai-lg"
+          -
+            label: "arXiv"
+            url: "https://arxiv.org/a/li_k_3.html"
+            icon: "ai ai-arxiv ai-lg"
+  -
+    key: "research-staff"
+    title: "Research Staff"
+    icon: "fa fa-themeisle"
+    columns: 2
+    sort_by: "start_sort"
+    members:
+      -
+        name: "Dr Shengbo Wang"
+        image: "/media/SW.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "Research Associate"
+        period: "2026–present"
+        start_sort: "2026-07"
+        interests:
+          -
+            label: "BO"
+            full: "Bayesian optimization"
+          -
+            label: "SO"
+      -
+        name: "Dr Jiangtao Shen"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "Research Fellow"
+        period: "2025–present"
+        start_sort: "2025-04"
+        interests:
+          -
+            label: "LLM-powered algorithm discovery"
+            full: "Large language model-powered algorithm discovery"
+      -
+        name: "Hongjie Wu"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "Research Associate"
+        period: "2026–present"
+        start_sort: "2026-04"
+        interests:
+          -
+            label: "Explainable AI agents"
+      -
+        name: "Mingyu Huang"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "Research Associate"
+        period: "2025–present"
+        start_sort: "2025-11"
+        interests:
+          -
+            label: "XAI"
+            full: "Explainable artificial intelligence"
+          -
+            label: "agentic systems"
+          -
+            label: "landscape analysis"
+      -
+        name: "Thomas Chambers"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "Research Associate"
+        period: "2026–present"
+        start_sort: "2026-01"
+        interests:
+          -
+            label: "cell segmentation"
+  -
+    key: "phd-students"
+    title: "PhD Students"
+    icon: "fa fa-linux"
+    columns: 2
+    sort_by: "start_sort"
+    members:
+      -
+        name: "Yuan Li"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2025–present"
+        start_sort: "2025-11"
+        interests:
+          -
+            label: "Foundation models"
+      -
+        name: "Tianmeng Hu"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2025–present"
+        start_sort: "2025"
+        interests:
+          -
+            label: "RL"
+            full: "Reinforcement learning"
+          -
+            label: "AI4Science"
+            full: "Artificial intelligence for science"
+      -
+        name: "Wanli Ma"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2025–present"
+        start_sort: "2025"
+        interests:
+          -
+            label: "AI4Science"
+            full: "Artificial intelligence for science"
+      -
+        name: "Shiting Wang"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2024–present"
+        start_sort: "2024"
+        interests:
+          -
+            label: "AI4Science"
+            full: "Artificial intelligence for science"
+      -
+        name: "Yingjie Zou"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2024–present"
+        start_sort: "2024"
+        interests:
+          -
+            label: "AutoML for energy"
+            full: "Automated machine learning for energy"
+      -
+        name: "Hong Sun"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2024–present"
+        start_sort: "2024"
+        interests:
+          -
+            label: "EMO"
+            full: "Evolutionary multi-objective optimization"
+          -
+            label: "preference learning"
+      -
+        name: "Jack Cole"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2024–present"
+        start_sort: "2024"
+        interests:
+          -
+            label: "AI4Science"
+            full: "Artificial intelligence for science"
+      -
+        name: "Shasha Zhou"
+        image: "/media/default.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2023–present"
+        start_sort: "2023"
+        interests:
+          -
+            label: "XAI"
+            full: "Explainable artificial intelligence"
+          -
+            label: "ML"
+            full: "Machine learning"
+          -
+            label: "EMO"
+            full: "Evolutionary multi-objective optimization"
+      -
+        name: "Peili Mao"
+        image: "/media/PM.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2021–present"
+        start_sort: "2021"
+        interests:
+          -
+            label: "SE"
+            full: "Software engineering"
+          -
+            label: "BO"
+            full: "Bayesian optimization"
+          -
+            label: "MCM"
+            full: "Monte Carlo methods"
+          -
+            label: "LA"
+            full: "Landscape analysis"
+      -
+        name: "Savas Yuec"
+        image: "/media/SY.jpeg"
+        image_width: 120
+        image_height: 120
+        role: "PhD Student"
+        period: "2018–present"
+        start_sort: "2018"
+        interests:
+          -
+            label: "EMO"
+            full: "Evolutionary multi-objective optimization"
+          -
+            label: "BO"
+            full: "Bayesian optimization"
+          -
+            label: "reliability"
+  -
+    key: "visitors"
+    title: "Visitors"
+    icon: "fa fa-road"
+    columns: 2
+    members: []
+
+alumni:
+  -
+    key: "phd-graduates"
+    title: "PhD Graduates"
+    open: false
+    sort_by: "end_sort"
+    members:
+      -
+        honorific: "Dr"
+        name: "Heng Yang"
+        period: "2021–2026"
+        end_sort: "2026-01"
+        institution: "University of Exeter"
+        role: "PhD student"
+        career:
+          - "Tonghuashun Ltd"
+        outputs: "1 NMI paper; 1 IEEE Transactions paper; papers at AAAI, ACL, EMNLP, and ECAL"
+      -
+        honorific: "Dr"
+        name: "Bo Lyu"
+        period: "2018–2022"
+        end_sort: "2022-07"
+        institution: "The University of Electronic Science and Technology of China"
+        role: "PhD student, co-supervised with Prof. Shiping Wen"
+        career:
+          - "Zhijiang Lab"
+        outputs: "2 IEEE Transactions papers; 1 other journal paper"
+      -
+        honorific: "Dr"
+        name: "Phoenix Williams"
+        period: "2020–2024"
+        end_sort: "2024-07"
+        institution: "University of Exeter"
+        role: "PhD student, co-supervised with Prof. Geyong Min"
+        career:
+          - "GSK.ai"
+          - "Lloyds Banking Group"
+        outputs: "1 IEEE Transactions paper; papers at CVPR, NeurIPS, EMO, SMC, GECCO, and CEC"
+      -
+        honorific: "Dr"
+        name: "Joseph Billingsley"
+        period: "2017–2022"
+        end_sort: "2022-05"
+        institution: "University of Exeter"
+        role: "PhD student, co-supervised with Prof. Geyong Min"
+        career:
+          - "G-Research, London"
+        outputs: "2 EMO papers; 1 GLOBECOM paper; 1 WCCI paper"
+      -
+        honorific: "Dr"
+        name: "Mengyuan Wu"
+        period: "2014–2018"
+        end_sort: "2018-07"
+        institution: "City University of Hong Kong"
+        role: "PhD student, co-supervised with Prof. Sam Kwong"
+        career:
+          - "Huawei Noah's Ark Laboratory"
+          - "SHEIN Lab"
+        outputs: "3 IEEE Transactions papers; 1 GECCO paper; 1 SMC paper"
+      -
+        honorific: "Dr"
+        name: "Renzhi Chen"
+        period: "2013–2018"
+        end_sort: "2018-06"
+        institution: "University of Birmingham"
+        role: "PhD student, co-supervised with Prof. Xin Yao"
+        career:
+          - "National Defense University of Technology"
+          - "PLA Academy of Military Science"
+          - "Qiyuan Lab"
+        outputs: "4 IEEE Transactions papers"
+  -
+    key: "postdoctoral-researchers"
+    title: "Postdoctoral Researchers"
+    sort_by: "end_sort"
+    members:
+      -
+        honorific: "Dr"
+        name: "Fan Li"
+        period: "2021–2025"
+        end_sort: "2025-03"
+        institution: "University of Exeter"
+        career:
+          - "Associate Professor, Hunan University"
+      -
+        honorific: "Dr"
+        name: "Jiaxin Chen"
+        period: "2022–2023"
+        end_sort: "2023-05"
+        institution: "University of Exeter"
+        career:
+          - "Assistant Professor, China University of Mining and Technology"
+      -
+        honorific: "Dr"
+        name: "Jiangjiao Xu"
+        period: "2020–2022"
+        end_sort: "2022-11"
+        institution: "University of Exeter"
+        career:
+          - "Zhongneng Integrated Smart Energy Technology Co., Ltd., Beijing, China"
+          - "Assistant Professor, Shanghai Electric University"
+      -
+        honorific: "Dr"
+        name: "Xinqi Li"
+        period: "2021–2022"
+        end_sort: "2022-08"
+        institution: "University of Exeter"
+        career:
+          - "GLAMOROUS.AI"
+  -
+    key: "visiting-students"
+    title: "Visiting Students"
+    sort_by: "end_sort"
+    members:
+      -
+        honorific: "Miss"
+        name: "Kailai Gao"
+        period: "2023–2024"
+        end_sort: "2024-05"
+        institution: "Northeastern University"
+        role: "Visiting PhD student"
+      -
+        honorific: "Mr"
+        name: "Shuang Li"
+        period: "2022–2023"
+        end_sort: "2023-07"
+        institution: "Harbin Institute of Technology"
+        role: "Visiting PhD student"
+      -
+        honorific: "Miss"
+        name: "Jiaxin Chen"
+        period: "2021–2023"
+        end_sort: "2023-05"
+        institution: "Northeastern University"
+        role: "Visiting PhD student"
+      -
+        honorific: "Miss"
+        name: "Huan Zhang"
+        period: "2021–2022"
+        end_sort: "2022-12"
+        institution: "Northeastern University"
+        role: "Visiting PhD student"
+      -
+        honorific: "Mr"
+        name: "Jiadi Liu"
+        period: "2019–2020"
+        end_sort: "2020-11"
+        institution: "Southwest University"
+        role: "Visiting PhD student"
+      -
+        honorific: "Mr"
+        name: "Ruxin Zhao"
+        period: "2019–2020"
+        end_sort: "2020-11"
+        institution: "Nanjing University of Science and Technology"
+        role: "Visiting PhD student"
+      -
+        honorific: "Miss"
+        name: "Yingying Guan"
+        period: "2019–2020"
+        end_sort: "2020-11"
+        institution: "Northeastern University"
+        role: "Visiting PhD student"
+      -
+        honorific: "Mr"
+        name: "Lingjie Li"
+        period: "2019"
+        end_sort: "2019-12"
+        institution: "Shenzhen University"
+        role: "Visiting student"
+      -
+        honorific: "Dr"
+        name: "Nan Mu"
+        period: "2018"
+        end_sort: "2018-12"
+        institution: "Wuhan University of Technology"
+        role: "Visiting PhD student"
+        career:
+          - "Sichuan Normal University"
+  -
+    key: "visiting-scholars"
+    title: "Visiting Scholars"
+    sort_by: "end_sort"
+    members:
+      -
+        honorific: "Dr"
+        name: "Senyue Zhang"
+        period: "2022–2023"
+        end_sort: "2023-11"
+        institution: "Shenyang Aerospace University"
+        role: "Visiting scholar"
+        career:
+          - "Shenyang Aerospace University"
+      -
+        honorific: "Dr"
+        name: "Lei Yang"
+        period: "2017–2018"
+        end_sort: "2018-12"
+        institution: "South China Agricultural University"
+        role: "Visiting scholar"
+        career:
+          - "South China Agricultural University"
+      -
+        honorific: "Dr"
+        name: "Geng Lin"
+        period: "2018"
+        end_sort: "2018-08"
+        institution: "Minjiang University"
+        role: "Visiting scholar"
+        career:
+          - "Minjiang University"
