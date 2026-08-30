@@ -68,15 +68,15 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 {{< columns >}}
 
 Ke Li<br>
-Living Systems Institute<br>
-Room T05.17, Sir Steve Smith Building<br>
-University of Exeter<br>
-Streatham Campus, Stocker Road<br>
-Exeter, EX4 4QD, UK<br>
-<i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _k.li_ AT _exeter.ac.uk_<br>
+Room 102b<br>
+Earlham Institute<br>
+Norwich Research Park<br>
+Colney Lane<br>
+Norwich, Norfolk, NR4 7UZ, UK<br>
+<i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _ke.li_ AT _earlham.ac.uk_<br>
 <i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0139-272-4557
 
 <--->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.085984943658!2d-3.537240523425818!3d50.736894071648344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da445b3914f09%3A0x8f88348b0cae14f!2sLiving%20Systems%20Institute!5e0!3m2!1sen!2suk!4v1774558004093!5m2!1sen!2suk" width="450" height="210" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps?q=Earlham%20Institute%2C%20Norwich%20Research%20Park%2C%20Colney%20Lane%2C%20Norwich%20NR4%207UZ%2C%20UK&output=embed" width="450" height="210" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 {{< /columns >}}
