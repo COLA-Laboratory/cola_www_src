@@ -16,10 +16,6 @@ bookToc: false
 
 Computational Optimization for Learning and Adaptive Systems (COLA) laboratory has contributed the fundamental development of computational/artificial intelligence (CI/AI) for black-box optimization and decision-making (especially with multiple conflicting objectives), as well as applications in life sciences (including bioscience and healthcare) and software engineering. In particular, we have been enthusiastic about broad AI+X (integrating AI with application domains denoted by "X" to enhance, innovate, or transform the domain).
 
-{{< hint success>}}
-The COLALab will relocate to the Earlham Institute at the Norwich Research Park since this September. We are going to build an ambitious generative digital biology programme, while our new contact details will be updated in due course. There will be multiple openings for postdocs and PhD students in the coming weeks or months. Please feel free to contact me about those opportunities.
-{{< /hint >}}
-
 {{< hint info >}}
 We are constantly looking for _talented_ and _passionate_ people to join our lab. Please refer to [vacancies](/docs/home/vacancies) for potential opportunities.
 {{< /hint >}}
@@ -31,6 +27,12 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 ## <i class='fa fa-twitch' style='font-size:19px'></i> Recent News (Year 2026)
 
 {{< tabs "uniqueid" >}}
+
+{{< tab "Sep" >}}
+
+- My group has officially relocated to the Earlham Institute. We are going to develop an ambitious AI for biology programme. There are multiple positions opening in the next couple of years. Please feel free to contact me about potential opportunities. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 1 
+
+{{< /tab >}}
 
 {{< tab "May" >}}
 
@@ -74,7 +76,7 @@ Norwich Research Park<br>
 Colney Lane<br>
 Norwich, Norfolk, NR4 7UZ, UK<br>
 <i class='fa fa-envelope' style='font-size:15px'></i> E-mail: _ke.li_ AT _earlham.ac.uk_<br>
-<i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0139-272-4557
+<i class='fa fa-phone-square' style='font-size:16px'></i> Tel: +(44) 0160-345-2923
 
 <--->
 <iframe src="https://www.google.com/maps?q=Earlham%20Institute%2C%20Norwich%20Research%20Park%2C%20Colney%20Lane%2C%20Norwich%20NR4%207UZ%2C%20UK&output=embed" width="450" height="210" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
