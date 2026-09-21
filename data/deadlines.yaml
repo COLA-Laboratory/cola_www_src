@@ -179,6 +179,24 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: icaps-2027
+    title: ICAPS 2027
+    subjects: [AI]
+    website: https://icaps27.icaps-conference.org/
+    schedule:
+      - location: Columbia, South Carolina, USA
+        dates: Jun 27-Jul 2, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-12-07
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-12-14
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
 
   - id: icml-2024
     title: ICML 2024
@@ -315,6 +333,24 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: aistats-2027
+    title: AISTATS 2027
+    subjects: [ML]
+    website: https://virtual.aistats.org/Conferences/2027/CallForPapers
+    schedule:
+      - location: Montreal, Canada
+        dates: May 3-6, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-09-29
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-10-06
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: neurips-2026
     title: NeurIPS 2026
     subjects: [ML]
@@ -430,6 +466,58 @@ conferences:
         time_label: 11:59PM AOE
         time_24: "23:59"
         utc_offset: "-12:00"
+  - id: kdd-2027
+    title: KDD 2027
+    subjects: [DM]
+    website: https://kdd2027.kdd.org/research-track-call-for-papers/
+    schedule:
+      - location: San Jose, California, USA
+        dates: Aug 1-5, 2027
+    deadlines:
+      - label: Round 1 abstract
+        date: 2026-07-19
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Round 1 paper
+        date: 2026-07-26
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Round 2 abstract
+        date: TBD
+      - label: Round 2 paper
+        date: TBD
+  - id: the-web-conf-2027
+    title: The Web Conference 2027
+    subjects: [DM]
+    website: https://www2027.thewebconf.org/research-track-papers/
+    schedule:
+      - location: Dublin, Ireland
+        dates: May 10-14, 2027
+    deadlines:
+      - label: Abstract
+        date: 2026-10-18
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+      - label: Full paper
+        date: 2026-10-25
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
+  - id: sigir-2027
+    title: SIGIR 2027
+    subjects: [DM]
+    website: https://sigir2027.org/
+    schedule:
+      - location: San Jose, California, USA
+        dates: Jul 18-24, 2027
+    deadlines:
+      - label: Abstract
+        date: 2027-01-14
+      - label: Full paper
+        date: 2027-01-21
   - id: icdm-2023
     title: ICDM 2023
     subjects: [DM]
@@ -763,6 +851,19 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-04-27
+  - id: icsme-2027
+    title: ICSME 2027
+    subjects: [SE]
+    website: https://conf.researchr.org/track/icsme-2027/icsme-2027-papers
+    schedule:
+      - location: Toronto, Canada
+        dates: Sep 7-11, 2027
+    deadlines:
+      - label: Full paper
+        date: 2027-03-05
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: icpc-2023
     title: ICPC 2023
     subjects: [SE]
@@ -901,6 +1002,19 @@ conferences:
         date: 2026-01-19
       - label: Full paper
         date: 2026-01-26
+  - id: emo-2027
+    title: EMO 2027
+    subjects: [EC]
+    website: https://www.emo2027.org/calls/
+    schedule:
+      - location: Exeter, UK
+        dates: Apr 5-8, 2027
+    deadlines:
+      - label: Full paper
+        date: 2026-09-28
+        time_label: 11:59PM AOE
+        time_24: "23:59"
+        utc_offset: "-12:00"
   - id: wcci-2024
     title: WCCI 2024
     subjects: [EC]
@@ -947,6 +1061,16 @@ conferences:
     deadlines:
       - label: Paper
         date: 2023-01-13
+  - id: cec-2027
+    title: IEEE CEC 2027
+    subjects: [EC]
+    website: https://ieeecec.org/2027/authors/call-for-papers
+    schedule:
+      - location: Edinburgh, Scotland, UK
+        dates: Jul 25-28, 2027
+    deadlines:
+      - label: Full paper
+        date: 2027-02-28
   - id: smc-2023
     title: SMC 2023
     subjects: [EC]
