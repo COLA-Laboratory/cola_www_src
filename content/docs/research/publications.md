@@ -160,7 +160,7 @@ Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
 Proc. of the 40th Annual Conference on Neural Information Processing Systems [(NeurIPS'26)](https://neurips.cc/)<br>
 {{< paper_meta
   slug="tango"
-  bib_file="/content/bib/HuLL26b.bib"
+  bib_file="/content/bib/HuLL26c.bib"
   show_pdf="true"
   show_abs="true"
   show_bib="true"
@@ -236,22 +236,6 @@ Proc. of the 29th International Conference on Medical Image Computing and Comput
   show_citation="true"
 >}}
 
-- HICnet: A Two-stage Framework based on Region Partitioning for Predicting HIC Values from Car Point Clouds<br>
-Shuang Li{{< student_mark >}}, Jinran Wu{{< student_mark >}}, Aimin Shi, Fan Li, Guojie Wang, Jianwen Zhou, Yong Xia, Lihua Wang, Jie Li, **<ins>Ke Li</ins>**<br>
-Accident Analysis & Prevention (AAP)<br>
-{{< paper_meta
-  slug="HIC-prediction"
-  bib_file="/content/bib/LiWSLWZXWLL26.bib"
-  abstract_file="/content/docs/research/abstract/abstract_LiWSLWZXWLL26.txt"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  doi="10.1016/j.aap.2026.108634"
-  doi_url="https://www.sciencedirect.com/science/article/pii/S0001457526002435?dgcid=coauthor"
-  source_icon="ai ai-elsevier ai-lg"
-  bib_key="LiWSLWZXWLL26"
->}}
-
 - Few-shot Constrained Bayesian Optimization for Dynamic Constrained Problem<br>
 Peili Mao{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
 Proc. of the 19th International Conference on Parallel Problem Solving From Nature [(PPSN'26)](https://ppsn2026.disi.unitn.it/)<br>
@@ -262,88 +246,6 @@ Proc. of the 19th International Conference on Parallel Problem Solving From Natu
   show_abs="true"
   show_bib="true"
   metric="&asymp; 31%"
-  show_citation="false"
->}}
-
-- Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
-Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track<br>
-<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.2%)<br>
-{{< paper_meta
-  slug="genomic-model-research-must-move-beyond-anecdotal-evaluation-of-interpretability-methods"
-  bib_file="/content/bib/ZhouHL26.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  metric="&asymp; 26.6%"
-  show_citation="false"
->}}
-
-- CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning<br>
-Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
-{{< paper_meta
-  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
-  bib_file="/content/bib/HuLL26a.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  show_code="true"
-  metric="&asymp; 26.6%"
-  show_citation="false"
->}}
-
-- Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
-Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
-{{< paper_meta
-  slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
-  bib_file="/content/bib/HuLL26b.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  show_code="true"
-  metric="&asymp; 26.6%"
-  show_citation="false"
->}}
-
-- Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks<br>
-Yuan Li{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
-{{< paper_meta
-  slug="understanding-transfer-learning-of-rna-foundation-models-on-downstreamUnderstanding Transfer Learning of RNA Foundation Models on Downstream Tasks-tasks"
-  bib_file="/content/bib/LiL26b.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  metric="&asymp; 26.6%"
-  show_citation="false"
->}}
-
-- GradientStabilizer: Fix the Norm, Not the Gradient<br>
-Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, Xiang Li, Li Shen, Jiaxing Shang, Tianlong Chen, **<ins>Ke Li</ins>**, Lu Liu, Qingsong Wen, Shiwei Liu<br>
-Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026)<br>
-{{< paper_meta
-  slug="gradientstabilizer-fix-the-norm-not-the-gradient"
-  bib_file="/content/bib/HuangWHZJLSSCLLWL26.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  metric="&asymp; 26.6%"
-  show_citation="false"
->}}
-
-- RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion<br>
-Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
-Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/)<br>
-{{< paper_meta
-  slug="3d-rna-inverse-design-with-reinforcement-learning-guided-diffusion-models"
-  bib_file="/content/bib/HuCLL26.bib"
-  show_pdf="true"
-  show_abs="true"
-  show_bib="true"
-  code="https://github.com/COLA-Laboratory/RIDER"
-  metric="&asymp; 28%"
   show_citation="false"
 >}}
 
@@ -362,6 +264,22 @@ IEEE Trans. Computational Social Systems (TCSS)<br>
 ## 2026
 
 ### <i class='fas fa-book-open' style='font-size:18px'></i> Journal
+
+- HICnet: A two-stage framework based on region partitioning for predicting HIC values from car point clouds<br>
+Shuang Li{{< student_mark >}}, Jinran Wu{{< student_mark >}}, Aimin Shi, Fan Li, Guojie Wang, Jianwen Zhou, Yong Xia, Lihua Wang, Jie Li, **<ins>Ke Li</ins>**<br>
+Accident Analysis & Prevention (AAP), 235: 108634, 2026<br>
+{{< paper_meta
+  slug="HIC-prediction"
+  bib_file="/content/bib/LiWSLWZXWLL26.bib"
+  abstract_file="/content/docs/research/abstract/abstract_LiWSLWZXWLL26.txt"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  doi="10.1016/j.aap.2026.108634"
+  doi_url="https://www.sciencedirect.com/science/article/pii/S0001457526002435?dgcid=coauthor"
+  source_icon="ai ai-elsevier ai-lg"
+  bib_key="LiWSLWZXWLL26"
+>}}
 
 - A Survey of Multi-objective Evolutionary Algorithm Based on Decomposition: Past and Future<br>
 **<ins>Ke Li</ins>**<br>
@@ -449,6 +367,89 @@ International Journal of Electrical Power and Energy Systems (IJEPES), 177: 1117
 >}}
 
 ### <i class='fas fa-cubes' style='font-size:18px'></i> Conference
+
+- Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods<br>
+Shasha Zhou{{< student_mark >}}, Mingyu Huang{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Position Paper Track, Seoul, South Korea, July 6--11, 2026<br>
+<i class='fas fa-bolt' style='font-size:16px'></i> Spotlight paper (Top 2.2%)<br>
+{{< paper_meta
+  slug="genomic-model-research-must-move-beyond-anecdotal-evaluation-of-interpretability-methods"
+  bib_file="/content/bib/ZhouHL26.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning<br>
+Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Seoul, South Korea, July 6--11, 2026<br>
+{{< paper_meta
+  slug="collective-rna-design-with-cooperative-multi-agent-reinforcement-learning"
+  bib_file="/content/bib/HuLL26a.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning<br>
+Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Seoul, South Korea, July 6--11, 2026<br>
+{{< paper_meta
+  slug="human-in-the-loop-policy-optimization-for-preference-based-multi-objective-reinforcement-learning"
+  bib_file="/content/bib/HuLL26b.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- Understanding Transfer Learning of RNA Foundation Models on Downstream Tasks<br>
+Yuan Li{{< student_mark >}}, Heng Yang, Renzhi Chen, **<ins>Ke Li</ins>**<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Seoul, South Korea, July 6--11, 2026<br>
+{{< paper_meta
+  slug="understanding-transfer-learning-of-rna-foundation-models-on-downstream-tasks"
+  bib_file="/content/bib/LiL26b.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- GradientStabilizer: Fix the Norm, Not the Gradient<br>
+Tianjin Huang, Zhangyang Wang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, Xiang Li, Li Shen, Jiaxing Shang, Tianlong Chen, **<ins>Ke Li</ins>**, Lu Liu, Qingsong Wen, Shiwei Liu<br>
+Proc. of the 43rd International Conference on Machine Learning [(ICML'26)](https://icml.cc/Conferences/2026), Seoul, South Korea, July 6--11, 2026<br>
+{{< paper_meta
+  slug="gradientstabilizer-fix-the-norm-not-the-gradient"
+  bib_file="/content/bib/HuangWHZJLSSCLLWL26.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  metric="&asymp; 26.6%"
+  show_citation="false"
+>}}
+
+- RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion<br>
+Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 14th International Conference on Learning Representations [(ICLR'26)](https://iclr.cc/Conferences/2026), pp. 79321--79346, Rio de Janeiro, Brazil, April 23--27, 2026<br>
+{{< paper_meta
+  slug="3d-rna-inverse-design-with-reinforcement-learning-guided-diffusion-models"
+  bib_file="/content/bib/HuCLL26.bib"
+  pdf="https://proceedings.iclr.cc/paper_files/paper/2026/file/80098914b3b3bad79b80377751a85430-Paper-Conference.pdf"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  code="https://github.com/COLA-Laboratory/RIDER"
+  metric="&asymp; 28%"
+  show_citation="false"
+>}}
 
 - Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning<br>
 Tianmeng Hu{{< student_mark >}}, Yongzheng Cui, Rui Tang, Biao Luo, **<ins>Ke Li</ins>**<br>
