@@ -30,6 +30,8 @@ I plan to redesign our lab's scientific story. However, it has been much slower 
 
 {{< tab "Sep" >}}
 
+- We have three papers accepted in [NeurIPS 2026](https://neurips.cc/). Congratulations to Shiting, Wanli and Tianmeng! In particular, Shiting's work and Wanli's explored two new directions for our lab. Shiting is on model merging, which I believe there is a huge potential for evolutionary (multi-objective) optimization, while Wanli developed one of the very few models for RNA 3D ensemble generation. Tianmeng has consolidated his position in RNA 3D inverse design (you will be a stellar in this area). His new model 2D-3D co-design will be in the top of the leaderboard for quite a while, I believe.  <i class='fa fa-calendar' style='font-size:19px'></i> Sep 24 
+
 - My group has officially relocated to the Earlham Institute. We are going to develop an ambitious AI for biology programme. There are multiple positions opening in the next couple of years. Please feel free to contact me about potential opportunities. <i class='fa fa-calendar' style='font-size:19px'></i> Sep 1 
 
 {{< /tab >}}

@@ -155,6 +155,48 @@ Joseph Billingsley{{< student_mark >}}, **<ins>Ke Li</ins>**, Geyong Min, Nektar
 
 ### <i class='fas fa-broadcast-tower' style='font-size:18px'></i> In press
 
+- TANGO: RNA Topology and Geometry Co-Design<br>
+Tianmeng Hu{{< student_mark >}}, Biao Luo, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual Conference on Neural Information Processing Systems [(NeurIPS'26)](https://neurips.cc/)<br>
+{{< paper_meta
+  slug="tango"
+  bib_file="/content/bib/HuLL26b.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 25.7%"
+  show_citation="false"
+>}}
+
+- REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge<br>
+Wanli Ma{{< student_mark >}}, Tianmeng Hu{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual Conference on Neural Information Processing Systems [(NeurIPS'26)](https://neurips.cc/)<br>
+{{< paper_meta
+  slug="reflex"
+  bib_file="/content/bib/MaHL26.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 25.7%"
+  show_citation="false"
+>}}
+
+- Separating Common and Unique Directions for Model Merging<br>
+Shiting Wang{{< student_mark >}}, Yingjie Zou{{< student_mark >}}, **<ins>Ke Li</ins>**<br>
+Proc. of the 40th Annual Conference on Neural Information Processing Systems [(NeurIPS'26)](https://neurips.cc/)<br>
+{{< paper_meta
+  slug="separating-common-and-unique-directions-for-model-merging"
+  bib_file="/content/bib/WangZL26.bib"
+  show_pdf="true"
+  show_abs="true"
+  show_bib="true"
+  show_code="true"
+  metric="&asymp; 25.7%"
+  show_citation="false"
+>}}
+
 - Adaptive Federated Class-Incremental Learning for Privacy-Preserving Edge Intelligence<br>
 Siwei Zheng, Jialin Tian, Jia Hu, Geyong Min, **<ins>Ke Li</ins>**, Kapal Dev<br>
 IEEE Trans. Network Science and Engineering (TNSE)<br>
